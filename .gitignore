@@ -1,0 +1,11 @@
+# Internal docs — not for the public repo / deployed site
+README.md
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
