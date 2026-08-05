@@ -6,6 +6,7 @@ service: locksmith
 tags: ["door-lock", "lockout", "keypad", "emergency"]
 cover: "./keypad-lock-9v-battery.jpg"
 coverAlt: "A Korean keypad digital door lock next to a 9V battery — the two things you need for the emergency unlock trick"
+coverCaption: "The 9V emergency unlock kit"
 draft: false
 ---
 
