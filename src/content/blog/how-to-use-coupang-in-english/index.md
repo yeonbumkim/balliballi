@@ -78,7 +78,7 @@ Coupang itself is free to use; the numbers worth knowing, as of 2026:
 | Standard delivery (non-member)           | Free over a minimum, or a small fee |
 | Rocket Wow membership                    | About ₩7,890/month              |
 | Rocket Delivery speed                    | Order by midnight → next morning |
-| Having us order it for you               | Item price + coordination fee, quoted upfront in the chat |
+| Having us buy &amp; deliver it for you — any store, online or offline | Item price + coordination fee, quoted upfront in the chat |
 
 Rocket Wow is Korea's version of Prime — free Rocket shipping, 30-day easy
 returns, overnight groceries — and if you live here long-term with an ARC, a
@@ -92,13 +92,16 @@ in Korean, the address format, the customer service line, the seller chat
 when a return goes sideways. If any of that is the wall you're stuck at,
 that's where we come in.
 
-**We order it for you.** Tell us what you need on WhatsApp — a link, a photo,
-or just "a fan that isn't loud, under ₩50,000" — and we handle the Korean
-side: finding it, ordering it to your address, and chasing the delivery or
-return if anything goes wrong. You get one fixed quote (the item's price plus
-our coordination fee) before anything is ordered, and the first answer is
-free. It's the same [anything-else concierge service](/etc) we run for phone
-calls and appliance repairs — Coupang runs on it daily.
+**We buy it for you — wherever it's sold.** Tell us what you need on WhatsApp
+— a link, a photo, or just "a fan that isn't loud, under ₩50,000" — and we
+find the best way to get it: Coupang or Naver if it's cheapest online, Daiso
+or the electronics market if it's an offline thing, the pharmacy if it needs
+explaining in Korean. We buy it, get it delivered to your door, and chase the
+delivery or return if anything goes wrong. You get one fixed quote (the
+item's price plus our coordination fee) before anything is bought, and the
+first answer is free. It's the same
+[anything-else concierge service](/etc) we run for phone calls and appliance
+repairs — personal shopping is just another day on it.
 
 It also pairs well with a new apartment: while sorting your first Coupang
 order we can set up the rest too — internet, utilities, and the door code
@@ -107,10 +110,10 @@ you were never given (see our
 
 ## Get it sorted
 
-> **Need something delivered but can't get past the sign-up?** Message us on
-> [WhatsApp](https://wa.me/821075191282) with what you need — we'll find it,
-> quote you one fixed price, and have it at your door, usually by tomorrow
-> morning. First answer is free.
+> **Need something but can't get past the sign-up?** Message us on
+> [WhatsApp](https://wa.me/821075191282) with what you need — we'll find it
+> (online or in a store), quote you one fixed price, and get it to your door.
+> First answer is free.
 
 And once your ARC arrives, make the account anyway — set the app to English,
 match your name to your ARC exactly, and Coupang becomes the single most
