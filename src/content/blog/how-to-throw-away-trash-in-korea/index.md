@@ -4,8 +4,9 @@ description: "Korea's four waste streams explained: district bags, mandatory foo
 pubDate: 2026-08-06
 service: moving
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
-# cover: "./jongnyangje-bags-and-bins.jpg"          # TODO: 직접 촬영 (종량제 봉투 or 분리수거장)
-# coverAlt: "Official Korean district trash bags next to apartment recycling bins"
+cover: "./four-sorting-bins-recycling-station.webp"
+coverAlt: "Four sorting bins in a row under a counter, labeled for general waste, paper, plastic, and cans"
+coverCaption: "Four streams, four bins"
 draft: false
 ---
 
@@ -55,6 +56,18 @@ furniture quietly left by the curb — is an actual offense, with fines
 commonly starting around ₩100,000 and climbing for repeat cases (as of
 2026). Residential areas have CCTV pointed at known dumping spots, and
 building offices do check bags. This isn't a "nobody really cares" rule.
+
+District offices spell it out on posters like this one from Dongdaemun-gu:
+₩50,000 for tossing cigarette butts or tissues, ₩100,000 for mixing
+recyclables into the general bag or putting trash out on the wrong
+day/place, ₩200,000 for dumping without the official bag (especially food
+waste), and up to ₩500,000 for hauling stuff out by car or cart. It also
+shows the typical put-out window — collection-day evenings, 6–9 p.m., in
+front of your own building.
+
+![A Korean district notice poster listing trash disposal rules and the fine schedule](./district-trash-notice-fine-schedule.webp)
+
+*A district fine schedule · ⓒ @BalliBalliSeoul*
 
 ## Bulky waste: the official process
 
