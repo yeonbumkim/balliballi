@@ -1,6 +1,7 @@
 # Internal docs — not for the public repo / deployed site
 README.md
 BLOG_GUIDE.md
+idea.md
 
 # Build output & deps
 node_modules/
