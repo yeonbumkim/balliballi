@@ -4,8 +4,9 @@ description: "Regular home cleaning in Korea is an app-tap away — the platform
 pubDate: 2026-08-05
 service: cleaning
 tags: ["cleaning", "housekeeping", "home", "family"]
-# cover: "./tidy-korean-apartment-light.jpg"        # TODO: 직접 촬영 (정돈된 거실 등 중립 이미지)
-# coverAlt: "A bright, freshly cleaned Korean apartment living room"
+cover: "./organized-closet-pants-hangers-after.webp"
+coverAlt: "A Korean closet after a housekeeping visit — pants and jeans neatly folded over sliding hangers"
+coverCaption: "The closet, after one visit"
 draft: false
 ---
 
@@ -74,6 +75,9 @@ kitchen grease first, skip the bedroom" gets you a better three
 hours than leaving it open-ended. Recurring arrangements develop
 their own rhythm by week three; the notes matter most at the
 start.
+
+![A Korean wardrobe after a housekeeping visit — duvets, blankets and winter jackets folded and stacked in order](./organized-wardrobe-bedding-after.webp)
+*Wardrobe reset — after · ⓒ @BalliBalliSeoul*
 
 ## The practical details nobody writes down
 
