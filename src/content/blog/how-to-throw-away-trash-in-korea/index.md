@@ -26,6 +26,17 @@ ask. Two rules: bags are district-specific (a Mapo bag doesn't work in
 Gangnam), and a regular black plastic bag on the curb is exactly what gets
 you fined.
 
+![A 50-liter official general waste bag (jongnyangje bongtu) from Seoul's Jung-gu district, laid flat](./jongnyangje-general-waste-bag-50l.webp)
+
+*This is the bag to buy · ⓒ @BalliBalliSeoul*
+
+This is what you're asking for at the counter — a 50L general-use bag from
+Jung-gu. Handily, the bag itself is the rulebook: the crossed-out icons
+show what can't go in (food waste, batteries, bottles and cans...), and
+the fine print gives the district's put-out hours — here, 7 p.m. to
+midnight, in front of your own building. Common sizes run 10L to 75L; 20L
+is the sweet spot for most one-person apartments.
+
 **2. Food waste (음식물쓰레기) — separating it is not optional.** Korea
 recycles food waste into animal feed and biogas, so it never goes in the
 general bag. Depending on your building, it goes in a dedicated
