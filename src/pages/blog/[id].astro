@@ -1,0 +1,76 @@
+---
+import { getCollection, render } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import { WHATSAPP_URL, SERVICE_PAGES } from '../../consts';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const { title, description, pubDate, updatedDate, service, cover, coverAlt } = post.data;
+
+const servicePage = SERVICE_PAGES[service];
+const ogImage = cover ? new URL(cover.src, Astro.site).href : undefined;
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+---
+
+<Base title={title} description={description} ogImage={ogImage}>
+  <article>
+    <header class="post-head">
+      <div class="meta">
+        <span class="chip">{service}</span>
+        <time datetime={pubDate.toISOString()}>{fmt(pubDate)}</time>
+        {updatedDate && <span class="updated">Updated {fmt(updatedDate)}</span>}
+      </div>
+      <h1>{title}</h1>
+    </header>
+
+    {cover && <Image src={cover} alt={coverAlt ?? ''} width={1440} densities={[1, 2]} class="cover" />}
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    <aside class="cta">
+      <p>
+        <strong>Stuck on the Korean part?</strong> Send us a photo on
+        <a href={WHATSAPP_URL} target="_blank" rel="noopener">WhatsApp</a> — we'll tell you
+        what it is and what it should cost, in English. First answer is free. Or see our
+        <a href={servicePage.href}>{servicePage.label}</a>.
+      </p>
+    </aside>
+  </article>
+</Base>
+
+<style>
+  .post-head{margin-bottom:28px}
+  .meta{display:flex;align-items:center;gap:12px;font-size:13px;color:var(--muted);margin-bottom:12px}
+  .chip{background:var(--primary-light);color:var(--primary-dark);border:1px solid #bbf7d0;font-weight:700;padding:3px 10px;border-radius:999px;text-transform:capitalize}
+  .updated{font-style:italic}
+  h1{font-size:clamp(26px,4.6vw,40px);line-height:1.15;font-weight:800;letter-spacing:-.02em}
+  .cover{margin-bottom:32px}
+  .cta{background:var(--primary-light);border:2px solid #bbf7d0;border-radius:var(--radius);padding:22px;margin-top:44px;font-size:15px}
+  .cta a{color:var(--primary-dark);font-weight:700;text-decoration:underline;text-underline-offset:3px}
+</style>
+
+<style is:global>
+  .prose h2{font-size:24px;font-weight:800;margin:36px 0 12px;letter-spacing:-.01em}
+  .prose h3{font-size:19px;font-weight:700;margin:26px 0 10px}
+  .prose p{margin:14px 0}
+  .prose ul,.prose ol{margin:14px 0;padding-left:26px}
+  .prose li{margin:6px 0}
+  .prose blockquote{background:var(--primary-light);border-left:4px solid var(--primary);border-radius:0 12px 12px 0;padding:14px 18px;margin:22px 0;font-size:15px}
+  .prose blockquote p{margin:6px 0}
+  .prose table{width:100%;border-collapse:collapse;font-size:14px;margin:22px 0}
+  .prose th{text-align:left;padding:10px 12px;background:var(--bg-soft);font-weight:700;border-bottom:2px solid var(--border)}
+  .prose td{padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:top}
+  .prose code{background:var(--bg-soft);border:1px solid var(--border);border-radius:6px;padding:1px 6px;font-size:.9em}
+  .prose img{margin:22px 0}
+  .prose a{color:var(--primary-dark);font-weight:600;text-decoration:underline;text-underline-offset:3px}
+  .prose hr{border:none;border-top:1px solid var(--border);margin:32px 0}
+</style>

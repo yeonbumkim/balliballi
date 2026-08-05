@@ -1,5 +1,11 @@
 # Internal docs — not for the public repo / deployed site
 README.md
+BLOG_GUIDE.md
+
+# Build output & deps
+node_modules/
+dist/
+.astro/
 
 # OS junk
 .DS_Store
