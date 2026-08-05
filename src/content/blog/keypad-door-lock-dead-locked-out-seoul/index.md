@@ -55,6 +55,15 @@ during daytime hours.
 
 ## When to stop and call someone
 
+> **🚨 Real emergency? Call 119 first — not us, not a locksmith.**
+> If a **small child (or someone vulnerable) is locked inside alone**, or
+> you left the **stove or gas running**, dial **119** right now. Korea's
+> fire service opens doors **free of charge** in genuine emergencies and
+> gets there faster than any locksmith ever will — and interpretation is
+> available on the line. This is *only* for true emergencies; for
+> everything else, 119 is the wrong number and the options below are
+> yours.
+
 Stop poking at the lock and get a professional involved if any of these is
 true:
 
