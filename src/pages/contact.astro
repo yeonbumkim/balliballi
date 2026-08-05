@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+import { WHATSAPP_URL } from '../consts';
+---
+
+<Base
+  title="Contact Us — Balli Balli Seoul"
+  description="Tell us what's wrong in English on WhatsApp. Send a photo, your address and what happened — we handle the Korean side. First answer is free."
+  noindex={true}
+>
+  <div class="contact">
+    <p class="eyebrow">One message is all it takes</p>
+    <h1>Tell us what's wrong — in English</h1>
+    <p class="lede">
+      Whatever's broken, blocked or confusing in Korea, describe it in
+      English and we handle the Korean side. To get you the fastest, most
+      accurate answer, have these three things ready:
+    </p>
+
+    <ol class="prep">
+      <li>
+        <span class="num">1</span>
+        <div>
+          <strong>A photo of the problem</strong>
+          <p>One photo tells us more than ten messages — the lock, the drain, the error screen, whatever it is.</p>
+        </div>
+      </li>
+      <li>
+        <span class="num">2</span>
+        <div>
+          <strong>Your address — including building &amp; unit (동/호수)</strong>
+          <p>Korean addresses need the building and unit number to dispatch anyone accurately.</p>
+        </div>
+      </li>
+      <li>
+        <span class="num">3</span>
+        <div>
+          <strong>What happened, briefly</strong>
+          <p>When it started, what you already tried — two sentences is plenty.</p>
+        </div>
+      </li>
+    </ol>
+
+    <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="cta-btn">💬 Message us on WhatsApp</a>
+
+    <p class="assure">
+      <strong>The first answer is always free.</strong> We read every message
+      and reply as soon as we can — if we're mid-job, we'll still confirm
+      we've seen you and follow up right after.
+    </p>
+  </div>
+</Base>
+
+<style>
+  .contact{max-width:560px;margin:0 auto;text-align:center}
+  .eyebrow{font-size:13px;font-weight:700;color:var(--primary);text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px}
+  h1{font-size:clamp(26px,4.6vw,38px);line-height:1.15;font-weight:800;letter-spacing:-.02em}
+  .lede{color:var(--muted);margin:16px 0 30px}
+  .prep{list-style:none;text-align:left;display:flex;flex-direction:column;gap:18px;margin:0 0 34px}
+  .prep li{display:flex;gap:14px;align-items:flex-start;border:2px solid var(--border);border-radius:var(--radius);padding:16px 18px}
+  .prep .num{flex-shrink:0;width:30px;height:30px;border-radius:50%;background:var(--primary);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px}
+  .prep strong{display:block;margin-bottom:2px}
+  .prep p{font-size:14px;color:var(--muted)}
+  .cta-btn{display:inline-flex;align-items:center;gap:10px;background:var(--whatsapp);color:#fff;font-weight:800;font-size:17px;padding:16px 34px;border-radius:999px;transition:transform .15s,box-shadow .15s}
+  .cta-btn:hover{transform:translateY(-1px);box-shadow:0 8px 24px rgba(0,0,0,.12)}
+  .assure{margin-top:22px;font-size:14px;color:var(--muted)}
+  .assure strong{color:var(--fg)}
+</style>
