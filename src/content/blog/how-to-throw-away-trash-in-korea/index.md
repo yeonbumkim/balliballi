@@ -94,6 +94,18 @@ You can't just haul a bookshelf to the curb. The legal route:
 4. **Put it at the designated spot** (usually beside the building's
    recycling area) on the scheduled date.
 
+The app most Seoul districts plug into is **Ppaegi (빼기)** — you pick the
+item, pay in-app, and get a reservation number instead of a paper sticker.
+Here's what a filed report looks like:
+
+![Reservation detail screen in the Ppaegi app showing a bulky-waste pickup request awaiting collection](./ppaegi-app-bulky-waste-report.webp)
+
+*A filed report in the Ppaegi app · ⓒ @BalliBalliSeoul*
+
+Note the fine print on that screen: pickup happens **on average within 7
+days** of your chosen put-out date — the app is Korean-only, which is
+exactly the kind of thing we file for you.
+
 No internet or the site defeated you? The **local community service center
 (주민센터, *jumin-senteo*)** handles the same declaration in person — bring
 the item's details and pay there.
