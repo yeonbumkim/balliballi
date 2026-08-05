@@ -32,19 +32,17 @@ const fmt = (d: Date) =>
               <Image
                 src={post.data.cover}
                 alt={post.data.coverAlt ?? ''}
-                width={360}
+                width={720}
                 densities={[1, 2]}
                 class="thumb"
               />
             )}
-            <div class="card-body">
-              <div class="meta">
-                <span class="chip">{post.data.service}</span>
-                <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
-              </div>
-              <h2>{post.data.title}</h2>
-              <p>{post.data.description}</p>
+            <div class="meta">
+              <span class="chip">{post.data.service}</span>
+              <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
             </div>
+            <h2>{post.data.title}</h2>
+            <p>{post.data.description}</p>
           </a>
         </li>
       ))
@@ -57,14 +55,9 @@ const fmt = (d: Date) =>
   .lede{color:var(--muted);margin:14px 0 40px;max-width:560px}
   .empty{color:var(--muted);border:1px dashed var(--border);border-radius:var(--radius);padding:28px;text-align:center}
   .post-list{list-style:none;display:flex;flex-direction:column;gap:28px}
-  .post-card{display:flex;align-items:flex-start;gap:20px;border:2px solid var(--border);border-radius:var(--radius);padding:24px;transition:border-color .15s}
+  .post-card{display:block;border:2px solid var(--border);border-radius:var(--radius);padding:24px;transition:border-color .15s}
   .post-card:hover{border-color:var(--primary)}
-  .thumb{width:180px;height:auto;flex-shrink:0;border-radius:10px}
-  .card-body{flex:1;min-width:0}
-  @media (max-width:640px){
-    .post-card{gap:14px;padding:18px}
-    .thumb{width:104px}
-  }
+  .thumb{margin-bottom:16px}
   .meta{display:flex;align-items:center;gap:12px;font-size:13px;color:var(--muted);margin-bottom:8px}
   .chip{background:var(--primary-light);color:var(--primary-dark);border:1px solid #bbf7d0;font-weight:700;padding:3px 10px;border-radius:999px;text-transform:capitalize}
   .post-card h2{font-size:20px;font-weight:800;margin-bottom:6px}
