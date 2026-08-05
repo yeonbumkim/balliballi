@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import { WHATSAPP_URL } from '../consts';
+---
+
+<Base
+  title="Page not found — Balli Balli Seoul"
+  description="This page doesn't exist. Head back home, browse the blog, or message us on WhatsApp."
+  noindex={true}
+>
+  <div class="nf">
+    <p class="code">404</p>
+    <h1>This page got locked out.</h1>
+    <p class="lede">
+      The page you're looking for doesn't exist — it may have moved, or the
+      link was mistyped. (Unlike your front door, we can't 9V-battery this
+      one back open.)
+    </p>
+    <div class="actions">
+      <a href="/" class="btn primary">← Back to home</a>
+      <a href="/blog/" class="btn">Browse the blog</a>
+      <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="btn wa">💬 Ask us on WhatsApp</a>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .nf{text-align:center;padding:40px 0 20px}
+  .code{font-size:72px;font-weight:800;color:var(--primary);line-height:1;letter-spacing:-.03em}
+  h1{font-size:clamp(24px,4vw,34px);font-weight:800;margin:14px 0 10px;letter-spacing:-.01em}
+  .lede{color:var(--muted);max-width:460px;margin:0 auto 30px}
+  .actions{display:flex;flex-wrap:wrap;gap:12px;justify-content:center}
+  .btn{display:inline-flex;align-items:center;gap:8px;padding:12px 22px;border-radius:999px;font-weight:700;font-size:15px;border:2px solid var(--border)}
+  .btn:hover{border-color:var(--primary)}
+  .btn.primary{background:var(--primary);color:#fff;border-color:var(--primary)}
+  .btn.wa{background:var(--whatsapp);color:#fff;border-color:var(--whatsapp)}
+</style>

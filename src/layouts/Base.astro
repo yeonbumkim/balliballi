@@ -6,8 +6,9 @@ interface Props {
   description: string;
   ogImage?: string; // absolute URL
   canonical?: string;
+  noindex?: boolean;
 }
-const { title, description, ogImage, canonical } = Astro.props;
+const { title, description, ogImage, canonical, noindex = false } = Astro.props;
 const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const ogImageURL = ogImage ?? new URL('/og-image.png', Astro.site).href;
 ---
@@ -32,7 +33,7 @@ const ogImageURL = ogImage ?? new URL('/og-image.png', Astro.site).href;
 
     <title>{title}</title>
     <meta name="description" content={description} />
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-snippet:-1, max-image-preview:large'} />
     <link rel="canonical" href={canonicalURL} />
 
     <meta property="og:type" content="article" />
