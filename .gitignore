@@ -7,6 +7,9 @@ node_modules/
 dist/
 .astro/
 
+# Local scratch work (draft restructuring, raw photos, etc.)
+.tmp/
+
 # OS junk
 .DS_Store
 Thumbs.db
