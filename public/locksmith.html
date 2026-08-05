@@ -588,5 +588,17 @@
       });
     })();
   </script>
+  <!-- WhatsApp click conversion tracking (GA4: whatsapp_click) -->
+  <script>
+    document.addEventListener('click', function (e) {
+      var a = e.target && e.target.closest ? e.target.closest('a[href*="wa.me"]') : null;
+      if (a && window.gtag) {
+        gtag('event', 'whatsapp_click', { page_path: location.pathname });
+        /* TODO(Google Ads): 전환 액션 생성 후 아래 주석을 해제하고 ID/라벨 교체
+        gtag('event', 'conversion', { send_to: 'AW-XXXXXXXXX/CONVERSION_LABEL' }); */
+      }
+    }, true);
+  </script>
 </body>
+
 </html>
