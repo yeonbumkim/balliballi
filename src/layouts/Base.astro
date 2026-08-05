@@ -62,6 +62,9 @@ const ogImageURL = ogImage ?? new URL('/og-image.png', Astro.site).href;
       <slot />
     </main>
 
+    <!-- Floating mobile CTA bar (matches static pages) -->
+    <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="float-cta">💬 WhatsApp — in English</a>
+
     <footer>
       <div class="container">
         <p class="foot-brand"><span class="logo-mark small">⚡</span> Balli Balli Seoul — help for expats &amp; travelers, arranged in English.</p>
@@ -106,8 +109,13 @@ const ogImageURL = ogImage ?? new URL('/og-image.png', Astro.site).href;
   .nav-links a{padding:8px 14px;font-size:14px;font-weight:500;color:#374151;border-radius:999px}
   .nav-links a:hover{background:var(--bg-soft);color:var(--fg)}
   .nav-cta{background:var(--whatsapp);color:#fff !important;font-weight:700}
+  /* CTA-first mobile: hide nav links except the WhatsApp CTA, same as static pages */
+  @media(max-width:820px){.nav-links a:not(.nav-cta){display:none}}
 
   main{padding:48px 20px 72px}
+
+  .float-cta{position:fixed;bottom:0;left:0;right:0;z-index:40;display:none;align-items:center;justify-content:center;gap:8px;padding:16px;font-weight:800;font-size:15px;background:var(--whatsapp);color:#fff}
+  @media(max-width:820px){.float-cta{display:flex}body{padding-bottom:56px}}
 
   footer{background:var(--bg-soft);border-top:1px solid var(--border);padding:44px 0;font-size:14px;color:var(--muted)}
   .foot-brand{color:var(--fg);font-weight:600;margin-bottom:14px}
