@@ -26,10 +26,12 @@ locals recommend are **Cleaning Lab (청소연구소)** and **Miso
 (미소)** — matching vetted cleaners to homes for one-off or
 recurring visits:
 
-- **Pricing** runs by home size and hours: a standard 3–4 hour
-  visit for an ordinary apartment lands around **₩50,000–80,000**
-  (as of 2026), with recurring weekly bookings priced slightly
-  better and small-space options for one-rooms.
+- **Pricing** runs by home size and hours: a standard **4-hour
+  visit for an ordinary apartment runs around ₩60,000** (as of
+  2026), with recurring weekly bookings priced slightly better and
+  small-space options for one-rooms. A **move-in/move-out deep
+  clean is a different product at roughly double that rate** —
+  different crews, different equipment, one-off timing.
 - **Same-cleaner continuity** is a supported feature — you can
   keep the person you like for recurring slots, and platforms
   notify you of substitutions.
@@ -83,10 +85,8 @@ start.
 
 - **Keys and codes**: Korean door locks make recurring access
   easy — most households issue a **temporary or secondary door
-  code** for cleaning day rather than cutting keys (and rotate it
-  when arrangements change — our
-  [keypad lock guide](/blog/keypad-door-lock-dead-locked-out-seoul/)
-  covers the how).
+  code** for cleaning day rather than cutting keys, and rotate it
+  whenever the arrangement changes.
 - **Being home or not**: both are normal. First visits usually
   overlap; established routines run while you're at work.
 - **The 아줌마/이모님 culture**: older Korean housekeepers are the
