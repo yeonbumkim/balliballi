@@ -4,8 +4,8 @@ description: "The 9V battery trick that opens most dead Korean keypads, when it 
 pubDate: 2026-08-05
 service: locksmith
 tags: ["door-lock", "lockout", "keypad", "emergency"]
-# cover: "./9v-battery-contacts-keypad.jpg"          # TODO: 실제 촬영 후 지정 (BLOG_GUIDE §5.1)
-# coverAlt: "A 9V battery held against the external contacts of a Korean keypad door lock"
+cover: "./keypad-lock-9v-battery.jpg"
+coverAlt: "A Korean keypad digital door lock next to a 9V battery — the two things you need for the emergency unlock trick"
 draft: false
 ---
 
