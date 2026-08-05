@@ -79,6 +79,7 @@ their own rhythm by week three; the notes matter most at the
 start.
 
 ![A Korean wardrobe after a housekeeping visit — duvets, blankets and winter jackets folded and stacked in order](./organized-wardrobe-bedding-after.webp)
+
 *Wardrobe reset — after · ⓒ @BalliBalliSeoul*
 
 ## The practical details nobody writes down
