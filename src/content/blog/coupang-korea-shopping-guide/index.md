@@ -4,8 +4,10 @@ description: "Setting up Korea's biggest shopping app in English, the sign-up wa
 pubDate: 2026-08-06
 service: etc
 tags: ["coupang", "shopping", "delivery", "settling-in"]
-# cover: "./coupang-rocket-box-doorstep.jpg"        # TODO: 실제 촬영 후 지정 (문 앞 로켓배송 박스)
-# coverAlt: "A Coupang Rocket Delivery box sitting at an apartment door in Seoul"
+cover: "./coupang-english-setting-two-screens.webp"
+coverAlt: "Two Coupang app screens side by side — the Korean menu and the language setting with English BETA selected"
+coverCaption: "The two screens that unlock English"
+# TODO: 로켓배송 박스 사진 확보 시 커버 교체 (coupang-rocket-box-doorstep)
 draft: false
 ---
 
