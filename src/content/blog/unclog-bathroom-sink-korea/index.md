@@ -4,8 +4,9 @@ description: "Why drain cleaner didn't work, the ₩2,000 Daiso tools that usual
 pubDate: 2026-08-06
 service: plumbing
 tags: ["drains", "sink", "bathroom", "diy"]
-# cover: "./bathroom-sink-drain-clog.jpg"           # TODO: 직접 촬영 (세면대 배수구/뚫어뻥 작업)
-# coverAlt: "A pop-up drain stopper pulled out of a Korean bathroom sink, covered in hair"
+cover: "./drain-cleaner-bottle-korean-bathroom-sink.webp"
+coverAlt: "A 2-liter bottle of Korean chemical drain cleaner lying in a white bathroom sink"
+coverCaption: "The ₩8,000 bottle that usually loses"
 draft: false
 ---
 
@@ -49,6 +50,10 @@ screw-off trap. In Korean apartments these are cheap, standard parts that
 are *designed* to be removed and rinsed: unscrew, tip the gunk into a bag,
 screw back on. If yours hides behind a porcelain pedestal, reach around —
 the back is hollow.
+
+![The flexible accordion pipe under a Korean bathroom sink, running from the basin to the floor drain](./sink-trap-flexible-pipe-floor-drain.webp)
+
+*The pipe in question — basin to floor drain · ⓒ @BalliBalliSeoul*
 
 ### Last gentle option
 

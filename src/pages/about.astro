@@ -1,6 +1,16 @@
 ---
+import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import { WHATSAPP_URL } from '../consts';
+import imgSink from '../assets/work/new-pedestal-sink-installed.webp';
+import imgFaucet from '../assets/work/new-kitchen-faucet-installed.webp';
+import imgBathroom from '../assets/work/renovated-bathroom-bathtub.webp';
+
+const workPhotos = [
+  { src: imgSink, alt: 'A new pedestal sink installed in a Korean bathroom', label: 'Bathroom sink, replaced' },
+  { src: imgFaucet, alt: 'A newly installed kitchen faucet with a flexible hose on a black sink', label: 'Kitchen faucet, replaced' },
+  { src: imgBathroom, alt: 'A fully renovated bathroom with a bathtub, new tiling and shower set', label: 'Bathroom, renovated' },
+];
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -88,6 +98,22 @@ const jsonLd = {
       reasonable level, agreed before work starts, with no surprises after.
     </p>
 
+    <h2>The work</h2>
+
+    <p>
+      Words are cheap, so here's some of the actual work — repairs and
+      renovations from the houses and homes we look after:
+    </p>
+
+    <div class="work-grid">
+      {workPhotos.map((p) => (
+        <figure>
+          <Image src={p.src} alt={p.alt} width={520} densities={[1, 2]} />
+          <figcaption>{p.label} · ⓒ @BalliBalliSeoul</figcaption>
+        </figure>
+      ))}
+    </div>
+
     <h2>The company</h2>
 
     <p>
@@ -126,6 +152,11 @@ const jsonLd = {
   .about ol,.about ul{margin:14px 0;padding-left:26px}
   .about li{margin:8px 0}
   .about a{color:var(--primary-dark);font-weight:600;text-decoration:underline;text-underline-offset:3px}
+  .work-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:20px 0}
+  .work-grid figure{margin:0}
+  .work-grid img{width:100%;height:220px;object-fit:cover;border-radius:12px}
+  .work-grid figcaption{margin-top:8px;font-size:12.5px;color:var(--muted);text-align:center}
+  @media(max-width:640px){.work-grid{grid-template-columns:1fr}.work-grid img{height:auto}}
   .cta{background:var(--primary-light);border:2px solid #bbf7d0;border-radius:var(--radius);padding:22px;margin-top:44px;font-size:15px}
   .cta-btn{display:inline-flex;align-items:center;gap:8px;margin-top:14px;background:var(--whatsapp);color:#fff !important;font-weight:800;padding:13px 24px;border-radius:999px;text-decoration:none !important}
   .cta-btn:hover{filter:brightness(.95)}

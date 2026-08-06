@@ -82,6 +82,17 @@ start.
 
 *Wardrobe reset — after · ⓒ @BalliBalliSeoul*
 
+What a visit actually looks like, kitchen edition — the sink gets
+scrubbed down to the strainer baskets, not just rinsed:
+
+![Gloved hands scrubbing a Korean kitchen sink, strainer baskets out](./kitchen-sink-scrub-rubber-gloves.webp)
+
+*Kitchen sink, mid-scrub · ⓒ @BalliBalliSeoul*
+
+![The same stainless kitchen sink after cleaning, empty and polished](./kitchen-sink-clean-after.webp)
+
+*And after · ⓒ @BalliBalliSeoul*
+
 ## The practical details nobody writes down
 
 - **Keys and codes**: Korean door locks make recurring access
