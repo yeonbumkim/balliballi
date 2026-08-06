@@ -115,8 +115,14 @@ everyone: Coupang's identity verification wants a Korean phone **in your
 own name** (a tourist or prepaid line often won't pass) → a postpaid
 phone plan wants a Korean bank account to auto-deduct from → and the
 bank wanted the ARC they'd just spent weeks getting. Each step is
-reasonable; the chain is brutal. With that comfort delivered — be honest
-with yourself about which situation you're in:
+reasonable; the chain is brutal.
+
+![Reddit post from r/Living_in_Korea describing how complicated Coupang sign-up and payment verification is even with an ARC](./reddit-thread-online-shopping-korea.webp)
+
+*The whole saga, in one post · via r/Living_in_Korea*
+
+With that comfort delivered — be honest with yourself about which
+situation you're in:
 
 - **No Korean phone number** → you can't create an account at all.
 - **No ARC yet** → basic ordering may work, but the good stuff stays locked:
