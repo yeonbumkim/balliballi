@@ -6,7 +6,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://balliballi.com/plumbing</loc>
+    <loc>https://balliballi.com/cleaning</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -16,18 +16,53 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://balliballi.com/cleaning</loc>
-    <priority>0.9</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://balliballi.com/moving</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/plumbing</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/etc</loc>
     <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/housekeeping-service-korea/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/how-to-throw-away-trash-in-korea/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/kbo-games-cancelled-heat-wave/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/keypad-door-lock-dead-locked-out-seoul/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/unclog-bathroom-sink-korea/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>

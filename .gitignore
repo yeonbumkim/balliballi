@@ -12,6 +12,9 @@ dist/
 # Local scratch work (draft restructuring, raw photos, etc.)
 .tmp/
 
+# Local-only tooling (sitemap generator 등 — 산출물만 커밋)
+scripts/
+
 # OS junk
 .DS_Store
 Thumbs.db
