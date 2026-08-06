@@ -15,6 +15,13 @@ right: Coupang is Korea's Amazon, and most items arrive the next morning. The
 catch is that signing up was built for Koreans, and foreigners hit walls that
 locals never see. Here's how far you can get, and what to do when you can't.
 
+> **✨ The tourist shortcut, up front:** no Korean number, no account, no
+> problem. **If your hotel concierge or Airbnb host is okay with receiving a
+> package, we can get anything on Coupang delivered straight to where you're
+> staying** — usually by the next morning. Message us on
+> [WhatsApp](https://wa.me/821075191282) with the item and your address, and
+> skip this entire article. (Details at the bottom for everyone else.)
+
 ## Try this first
 
 ### Switch the app to English (yes, while it's still in Korean)
