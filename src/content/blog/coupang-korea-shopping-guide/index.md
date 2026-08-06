@@ -105,7 +105,13 @@ kind of lottery you don't want when you need something by tomorrow.
 
 ## Where it breaks for foreigners
 
-Be honest with yourself about which situation you're in:
+If the sign-up section above felt discouraging, know that it's not you —
+this is a whole genre of expat frustration. A quick scroll through
+[a recent r/Living_in_Korea thread on online shopping](https://www.reddit.com/r/Living_in_Korea/comments/1mb8az2/online_shopping_in_korea/)
+shows long-term residents comparing notes on the same walls: sign-ups that
+demand Korean verification, payments that fail for foreign cards, and
+workarounds traded like folklore. With that comfort delivered — be honest
+with yourself about which situation you're in:
 
 - **No Korean phone number** → you can't create an account at all.
 - **No ARC yet** → basic ordering may work, but the good stuff stays locked:
