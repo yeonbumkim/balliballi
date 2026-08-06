@@ -1,0 +1,132 @@
+---
+import Base from '../layouts/Base.astro';
+import { WHATSAPP_URL } from '../consts';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: 'About Balli Balli Seoul',
+  url: 'https://balliballi.com/about/',
+  mainEntity: {
+    '@type': 'Organization',
+    name: 'Balli Balli Seoul',
+    legalName: '지인어스 (Jiinus)',
+    url: 'https://balliballi.com/',
+    logo: 'https://balliballi.com/favicon.svg',
+    founder: { '@type': 'Person', name: 'Yeonbum Kim' },
+    areaServed: { '@type': 'City', name: 'Seoul' },
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'customer service',
+      url: 'https://wa.me/821075191282',
+      availableLanguage: ['English', 'Korean'],
+    },
+    taxID: '108-24-44405',
+  },
+};
+---
+
+<Base
+  title="About Us — Balli Balli Seoul"
+  description="We run coliving houses in Seoul, and helping our foreign residents with life's breakdowns became a service. Here's who we are and how it works."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <article class="about">
+    <h1>We started this because our housemates kept knocking</h1>
+
+    <p>
+      Balli Balli Seoul grew out of something very concrete: <strong>we run
+      coliving houses in Seoul</strong>, shared homes where foreign residents
+      and students live. When you live under the same roof as people new to
+      Korea, you become the default fixer — the person they find when the
+      drain clogs, the checkout page won't take a foreign card, or something
+      needs cleaning, explaining, or arguing about in Korean. We did that,
+      over and over, for years.
+    </p>
+
+    <p>
+      Building those houses taught us the other half of the job. We renovated
+      them ourselves — working side by side with the wallpaper crews, flooring
+      installers, carpenters, and electricians who actually keep Seoul's homes
+      running. That's where our network of tradespeople comes from: not a
+      directory, but people we've stood next to on real jobs. And it's where
+      we learned exactly how much of this world runs on Korean phone calls,
+      Korean apps, and knowing who to ask — which is precisely the part
+      that's closed to you if you don't speak the language. Balli Balli Seoul
+      is that access, opened up.
+    </p>
+
+    <h2>How it works</h2>
+
+    <ol>
+      <li>
+        <strong>Message us on <a href={WHATSAPP_URL} target="_blank" rel="noopener">WhatsApp</a></strong>
+        — in English, with photos of the problem. First answer is free.
+      </li>
+      <li>
+        <strong>We diagnose and quote.</strong> We tell you what it is, what
+        it should cost, and what the options are. The price is confirmed with
+        you in the chat before any work starts.
+      </li>
+      <li>
+        <strong>We handle it.</strong> Depending on the job, we either take
+        care of it ourselves or send a specialist from our network who's good
+        at exactly that work — while we stay in the middle, in English, from
+        start to finish.
+      </li>
+    </ol>
+
+    <p>
+      And it's not only repairs. If what you need is an errand — something
+      bought, filed, picked up, or sorted out in Korean — we
+      <a href="/etc">do that too</a>.
+    </p>
+
+    <p>
+      Our fee is built into the price we confirm with you — kept at a
+      reasonable level, agreed before work starts, with no surprises after.
+    </p>
+
+    <h2>The company</h2>
+
+    <p>
+      Balli Balli Seoul is operated by <strong>Jiinus (지인어스)</strong>, a
+      registered Korean business.
+    </p>
+
+    <ul>
+      <li>Representative: Yeonbum Kim</li>
+      <li>Business registration: 108-24-44405</li>
+      <li>E-commerce registration: 2025-서울중구-143</li>
+      <li>Service area: Seoul</li>
+    </ul>
+
+    <p>
+      As a booking and coordination service, we connect you with independent
+      local providers and confirm all terms with you before work begins — the
+      full notice is in the footer of every page.
+    </p>
+
+    <aside class="cta">
+      <p>
+        <strong>Something broken, confusing, or stuck in Korean?</strong>
+        Send us a photo — we'll tell you what it is and what it should cost,
+        in English. First answer is free.
+      </p>
+      <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="cta-btn">💬 WhatsApp Us — in English</a>
+    </aside>
+  </article>
+</Base>
+
+<style>
+  h1{font-size:clamp(26px,4.6vw,40px);line-height:1.15;font-weight:800;letter-spacing:-.02em;margin-bottom:24px}
+  h2{font-size:24px;font-weight:800;margin:36px 0 12px;letter-spacing:-.01em}
+  .about p{margin:14px 0}
+  .about ol,.about ul{margin:14px 0;padding-left:26px}
+  .about li{margin:8px 0}
+  .about a{color:var(--primary-dark);font-weight:600;text-decoration:underline;text-underline-offset:3px}
+  .cta{background:var(--primary-light);border:2px solid #bbf7d0;border-radius:var(--radius);padding:22px;margin-top:44px;font-size:15px}
+  .cta-btn{display:inline-flex;align-items:center;gap:8px;margin-top:14px;background:var(--whatsapp);color:#fff !important;font-weight:800;padding:13px 24px;border-radius:999px;text-decoration:none !important}
+  .cta-btn:hover{filter:brightness(.95)}
+</style>

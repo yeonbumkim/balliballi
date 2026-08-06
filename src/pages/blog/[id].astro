@@ -17,15 +17,40 @@ const servicePage = SERVICE_PAGES[service];
 const ogImage = cover ? new URL(cover.src, Astro.site).href : undefined;
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description,
+  datePublished: pubDate.toISOString(),
+  ...(updatedDate && { dateModified: updatedDate.toISOString() }),
+  ...(ogImage && { image: ogImage }),
+  mainEntityOfPage: canonicalURL,
+  author: {
+    '@type': 'Organization',
+    name: 'Balli Balli Seoul',
+    url: 'https://balliballi.com/about/',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Balli Balli Seoul',
+    legalName: '지인어스 (Jiinus)',
+    logo: { '@type': 'ImageObject', url: 'https://balliballi.com/favicon.svg' },
+  },
+};
 ---
 
 <Base title={title} description={description} ogImage={ogImage}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <article>
     <header class="post-head">
       <div class="meta">
         <span class="chip">{service}</span>
         <time datetime={pubDate.toISOString()}>{fmt(pubDate)}</time>
         {updatedDate && <span class="updated">Updated {fmt(updatedDate)}</span>}
+        <span class="byline">By the <a href="/about/">Balli Balli Seoul team</a></span>
       </div>
       <h1>{title}</h1>
     </header>
@@ -60,6 +85,8 @@ const fmt = (d: Date) =>
   .meta{display:flex;align-items:center;gap:12px;font-size:13px;color:var(--muted);margin-bottom:12px}
   .chip{background:var(--primary-light);color:var(--primary-dark);border:1px solid #bbf7d0;font-weight:700;padding:3px 10px;border-radius:999px;text-transform:capitalize}
   .updated{font-style:italic}
+  .byline a{text-decoration:underline;text-underline-offset:3px}
+  .byline a:hover{color:var(--fg)}
   h1{font-size:clamp(26px,4.6vw,40px);line-height:1.15;font-weight:800;letter-spacing:-.02em}
   .cover{max-width:520px;width:100%;height:auto;margin:0 auto;display:block}
   .cover-figure{margin:0 0 32px}
