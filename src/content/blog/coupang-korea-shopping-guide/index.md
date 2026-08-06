@@ -138,8 +138,11 @@ that's where we come in.
 **We buy it for you — wherever it's sold.** Tell us what you need on WhatsApp
 — a link, a photo, or just "a fan that isn't loud, under ₩50,000" — and we
 find the best way to get it: Coupang or Naver if it's cheapest online, Daiso
-or the electronics market if it's an offline thing, the pharmacy if it needs
-explaining in Korean. We buy it, get it delivered to your door, and chase the
+or the electronics market if it's an offline thing, the neighborhood hardware
+store if it's an obscure part. (One line we don't cross: medicine — we'll
+gladly point you to an English-friendly pharmacy or clinic, but purchasing
+medication is between you and the pharmacist, by law.) We buy it, get it
+delivered to your door, and chase the
 delivery or return if anything goes wrong. You get one fixed quote (the
 item's price plus our coordination fee) before anything is bought, and the
 first answer is free. It's the same
