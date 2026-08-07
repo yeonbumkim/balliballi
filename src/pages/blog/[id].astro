@@ -16,7 +16,7 @@ const { title, description, pubDate, updatedDate, service, cover, coverAlt, cove
 const servicePage = SERVICE_PAGES[service];
 const ogImage = cover ? new URL(cover.src, Astro.site).href : undefined;
 const fmt = (d: Date) =>
-  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'Asia/Seoul' });
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 const jsonLd = {
