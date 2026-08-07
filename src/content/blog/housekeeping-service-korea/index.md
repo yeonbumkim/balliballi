@@ -1,7 +1,7 @@
 ---
 title: "Finding a Weekly Housekeeper in Korea (Yes, They Exist)"
 description: "Regular home cleaning in Korea is an app-tap away — the platforms locals use, real prices per visit, and how expats find English-speaking cleaners."
-pubDate: 2026-08-05
+pubDate: 2026-08-05T15:00:00+09:00
 service: cleaning
 tags: ["cleaning", "housekeeping", "home", "family"]
 cover: "./organized-closet-pants-hangers-after.webp"

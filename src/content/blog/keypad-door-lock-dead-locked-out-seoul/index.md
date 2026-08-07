@@ -1,7 +1,7 @@
 ---
 title: "Keypad Door Lock Dead in Korea? How to Get Back In"
 description: "The 9V battery trick that opens most dead Korean keypads, when it won't work, and what a locksmith actually costs in Seoul — in plain English."
-pubDate: 2026-08-05
+pubDate: 2026-08-05T10:00:00+09:00
 service: locksmith
 tags: ["door-lock", "lockout", "keypad", "emergency"]
 cover: "./keypad-lock-9v-battery.jpg"

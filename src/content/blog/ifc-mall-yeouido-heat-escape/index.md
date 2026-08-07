@@ -1,7 +1,7 @@
 ---
 title: "Beat Seoul's Heat Indoors: A Day at IFC Mall Yeouido"
 description: "When it's 38°C outside, one Yeouido building gives you a cinema, food courts, cafes, shopping and a river park exit — all without stepping into the sun."
-pubDate: 2026-08-07
+pubDate: 2026-08-07T18:38:00+09:00
 service: etc
 tags: ["ifc-mall", "yeouido", "heat-wave", "things-to-do", "arcade"]
 cover: "./retro-arcade-floor-overhead-ifc-mall.webp"

@@ -1,7 +1,7 @@
 ---
 title: "How to Use Coupang in English (and What Blocks Foreigners)"
 description: "Setting up Korea's biggest shopping app in English, the sign-up walls that stop foreigners — and how to get things ordered without an account at all."
-pubDate: 2026-08-06
+pubDate: 2026-08-06T22:04:00+09:00
 service: etc
 tags: ["coupang", "shopping", "delivery", "settling-in"]
 cover: "./coupang-in-english-typographic-cover.webp"

@@ -1,7 +1,7 @@
 ---
 title: "Which Clinic in Korea? A Symptom-to-Department Guide"
 description: "Korean clinics are split by specialty with no gatekeeper GP. Which department treats what, what a visit costs, and how to find English support."
-pubDate: 2026-08-07
+pubDate: 2026-08-07T22:49:00+09:00
 service: etc
 tags: ["healthcare", "clinic", "hospital", "nhis", "korean-phrases"]
 cover: "./korean-clinic-directory-cover.webp"

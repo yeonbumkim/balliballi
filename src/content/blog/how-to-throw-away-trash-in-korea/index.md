@@ -1,7 +1,7 @@
 ---
 title: "How to Throw Away Trash in Korea Without Getting Fined"
 description: "Korea's four waste streams explained: district bags, mandatory food-waste separation, recycling rules, and the official process for bulky items."
-pubDate: 2026-08-06
+pubDate: 2026-08-06T08:30:00+09:00
 service: moving
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
 cover: "./four-sorting-bins-recycling-station.webp"

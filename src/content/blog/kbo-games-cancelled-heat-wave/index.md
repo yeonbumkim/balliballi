@@ -1,7 +1,7 @@
 ---
 title: "KBO Games Cancelled: Record Heat Wave Halts Korean Baseball"
 description: "Korea's pro baseball league has suspended games nationwide amid a record heat wave. Planning to catch a KBO game? Check the schedule before you go."
-pubDate: 2026-08-06
+pubDate: 2026-08-06T08:12:00+09:00
 service: etc
 tags: ["kbo", "baseball", "heat-wave", "summer", "events"]
 cover: "./kbo-night-game-packed-stadium-seoul.webp"

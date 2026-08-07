@@ -1,7 +1,7 @@
 ---
 title: "Clogged Sink in Korea? Fix It Yourself, or Know When to Stop"
 description: "Why drain cleaner didn't work, the ₩2,000 Daiso tools that usually do, and what a plumber actually costs in Seoul — written for English speakers."
-pubDate: 2026-08-06
+pubDate: 2026-08-06T08:51:00+09:00
 service: plumbing
 tags: ["drains", "sink", "bathroom", "diy"]
 cover: "./drain-cleaner-bottle-korean-bathroom-sink.webp"

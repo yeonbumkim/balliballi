@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Leaky Faucet in Korea (and Who Pays for It)"
 description: "The cartridge trick that fixes most dripping Korean faucets, where to buy the ₩10,000 part, what a pro costs, and when it's your landlord's bill."
-pubDate: 2026-08-07
+pubDate: 2026-08-07T17:11:00+09:00
 service: plumbing
 tags: ["faucet", "drip", "diy", "bathroom", "kitchen"]
 cover: "./single-lever-basin-faucet-pedestal-closeup.webp"
