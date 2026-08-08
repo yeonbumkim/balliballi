@@ -19,6 +19,25 @@ make no sense, and half the advice online says "just look when you
 get here." Here's how this actually works, and the play that
 students use every intake.
 
+> ### 🏠 One spot open right now — as of August 8, 2026
+>
+> We run coliving houses ourselves, and we have **one place free in
+> a twin room** in **Dongdaemun-gu**, taking **fall-semester
+> students** now. It's walking distance to **Kyung Hee University**
+> and **Hankuk University of Foreign Studies**.
+>
+> - **Deposit US$1,000 · Rent US$400/month** (utilities and
+>   maintenance billed separately)
+> - **Minimum stay: 6 months**
+> - Furnished room, shared kitchen and laundry — and **no ARC or
+>   Korean phone number needed** to book it, which is the whole
+>   problem this article is about
+>
+> Ask us on [WhatsApp](https://wa.me/821075191282) or in our
+> [KakaoTalk open chat](https://open.kakao.com/o/glCt6lMh).
+> **When this spot fills we'll update this post** — so if you're
+> reading this box, it's still open.
+
 ## Why every site rejects you
 
 Korean rental platforms (Zigbang, Dabang and friends) sit behind
