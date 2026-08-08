@@ -5,11 +5,21 @@ import { WHATSAPP_URL } from '../consts';
 import imgSink from '../assets/work/new-pedestal-sink-installed.webp';
 import imgFaucet from '../assets/work/new-kitchen-faucet-installed.webp';
 import imgBathroom from '../assets/work/renovated-bathroom-bathtub.webp';
+import imgCorridor from '../assets/work/renovation-corridor-mid-work.webp';
+import imgStripped from '../assets/work/room-stripped-for-renovation.webp';
+import imgBathMid from '../assets/work/bathroom-mid-renovation.webp';
+import imgWasher from '../assets/work/washing-machine-installed.webp';
+import imgFridge from '../assets/work/refrigerator-installed.webp';
 
 const workPhotos = [
+  { src: imgCorridor, alt: 'A coliving house corridor mid-renovation, floors stripped back and doors off, with tools on the ground', label: 'Corridor, mid-renovation' },
+  { src: imgStripped, alt: 'A room stripped back to bare walls during renovation, with paint tins and materials on the floor', label: 'Room, stripped back' },
+  { src: imgBathMid, alt: 'A bathroom during renovation with a newly fitted basin, exposed pipework and a hose on the tiled floor', label: 'Bathroom, during' },
   { src: imgSink, alt: 'A new pedestal sink installed in a Korean bathroom', label: 'Bathroom sink, replaced' },
-  { src: imgFaucet, alt: 'A newly installed kitchen faucet with a flexible hose on a black sink', label: 'Kitchen faucet, replaced' },
   { src: imgBathroom, alt: 'A fully renovated bathroom with a bathtub, new tiling and shower set', label: 'Bathroom, renovated' },
+  { src: imgFaucet, alt: 'A newly installed kitchen faucet with a flexible hose on a black sink', label: 'Kitchen faucet, replaced' },
+  { src: imgWasher, alt: 'A washing machine installed in a coliving house laundry space, with flowers set on top', label: 'Washing machine, installed' },
+  { src: imgFridge, alt: 'A refrigerator installed in a coliving house kitchen', label: 'Refrigerator, installed' },
 ];
 
 const jsonLd = {
@@ -101,8 +111,10 @@ const jsonLd = {
     <h2>The work</h2>
 
     <p>
-      Words are cheap, so here's some of the actual work — repairs and
-      renovations from the houses and homes we look after:
+      Words are cheap, so here's some of the actual work — the renovation and
+      repairs on our own coliving houses, done and managed by us. Stripped
+      floors and bare walls first, finished rooms after. This is the
+      apprenticeship the service is built on:
     </p>
 
     <div class="work-grid">
