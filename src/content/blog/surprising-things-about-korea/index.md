@@ -38,8 +38,22 @@ So how does it stay clean? A few unglamorous reasons: an army of early
 morning municipal cleaners, shop owners sweeping their own frontage,
 and a deep social norm of simply **carrying your trash home**. Koreans
 pocket the wrapper, keep the empty cup, and deal with it later. Do the
-same and you'll blend right in — subway stations and convenience stores
-are your best bet when you really need a bin.
+same and you'll blend right in.
+
+The bins that do exist come with unwritten limits, and getting this
+wrong is the fastest way to annoy someone:
+
+- **A convenience store's bin is for what you bought there** — drink
+  the coffee at the counter, bin the cup on your way out. It isn't a
+  public disposal point.
+- **Subway station bins take small litter only** — a wrapper, a
+  tissue, an empty bottle you're carrying.
+- **Household trash never goes in a street or store bin.** That's
+  exactly the behaviour the city removed public bins to stop, it's
+  what those posted fines are about, and locals notice.
+
+So the real answer is the boring one: carry it, and dispose of it
+where you live.
 
 What happens to that carried-home trash is its own system of bags,
 fines, and sorting rules — we wrote the full survival version in our
