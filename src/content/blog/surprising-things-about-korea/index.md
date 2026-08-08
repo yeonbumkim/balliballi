@@ -75,6 +75,14 @@ rushes you out. A single americano legitimately buys a table for an
 afternoon of laptop work — cafes here double as the city's living room
 and study hall.
 
+![An iced americano on a large wooden table in a spacious Korean cafe with empty seats around](./iced-americano-cafe-table.webp)
+
+*One iced americano. The table is yours until you leave · ⓒ @BalliBalliSeoul*
+
+Nobody will bring you a check, hover, or ask if you'd like anything
+else. Big tables, outlets at most seats, and a room full of people
+doing exactly what you're doing.
+
 ## 3. When everything's finally closed, the convenience store isn't
 
 ![A purple CU convenience store sign reading 24h Open with an arrow pointing around the corner](./cu-24h-open-direction-sign.webp)
