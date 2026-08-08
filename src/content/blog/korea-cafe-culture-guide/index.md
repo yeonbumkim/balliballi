@@ -93,6 +93,21 @@ charge by the hour (roughly ₩2,000–3,000/hour, as of 2026) for a
 silent desk, and often run 24 hours with door-code entry. If you
 need to concentrate rather than caffeinate, that's the category.
 
+And around universities, ordinary cafes take the idea to its
+logical end:
+
+![A cafe storefront near a Seoul university with a sign reading OPEN 24 HOURS, 365 DAYS A YEAR and a cartoon of a man working on a laptop](./cafe-24-hours-365-days-sign.webp)
+
+*"Open 24 hours, 365 days" — and the mascot is a guy with a laptop · ⓒ @BalliBalliSeoul*
+
+That sign is the whole culture in one frame: **24 hours, 365 days**,
+and a cartoon of a man hunched over a laptop as the shop's mascot.
+Places like this cluster around campuses — Hoegi, Sinchon, Anam —
+because exam season runs all night, and a desk with coffee is
+cheaper than a desk with rent. Some sell flat-rate day passes
+(around ₩5,500) instead of drinks, which is the point at which a
+cafe has quietly become an office.
+
 ## Reading a specialty menu
 
 At roasteries the menu stops being "small/medium/large" and starts
