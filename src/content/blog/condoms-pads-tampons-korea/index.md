@@ -2,6 +2,7 @@
 title: "Where to Buy Condoms, Pads and Tampons in Korea"
 description: "Where to find pads, liners, tampons and condoms in Korea, how to read the labels, and why the old advice to pack tampons and deodorant is outdated."
 pubDate: 2026-08-08T23:06:00+09:00
+updatedDate: 2026-08-09T14:17:00+09:00
 service: etc
 tags: ["convenience-store", "olive-young", "pharmacy", "tampons", "travel-essentials", "deodorant"]
 cover: "./where-to-buy-essentials-cover.webp"
@@ -103,12 +104,26 @@ them**, as do supermarkets, pharmacies and every online shop.
 Residents say the same in threads like
 [this one on r/Living_in_Korea](https://www.reddit.com/r/Living_in_Korea/comments/1atyob1/feminine_products/).
 
+Here is a convenience store shelf — open around the clock — with
+tampons on it:
+
+![A convenience store shelf holding boxes of Tempo tampons in Regular and Super, with 2+1 promotion tags showing 7,900 won each](./convenience-store-tampon-shelf.webp)
+
+*Convenience store, not a pharmacy — ₩7,900 a box, 2+1 · ⓒ @BalliBalliSeoul*
+
+Two useful things in that photo. **The absorbency is written in
+English** — the boxes say **REGULAR** and **SUPER** right on the
+front, so this is one shelf you can read without any Korean. And
+the red tag is a **2+1**, which drops three boxes of ten to
+**₩15,800** — about ₩527 a tampon, cheaper per unit than buying one
+box at a time.
+
 What's still true is narrower:
 
 - **The selection is smaller than for pads** — fewer brands, fewer
-  absorbencies — and **prices run a bit higher**: about **₩7,500
-  for a box of 12** on the shelf in the photo above, where a pack
-  of pads starts around ₩4,500.
+  absorbencies — and **prices run a bit higher**: **₩7,900 for a
+  box of 10** at the convenience store above, **₩7,500 for 12** at
+  Olive Young, against a pack of pads starting around ₩4,500.
 - **Non-applicator styles** take up more of the shelf than they
   might at home. Applicator tampons exist; you're just choosing
   from a shorter list.
