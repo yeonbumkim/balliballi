@@ -15,6 +15,7 @@ dist/
 
 # 발행 대기 스테이징 (여기 있는 글만 발행 대상 — 발행 시 src/content/blog/로 이동, 발행 후 비움)
 .prepare/
+.ready_to_publish/
 
 # Local-only tooling (sitemap generator 등 — 산출물만 커밋)
 scripts/
