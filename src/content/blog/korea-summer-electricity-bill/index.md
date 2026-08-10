@@ -2,7 +2,8 @@
 title: "Korea's Summer Electricity Bill: Why It Spikes (and Fixes)"
 description: "The progressive rate system behind your August shock, the cashback program, and 40,000 free cooling shelters nobody tells foreign residents about."
 pubDate: 2026-08-09T13:43:00+09:00
-service: etc
+updatedDate: 2026-08-10T15:39:00+09:00
+service: cleaning
 tags: ["electricity", "summer", "aircon", "bills", "heat-wave"]
 cover: "./summer-electricity-cover.webp"
 coverAlt: "The circular display on an LG tower air conditioner showing cooling mode set to 27 degrees"

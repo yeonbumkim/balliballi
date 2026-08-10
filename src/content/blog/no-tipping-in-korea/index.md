@@ -2,6 +2,7 @@
 title: "Do You Tip in Korea? No — and the Kiosk Won't Ask"
 description: "Korea has no tipping culture: no tip line on kiosks, no jar on the counter, tax and service already in the price. What to do instead when service is great."
 pubDate: 2026-08-07T17:25:00+09:00
+updatedDate: 2026-08-10T15:39:00+09:00
 service: etc
 tags: ["tipping", "kiosk", "etiquette", "restaurants", "tourist"]
 cover: "./mcdonalds-kiosk-screen-korea.webp"
@@ -31,6 +32,26 @@ charged.
 This isn't a "technically optional but everyone does it" situation
 like tipping in some countries. It's genuinely not the custom, and
 not tipping is not rude. Koreans don't tip each other either.
+
+### "But what about the plumber?"
+
+The question people ask second, once the restaurant part sinks in:
+**what about someone who comes to your home?** A repair technician,
+a cleaner, a moving crew, a locksmith at midnight.
+
+**Same answer. You pay the quoted price and nothing more.** Trades
+here quote a job price — call-out plus work — and that number is
+the whole transaction. Nobody is standing there hoping for an
+envelope, and offering one is more likely to cause confusion than
+gratitude.
+
+What actually matters instead is **agreeing the price before the
+work starts**, which is the norm here and the thing to insist on.
+That's precisely what we do when we arrange a
+[plumber](/plumbing), a [locksmith](/locksmith), a
+[cleaner](/cleaning) or a [moving crew](/moving) for someone: the
+price is confirmed in the chat first, so there's no negotiation at
+the door and no tipping question afterwards.
 
 ## The kiosk will not ask you
 

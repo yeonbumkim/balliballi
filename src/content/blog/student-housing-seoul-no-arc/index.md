@@ -2,7 +2,8 @@
 title: "Student Housing in Seoul: Renting Without an ARC or Phone"
 description: "Arriving for the semester and every Korean housing site rejects you? Here's how students actually rent from abroad — platforms, deposits, and the play."
 pubDate: 2026-08-08T00:00:00+09:00
-service: etc
+updatedDate: 2026-08-10T15:39:00+09:00
+service: moving
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
 cover: "./sharehouse-single-room-bed-desk.webp"
 coverAlt: "A furnished single room in a Seoul share house — bed, desk, chair, drawers and curtained window"
@@ -95,6 +96,13 @@ and how a landlord or operator can let you in remotely.
 ![The entrance hallway of a Seoul share house with a keypad door lock](./sharehouse-entrance-hallway-doorlock.webp)
 
 *Keypad entry — no key handover needed · ⓒ @BalliBalliSeoul*
+
+Worth knowing before it happens to you at 1 a.m.: those keypads run
+on batteries, and when the battery dies the door simply stops
+opening. It's the single most common way people get locked out here,
+and it's fixable in minutes if you know the trick — we wrote up
+[what to do when a keypad lock dies](/blog/keypad-door-lock-dead-locked-out-seoul/),
+and we [open doors in English](/locksmith) when it can't wait.
 
 ## The deposit reality check
 

@@ -2,6 +2,7 @@
 title: "How to Throw Away Trash in Korea Without Getting Fined"
 description: "Korea's four waste streams explained: district bags, mandatory food-waste separation, recycling rules, and the official process for bulky items."
 pubDate: 2026-08-06T08:30:00+09:00
+updatedDate: 2026-08-10T15:39:00+09:00
 service: moving
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
 cover: "./four-sorting-bins-recycling-station.webp"
@@ -59,6 +60,8 @@ station; villas and one-rooms put sorted bags curbside on set nights.
 **4. Bulky waste (대형폐기물)** — furniture, mattresses, appliances,
 anything that won't fit in a bag — has its own official process. More on
 that below, because it's the one that catches everyone.
+
+If it's a whole flat's worth — a move-out, a clear-out, or an estate to empty — that stops being a sticker job and becomes a van and two people. That's what our [cleaning](/cleaning) and [moving](/moving) services are for.
 
 ## The fines are real
 

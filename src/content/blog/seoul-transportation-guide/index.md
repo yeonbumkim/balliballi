@@ -2,6 +2,7 @@
 title: "Getting Around Seoul: Subway, Bus, Taxi, Uber and KTX"
 description: "Which one to actually use, and when. Subway by day, taxi after midnight, Uber vs Kakao T, and how to reach another city — with the two-person maths."
 pubDate: 2026-08-10T14:07:00+09:00
+updatedDate: 2026-08-10T15:39:00+09:00
 service: etc
 tags: ["transportation", "subway", "bus", "taxi", "uber", "ktx"]
 cover: "./seoul-transport-cover.webp"
@@ -285,6 +286,11 @@ with heavy luggage.
 
 Taxis and app taxis work too; expect highway tolls on top of the
 meter, which is normal and not a scam.
+
+If the "luggage" in question is closer to a household than a
+suitcase — arriving to move in, or leaving with everything you own —
+that's a van and a crew, not a taxi, and it's
+[what our moving service arranges](/moving).
 
 ## The Korean part
 
