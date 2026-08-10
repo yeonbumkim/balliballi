@@ -2,6 +2,7 @@
 title: "English Mass in Seoul: Where to Go on Sunday"
 description: "Five Seoul churches serve Mass in English every Sunday, and ten more languages have their own. The full schedule — and why you should ring ahead."
 pubDate: 2026-08-10T13:38:00+09:00
+updatedDate: 2026-08-10T13:42:00+09:00
 service: etc
 tags: ["catholic", "church", "english-mass", "community", "seoul-life"]
 cover: "./english-mass-seoul-cover.webp"
@@ -20,6 +21,18 @@ Church here publishes a
 [foreign-language Mass schedule](https://aos.catholic.or.kr/en/encon77)
 covering **eleven languages** — and five of those Masses are in
 English, every Sunday.
+
+Someone put the question plainly [on r/seoul](https://www.reddit.com/r/seoul/comments/1lpqw6v/english_or_spanish_catholic_church/) last year:
+
+> *"I'm currently in Seoul and looking for a Catholic church that
+> offers Mass in English or Spanish. I'd love to attend regularly
+> while I'm here, so if you have any recommendations for welcoming
+> churches you've been to, please let me know!"*
+
+It got **two replies.** Not because nobody knows — the schedule is
+published, in English, by the church itself — but because it sits on
+a page almost nobody finds. So here it is, in full. Including
+Spanish.
 
 ## English Mass in Seoul
 
@@ -82,7 +95,10 @@ be answered in Korean.**
 ## Ten more languages
 
 This is the part that surprised us when we pulled the schedule
-together. Seoul doesn't just accommodate English — it runs a
+together — and it's where that Reddit question gets its second
+answer: **Spanish Mass runs three times a month in Seoul**, once
+weekly in Hannam-dong and twice more for the Latin American
+community. Seoul doesn't just accommodate English — it runs a
 quietly enormous multilingual ministry, much of it built around
 **migrant worker communities** rather than tourists.
 
