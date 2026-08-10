@@ -126,6 +126,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/seoul-transportation-guide/</loc>
+    <lastmod>2026-08-10T14:07:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/sick-in-korea-medicine-day-or-night/</loc>
     <lastmod>2026-08-09T00:41:00+09:00</lastmod>
     <priority>0.7</priority>
