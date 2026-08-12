@@ -2,6 +2,7 @@
 title: "Korean Cafe Culture: Prices, Chains, and the All-Day Table"
 description: "Why Korea has a cafe on every corner: what each chain costs, how ordering works, and why one americano legitimately buys you a whole afternoon."
 pubDate: 2026-08-08T19:33:00+09:00
+updatedDate: 2026-08-12T17:33:00+09:00
 service: etc
 tags: ["cafe", "coffee", "starbucks", "study-cafe", "seoul-life"]
 cover: "./specialty-roastery-barista-bean-shelf.webp"
@@ -148,19 +149,20 @@ vocabulary.
 
 ## The Korean part
 
-The friction is small but constant: menus without English, a
-kiosk that switches back to Korean, an app that wants a Korean
-phone number, a bean bag you'd like shipped home. Send us a photo
-of a menu and our
-[anything-else concierge service](/etc) will tell you what you're
-looking at — and order it for you if that's easier.
+Your phone can read the menu — point a camera at it and you're
+fine. What your phone can't do is get you past the two walls that
+actually stop people here: **an app that demands a Korean phone
+number to register** (Siren Order and most loyalty apps), and a
+roastery that will happily ship beans anywhere in Korea and nowhere
+else. Both are errands rather than translations, and both are
+[what we do](/etc).
 
 ## Get it sorted
 
-> **Standing at a counter with a Korean-only menu?** Snap it and
-> message us on [WhatsApp](https://wa.me/821075191282) — we'll
-> translate it and tell you what to order, in English. First
-> answer is free.
+> **Want beans shipped, or an app that won't accept your number?**
+> Message us on [WhatsApp](https://wa.me/821075191282) — we'll
+> register it, order it, or have it sent, in English. First answer
+> is free.
 
 The one-line version: **order and pay first, take the buzzer,
 ₩1,500 to ₩8,000 depending on your tier, and the table is yours

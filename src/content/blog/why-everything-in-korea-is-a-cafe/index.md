@@ -2,6 +2,7 @@
 title: "Why Is Everything in Korea a 'Cafe'?"
 description: "PRINT CAFE, PC bang, coin wash, study cafe. Korea rents you a room by the hour — here's what each one is, what it costs, and how to use it without asking."
 pubDate: 2026-08-09T13:30:00+09:00
+updatedDate: 2026-08-12T17:33:00+09:00
 service: etc
 tags: ["cafe", "pc-bang", "laundry", "study-cafe", "seoul-life"]
 cover: "./print-cafe-cover.webp"
@@ -154,16 +155,17 @@ moment you're stuck. Which brings us to the usual disclaimer.
 
 ## The Korean part
 
-Every one of these is a kiosk in Korean attached to a door code.
-Send us a photo of the screen and our
-[anything-else concierge service](/etc) will walk you through it, or
-book and pay for it if that's easier.
+Reading the kiosk is the easy half — your camera does that. The
+half that stops people is **paying**: many of these machines want a
+Korean card, a phone number for the receipt, or a membership you
+can't register for. Unstaffed at 2 a.m., there's nobody to ask
+either. We [book and pay for it](/etc) and send you the door code.
 
 ## Get it sorted
 
-> **Standing in front of a Korean-only kiosk?** Snap it and message
-> us on [WhatsApp](https://wa.me/821075191282) — we'll translate the
-> options and tell you which button to press. First answer is free.
+> **Kiosk won't take your card, or won't let you register?**
+> Message us on [WhatsApp](https://wa.me/821075191282) — we'll book
+> and pay for the hour and send you the code. First answer is free.
 
 The one-line version: **"cafe" here means a room by the hour —
 gaming, studying, printing, washing, singing — you pay at a kiosk

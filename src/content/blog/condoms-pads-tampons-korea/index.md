@@ -2,7 +2,7 @@
 title: "Where to Buy Condoms, Pads and Tampons in Korea"
 description: "Where to find pads, liners, tampons and condoms in Korea, how to read the labels, and why the old advice to pack tampons and deodorant is outdated."
 pubDate: 2026-08-08T23:06:00+09:00
-updatedDate: 2026-08-09T14:17:00+09:00
+updatedDate: 2026-08-12T17:33:00+09:00
 service: etc
 tags: ["convenience-store", "olive-young", "pharmacy", "tampons", "travel-essentials", "deodorant"]
 cover: "./where-to-buy-essentials-cover.webp"
@@ -206,20 +206,19 @@ doctor.
 
 ## The Korean part
 
-None of this is hard once you know where to go — the difficulty is
-entirely in not being able to read a label or ask a question at the
-moment you need to. If you're standing in an aisle unsure what
-you're holding, send us a photo: our
-[anything-else concierge service](/etc) reads it, tells you what it
-is, and can point you to the nearest place that stocks what you
-actually want.
+Honestly? Once you know the four places, this one is on you — a
+camera app reads any box on that shelf, and nobody at the till will
+react. The genuine gap is the last item on the list: **emergency
+contraception needs a doctor**, which means a clinic that can see
+you and, often, a phone call in Korean to find out who's open.
+That part we [can do](/etc).
 
 ## Get it sorted
 
-> **Stuck in an aisle, or not sure where to look?** Message us on
-> [WhatsApp](https://wa.me/821075191282) — send a photo of the
-> shelf or just tell us what you need, and we'll tell you where to
-> go, in English. First answer is free.
+> **Need a clinic that's open, in English?** Message us on
+> [WhatsApp](https://wa.me/821075191282) — we'll ring round and
+> tell you who can see you and when. We don't recommend providers
+> and take no money from them. First answer is free.
 
 The one-line version: **convenience store for right now, Olive
 Young for choice, pads and liners everywhere, tampons and deodorant

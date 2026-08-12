@@ -2,6 +2,7 @@
 title: "Korean Convenience Stores: Food, Deals and the Services Desk"
 description: "Korea's real infrastructure: 1+1 deals, hot meals eaten in the shop, parcels, cash-only transit top-ups, bill payments — what the counter does."
 pubDate: 2026-08-09T13:56:00+09:00
+updatedDate: 2026-08-12T17:33:00+09:00
 service: etc
 tags: ["convenience-store", "gs25", "cu", "budget", "daily-life"]
 cover: "./convenience-store-cover.webp"
@@ -169,19 +170,19 @@ It's also, quietly, one of the
 
 ## The Korean part
 
-The promotions are in Korean, the lunchbox labels are in Korean,
-and the services counter runs on Korean forms. None of it is hard —
-it's just opaque until someone tells you. Send us a photo of a
-shelf, a label or a form and our
-[anything-else concierge service](/etc) will read it back to you in
-English, and handle the errand if you'd rather not.
+The labels are the easy part — your camera translates those. The
+hard part is the counter: **a parcel form that wants a Korean name
+and phone number, a bill-payment kiosk that only speaks Korean, a
+delivery you need sent to a store rather than an empty flat.** Those
+are transactions, not translations, and they're
+[what we handle](/etc).
 
 ## Get it sorted
 
-> **Stuck at a counter or a kiosk?** Message us on
-> [WhatsApp](https://wa.me/821075191282) — send a photo and we'll
-> tell you what it says and what to do, in English. First answer is
-> free.
+> **Need to send a parcel, pay a bill, or receive a delivery you
+> can't be home for?** Message us on
+> [WhatsApp](https://wa.me/821075191282) — we'll fill the Korean
+> form and walk it through with you. First answer is free.
 
 The one-line version: **red tag means a free one, the chilled wall
 is a real meal, the counter sends parcels and tops up your transit
