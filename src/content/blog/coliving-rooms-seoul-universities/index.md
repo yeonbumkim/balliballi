@@ -10,12 +10,10 @@ coverCaption: "A single room, furnished and ready"
 draft: false
 ---
 
-Most of this site exists because we run coliving houses in Seoul and
-kept being asked to fix things for the people living in them. This
-article is the other half of that: **the houses themselves.**
-
-We operate **three of them**, all within walking distance of a
-university campus in Seoul:
+We run **three coliving houses in Seoul**, and we run them
+ourselves — we're the operator, not an agency listing someone
+else's rooms. Each one is within walking distance of a university
+campus:
 
 | House | Beside | Rooms |
 | ----- | ------ | ----- |
@@ -154,8 +152,8 @@ What you get with us specifically:
 - **Deposits sized for students**, not the ₩10,000,000+ a jeonse or
   standard monthly lease expects
 - **We're the operator, not an agency.** You're dealing with the
-  people who own and run the house — so when the boiler plays up,
-  you message us and we fix it
+  people who own and run the house, so anything you need sorted
+  goes to us directly — one message, in English, no middleman
 - **English throughout**, which is the whole reason this company
   exists
 
