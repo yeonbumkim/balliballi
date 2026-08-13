@@ -2,7 +2,7 @@
 title: "Korean Convenience Stores: Food, Deals and the Services Desk"
 description: "Korea's real infrastructure: 1+1 deals, hot meals eaten in the shop, parcels, cash-only transit top-ups, bill payments — what the counter does."
 pubDate: 2026-08-09T13:56:00+09:00
-updatedDate: 2026-08-12T17:33:00+09:00
+updatedDate: 2026-08-13T10:11:00+09:00
 service: etc
 tags: ["convenience-store", "gs25", "cu", "budget", "daily-life"]
 cover: "./convenience-store-cover.webp"
@@ -113,8 +113,9 @@ the branch, that counter will:
   delivery destination for online orders — handy if you're out all
   day or don't want packages left in a shared hallway.
 - **Top up your transit card.** Hand over your T-money card and
-  cash. **Top-ups are cash only** — this is the one errand where
-  you genuinely need notes in your pocket.
+  cash. **At a shop counter this is a cash-only transaction** — the
+  one errand where you genuinely need notes in your pocket. (Station
+  machines are different: those take cards, including foreign ones.)
 - **Give you cash.** Most branches have an ATM, and many accept
   foreign cards, though fees and limits vary by machine.
 - **Take utility and bill payments**, through the in-store kiosk.

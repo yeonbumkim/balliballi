@@ -2,6 +2,7 @@
 title: "T-money Card Korea: Buy One, Tap Everywhere, Transfer Free"
 description: "Skip the transit-card research. Buy T-money at any convenience store, top up in cash, always tap out — and free transfers do the rest. With 2026 fares."
 pubDate: 2026-08-10T10:29:00+09:00
+updatedDate: 2026-08-13T10:10:00+09:00
 service: etc
 tags: ["t-money", "transportation", "subway", "bus", "tourist"]
 cover: "./tmoney-cover.webp"
@@ -29,17 +30,34 @@ too. The card costs a few thousand won (**₩3,000–5,000** depending
 on the design, as of 2026), and then you **top it up in cash at the
 same counter** — ₩10,000 or ₩20,000 is a sensible start.
 
-**That cash detail is the one real quirk.** Top-ups are cash-only,
-at convenience stores and at station machines alike. In a country
-where you can tap a card for a ₩900 drink, this is the single
-errand that still requires notes in your pocket.
+**Carry notes for this one.** At a convenience store counter, a
+top-up is a cash transaction — this is the single errand in Korea
+that still wants paper money.
 
-Subway stations have machines that sell and recharge cards too, and
-they all have an English mode:
+Station machines are the exception, and a useful one:
 
-![A row of transit card charging kiosks in a Seoul subway station, with a Deposit Refund Device sign in English above them](./subway-card-charging-kiosks.webp)
+![A Seoul Metro ticket machine with a credit card slot, cash slot and a sign reading Foreign-issued credit cards and mobile payments are accepted](./subway-ticket-machine.webp)
 
-*Charging machines, and the refund device, right by the gates · ⓒ @BalliBalliSeoul*
+*Note the placard on the left · ⓒ @BalliBalliSeoul*
+
+The machines take coins and notes, but they also have a **credit
+card slot**, and the placard taped to the side says it plainly:
+**"Foreign-issued credit cards and mobile payments are accepted"** —
+Visa, Mastercard, JCB, UnionPay and Alipay+. So if you land without
+won, a station machine is the better bet than a shop counter.
+
+They all run in English, too. Press **ENGLISH** and the menu
+becomes five plain buttons:
+
+![The English menu on a Seoul Metro ticket machine showing Single Journey Ticket, Free Ticket, Reloading the transit card, Purchase transportation card, and Refund](./kiosk-english-menu.webp)
+
+*Buy a card, reload it, or get your deposit back — all in English · ⓒ @BalliBalliSeoul*
+
+**"Purchase transportation card"** buys you the plastic;
+**"Reloading the transit card"** tops it up. The screen also warns
+about something easy to trip over: **a single-journey ticket does
+not transfer between lines** at certain interchanges — another
+reason to hold a proper card.
 
 Mobile T-money in your phone's wallet exists, but effectively
 requires a Korean-verified phone number — visitors should just
@@ -139,12 +157,15 @@ beat pay-per-ride at roughly 40+ rides a month. But **this is the
 one part of Korean transit currently in flux**, so treat any
 article you read — including this one — as a snapshot:
 
-- Seoul's **Climate Card (기후동행카드)** is being restructured, with
-  a successor pass confirmed, and from **1 October 2026** the
-  short-term version narrows to journeys **within Seoul city
-  limits**.
-- The national **K-Pass** scheme has absorbed a flat-rate refund
-  option as of 2026.
+- Seoul's **Climate Card (기후동행카드)** is being wound down. A
+  banner on the ticket machines in August 2026 put it bluntly:
+  **payback applies only to top-ups made through June, and from
+  August the benefits move to "모두의카드" — the K-Pass.**
+- The machines have also stopped selling the Climate Card
+  altogether. A notice taped to the screen sends buyers to the
+  **i-Center beside the fare gates** instead.
+- From **1 October 2026** the short-term Climate Card narrows to
+  journeys **within Seoul city limits**.
 
 There's also a practical catch that outlives any policy change:
 **plain T-money recharges at every convenience store in the

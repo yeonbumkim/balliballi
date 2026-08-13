@@ -2,7 +2,7 @@
 title: "Getting Around Seoul: Subway, Bus, Taxi, Uber and KTX"
 description: "Which one to actually use, and when. Subway by day, taxi after midnight, Uber vs Kakao T, and how to reach another city — with the two-person maths."
 pubDate: 2026-08-10T14:07:00+09:00
-updatedDate: 2026-08-10T15:39:00+09:00
+updatedDate: 2026-08-13T10:11:00+09:00
 service: etc
 tags: ["transportation", "subway", "bus", "taxi", "uber", "ktx"]
 cover: "./seoul-transport-cover.webp"
@@ -44,7 +44,8 @@ The rest of this article is why.
 
 Everything except long-distance rail runs off one tap card,
 **T-money**, which you buy at any convenience store for a few
-thousand won and top up **in cash**. It covers subway, every bus,
+thousand won and top up — **in cash at a shop counter, or by card
+at a station machine, which accepts foreign ones**. It covers subway, every bus,
 taxis, and even snacks at the till — and it's what unlocks **free
 transfers** between bus and subway, which is the single biggest
 saving in the system.
