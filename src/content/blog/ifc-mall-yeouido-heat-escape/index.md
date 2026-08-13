@@ -2,11 +2,12 @@
 title: "Beat Seoul's Heat Indoors: A Day at IFC Mall Yeouido"
 description: "When it's 38°C outside, one Yeouido building gives you a cinema, food courts, cafes, shopping and a river park exit — all without stepping into the sun."
 pubDate: 2026-08-07T18:38:00+09:00
+updatedDate: 2026-08-13T15:42:00+09:00
 service: etc
 tags: ["ifc-mall", "yeouido", "heat-wave", "things-to-do", "arcade"]
 cover: "./retro-arcade-floor-overhead-ifc-mall.webp"
 coverAlt: "Overhead view of a retro arcade event floor inside IFC Mall Yeouido, with rows of arcade cabinets and crowds playing"
-coverCaption: "IFC Mall's L3 atrium, mid-heat wave"
+coverCaption: "The L3 atrium, mid pop-up"
 draft: false
 ---
 
@@ -32,15 +33,19 @@ Its other advantage is location: the **Han River park is a short
 walk away** for when the sun finally drops, which makes IFC a
 natural "hide until evening, then go to the river" base.
 
-## Right now: a free retro arcade festival
+## The L3 atrium always has something in it
 
-The reason we're writing this in August: IFC Mall is running a
-**Newtro Game Festival** on the **L3 North Atrium** — a free
-pop-up arcade set up in the middle of the mall.
+Here's the thing worth knowing beyond any single event: **the North
+Atrium on L3 is IFC Mall's permanent pop-up space**, and there is
+almost always something set up in it — free to walk through, whether
+or not you buy anything.
+
+When we visited in August 2026 it was a **Newtro Game Festival**: a
+free retro arcade in the middle of the mall.
 
 ![Standing banner for the IFC Mall Newtro Game Festival showing dates and game list](./ifc-mall-newtro-game-festival-banner.webp)
 
-*The details, on a banner by the escalators · ⓒ @BalliBalliSeoul*
+*August 2026's edition, advertised by the escalators · ⓒ @BalliBalliSeoul*
 
 The essentials:
 
@@ -59,10 +64,25 @@ and dance machines, motorbike racers, and Pump It Up-style step
 games** — which is where the real spectacle is, because Korean
 teenagers play those at a level that draws a crowd.
 
-Two honest notes: it's **popular, so there's a wait** at the
-fighting cabinets on weekend afternoons, and **it ends on August
-15** — after that, this section is a memory and the rest of this
-guide still stands.
+**That one ran until 15 August 2026, so it's over.** We're leaving
+it here because it's a good illustration of what the space does.
+
+### What else has been in there
+
+The atrium rotates through corporate and cultural pop-ups, and the
+range is wider than you'd guess:
+
+- **Volvo** has used it for new-car displays — the **XC90** and
+  **S90** parked in the middle of a shopping mall
+- **Dong-A Pharmaceutical** ran a **Bacchus** promotion — the
+  energy tonic that's in every Korean convenience store fridge
+- **aespa's "Lemonade" pop-up** brought the K-pop crowd through
+
+So the practical advice isn't "go and see the arcade." It's
+**check the atrium on your way past**, because there's a decent
+chance something is on — and it costs nothing to look.
+
+**We'll update this page when we hear what's next in there.**
 
 ## The rest of the building
 
@@ -108,6 +128,6 @@ guide still stands.
 > answer is free.
 
 The one-line version: **take Line 5 or 9 to Yeouido, never go
-outside, watch a film, eat, sit in a cafe, and if you're here
-before August 15, play Metal Slug for free on the way through.**
+outside, watch a film, eat, sit in a cafe, and glance at the L3
+atrium on your way past to see what's set up in it this month.**
 Seoul in August rewards people who plan indoors.
