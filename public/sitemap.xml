@@ -36,6 +36,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/coliving-rooms-seoul-universities/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/condoms-pads-tampons-korea/</loc>
     <lastmod>2026-08-08T23:06:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -134,6 +140,12 @@
   <url>
     <loc>https://balliballi.com/blog/korean-instant-ramyeon-convenience-store/</loc>
     <lastmod>2026-08-09T00:30:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/mould-behind-baseboard-korea/</loc>
+    <lastmod>2026-08-13T15:34:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
