@@ -5,7 +5,7 @@ pubDate: 2026-08-13T16:13:00+09:00
 service: moving
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
 cover: "./coliving-cover.webp"
-coverAlt: "A furnished single room in a Seoul coliving house with a bed, desk, chair, drawers and a green banker's lamp"
+coverAlt: "A furnished single room in a Seoul coliving house with a bed, desk and chair beside a curtained window"
 coverCaption: "A single room, furnished and ready"
 draft: false
 ---
@@ -66,7 +66,7 @@ working nearby who commute through Korea University Station.
 Rooms come furnished. That means you arrive with luggage and start
 living, rather than spending your first week buying a bed.
 
-![A furnished single room with a bed, desk, chair and drawer unit](./coliving-single-room.webp)
+![A single room with a bed, a desk with a green lamp and postcards on the wall](./room-single.webp)
 
 *Single room · ⓒ @BalliBalliSeoul*
 
@@ -74,16 +74,16 @@ Each room has a **bed, desk, chair, drawers, an air conditioner and
 a clothes rail** — the aircon matters more than newcomers expect in
 a Seoul August.
 
-![A room with a wall air conditioner, desk and freestanding clothes rail](./coliving-room-aircon-rack.webp)
+![A room with a wall air conditioner, a desk and chair, and a freestanding clothes rail beside the bed](./room-aircon-rail.webp)
 
-*Aircon and hanging space in every room · ⓒ @BalliBalliSeoul*
+*Aircon, desk and hanging space in every room · ⓒ @BalliBalliSeoul*
 
 Our other two houses also have **twin rooms**, which are the cheaper
 option and the one most fall-semester students take:
 
-![A twin room with two beds, two desks and two chairs](./coliving-twin-room.webp)
+![A twin room with two desks, two chairs, a dressing table and a bed](./room-twin.webp)
 
-*Twin room — two desks, two beds · ⓒ @BalliBalliSeoul*
+*Twin room — two desks, and a dressing table · ⓒ @BalliBalliSeoul*
 
 ## What you share
 
@@ -92,28 +92,24 @@ setup, fridge, table — and a washing machine, because Korean flats
 put laundry in the kitchen or the bathroom rather than a separate
 utility room.
 
-![A shared coliving kitchen with white cabinets, a fridge, dining table and washing machine](./coliving-shared-kitchen.webp)
+![A shared kitchen with white cabinets, a sink, a teal fridge, a dining table and a yellow curtain](./shared-kitchen.webp)
 
 *Shared kitchen · ⓒ @BalliBalliSeoul*
 
-![A laundry area with a washing machine, baskets and a drying rack](./coliving-laundry.webp)
+![A washing machine with laundry baskets stacked on top and a drying rack beside it](./shared-laundry.webp)
 
 *Laundry, with drying racks — Korean homes rarely have dryers · ⓒ @BalliBalliSeoul*
 
 Two details worth pointing out, because they're the questions we get
 asked most:
 
-![A hallway lined with lockable personal storage cabinets leading to the kitchen](./coliving-hallway-lockers.webp)
+![A hallway with a tall lockable personal storage cabinet under a small chandelier](./personal-lockers.webp)
 
-*Lockable personal storage in the hallway · ⓒ @BalliBalliSeoul*
+*Lockable personal storage, outside the rooms · ⓒ @BalliBalliSeoul*
 
 **Storage that locks.** Shared living raises an obvious question and
 this is our answer to it — each resident gets a cabinet with a lock,
 outside the room.
-
-![An entrance hallway with a keypad door lock and patterned tile floor](./coliving-entrance-keypad.webp)
-
-*Keypad entry — no key handover, no arrival-time problem · ⓒ @BalliBalliSeoul*
 
 **Keypad entry.** No physical key changes hands and nothing to lose
 in a taxi. You get a code, and the code just works — including the
