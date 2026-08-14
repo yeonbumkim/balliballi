@@ -2,7 +2,7 @@
 title: "Student Housing in Seoul: Renting Without an ARC or Phone"
 description: "Arriving for the semester and every Korean housing site rejects you? Here's how students actually rent from abroad — platforms, deposits, and the play."
 pubDate: 2026-08-08T00:00:00+09:00
-updatedDate: 2026-08-10T15:39:00+09:00
+updatedDate: 2026-08-14T12:50:00+09:00
 service: moving
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
 cover: "./sharehouse-single-room-bed-desk.webp"
@@ -20,7 +20,7 @@ make no sense, and half the advice online says "just look when you
 get here." Here's how this actually works, and the play that
 students use every intake.
 
-> ### 🏠 One spot open right now — as of August 8, 2026
+> ### 🏠 One spot open right now — as of August 14, 2026
 >
 > We run coliving houses ourselves, and we have **one place free in
 > a twin room** in **Dongdaemun-gu**, taking **fall-semester
