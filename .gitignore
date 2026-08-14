@@ -5,6 +5,7 @@ idea.md
 PUBLISH_SCHEDULE.md
 PHOTO_LIBRARY.md
 HOWTO_PUBLISH.md
+HOWTO_CONVERSION_TRACKING.md
 
 # Build output & deps
 node_modules/
