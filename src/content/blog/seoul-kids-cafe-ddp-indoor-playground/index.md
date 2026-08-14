@@ -214,6 +214,15 @@ before you arrive and keep the in-house order to ice cream at the
 end, or accept the markup for the considerable luxury of feeding
 everyone without putting shoes back on.
 
+**You are not locked in, though.** Kids cafes sit inside bigger
+buildings, and that works in your favour. DDP is the obvious
+example: there is a run of restaurants on the lower level of the
+complex itself, and Dongdaemun outside it is one of the densest
+eating districts in Seoul — food courts, chains, Korean places,
+and stalls that stay open long after the playground has closed.
+Two hours of play followed by a proper meal at normal prices is a
+perfectly sensible plan, and usually the cheaper one.
+
 One exception worth doing the sums on: if you drove to DDP, the
 ₩50,000 spend that unlocks two hours of free parking is easier to
 justify when it also covers lunch.
