@@ -2,7 +2,7 @@
 title: "Korean Cafe Culture: Prices, Chains, and the All-Day Table"
 description: "Why Korea has a cafe on every corner: what each chain costs, how ordering works, and why one americano legitimately buys you a whole afternoon."
 pubDate: 2026-08-08T19:33:00+09:00
-updatedDate: 2026-08-12T17:33:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["cafe", "coffee", "starbucks", "study-cafe", "seoul-life"]
 cover: "./specialty-roastery-barista-bean-shelf.webp"
@@ -146,6 +146,13 @@ vocabulary.
   at a fraction of the walking.
 - **Late night**: 24-hour cafes exist near university districts
   and business areas, and are a normal place to be at 2 a.m.
+- **If you want the quiet version**, Seoul has a whole genre of
+  [book cafes worth visiting even if you can't read
+  Korean](/blog/seoul-book-cafes-bookstores/).
+- **And "cafe" stretches further than coffee here** — the same word
+  covers gaming rooms, laundries and print shops. We took that
+  apart in [why everything in Korea is a
+  'cafe'](/blog/why-everything-in-korea-is-a-cafe/).
 
 ## The Korean part
 

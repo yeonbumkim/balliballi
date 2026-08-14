@@ -2,7 +2,7 @@
 title: "How to Throw Away Trash in Korea Without Getting Fined"
 description: "Korea's four waste streams explained: district bags, mandatory food-waste separation, recycling rules, and the official process for bulky items."
 pubDate: 2026-08-06T08:30:00+09:00
-updatedDate: 2026-08-10T15:39:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
 cover: "./four-sorting-bins-recycling-station.webp"
@@ -130,6 +130,12 @@ the item-category dropdown menus, the 주민센터 counter, the building's
 recycling-night rules, the RFID card registration for food waste. And the
 rules genuinely differ by district and even by building — which is why
 expat forums are full of contradicting advice.
+
+If a move-out is what brought you here, the disposal is only half
+of it. The other half is the deposit — and the argument over it is
+won or lost with the photographs you took
+[on the day you moved in](/blog/photograph-your-flat-move-in-day/),
+repeated from the same angles on the way out.
 
 This is a thing we handle constantly, especially around move-outs. Through
 our [moving help service](/moving), we file the bulky-waste declaration for

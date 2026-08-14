@@ -2,7 +2,7 @@
 title: "Where to Buy Condoms, Pads and Tampons in Korea"
 description: "Where to find pads, liners, tampons and condoms in Korea, how to read the labels, and why the old advice to pack tampons and deodorant is outdated."
 pubDate: 2026-08-08T23:06:00+09:00
-updatedDate: 2026-08-12T17:33:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["convenience-store", "olive-young", "pharmacy", "tampons", "travel-essentials", "deodorant"]
 cover: "./where-to-buy-essentials-cover.webp"
@@ -27,10 +27,14 @@ old packing advice you can safely ignore.
 | **Pharmacy (약국)** | Daytime, varies | All of the above, plus advice | When you also need medicine |
 | **Big mart** (E-Mart, Homeplus, Lotte Mart) | ~10:00–23:00 | Widest range, best price per unit | Stocking up, not emergencies |
 
-Two notes on that table. **Olive Young's hours differ branch to
-branch**, so read the door rather than trusting a number — the shop
-below opens 09:30 on weekdays, 10:00 at weekends and holidays, and
-shuts at 22:30 either way.
+Two notes on that table. The convenience store is the one that
+solves this at 3 a.m., and it does a great deal more than this
+aisle — see
+[what a Korean convenience store is actually for](/blog/korean-convenience-store-guide/).
+And **Olive Young's hours differ branch to branch**, so read the
+door rather than trusting a number — the shop below opens 09:30 on
+weekdays, 10:00 at weekends and holidays, and shuts at 22:30 either
+way.
 
 ![The opening-hours sign on an Olive Young door reading Mon–Fri open 09:30 close 22:30, Sat–Sun and holidays open 10:00 close 22:30](./olive-young-opening-hours-sign.webp)
 

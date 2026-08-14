@@ -2,6 +2,7 @@
 title: "Sick in Korea: Where to Get Medicine, Day or Night"
 description: "Convenience stores sell fever medicine 24 hours a day, including children's syrups. The full ladder — shelf, pharmacy, clinic, 119 — with real prices."
 pubDate: 2026-08-09T00:41:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["convenience-store", "medicine", "pharmacy", "emergency", "travel-essentials"]
 cover: "./sick-in-korea-cover.webp"
@@ -48,7 +49,10 @@ aren't stuck at 2 a.m.
 
 Look for a stand near the counter with a **pink and blue
 안전상비의약품 sign** on it. If the store has one, everything on it
-is on the government's list.
+is on the government's list. (Medicine is one of several things
+these shops quietly do — the
+[convenience store guide](/blog/korean-convenience-store-guide/)
+covers the rest, including the counter services.)
 
 ![A convenience store display stand labelled 안전상비의약품 with Tylenol, children's Tylenol suspension, Brufen syrup, Pancol A, Panpyrin, Bearse digestive tablets and pain patches, each with a price tag](./convenience-store-otc-medicine-stand.webp)
 

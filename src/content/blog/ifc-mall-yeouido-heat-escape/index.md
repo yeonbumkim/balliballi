@@ -2,7 +2,7 @@
 title: "Beat Seoul's Heat Indoors: A Day at IFC Mall Yeouido"
 description: "When it's 38°C outside, one Yeouido building gives you a cinema, food courts, cafes, shopping and a river park exit — all without stepping into the sun."
 pubDate: 2026-08-07T18:38:00+09:00
-updatedDate: 2026-08-13T15:42:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["ifc-mall", "yeouido", "heat-wave", "things-to-do", "arcade"]
 cover: "./retro-arcade-floor-overhead-ifc-mall.webp"
@@ -117,6 +117,21 @@ chance something is on — and it costs nothing to look.
   [shut down the national baseball league](/blog/kbo-games-cancelled-heat-wave/).
   Plan outdoor sightseeing for before 11 a.m. or after sunset, and
   spend the middle of the day in a building like this one.
+
+## If a mall isn't the right shape of day
+
+Three other ways to spend hours indoors without paying for them in
+sunburn:
+
+- **With small children**, an
+  [indoor kids playground](/blog/seoul-kids-cafe-ddp-indoor-playground/)
+  buys you two air-conditioned hours and wears them out properly
+- **If you want to move rather than shop**, Seoul's
+  [gyms, public pools and river paths](/blog/fitness-in-korea-gyms-pools-han-river/)
+  are cheaper than they look, and the pools are indoors
+- **If you just need a chair and a drink**, a cafe is the low-effort
+  version of this entire article —
+  [and nobody will move you on](/blog/korea-cafe-culture-guide/)
 
 ## Get it sorted
 

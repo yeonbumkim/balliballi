@@ -2,6 +2,7 @@
 title: "Which Clinic in Korea? A Symptom-to-Department Guide"
 description: "Korean clinics are split by specialty with no gatekeeper GP. Which department treats what, what a visit costs, and how to find English support."
 pubDate: 2026-08-07T22:49:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["healthcare", "clinic", "hospital", "nhis", "korean-phrases"]
 cover: "./korean-clinic-directory-cover.webp"
@@ -39,7 +40,9 @@ Three tiers, and starting at the right one saves money and time:
   clinic refers you. Going here first for a sore throat means
   longer waits and higher fees.
 - **응급실 — emergency room.** Genuine emergencies only —
-  **call 119** for an ambulance. ER visits are expensive by Korean
+  **call 119** for an ambulance
+  ([and here is what the other numbers do](/blog/korea-emergency-numbers-112-119/),
+  including the fact that you can text them). ER visits are expensive by Korean
   standards and slow for non-urgent problems.
 
 The big-hospital fees are also structured to push you toward

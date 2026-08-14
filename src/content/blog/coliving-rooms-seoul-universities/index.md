@@ -2,6 +2,7 @@
 title: "Our Coliving Rooms: Kyung Hee, HUFS and Korea University"
 description: "Three furnished coliving houses beside Seoul university campuses, run by us. A new women-only house opens near Korea University in late August 2026."
 pubDate: 2026-08-13T16:13:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
 cover: "./coliving-cover.webp"
@@ -140,6 +141,11 @@ looks: it usually wants a large deposit, a Korean phone number and
 often an ARC you don't have yet. We wrote that up in full —
 **[how to find housing in Seoul before you have an ARC](/blog/student-housing-seoul-no-arc/)** —
 and a coliving room is the usual way around it.
+
+If you do go the normal-flat route later, read
+[what to check before you sign](/blog/what-to-check-before-renting-seoul/)
+first. Most of the money people lose in Korean rentals is lost at
+the viewing, not in the contract.
 
 What you get with us specifically:
 

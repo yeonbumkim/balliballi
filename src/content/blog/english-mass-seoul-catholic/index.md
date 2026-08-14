@@ -2,7 +2,7 @@
 title: "English Mass in Seoul: Where to Go on Sunday"
 description: "Five Seoul churches serve Mass in English every Sunday, and ten more languages have their own. The full schedule — and why you should ring ahead."
 pubDate: 2026-08-10T13:38:00+09:00
-updatedDate: 2026-08-10T13:42:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["catholic", "church", "english-mass", "community", "seoul-life"]
 cover: "./english-mass-seoul-cover.webp"
@@ -174,6 +174,11 @@ Mass in Korean is still Mass. If you're new here and want the
 community more than the language, your neighbourhood parish is
 usually the shorter walk — and they will be genuinely pleased you
 came.
+
+Getting to any of the churches above is the easy part: all five sit
+close to a subway station, and our
+[guide to getting around Seoul](/blog/seoul-transportation-guide/)
+covers the card, the transfers and the last train home.
 
 ## The Korean part
 

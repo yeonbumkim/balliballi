@@ -2,6 +2,7 @@
 title: "Finding a Weekly Housekeeper in Korea (Yes, They Exist)"
 description: "Regular home cleaning in Korea is an app-tap away — the platforms locals use, real prices per visit, and how expats find English-speaking cleaners."
 pubDate: 2026-08-05T15:00:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: cleaning
 tags: ["cleaning", "housekeeping", "home", "family"]
 cover: "./organized-closet-pants-hangers-after.webp"
@@ -120,6 +121,13 @@ communication channel — so you get the domestic market's prices
 with English-language coordination. One-off deep cleans,
 move-out cleans and the recurring weekly slot all run through
 the same chat.
+
+Two related jobs a cleaner will not solve for you. If a wall keeps
+going black in the same spot, that is damp rather than dirt —
+[here is how to tell, and whose problem it is](/blog/mould-behind-baseboard-korea/).
+And if the move-out clean is what you are planning for, the deposit
+argument it feeds into starts
+[the day you move in](/blog/photograph-your-flat-move-in-day/).
 
 ## Get it sorted
 

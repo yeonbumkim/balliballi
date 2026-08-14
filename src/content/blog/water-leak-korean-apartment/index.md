@@ -2,6 +2,7 @@
 title: "Water Leaks in a Korean Apartment: Who Pays, and What to Do"
 description: "Whose problem is it when water comes through the ceiling — the insurance nobody checks, why monsoon stalls repairs, and what to do first."
 pubDate: 2026-08-13T12:44:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: plumbing
 tags: ["leak", "plumbing", "apartment", "insurance", "neighbours"]
 cover: "./water-leak-cover.webp"
@@ -259,6 +260,25 @@ If water is coming in right now:
 ![Water spreading across the granite floor of an apartment lobby by the lift](./building-leak-corridor-floor.webp)
 
 *When it reaches the shared corridor, it stops being a private argument · ⓒ @BalliBalliSeoul*
+
+## Is it actually a leak?
+
+Before you escalate to the management office, rule out the smaller
+problems that produce similar-looking water:
+
+- **A slow, spreading damp patch at the bottom of a wall**, with no
+  pipe above it, is usually condensation rather than a leak —
+  [and it has its own tell](/blog/mould-behind-baseboard-korea/)
+- **Water pooling around a drain** is a blockage, not a leak, and
+  often [a job you can finish yourself](/blog/unclog-bathroom-sink-korea/)
+- **A tap or shower head that will not stop dripping** is a washer,
+  [not a plumber's callout](/blog/fix-leaky-faucet-korea/)
+- **Hot water that comes and goes** is the boiler, not the pipework —
+  [ask about the valve first](/blog/korea-boiler-hot-water-problems/)
+
+Everything else — a stain on a ceiling, water crossing between
+units, anything that reaches a shared corridor — belongs in this
+article.
 
 ## The Korean part
 

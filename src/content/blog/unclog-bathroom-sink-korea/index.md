@@ -2,6 +2,7 @@
 title: "Clogged Sink in Korea? Fix It Yourself, or Know When to Stop"
 description: "Why drain cleaner didn't work, the ₩2,000 Daiso tools that usually do, and what a plumber actually costs in Seoul — written for English speakers."
 pubDate: 2026-08-06T08:51:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: plumbing
 tags: ["drains", "sink", "bathroom", "diy"]
 cover: "./drain-cleaner-bottle-korean-bathroom-sink.webp"
@@ -76,6 +77,14 @@ Put the tools down if any of these applies:
   fix it.** Chemical residue sitting in a blocked pipe can burn skin and
   eyes, and a plumber needs to flush it safely before working. (This is
   standard procedure when we arrange one — just mention it in the chat.)
+
+Two neighbours of this problem, in case you are in the wrong
+article: a **tap that drips** rather than a drain that blocks is a
+much cheaper fix and often a
+[fifteen-minute job you can do yourself](/blog/fix-leaky-faucet-korea/).
+And if water is appearing where no pipe of yours runs — a ceiling
+stain, a damp patch on a neighbour's side — that is
+[a different problem with a different bill attached](/blog/water-leak-korean-apartment/).
 
 ## What it costs in Seoul
 

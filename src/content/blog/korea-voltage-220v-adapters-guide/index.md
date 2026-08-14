@@ -2,6 +2,7 @@
 title: "Korea Runs on 220V: Will Your Appliances Survive?"
 description: "Korea uses 220V with European-style round plugs. What works with a cheap adapter, what needs a transformer, and which appliances to leave at home."
 pubDate: 2026-08-11T17:19:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["voltage", "220v", "adapters", "settling-in", "appliances"]
 cover: "./travel-adapter-europe-prongs-in-korean-outlet.webp"
@@ -24,8 +25,15 @@ Here's the two-minute literacy that saves your electronics.
 - **Frequency**: 60Hz — usefully, the *same* as North America, so
   clocks and motors that survive the voltage won't run at wrong
   speeds like they do in 50Hz Europe.
+
 - **Plugs**: round two-pin **Type C/F** (the standard European
   shapes). Your flat-pin plugs need a shape adapter at minimum.
+
+What all this plugs into is a bill that does not rise in a straight
+line. Korean household electricity is charged in **progressive
+tiers**, which is why one heavy month costs far more than you would
+expect — worth reading before summer if you own an air conditioner:
+[why the summer bill spikes, and what to do](/blog/korea-summer-electricity-bill/).
 
 Here's the socket you'll be dealing with — recessed, round, and
 stamped with its rating (16A 250V):

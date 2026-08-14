@@ -2,6 +2,7 @@
 title: "3 Things About Korea That Surprise Every Newcomer"
 description: "Spotless streets with no trash cans, restaurants open past midnight with hour-long waits, and pharmacies-in-disguise on every corner. Korea, explained."
 pubDate: 2026-08-08T19:13:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["culture-shock", "first-week", "convenience-store", "streets", "cafes"]
 cover: "./three-surprises-cover.webp"
@@ -109,6 +110,8 @@ GS25, CU, 7-Eleven, emart24 — are 24/7, everywhere, and far closer to
 a mini-restaurant than the gas-station snack rack the name suggests:
 fresh dosirak (meal boxes), triangle kimbap, instant ramyeon with a
 hot-water station and seating to eat it, decent coffee, and beer.
+There is enough going on in there that we gave it
+[its own guide](/blog/korean-convenience-store-guide/).
 
 The part that genuinely surprises people: **they also sell medicine.**
 Since 2012, convenience stores can legally stock a fixed list of

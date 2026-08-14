@@ -2,6 +2,7 @@
 title: "Photograph Your Flat on Move-In Day — Meters First"
 description: "Your deposit is the largest sum you'll hand over in Korea. Twenty minutes with a camera on day one is what protects it — starting with the gas meter."
 pubDate: 2026-08-14T12:10:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
 tags: ["deposit", "moving-in", "renting", "meters", "housing"]
 cover: "./move-in-cover.webp"
@@ -13,7 +14,8 @@ draft: false
 In most countries a rental deposit is a month or two of rent. In
 Korea it's routinely **₩10,000,000 or more** — the largest single
 sum you will hand to anyone here, sitting with a landlord for a year
-or two.
+or two. (If you have not signed yet, the checks that matter come
+[before that](/blog/what-to-check-before-renting-seoul/).)
 
 You get it back at the end, minus whatever gets deducted. Which
 makes **move-in day**, before you unpack anything, the twenty

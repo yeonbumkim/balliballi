@@ -2,7 +2,7 @@
 title: "Korea's Summer Electricity Bill: Why It Spikes (and Fixes)"
 description: "The progressive rate system behind your August shock, the cashback program, and 40,000 free cooling shelters nobody tells foreign residents about."
 pubDate: 2026-08-09T13:43:00+09:00
-updatedDate: 2026-08-10T15:39:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: cleaning
 tags: ["electricity", "summer", "aircon", "bills", "heat-wave"]
 cover: "./summer-electricity-cover.webp"
@@ -115,6 +115,12 @@ Beyond the official list, the unofficial ones locals rely on:
   afternoon; that's
   [not tolerance, it's the business model](/blog/korea-cafe-culture-guide/).
 - **Smart bus shelters** — enclosed, air-conditioned, with Wi-Fi.
+- **A mall**, if you want the whole day handled — food, cinema and
+  cold air in one building, which is
+  [exactly what we did at IFC](/blog/ifc-mall-yeouido-heat-escape/).
+- **An indoor playground**, if the problem is children rather than
+  heat —
+  [two hours, weather irrelevant](/blog/seoul-kids-cafe-ddp-indoor-playground/).
 
 Spending the hottest four hours of the day out of your apartment
 isn't dodging the problem. It *is* the local solution, and it's

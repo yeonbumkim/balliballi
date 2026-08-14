@@ -2,6 +2,7 @@
 title: "Keypad Door Lock Dead in Korea? How to Get Back In"
 description: "The 9V battery trick that opens most dead Korean keypads, when it won't work, and what a locksmith actually costs in Seoul — in plain English."
 pubDate: 2026-08-05T10:00:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: locksmith
 tags: ["door-lock", "lockout", "keypad", "emergency"]
 cover: "./keypad-lock-9v-battery.jpg"
@@ -62,7 +63,9 @@ during daytime hours.
 > gets there faster than any locksmith ever will — and interpretation is
 > available on the line. This is *only* for true emergencies; for
 > everything else, 119 is the wrong number and the options below are
-> yours.
+> yours. (Not sure which number does what? We laid out
+> [112, 119 and the rest](/blog/korea-emergency-numbers-112-119/),
+> including the fact that you can text them.)
 
 Stop poking at the lock and get a professional involved if any of these is
 true:

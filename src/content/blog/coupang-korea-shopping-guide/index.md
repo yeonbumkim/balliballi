@@ -2,7 +2,7 @@
 title: "How to Use Coupang in English (and What Blocks Foreigners)"
 description: "Setting up Korea's biggest shopping app in English, the sign-up walls that stop foreigners — and how to get things ordered without an account at all."
 pubDate: 2026-08-06T22:04:00+09:00
-updatedDate: 2026-08-10T15:39:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["coupang", "shopping", "delivery", "settling-in"]
 cover: "./coupang-in-english-typographic-cover.webp"
@@ -159,6 +159,12 @@ empty flat usually means a pile of boxes going up and something
 bulky coming down — mattresses and appliances need
 [an official bulky-waste sticker](/blog/how-to-throw-away-trash-in-korea/),
 and if it's a whole move, [that's ours to arrange](/moving).
+
+One warning before you order an appliance you intend to keep:
+**Korea runs on 220V at 60Hz**, and a device bought here may not
+survive being taken home — or the other way round. Check
+[what actually works and what quietly dies](/blog/korea-voltage-220v-adapters-guide/)
+before you buy anything with a motor or a heating element.
 
 ## The Korean part
 

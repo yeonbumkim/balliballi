@@ -124,6 +124,7 @@ crowded line in the city at rush hour.
 ![A lit Seoul subway station entrance on a street at night](./subway-station-entrance-night.webp)
 
 *After midnight this is just a lit staircase to nowhere · ⓒ @BalliBalliSeoul*
+
 - The official English map and route planner live on
   [Seoul Metro's Cyber Station](http://www.seoulmetro.co.kr/en/cyberStation.do)
   — good for orientation, though the map apps win for daily use.

@@ -2,6 +2,7 @@
 title: "Korean Ramyeon at the Convenience Store: Buldak, Decoded"
 description: "A heat ladder from Shin to Nuclear, why the buldak you know abroad isn't the one on this shelf, what cups cost, and how to eat it in the store."
 pubDate: 2026-08-09T00:30:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
 tags: ["convenience-store", "buldak", "ramyeon", "food", "budget"]
 cover: "./ramyeon-wall-cover.webp"
@@ -101,7 +102,10 @@ about the whole system.
 **Korean convenience stores are set up for you to eat there.** Not
 tolerated — designed. Near the counter you'll find a **hot water
 dispenser** (온수기) and usually a **microwave**, and by the window
-or outside there are tables and stools.
+or outside there are tables and stools. Ramyeon is only one thing
+they do — the
+[full tour of what a Korean convenience store is for](/blog/korean-convenience-store-guide/)
+covers the meal boxes, the deals and the services desk.
 
 The routine:
 

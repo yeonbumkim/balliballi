@@ -2,7 +2,7 @@
 title: "Student Housing in Seoul: Renting Without an ARC or Phone"
 description: "Arriving for the semester and every Korean housing site rejects you? Here's how students actually rent from abroad — platforms, deposits, and the play."
 pubDate: 2026-08-08T00:00:00+09:00
-updatedDate: 2026-08-14T12:50:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
 cover: "./sharehouse-single-room-bed-desk.webp"
@@ -114,7 +114,11 @@ monthly cost, the two-step local contract wins. If your ceiling is
 ₩2,000,000–3,000,000, be honest with yourself: **you're shopping
 the foreigner platforms and share houses**, and chasing regular
 listings will burn weeks you don't have. Neither answer is wrong —
-they're different products for different wallets.
+they're different products for different wallets. The deposit is
+also the single most informative number in any listing — we pulled
+apart
+[what different deposit sizes actually tell you](/blog/what-to-check-before-renting-seoul/)
+about the property you are looking at.
 
 ## Picking the neighborhood: commute math first
 

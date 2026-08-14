@@ -2,6 +2,7 @@
 title: "Check Behind the Baseboard Before You Sign a Korean Lease"
 description: "A Seoul flat can look spotless and still grow mould along every wall. Where it hides, why Korean interiors conceal it, and what to check at a viewing."
 pubDate: 2026-08-13T15:34:00+09:00
+updatedDate: 2026-08-14T15:10:00+09:00
 service: cleaning
 tags: ["mould", "damp", "housing", "renting", "health"]
 cover: "./mould-cover.webp"
@@ -163,6 +164,17 @@ Steps 3 and 4 are where we come in: our
 anything structural we get the right trade in and translate the
 diagnosis — because "the wall is wet and nobody will tell me why in
 English" is exactly the problem this company was built around.
+
+If keeping on top of it is the issue rather than fixing it once,
+[weekly cleaning help is easier to arrange here than most people
+assume](/blog/housekeeping-service-korea/).
+
+This check is one of several worth doing before you sign anything.
+The rest — what the deposit is telling you, the management fee, the
+ten minutes at the viewing — are in our
+[guide to renting in Seoul](/blog/what-to-check-before-renting-seoul/),
+and once you have the keys, photograph everything you find
+[on day one](/blog/photograph-your-flat-move-in-day/).
 
 ## Get it sorted
 
