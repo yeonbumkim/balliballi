@@ -145,12 +145,19 @@ bring you up inside the complex.
 
 **Come by subway if you can.** Driving means the underground car
 park, and **parking is charged separately from your admission
-ticket** — budget for it on top, and ask at the counter whether any
-discount applies before you assume one does. On a busy weekend the
-garage fills, and once it does, simply getting in becomes the
-problem before you have reached the door. With a pushchair and a
-small child in the car, that is not the start to an afternoon you
-want.
+ticket.**
+
+There is a way to avoid it, with a catch. The playground will issue
+a voucher for **up to two hours of free parking** — but only if you
+spend **₩50,000 or more** on food and drink inside. That is a high
+bar for one family and one child, so the maths only works if you
+were already planning to eat a full meal there. Ask at the counter
+and hold on to your receipt.
+
+On a busy weekend the garage fills, and once it does, simply
+getting in becomes the problem before you have reached the door.
+With a pushchair and a small child in the car, that is not the
+start to an afternoon you want.
 
 ## Do you need to book, or can you just turn up?
 
@@ -206,6 +213,10 @@ Whether that bothers you is a budget question, not a value one. Eat
 before you arrive and keep the in-house order to ice cream at the
 end, or accept the markup for the considerable luxury of feeding
 everyone without putting shoes back on.
+
+One exception worth doing the sums on: if you drove to DDP, the
+₩50,000 spend that unlocks two hours of free parking is easier to
+justify when it also covers lunch.
 
 ## The Korean part
 
