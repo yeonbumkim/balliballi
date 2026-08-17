@@ -2,7 +2,7 @@
 title: "Korean Cafe Culture: Prices, Chains, and the All-Day Table"
 description: "Why Korea has a cafe on every corner: what each chain costs, how ordering works, and why one americano legitimately buys you a whole afternoon."
 pubDate: 2026-08-08T19:33:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-17T20:10:00+09:00
 service: etc
 tags: ["cafe", "coffee", "starbucks", "study-cafe", "seoul-life"]
 cover: "./specialty-roastery-barista-bean-shelf.webp"
@@ -69,7 +69,10 @@ The flow is:
 Sitting down first and waiting for a server is the classic
 newcomer mistake — you'll wait forever. Restaurants are the mirror
 image of this: there you *do* sit first, and you summon staff with
-a call button on the table. Two opposite scripts, one city.
+a call button on the table. Two opposite scripts, one city — and
+[the restaurant one is worth learning
+separately](/blog/korean-restaurant-how-it-works/), because that is
+where the cutlery drawer and the free side dishes live.
 
 ## The all-day table
 

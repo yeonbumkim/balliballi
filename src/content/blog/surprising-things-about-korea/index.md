@@ -2,7 +2,7 @@
 title: "3 Things About Korea That Surprise Every Newcomer"
 description: "Spotless streets with no trash cans, restaurants open past midnight with hour-long waits, and pharmacies-in-disguise on every corner. Korea, explained."
 pubDate: 2026-08-08T19:13:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-17T20:10:00+09:00
 service: etc
 tags: ["culture-shock", "first-week", "convenience-store", "streets", "cafes"]
 cover: "./three-surprises-cover.webp"
@@ -97,6 +97,12 @@ and study hall.
 Nobody will bring you a check, hover, or ask if you'd like anything
 else. Big tables, outlets at most seats, and a room full of people
 doing exactly what you're doing.
+
+Sit-down restaurants run on the opposite script, and on their own
+set of unwritten rules — the cutlery hidden in a drawer in the
+table, the bell you press instead of waiting to be greeted, the side
+dishes nobody charges you for. Those are
+[all here](/blog/korean-restaurant-how-it-works/).
 
 ## 3. When everything's finally closed, the convenience store isn't
 
