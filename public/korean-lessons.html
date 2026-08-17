@@ -207,6 +207,9 @@
     .faq details{border-bottom:1px solid var(--border);padding:14px 0}
     .faq summary{font-weight:700;cursor:pointer}
     .faq p{margin-top:10px;color:var(--muted);line-height:1.8}
+    .tphoto{width:96px;height:96px;border-radius:50%;overflow:hidden;margin-bottom:14px;background:var(--primary-light);border:2px solid var(--primary);display:flex;align-items:center;justify-content:center;flex:0 0 auto}
+    .tphoto img{width:100%;height:100%;object-fit:cover;display:block}
+    .tphoto:not(:has(img))::before{content:attr(data-initial);font-size:34px;font-weight:800;color:var(--primary-dark);line-height:1}
     .card .avail{font-size:13px;background:var(--primary-light);border-left:3px solid var(--primary);padding:8px 10px;border-radius:6px;margin:0 0 12px;line-height:1.6}
     .card .tline{font-size:13px;color:var(--primary-dark);font-weight:700;margin:2px 0 10px;line-height:1.6}
     .card p{line-height:1.75;margin-bottom:10px}
@@ -291,6 +294,11 @@
 
         <div class="cards">
           <div class="card">
+            <div class="tphoto" data-initial="L">
+              <!-- 사진 도착 시 이 주석을 아래 img 로 교체:
+              <img src="/img/teachers/teacher-lim.webp" alt="Lim, a Korean language teacher at Balli Balli Seoul" width="96" height="96" loading="lazy">
+              -->
+            </div>
             <h3>Lim</h3>
             <p class="tline">Corporate background · Workplace Korean · Drama Korean</p>
             <p>Lim came to teaching from the working world — years inside a major Korean conglomerate,
@@ -306,6 +314,11 @@
           </div>
 
           <div class="card">
+            <div class="tphoto" data-initial="E">
+              <!-- 사진 도착 시 이 주석을 아래 img 로 교체:
+              <img src="/img/teachers/teacher-elli.webp" alt="Elli, a Korean language teacher at Balli Balli Seoul" width="96" height="96" loading="lazy">
+              -->
+            </div>
             <h3>Elli</h3>
             <p class="tline">10+ years teaching · Former primary school teacher · Art &amp; psychology</p>
             <p class="avail">📅 Taking students from <strong>September 2026</strong> — ask now to hold a slot.</p>
