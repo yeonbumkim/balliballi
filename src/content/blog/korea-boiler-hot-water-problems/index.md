@@ -2,6 +2,7 @@
 title: "Hot Water Coming and Going? Ask About the Valve First"
 description: "Intermittent hot water in a Korean flat usually points at one cheap part, not a new boiler. What the symptom means, what it costs, and who pays for it."
 pubDate: 2026-08-13T14:53:00+09:00
+updatedDate: 2026-08-19T00:05:00+09:00
 service: plumbing
 category: home
 tags: ["boiler", "hot-water", "plumbing", "heating", "landlord"]
@@ -109,6 +110,11 @@ reasonably clear line.
   practical signal. One valve is a repair. Three call-outs is a
   boiler telling you something.
 
+If it does come to that, the number you'll want next is what a
+replacement runs to — we published a real receipt for a condensing
+gas boiler supplied and fitted in Seoul, and what the spec on the box
+means: [boiler replacement cost in Korea](/blog/boiler-replacement-cost-korea/).
+
 **So: find out how old it is.** There's a plate on the unit with the
 model and manufacture date, and the manufacturer's service number is
 usually printed right there too.
@@ -196,4 +202,5 @@ you'll know it's a valve.
 The one-line version: **hot water that comes and goes is usually the
 diverter valve, that's a sub-₩100,000 repair, boilers themselves run
 8–10 years — and if it's age or wear, the bill belongs to your
-landlord.**
+landlord.** If it turns out to be the boiler,
+[here is what replacing one costs](/blog/boiler-replacement-cost-korea/).
