@@ -2,7 +2,7 @@
 title: "Getting Around Seoul: Subway, Bus, Taxi, Uber and KTX"
 description: "Which one to actually use, and when. Subway by day, taxi after midnight, Uber vs Kakao T, and how to reach another city — with the two-person maths."
 pubDate: 2026-08-10T14:07:00+09:00
-updatedDate: 2026-08-18T22:10:00+09:00
+updatedDate: 2026-08-18T22:50:00+09:00
 service: etc
 tags: ["transportation", "subway", "bus", "taxi", "uber", "ktx"]
 cover: "./seoul-transport-cover.webp"
@@ -285,6 +285,11 @@ For a six-day trip based in Seoul, the honest advice is: **do your
 day trips by rail, and don't rent a car.** Parking is genuinely
 difficult, and the map apps that work here are the ones that assume
 you're not driving.
+
+If you do drive, read
+[what to do after an accident in a rental](/blog/rental-car-accident-korea/)
+before you need it — it includes a real settlement statement where a light
+touch with a Porsche came to ₩13.9 million.
 
 ## Airport connections
 

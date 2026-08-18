@@ -2,6 +2,7 @@
 title: "Korea's Emergency Numbers: 112, 119 (and Yes, You Can Text)"
 description: "There's no 911 in Korea — police are 112, fire and ambulance 119. Both work with interpreters, both accept text messages, and here's who to call for what."
 pubDate: 2026-08-12T11:25:00+09:00
+updatedDate: 2026-08-18T22:50:00+09:00
 service: etc
 tags: ["emergency", "112", "119", "safety", "settling-in"]
 cover: "./emergency-numbers-cover.webp"
@@ -19,7 +20,10 @@ rest when you can.
 ## The two numbers that matter
 
 **112 — Police.** Crime, theft, assault, harassment, traffic accidents
-with a dispute, anything where you need officers.
+with a dispute, anything where you need officers. For a straightforward
+bump between two cars, though, the police usually aren't the call you
+need first — [here's who to ring after a car accident, and in what
+order](/blog/rental-car-accident-korea/).
 
 **119 — Fire & Ambulance.** Fire, medical emergencies, rescue —
 including situations like being trapped in an elevator. One number
