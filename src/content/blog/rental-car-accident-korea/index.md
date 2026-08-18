@@ -1,6 +1,6 @@
 ---
-title: "Rental Car Accident in Korea: Who to Call, in What Order"
-description: "A light touch with a Porsche in Seoul ran to ₩13.9m in claims. Who to call, why you never settle in cash, and the real settlement statement, itemised."
+title: "Minor Car Accident in Korea: The ₩13.9M Bill, Itemised"
+description: "A minor touch in Seoul ran to ₩13.9m. Who to call — the rental company or your insurer — why you never settle in cash, and the real settlement, itemised."
 pubDate: 2026-08-18
 service: etc
 category: transport
