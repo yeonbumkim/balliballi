@@ -3,6 +3,7 @@ title: "How to Book Movie Tickets in Korea (CGV, Lotte, Megabox)"
 description: "Booking a movie in Korea in English: the three chains, subtitle vs. dubbed labels, IMAX and 4DX, cheap-ticket days, and how to survive the apps."
 pubDate: 2026-08-07T11:59:00+09:00
 service: etc
+category: things-to-do
 tags: ["movies", "cgv", "cinema", "things-to-do"]
 cover: "./cgv-kiosk-self-ticketing-foreigner.webp"
 coverAlt: "A foreigner using a self-ticketing kiosk under the CGV sign at the newly reopened CGV Yeouido in IFC Mall, Seoul"

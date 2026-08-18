@@ -4,6 +4,7 @@ description: "Regular home cleaning in Korea is an app-tap away — the platform
 pubDate: 2026-08-05T15:00:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: cleaning
+category: home
 tags: ["cleaning", "housekeeping", "home", "family"]
 cover: "./organized-closet-pants-hangers-after.webp"
 coverAlt: "A Korean closet after a housekeeping visit — pants and jeans neatly folded over sliding hangers"

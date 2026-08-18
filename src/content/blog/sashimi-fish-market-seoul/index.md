@@ -3,6 +3,7 @@ title: "Sushi vs Sashimi in Seoul: Go to the Fish Market"
 description: "What Koreans eat is hoe, not sushi — raw fish you pick from a tank and eat upstairs. Which of Seoul's two big fish markets to use, and how ordering works."
 pubDate: 2026-08-17T20:53:00+09:00
 service: etc
+category: food
 tags: ["sashimi", "sushi", "hoe", "fish-market", "seafood", "seoul"]
 cover: "./hoe-platter-sliced-raw-fish.webp"
 coverAlt: "A large oval platter of thinly sliced white raw fish with perilla leaves, radish and dipping sauces on a wooden table in Seoul"

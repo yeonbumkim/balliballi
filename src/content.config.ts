@@ -14,7 +14,12 @@ const blog = defineCollection({
       description: z.string().max(155, 'description은 155자 이내 (검색 결과에서 잘림)'),
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
+      // service = 전환 동선 (어느 서비스 페이지로 보낼까). 독자용 분류가 아니다
       service: z.enum(['plumbing', 'locksmith', 'cleaning', 'moving', 'etc']),
+      // category = 독자용 분류 (/blog 목록 칩). service와 역할이 다르다 — README 참고
+      category: z
+        .enum(['home', 'food', 'transport', 'health', 'settling-in', 'things-to-do', 'culture'])
+        .optional(),
       tags: z.array(z.string()).default([]),
       cover: image().optional(),
       coverAlt: z.string().optional(),

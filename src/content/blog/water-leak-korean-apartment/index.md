@@ -4,6 +4,7 @@ description: "Whose problem is it when water comes through the ceiling — the i
 pubDate: 2026-08-13T12:44:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: plumbing
+category: home
 tags: ["leak", "plumbing", "apartment", "insurance", "neighbours"]
 cover: "./water-leak-cover.webp"
 coverAlt: "A living room with the entire ceiling torn out — battens, broken plasterboard and insulation piled on the floor after a leak from the flat above"

@@ -4,6 +4,7 @@ description: "There's no 911 in Korea — police are 112, fire and ambulance 119
 pubDate: 2026-08-12T11:25:00+09:00
 updatedDate: 2026-08-18T22:50:00+09:00
 service: etc
+category: health
 tags: ["emergency", "112", "119", "safety", "settling-in"]
 cover: "./emergency-numbers-cover.webp"
 coverAlt: "Cover graphic listing Korea's emergency numbers — 112 police, 119 fire and ambulance, 1330 help in English"

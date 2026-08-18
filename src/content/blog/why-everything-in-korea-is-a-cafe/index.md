@@ -4,6 +4,7 @@ description: "PRINT CAFE, PC bang, coin wash, study cafe. Korea rents you a room
 pubDate: 2026-08-09T13:30:00+09:00
 updatedDate: 2026-08-12T17:33:00+09:00
 service: etc
+category: food
 tags: ["cafe", "pc-bang", "laundry", "study-cafe", "seoul-life"]
 cover: "./print-cafe-cover.webp"
 coverAlt: "A blue shop sign reading PRINT CAFE 24 above a Seoul storefront with copiers visible inside"

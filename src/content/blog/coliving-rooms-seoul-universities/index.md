@@ -4,6 +4,7 @@ description: "Three furnished coliving houses beside Seoul university campuses, 
 pubDate: 2026-08-13T16:13:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
+category: home
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
 cover: "./coliving-cover.webp"
 coverAlt: "A furnished single room in a Seoul coliving house with a bed, desk and chair beside a curtained window"

@@ -3,6 +3,7 @@ title: "Working Out in Korea: Gyms, Pools and the Han River"
 description: "Where foreigners actually exercise in Seoul — Han River parks, district sports centers, gym contracts to be careful with, and the swim-cap rule."
 pubDate: 2026-08-14T13:20:00+09:00
 service: etc
+category: things-to-do
 tags: ["fitness", "gym", "swimming", "han-river", "sports"]
 cover: "./han-river-running-cover.webp"
 coverAlt: "A runner on a paved path beside the Han River in Seoul, with the Lotte World Tower and apartment blocks across the water"

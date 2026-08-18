@@ -4,6 +4,7 @@ description: "Which one to actually use, and when. Subway by day, taxi after mid
 pubDate: 2026-08-10T14:07:00+09:00
 updatedDate: 2026-08-18T22:50:00+09:00
 service: etc
+category: transport
 tags: ["transportation", "subway", "bus", "taxi", "uber", "ktx"]
 cover: "./seoul-transport-cover.webp"
 coverAlt: "Fare gates in a Seoul subway station beneath a sign reading 타는 곳 Tracks"

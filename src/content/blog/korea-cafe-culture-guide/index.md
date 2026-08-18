@@ -4,6 +4,7 @@ description: "Why Korea has a cafe on every corner: what each chain costs, how o
 pubDate: 2026-08-08T19:33:00+09:00
 updatedDate: 2026-08-17T20:10:00+09:00
 service: etc
+category: food
 tags: ["cafe", "coffee", "starbucks", "study-cafe", "seoul-life"]
 cover: "./specialty-roastery-barista-bean-shelf.webp"
 coverAlt: "A barista silhouetted against a lit wall at a Korean specialty coffee roastery, with bags of beans on shelves"

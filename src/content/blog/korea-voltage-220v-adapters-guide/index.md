@@ -4,6 +4,7 @@ description: "Korea uses 220V with European-style round plugs. What works with a
 pubDate: 2026-08-11T17:19:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: settling-in
 tags: ["voltage", "220v", "adapters", "settling-in", "appliances"]
 cover: "./travel-adapter-europe-prongs-in-korean-outlet.webp"
 coverAlt: "A universal travel adapter with its EUROPE round-pin module slid out, held beside a round Korean wall outlet"

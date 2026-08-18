@@ -4,6 +4,7 @@ description: "Setting up Korea's biggest shopping app in English, the sign-up wa
 pubDate: 2026-08-06T22:04:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: settling-in
 tags: ["coupang", "shopping", "delivery", "settling-in"]
 cover: "./coupang-in-english-typographic-cover.webp"
 coverAlt: "Bold green cover reading Coupang, in English — the sign-up walls and the ways around them"

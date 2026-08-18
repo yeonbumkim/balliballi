@@ -3,6 +3,7 @@ title: "Seoul Kids Cafes: Prices, Rules, and the DDP Playground"
 description: "A Korean kids cafe is an indoor playground you pay to enter by the hour. What it costs in Seoul, the age cap that turns families away, and the DDP one."
 pubDate: 2026-08-14
 service: etc
+category: things-to-do
 tags: ["kids-cafe", "kids", "family", "seoul", "indoor-playground", "ddp", "rainy-day"]
 cover: "./kids-cafe-cover.webp"
 coverAlt: "Inside a Seoul kids cafe: an indoor playground with a climbing wall, foam building blocks and a curved white ceiling"

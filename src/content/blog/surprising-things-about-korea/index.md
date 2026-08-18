@@ -4,6 +4,7 @@ description: "Spotless streets with no trash cans, restaurants open past midnigh
 pubDate: 2026-08-08T19:13:00+09:00
 updatedDate: 2026-08-17T20:10:00+09:00
 service: etc
+category: culture
 tags: ["culture-shock", "first-week", "convenience-store", "streets", "cafes"]
 cover: "./three-surprises-cover.webp"
 coverAlt: "Cover graphic listing three Korean surprises — spotless streets with no bins, late-night cafes with queues, convenience stores selling medicine"

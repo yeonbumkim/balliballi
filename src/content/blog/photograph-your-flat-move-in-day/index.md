@@ -4,6 +4,7 @@ description: "Your deposit is the largest sum you'll hand over in Korea. Twenty 
 pubDate: 2026-08-14T12:10:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
+category: home
 tags: ["deposit", "moving-in", "renting", "meters", "housing"]
 cover: "./move-in-cover.webp"
 coverAlt: "A Korean domestic gas meter showing a reading of 04688.359 cubic metres, mounted on a pipe"

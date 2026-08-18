@@ -3,6 +3,7 @@ title: "Seoul Subway Fares: What It Costs, Plus a 6:30am Discount"
 description: "Adult ₩1,550 to start, ₩100 more per 5km, and free transfers if you tap out. The official 2026 fare table, turned into what you'll actually pay."
 pubDate: 2026-08-18
 service: etc
+category: transport
 tags: ["subway", "fares", "transportation", "seoul-metro", "tourist"]
 cover: "./ticket-machine-english-fare-menu.webp"
 coverAlt: "A Seoul Metro ticket machine screen in English mode showing Single Journey Ticket, Free Ticket, Reloading the transit card, Purchase transportation card and Refund"

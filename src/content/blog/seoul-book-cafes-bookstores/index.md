@@ -3,6 +3,7 @@ title: "Seoul's Book Cafes: Go Even If You Can't Read Korean"
 description: "Bookstore-cafes let you sit for hours in air conditioning, surrounded by books. What's usable if you don't read Korean — and where the old ones are."
 pubDate: 2026-08-12T18:13:00+09:00
 service: etc
+category: food
 tags: ["books", "cafe", "seoul-life", "free-things", "quiet"]
 cover: "./book-cafe-cover.webp"
 coverAlt: "A large bookstore cafe in Seoul with floor-to-ceiling book walls, a central display table and windows looking onto trees"

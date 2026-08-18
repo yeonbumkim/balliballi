@@ -4,6 +4,7 @@ description: "A heat ladder from Shin to Nuclear, why the buldak you know abroad
 pubDate: 2026-08-09T00:30:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: food
 tags: ["convenience-store", "buldak", "ramyeon", "food", "budget"]
 cover: "./ramyeon-wall-cover.webp"
 coverAlt: "A convenience store shelf stacked with Korean cup ramyeon — cheese buldak, carbonara buldak, mala buldak, original buldak and beef soup cups, priced at 1,800 won"

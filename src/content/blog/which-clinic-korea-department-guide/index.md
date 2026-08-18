@@ -4,6 +4,7 @@ description: "Korean clinics are split by specialty with no gatekeeper GP. Which
 pubDate: 2026-08-07T22:49:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: health
 tags: ["healthcare", "clinic", "hospital", "nhis", "korean-phrases"]
 cover: "./korean-clinic-directory-cover.webp"
 coverAlt: "Illustrated building directory showing Korean clinic departments by floor — internal medicine, ENT, orthopedics, dermatology, pharmacy"

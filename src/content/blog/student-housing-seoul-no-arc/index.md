@@ -4,6 +4,7 @@ description: "Arriving for the semester and every Korean housing site rejects yo
 pubDate: 2026-08-08T00:00:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
+category: home
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
 cover: "./sharehouse-single-room-bed-desk.webp"
 coverAlt: "A furnished single room in a Seoul share house — bed, desk, chair, drawers and curtained window"

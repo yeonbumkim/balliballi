@@ -4,6 +4,7 @@ description: "A ₩1–2M deposit usually means you're not looking at a one-room
 pubDate: 2026-08-13T16:31:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
+category: home
 tags: ["renting", "housing", "deposit", "one-room", "moving-in"]
 cover: "./viewing-cover.webp"
 coverAlt: "A small furnished one-room studio in Seoul with a bed, desk and curtained window"

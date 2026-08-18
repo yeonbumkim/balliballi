@@ -4,6 +4,7 @@ description: "Korea has no tipping culture: no tip line on kiosks, no jar on the
 pubDate: 2026-08-07T17:25:00+09:00
 updatedDate: 2026-08-10T15:39:00+09:00
 service: etc
+category: culture
 tags: ["tipping", "kiosk", "etiquette", "restaurants", "tourist"]
 cover: "./mcdonalds-kiosk-screen-korea.webp"
 coverAlt: "A McDonald's self-order kiosk screen in Korea showing Start Order and Languages buttons, with no tip option"

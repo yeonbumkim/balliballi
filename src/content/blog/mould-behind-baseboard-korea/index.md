@@ -4,6 +4,7 @@ description: "A Seoul flat can look spotless and still grow mould along every wa
 pubDate: 2026-08-13T15:34:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: cleaning
+category: home
 tags: ["mould", "damp", "housing", "renting", "health"]
 cover: "./mould-cover.webp"
 coverAlt: "A gloved hand pulling back a plastic baseboard strip to reveal black mould along the bottom edge of the wallpaper and the concrete beneath"

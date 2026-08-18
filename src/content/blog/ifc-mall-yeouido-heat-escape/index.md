@@ -4,6 +4,7 @@ description: "When it's 38°C outside, one Yeouido building gives you a cinema, 
 pubDate: 2026-08-07T18:38:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: things-to-do
 tags: ["ifc-mall", "yeouido", "heat-wave", "things-to-do", "arcade"]
 cover: "./retro-arcade-floor-overhead-ifc-mall.webp"
 coverAlt: "Overhead view of a retro arcade event floor inside IFC Mall Yeouido, with rows of arcade cabinets and crowds playing"

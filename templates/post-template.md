@@ -3,6 +3,7 @@ title: "Search-Query-Shaped Title, Keyword Near the Front"
 description: "One or two plain sentences that will appear in Google results. What the reader gets, no keyword stuffing."
 pubDate: 2026-01-01
 service: plumbing
+category: home
 tags: []
 # cover: "./descriptive-file-name.jpg"
 # coverAlt: "English, descriptive sentence of what's in the photo"

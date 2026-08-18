@@ -4,6 +4,7 @@ description: "The progressive rate system behind your August shock, the cashback
 pubDate: 2026-08-09T13:43:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: cleaning
+category: home
 tags: ["electricity", "summer", "aircon", "bills", "heat-wave"]
 cover: "./summer-electricity-cover.webp"
 coverAlt: "The circular display on an LG tower air conditioner showing cooling mode set to 27 degrees"

@@ -3,6 +3,7 @@ title: "How Korean Restaurants Work: Drawers, Bells, Free Banchan"
 description: "Nothing on the table, no server coming over, side dishes you didn't order — Korean restaurants run on rules nobody explains. Here are the five that matter."
 pubDate: 2026-08-17T20:02:00+09:00
 service: etc
+category: food
 tags: ["restaurants", "etiquette", "banchan", "cafes", "first-week"]
 cover: "./cutlery-drawer-cover.webp"
 coverAlt: "An open cutlery drawer pulled out from the side of a Korean restaurant table, holding chopsticks, spoons and a napkin dispenser"

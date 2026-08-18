@@ -4,6 +4,7 @@ description: "Five Seoul churches serve Mass in English every Sunday, and ten mo
 pubDate: 2026-08-10T13:38:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: culture
 tags: ["catholic", "church", "english-mass", "community", "seoul-life"]
 cover: "./english-mass-seoul-cover.webp"
 coverAlt: "Cover graphic listing five Sunday English Mass times in Seoul — Myeongdong Cathedral, Hannam International Parish, Yeoksam-dong and Sogang University"

@@ -4,6 +4,7 @@ description: "Korean baseball is back after a six-day heat shutdown. Every game 
 pubDate: 2026-08-06T08:12:00+09:00
 updatedDate: 2026-08-11T10:19:00+09:00
 service: etc
+category: things-to-do
 tags: ["kbo", "baseball", "heat-wave", "summer", "events"]
 cover: "./kbo-night-game-packed-stadium-seoul.webp"
 coverAlt: "Packed KBO baseball stadium in Seoul under floodlights at dusk, with the city skyline behind the stands"

@@ -8,3 +8,15 @@ export const SERVICE_PAGES = {
   moving: { href: '/moving', label: 'moving help arranged in English' },
   etc: { href: '/etc', label: 'anything-else concierge service' },
 } as const;
+
+// /blog 목록·글 상단 칩에 쓰는 독자용 분류 라벨.
+// 값(슬러그)은 src/content.config.ts의 category enum과 일치해야 한다.
+export const CATEGORY_LABELS = {
+  home: 'Home',
+  food: 'Food & drink',
+  transport: 'Transport',
+  health: 'Health',
+  'settling-in': 'Settling in',
+  'things-to-do': 'Things to do',
+  culture: 'Culture',
+} as const;

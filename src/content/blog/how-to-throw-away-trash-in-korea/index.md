@@ -4,6 +4,7 @@ description: "Korea's four waste streams explained: district bags, mandatory foo
 pubDate: 2026-08-06T08:30:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: moving
+category: settling-in
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
 cover: "./four-sorting-bins-recycling-station.webp"
 coverAlt: "Four sorting bins in a row under a counter, labeled for general waste, paper, plastic, and cans"

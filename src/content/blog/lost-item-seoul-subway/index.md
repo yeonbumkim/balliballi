@@ -3,6 +3,7 @@ title: "Lost Something on the Seoul Subway? Read the Door Number"
 description: "Seoul's lost property desks are split by line, each with its own number — and the car-and-door marker on the platform is what makes your bag findable."
 pubDate: 2026-08-18T12:57:00+09:00
 service: etc
+category: transport
 tags: ["lost-property", "subway", "seoul-metro", "transport", "emergency"]
 cover: "./subway-platform-door-marker-2-1.webp"
 coverAlt: "A Seoul subway platform floor marked 2-1 in front of the screen doors, showing the car and door number"

@@ -4,6 +4,7 @@ description: "Why drain cleaner didn't work, the ₩2,000 Daiso tools that usual
 pubDate: 2026-08-06T08:51:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: plumbing
+category: home
 tags: ["drains", "sink", "bathroom", "diy"]
 cover: "./drain-cleaner-bottle-korean-bathroom-sink.webp"
 coverAlt: "A 2-liter bottle of Korean chemical drain cleaner lying in a white bathroom sink"

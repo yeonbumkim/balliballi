@@ -3,6 +3,7 @@ title: "Rental Car Accident in Korea: Who to Call, in What Order"
 description: "A light touch with a Porsche in Seoul ran to ₩13.9m in claims. Who to call, why you never settle in cash, and the real settlement statement, itemised."
 pubDate: 2026-08-18
 service: etc
+category: transport
 tags: ["rental-car", "driving", "accident", "insurance", "emergency"]
 cover: "./porsche-and-suv-after-collision-seoul.webp"
 coverAlt: "A white Porsche and a red SUV stopped in a Seoul junction with hazard lights on after a minor collision, licence plates obscured"

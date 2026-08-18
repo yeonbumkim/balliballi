@@ -2,7 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import { Image } from 'astro:assets';
 import Base from '../../layouts/Base.astro';
-import { WHATSAPP_URL, SERVICE_PAGES } from '../../consts';
+import { WHATSAPP_URL, SERVICE_PAGES, CATEGORY_LABELS } from '../../consts';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
-const { title, description, pubDate, updatedDate, service, cover, coverAlt, coverCaption } = post.data;
+const { title, description, pubDate, updatedDate, service, category, cover, coverAlt, coverCaption } = post.data;
 
 const servicePage = SERVICE_PAGES[service];
 const ogImage = cover ? new URL(cover.src, Astro.site).href : undefined;
@@ -47,7 +47,7 @@ const jsonLd = {
   <article>
     <header class="post-head">
       <div class="meta">
-        <span class="chip">{service}</span>
+        <span class="chip">{category ? CATEGORY_LABELS[category] : service}</span>
         <time datetime={pubDate.toISOString()}>{fmt(pubDate)}</time>
         {updatedDate && <span class="updated">Updated {fmt(updatedDate)}</span>}
         <span class="byline">By the <a href="/about/">Balli Balli Seoul team</a></span>

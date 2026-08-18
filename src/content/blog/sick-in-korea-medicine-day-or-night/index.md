@@ -4,6 +4,7 @@ description: "Convenience stores sell fever medicine 24 hours a day, including c
 pubDate: 2026-08-09T00:41:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: health
 tags: ["convenience-store", "medicine", "pharmacy", "emergency", "travel-essentials"]
 cover: "./sick-in-korea-cover.webp"
 coverAlt: "A convenience store stand labelled 안전상비의약품 holding Tylenol, children's fever syrups, cold remedies, digestive tablets and pain patches with price tags"

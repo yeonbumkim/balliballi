@@ -4,6 +4,7 @@ description: "Korea's real infrastructure: 1+1 deals, hot meals eaten in the sho
 pubDate: 2026-08-09T13:56:00+09:00
 updatedDate: 2026-08-13T10:11:00+09:00
 service: etc
+category: food
 tags: ["convenience-store", "gs25", "cu", "budget", "daily-life"]
 cover: "./convenience-store-cover.webp"
 coverAlt: "A GS25 convenience store on a Seoul street in daylight, with an outdoor bench and tables in front"

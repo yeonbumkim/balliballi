@@ -4,6 +4,7 @@ description: "Where to find pads, liners, tampons and condoms in Korea, how to r
 pubDate: 2026-08-08T23:06:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
 service: etc
+category: health
 tags: ["convenience-store", "olive-young", "pharmacy", "tampons", "travel-essentials", "deodorant"]
 cover: "./where-to-buy-essentials-cover.webp"
 coverAlt: "Cover graphic listing where to buy condoms, pads and tampons in Korea — convenience store, Olive Young, pharmacy, big mart"

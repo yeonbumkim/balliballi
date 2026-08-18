@@ -4,6 +4,7 @@ description: "Which colour goes where, why the number under it matters more than
 pubDate: 2026-08-11T17:32:00+09:00
 updatedDate: 2026-08-18T13:05:00+09:00
 service: etc
+category: transport
 tags: ["subway", "seoul-metro", "transportation", "settling-in"]
 cover: "./ddp-line-colors-cover.webp"
 coverAlt: "A Seoul subway entrance sign for Dongdaemun History & Culture Park (DDP) showing three line badges — green 205, blue 422, purple 536"

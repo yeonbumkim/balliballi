@@ -4,6 +4,7 @@ description: "Skip the transit-card research. Buy T-money at any convenience sto
 pubDate: 2026-08-10T10:29:00+09:00
 updatedDate: 2026-08-18T22:10:00+09:00
 service: etc
+category: transport
 tags: ["t-money", "transportation", "subway", "bus", "tourist"]
 cover: "./tmoney-cover.webp"
 coverAlt: "A Seoul Metro fare gate card reader with a blue panel reading 카드를 대주세요 and Place your card here"

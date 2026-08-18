@@ -3,6 +3,7 @@ title: "Hot Water Coming and Going? Ask About the Valve First"
 description: "Intermittent hot water in a Korean flat usually points at one cheap part, not a new boiler. What the symptom means, what it costs, and who pays for it."
 pubDate: 2026-08-13T14:53:00+09:00
 service: plumbing
+category: home
 tags: ["boiler", "hot-water", "plumbing", "heating", "landlord"]
 cover: "./boiler-cover.webp"
 coverAlt: "A Korean boiler wall controller showing 28 degrees, with a dial for indoor heating, floor heating and hot water only"
