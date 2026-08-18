@@ -22,6 +22,10 @@ dist/
 # Local-only tooling (sitemap generator 등 — 산출물만 커밋)
 scripts/
 
+# 리서치·참고 자료 (경쟁사 크롤링 코퍼스, 크롤러 스크립트 — 저작권상 배포 금지)
+benchmark/
+visitseoul/
+
 # OS junk
 .DS_Store
 Thumbs.db
