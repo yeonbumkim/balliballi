@@ -2,6 +2,7 @@
 title: "Seoul Subway Lines, Explained: What Each Color Gets You"
 description: "Which colour goes where, why the number under it matters more than the name, and the express trick that halves a commute. A line-by-line cheat sheet."
 pubDate: 2026-08-11T17:32:00+09:00
+updatedDate: 2026-08-18T13:05:00+09:00
 service: etc
 tags: ["subway", "seoul-metro", "transportation", "settling-in"]
 cover: "./ddp-line-colors-cover.webp"
@@ -137,6 +138,14 @@ crowded line in the city at rush hour.
 - **Rush hour is real**: 7:30–9 AM and 6–7:30 PM turn Lines 2 and 9 into
   a full-contact sport. Shifting a commute by thirty minutes changes
   your quality of life more than most apartment upgrades.
+
+## Left something on board?
+
+The line number matters here too: Seoul Metro's lost property desks
+are **split by line**, so the number you call depends on which train
+you were on. Note the **car-and-door marker** — the 2-1 style figure
+on the platform floor — and
+[the rest is in our lost property guide](/blog/lost-item-seoul-subway/).
 
 ## The Korean part
 

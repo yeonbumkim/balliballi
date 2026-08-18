@@ -46,6 +46,25 @@ They run from roughly **1-1 to 10-4** — up to ten carriages, four
 doors each — so "somewhere on the train" becomes "carriage two,
 first door" the moment you can say it.
 
+### There is a second number, and it is even better
+
+The 2-1 marker tells staff **where on the platform** you stood. There
+is another number that tells them **exactly which carriage** — the
+car's own identification number, and **every carriage in the country
+has one.**
+
+It is printed inside the car, and again on the outside. Four figures,
+usually, and it belongs to that physical carriage permanently. That
+matters because train sets get reversed and rearranged: "car two"
+depends on which end the train is facing, but the car number does
+not move.
+
+**If you can give both — the door marker and the car number — you
+have narrowed a whole line down to one carriage.** Photograph it, or
+just note it, when you are carrying something you would hate to
+lose. It takes a second and it is the single most useful thing you
+can hand the lost property desk.
+
 **Why it matters so much:** staff recovering an item are looking
 at a ten-carriage train. Telling them the door number turns a
 search into a collection. Get in the habit of glancing at the

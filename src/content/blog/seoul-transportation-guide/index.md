@@ -2,7 +2,7 @@
 title: "Getting Around Seoul: Subway, Bus, Taxi, Uber and KTX"
 description: "Which one to actually use, and when. Subway by day, taxi after midnight, Uber vs Kakao T, and how to reach another city — with the two-person maths."
 pubDate: 2026-08-10T14:07:00+09:00
-updatedDate: 2026-08-13T10:11:00+09:00
+updatedDate: 2026-08-18T13:05:00+09:00
 service: etc
 tags: ["transportation", "subway", "bus", "taxi", "uber", "ktx"]
 cover: "./seoul-transport-cover.webp"
@@ -84,6 +84,13 @@ Stations also have **coin lockers**, which quietly solve the
 ![A wall of coin lockers in a Seoul subway station with QR code instructions](./subway-station-lockers.webp)
 
 *Left luggage, by the hour, in most larger stations · ⓒ @BalliBalliSeoul*
+
+And if the bag went the other way — left on the train rather than in
+a locker — Seoul Metro runs **four separate lost property offices,
+split by line.** Which number you call depends on which train you
+were on, and the car-and-door marker on the platform is what makes
+the search findable:
+[how to get it back](/blog/lost-item-seoul-subway/).
 
 ## Buses: read the colours
 
