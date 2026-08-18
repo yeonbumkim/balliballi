@@ -2,7 +2,7 @@
 title: "T-money Card Korea: Buy One, Tap Everywhere, Transfer Free"
 description: "Skip the transit-card research. Buy T-money at any convenience store, top up in cash, always tap out — and free transfers do the rest. With 2026 fares."
 pubDate: 2026-08-10T10:29:00+09:00
-updatedDate: 2026-08-13T10:10:00+09:00
+updatedDate: 2026-08-18T22:10:00+09:00
 service: etc
 tags: ["t-money", "transportation", "subway", "bus", "tourist"]
 cover: "./tmoney-cover.webp"
@@ -78,7 +78,9 @@ You pay the base fare once (**₩1,550 by card for an adult on the
 Seoul subway**, as of 2026) plus small distance increments, instead
 of paying again for every vehicle you board. A three-leg crossing
 of the city costs a cash payer three separate fares and a card
-holder one.
+holder one. The full rate card — youth and child fares, the distance
+bands, and what a single-journey ticket costs on top — is in our
+[Seoul subway fare guide](/blog/seoul-subway-fare-guide/).
 
 So: is the card worth it for a short trip? **It pays for itself in
 about two transfers.**

@@ -2,7 +2,7 @@
 title: "Getting Around Seoul: Subway, Bus, Taxi, Uber and KTX"
 description: "Which one to actually use, and when. Subway by day, taxi after midnight, Uber vs Kakao T, and how to reach another city — with the two-person maths."
 pubDate: 2026-08-10T14:07:00+09:00
-updatedDate: 2026-08-18T13:05:00+09:00
+updatedDate: 2026-08-18T22:10:00+09:00
 service: etc
 tags: ["transportation", "subway", "bus", "taxi", "uber", "ktx"]
 cover: "./seoul-transport-cover.webp"
@@ -60,9 +60,12 @@ Everything below assumes you have the card.
 ## The subway: your default
 
 Base fare is **₩1,550** for an adult with the card, rising in small
-increments with distance. Signs, announcements and ticket machines
-are all in English, and **every station has a number** — so "Line 2,
-station 222" gets you there even when the name defeats you.
+increments with distance — we've broken the whole thing down, including
+the youth and child rates and a 20% discount before 6:30am, in our
+[guide to Seoul subway fares](/blog/seoul-subway-fare-guide/). Signs,
+announcements and ticket machines are all in English, and **every station
+has a number** — so "Line 2, station 222" gets you there even when the
+name defeats you.
 
 ![An arrival board on a Seoul subway platform showing trains 3 minutes and 2 minutes away](./subway-arrival-board.webp)
 

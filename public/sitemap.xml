@@ -198,6 +198,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/seoul-subway-fare-guide/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/seoul-subway-lines-guide/</loc>
     <lastmod>2026-08-18T13:05:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -205,7 +211,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/seoul-transportation-guide/</loc>
-    <lastmod>2026-08-18T13:05:00+09:00</lastmod>
+    <lastmod>2026-08-18T22:10:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -229,7 +235,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/t-money-card-korea-guide/</loc>
-    <lastmod>2026-08-13T10:10:00+09:00</lastmod>
+    <lastmod>2026-08-18T22:10:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
