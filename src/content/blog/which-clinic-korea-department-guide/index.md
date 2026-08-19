@@ -2,7 +2,7 @@
 title: "Which Clinic in Korea? A Symptom-to-Department Guide"
 description: "Korean clinics are split by specialty with no gatekeeper GP. Which department treats what, what a visit costs, and how to find English support."
 pubDate: 2026-08-07T22:49:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-19T14:40:00+09:00
 service: etc
 category: health
 tags: ["healthcare", "clinic", "hospital", "nhis", "korean-phrases"]
@@ -70,6 +70,12 @@ whole trick. Read the Korean, match your symptom:
 | Anxiety, depression, sleep, ADHD | Psychiatry | **정신건강의학과** |
 | Allergies, asthma | Internal medicine (allergy) | **알레르기내과** |
 | Acupuncture, herbal medicine, cupping, chronic aches | Korean medicine | **한의원** |
+
+One row above needs a caveat: **you do not need 안과 to buy glasses.**
+Korean opticians test your eyes themselves and sell you the glasses in
+the same visit, with no prescription and no doctor involved — see
+[getting glasses in Korea](/blog/getting-glasses-in-korea/). Save
+ophthalmology for pain, sudden vision changes or floaters.
 
 Two things surprise Western patients most. First, **Koreans go to
 ENT for a common cold** — if your symptoms are above the neck,

@@ -2,7 +2,7 @@
 title: "Beat Seoul's Heat Indoors: A Day at IFC Mall Yeouido"
 description: "When it's 38°C outside, one Yeouido building gives you a cinema, food courts, cafes, shopping and a river park exit — all without stepping into the sun."
 pubDate: 2026-08-07T18:38:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-19T14:40:00+09:00
 service: etc
 category: things-to-do
 tags: ["ifc-mall", "yeouido", "heat-wave", "things-to-do", "arcade"]
@@ -102,6 +102,12 @@ chance something is on — and it costs nothing to look.
   heat-wave afternoon that's the best value in the building.
 - **Shopping** — fashion, cosmetics, electronics and a big
   bookstore, which is a fine place to lose an hour in the cold.
+- **Opticians** — there's one on L2, and it is a useful reminder that
+  in Korea you can walk in, have your eyes tested and leave with
+  glasses the same day, no prescription required. Mall shops sit at
+  the brand-frame end of the market; the
+  [full guide to getting glasses here](/blog/getting-glasses-in-korea/)
+  covers what that costs and where the cheaper shops are.
 
 ## Practical bits
 
