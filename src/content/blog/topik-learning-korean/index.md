@@ -2,6 +2,7 @@
 title: "TOPIK Explained: Levels, Why It Matters, How to Study"
 description: "Korea's official language test, decoded — the two papers, what each level actually unlocks for visas and university, and how people really study for it."
 pubDate: 2026-08-19T14:20:00+09:00
+updatedDate: 2026-08-19T16:10:00+09:00
 service: korean-lessons
 category: settling-in
 tags: ["topik", "korean-language", "study", "visa", "university"]
@@ -143,6 +144,10 @@ If you are working, the tutor route usually survives contact with
 real life better than a fixed class timetable.
 
 ## 🇰🇷 Want a Korean teacher? We can introduce you
+
+![Illustrated portrait of Rim, a Korean teacher at Balli Balli Seoul, at a window with Namsan and the N Seoul Tower behind her at sunset](./teacher-rim.webp)
+
+*Rim, one of the teachers we introduce · ⓒ Balli Balli Seoul*
 
 This is something we arrange, so it is worth stating plainly:
 

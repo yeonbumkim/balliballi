@@ -2,6 +2,7 @@
 title: "Korean Conversation Practice and How to Find a Tutor"
 description: "You finished the app and still freeze at the counter. Why textbook Korean fails, the situations worth rehearsing, and when a tutor is the only fix."
 pubDate: 2026-08-19T14:25:00+09:00
+updatedDate: 2026-08-19T16:10:00+09:00
 service: korean-lessons
 category: settling-in
 tags: ["korean-tutor", "korean-language", "conversation", "speaking", "lessons", "settling-in"]
@@ -119,6 +120,10 @@ you that you have been slightly rude to a shopkeeper for six
 months.
 
 ## 🇰🇷 Want a Korean teacher? We can introduce you
+
+![Illustrated portrait of Elli, a Korean teacher at Balli Balli Seoul, seated by a window overlooking the Han River and the Seoul skyline](./teacher-elli.webp)
+
+*Elli, one of the teachers we introduce · ⓒ Balli Balli Seoul*
 
 > **We can introduce you to a Korean teacher** — and this kind of
 > lesson is the most common request, not the exam kind.
