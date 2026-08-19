@@ -38,9 +38,20 @@ they do something a single price never can: they show the number is stable.
 |---|---|
 | **Boiler replacement, all in** | **₩900,000** |
 
-The second is a handwritten receipt with no separate VAT line, which is
-normal for a small independent installer. Same capacity class, same city,
-**a slightly lower number four years later.**
+![A handwritten Korean receipt dated 2026-01-26 for a boiler replacement, model R620-22KF, total ₩900,000, with the installer's business details redacted](./boiler-receipt-2026.webp)
+
+*The 2026 receipt — installer's details redacted, everything else as issued · ⓒ @BalliBalliSeoul*
+
+That is the second receipt as we received it: a handwritten 영수증 with the
+date, the item line — **보일러(교체) R620-22KF** — and the total. There is no
+separate VAT line, which is normal for a small independent installer working
+off a receipt book rather than a card terminal.
+
+**We have blanked the installer's registration number, name, address and
+bank details.** They are a private business that never agreed to appear here;
+the number is the point, not them.
+
+Same capacity class, same city, **a slightly lower number four years later.**
 
 ### What that means for you
 

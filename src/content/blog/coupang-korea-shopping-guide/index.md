@@ -2,7 +2,7 @@
 title: "How to Use Coupang in English (and What Blocks Foreigners)"
 description: "Setting up Korea's biggest shopping app in English, the sign-up walls that stop foreigners — and how to get things ordered without an account at all."
 pubDate: 2026-08-06T22:04:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-20T00:20:00+09:00
 service: etc
 category: settling-in
 tags: ["coupang", "shopping", "delivery", "settling-in"]
@@ -119,7 +119,10 @@ everyone: Coupang's identity verification wants a Korean phone **in your
 own name** (a tourist or prepaid line often won't pass) → a postpaid
 phone plan wants a Korean bank account to auto-deduct from → and the
 bank wanted the ARC they'd just spent weeks getting. Each step is
-reasonable; the chain is brutal.
+reasonable; the chain is brutal. The bank link in that chain has its own
+guide — [opening a Korean bank account as a
+foreigner](/blog/open-bank-account-korea/), including the daily transfer
+limit that lands on every new account.
 
 ![Reddit post from r/Living_in_Korea describing how complicated Coupang sign-up and payment verification is even with an ARC](./reddit-thread-online-shopping-korea.webp)
 
