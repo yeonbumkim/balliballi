@@ -272,7 +272,6 @@
           </ul>
           <p class="cta-lead">Tell us what is moving — we send a quote.</p>
           <div class="cta-row">
-            <!-- TODO: replace 821075191282 with your real WhatsApp number -->
             <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-lg btn-kakao">KakaoTalk</a>
             <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20moving%20help.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20From%20address%20%28%2B%20floor%2C%20elevator%20yes%2Fno%29%3A%0A-%20To%20address%20%28%2B%20floor%2C%20elevator%20yes%2Fno%29%3A%0A-%20What%27s%20moving%20%2F%20what%20I%20need%3A%0A%0A%28Photos%20of%20your%20items%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-lg btn-whatsapp">💬 WhatsApp</a>
             <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-lg btn-email">✉️ Email</a>
@@ -619,8 +618,7 @@
       var a = e.target && e.target.closest ? e.target.closest('a[href*="wa.me"]') : null;
       if (a && window.gtag) {
         gtag('event', 'whatsapp_click', { page_path: location.pathname });
-        /* TODO(Google Ads): 전환 액션 생성 후 아래 주석을 해제하고 ID/라벨 교체
-        gtag('event', 'conversion', { send_to: 'AW-XXXXXXXXX/CONVERSION_LABEL' }); */
+          /* Google Ads conversion fires here once the action exists. */
       }
     }, true);
   </script>

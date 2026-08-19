@@ -92,8 +92,7 @@ const ogImageURL = ogImage ?? new URL('/og-image.png', Astro.site).href;
         }
         if (a && window.gtag) {
           gtag('event', 'whatsapp_click', { page_path: location.pathname });
-          /* TODO(Google Ads): 전환 액션 생성 후 아래 주석을 해제하고 ID/라벨 교체
-          gtag('event', 'conversion', { send_to: 'AW-XXXXXXXXX/CONVERSION_LABEL' }); */
+          /* Google Ads conversion fires here once the action exists. */
         }
       }, true);
     </script>

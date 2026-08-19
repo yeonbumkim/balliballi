@@ -9,7 +9,6 @@ tags: ["coupang", "shopping", "delivery", "settling-in"]
 cover: "./coupang-in-english-typographic-cover.webp"
 coverAlt: "Bold green cover reading Coupang, in English — the sign-up walls and the ways around them"
 coverCaption: "Korea's Amazon, unlocked"
-# TODO: 로켓배송 박스 사진 확보 시 커버 교체 (coupang-rocket-box-doorstep)
 draft: false
 ---
 
