@@ -54,23 +54,48 @@ is another number that tells them **exactly which carriage** — the
 car's own identification number, and **every carriage in the country
 has one.**
 
-It is printed inside the car, and again on the outside. Four figures,
-usually, and it belongs to that physical carriage permanently. That
-matters because train sets get reversed and rearranged: "car two"
-depends on which end the train is facing, but the car number does
-not move.
+Four figures, usually, and it belongs to that physical carriage
+permanently. That matters because train sets get reversed and
+rearranged: "car two" depends on which end the train is facing, but
+the car number does not move.
 
-**If you can give both — the door marker and the car number — you
-have narrowed a whole line down to one carriage.** Photograph it, or
-just note it, when you are carrying something you would hate to
-lose. It takes a second and it is the single most useful thing you
-can hand the lost property desk.
+**There are exactly two places to find it inside the carriage**, and
+once you know them you can read the number in about a second.
 
-**Why it matters so much:** staff recovering an item are looking
-at a ten-carriage train. Telling them the door number turns a
-search into a collection. Get in the habit of glancing at the
-number when you board, particularly if you are carrying something
-you would hate to lose.
+**1. The ends of the carriage** — a green circle beside the emergency
+instructions panel, reading **이 칸의 차량번호** (*this car's number*)
+with the number in the middle. It's the larger of the two and the
+easier one to spot from a distance.
+
+![A green circular sticker inside a Seoul subway carriage reading 이 칸의 차량번호 6310호, next to the emergency instructions panel](./subway-car-number-sticker.webp)
+
+*이 칸의 차량번호 — "this car's number", 6310 · ⓒ @BalliBalliSeoul*
+
+Two useful things ride along on that sticker: the Seoul Metro
+**customer centre, 1577-1234**, and reminders that crime is **112**
+and fire is **119**.
+
+**2. Above every door** — a small plate carrying the car number and a
+circled door number together, like **6310 ①**.
+
+![A small plate above a Seoul subway train door reading 6310 with a circled 1, giving the car number and door number](./subway-car-number-above-door.webp)
+
+*6310 ① — car number and door number on one plate · ⓒ @BalliBalliSeoul*
+
+That second one is the shortcut. **One glance at the plate above the
+door gives you both numbers the lost property desk wants** — which
+carriage, and which door of it. You don't have to walk to the end of
+the car to get the full picture.
+
+**That combination narrows a whole line down to one carriage** — and
+it is the single most useful thing you can hand the lost property
+desk.
+
+**Why it matters so much:** staff recovering an item are looking at a
+ten-carriage train. A car number turns a search into a collection.
+Photograph the plate when you board, or just glance at it — a second's
+habit, and worth it any time you are carrying something you would hate
+to lose.
 
 Two other things worth noting the moment you realise:
 
