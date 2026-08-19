@@ -2,12 +2,12 @@
 title: "Korea's Emergency Numbers: 112, 119 (and Yes, You Can Text)"
 description: "There's no 911 in Korea — police are 112, fire and ambulance 119. Both work with interpreters, both accept text messages, and here's who to call for what."
 pubDate: 2026-08-12T11:25:00+09:00
-updatedDate: 2026-08-19T13:20:00+09:00
+updatedDate: 2026-08-19T13:50:00+09:00
 service: etc
 category: health
 tags: ["emergency", "112", "119", "safety", "settling-in"]
 cover: "./emergency-numbers-cover.webp"
-coverAlt: "Cover graphic listing Korea's emergency numbers — 112 police, 119 fire and ambulance, 1330 help in English"
+coverAlt: "Cover graphic listing Korea's emergency numbers — 112 police, 119 fire and ambulance, 1330 help in English 7am to midnight"
 coverCaption: "Save these before you need them"
 draft: false
 ---
@@ -90,7 +90,9 @@ sirens-urgent. (It is not 24 hours, whatever else you read — after
 midnight, 112 and 119 are the ones still awake.) It will
 even **conference in 1345** (immigration) on a three-way call rather
 than making you hang up and start again — which is the single most
-useful thing any Korean helpline does for a foreigner.
+useful thing any Korean helpline does for a foreigner. We gave 1330 its
+own guide: [what it does, in eight languages, and when to use it
+instead of us](/blog/korea-travel-hotline-1330/).
 
 One more thing your phone will do without asking: Korea's **emergency
 alert texts (재난문자)** blast every handset in an affected area for
@@ -146,4 +148,4 @@ got wrong and when.
 
 | Date | What changed |
 | ---- | ------------ |
-| **19 August 2026** | **Corrected 1330's operating hours.** This page described the Korea Travel Helpline as *"round-the-clock"* and listed it as *"24/7"* in the table above. It is not: **1330 runs 7 a.m. to midnight, 365 days a year.** Only **112 and 119** are staffed around the clock. Both the table and the paragraph beneath it were fixed. The error came from older public pages that still repeat a 2012 announcement; the current figure is confirmed against Korea's government service listings and the Korea Tourism Organization. |
+| **19 August 2026** | **Corrected 1330's operating hours.** This page described the Korea Travel Helpline as *"round-the-clock"* and listed it as *"24/7"* in the table above. It is not: **1330 runs 7 a.m. to midnight, 365 days a year.** Only **112 and 119** are staffed around the clock. Both the table and the paragraph beneath it were fixed, and **the cover image of this page was corrected too** — it also carried the wrong "24/7". The error came from older public pages that still repeat a 2012 announcement; the current figure is confirmed against Korea's government service listings and the Korea Tourism Organization. |
