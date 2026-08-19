@@ -61,7 +61,7 @@
     :root{
       --primary:#16a34a; --primary-dark:#15803d; --primary-light:#f0fdf4;
       --fg:#121212; --muted:#6b7280; --border:#e5e7eb; --bg:#ffffff; --bg-soft:#f9fafb;
-      --whatsapp:#25d366; --kakao:#fee500; --radius:16px;
+      --whatsapp:#25d366; --kakao:#fee500; --email:#374151; --radius:16px;
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -95,6 +95,7 @@
     .btn-md{padding:14px 24px;font-size:15px}
     .btn-whatsapp{background:var(--whatsapp);color:#fff}
     .btn-kakao{background:var(--kakao);color:#191919}
+    .btn-email{background:var(--email);color:#fff}
     .cta-row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
     @media(max-width:640px){.cta-row{flex-direction:column;align-items:stretch}.cta-row .btn{width:100%}}
 
@@ -172,6 +173,7 @@
     .float-cta a{display:flex;align-items:center;justify-content:center;gap:8px;padding:16px;font-weight:800;font-size:15px}
     .float-cta .f-wa{background:var(--whatsapp);color:#fff}
     .float-cta .f-kakao{background:var(--kakao);color:#191919}
+    .float-cta .f-email{background:var(--email);color:#fff}
     @media(max-width:820px){.float-cta{display:grid}body{padding-bottom:56px}}
   </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890314542345467"
@@ -214,6 +216,7 @@
           <!-- TODO: replace 821075191282 with your real WhatsApp number -->
           <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-lg btn-kakao">KakaoTalk Chat</a>
           <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20help.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-lg btn-whatsapp">💬 WhatsApp</a>
+          <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-lg btn-email">✉️ Email Us</a>
         </div>
         <div class="trust-strip">
           <span class="chip">✓ 100% in English</span>
@@ -362,6 +365,7 @@
         <div class="cta-row">
           <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-lg btn-kakao">KakaoTalk Chat</a>
           <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20help.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-lg btn-whatsapp">💬 WhatsApp Us</a>
+          <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-lg btn-email">✉️ Email Us</a>
         </div>
       </div>
     </section>
@@ -402,6 +406,7 @@
             <li>Business reg. no.: 108-24-44405</li>
             <li>E-commerce reg. no.: 2025-서울중구-143</li>
             <li>Representative: Yeonbum Kim</li>
+            <li>Email: <a href="mailto:balliballiseoul@gmail.com">balliballiseoul@gmail.com</a></li>
             <li><a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener">KakaoTalk channel</a></li>
           </ul>
         </div>
@@ -422,6 +427,7 @@
   <div class="float-cta">
     <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="f-kakao">KakaoTalk</a>
     <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20help.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="f-wa">💬 WhatsApp</a>
+    <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="f-email">✉️ Email</a>
   </div>
   <!-- WhatsApp click conversion tracking (GA4: whatsapp_click) -->
   <script>

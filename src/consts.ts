@@ -1,6 +1,10 @@
 export const WHATSAPP_URL =
   "https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20help.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%21%29";
 
+export const EMAIL_ADDRESS = "balliballiseoul@gmail.com";
+export const EMAIL_URL =
+  "mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29";
+
 export const KAKAO_URL = "https://pf.kakao.com/_RJxhSX/chat";
 
 export const SERVICE_PAGES = {

@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { WHATSAPP_URL, KAKAO_URL } from '../consts';
+import { WHATSAPP_URL, KAKAO_URL, EMAIL_URL } from '../consts';
 ---
 
 <Base
@@ -43,6 +43,7 @@ import { WHATSAPP_URL, KAKAO_URL } from '../consts';
 
     <a href={KAKAO_URL} target="_blank" rel="noopener" class="cta-btn kakao">KakaoTalk Chat</a>
       <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="cta-btn">💬 Message us on WhatsApp</a>
+      <a href={EMAIL_URL} class="cta-btn email">✉️ Email Us</a>
 
     <p class="assure">
       <strong>The first answer is always free.</strong> We read every message
@@ -64,6 +65,7 @@ import { WHATSAPP_URL, KAKAO_URL } from '../consts';
   .prep p{font-size:14px;color:var(--muted)}
   .cta-btn{display:inline-flex;align-items:center;gap:10px;background:var(--whatsapp);color:#fff;font-weight:800;font-size:17px;padding:16px 34px;border-radius:999px;transition:transform .15s,box-shadow .15s}
   .cta-btn.kakao{background:var(--kakao);color:#191919 !important}
+  .cta-btn.email{background:var(--email);color:#fff !important}
   .cta-btn:hover{transform:translateY(-1px);box-shadow:0 8px 24px rgba(0,0,0,.12)}
   .assure{margin-top:22px;font-size:14px;color:var(--muted)}
   .assure strong{color:var(--fg)}

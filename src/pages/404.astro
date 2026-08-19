@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { WHATSAPP_URL, KAKAO_URL } from '../consts';
+import { WHATSAPP_URL, KAKAO_URL, EMAIL_URL } from '../consts';
 ---
 
 <Base
@@ -21,6 +21,7 @@ import { WHATSAPP_URL, KAKAO_URL } from '../consts';
       <a href="/blog/" class="btn">Browse the blog</a>
       <a href={KAKAO_URL} target="_blank" rel="noopener" class="btn kakao">KakaoTalk Chat</a>
       <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="btn wa">💬 Ask us on WhatsApp</a>
+      <a href={EMAIL_URL} class="btn email">✉️ Email Us</a>
     </div>
   </div>
 </Base>
@@ -36,4 +37,5 @@ import { WHATSAPP_URL, KAKAO_URL } from '../consts';
   .btn.primary{background:var(--primary);color:#fff;border-color:var(--primary)}
   .btn.wa{background:var(--whatsapp);color:#fff;border-color:var(--whatsapp)}
   .btn.kakao{background:var(--kakao);color:#191919;border-color:var(--kakao)}
+  .btn.email{background:var(--email);color:#fff;border-color:var(--email)}
 </style>
