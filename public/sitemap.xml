@@ -162,6 +162,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/korean-conversation-practice-real-situations/</loc>
+    <lastmod>2026-08-19T14:25:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/korean-instant-ramyeon-convenience-store/</loc>
     <lastmod>2026-08-14T15:10:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -260,6 +266,12 @@
   <url>
     <loc>https://balliballi.com/blog/t-money-card-korea-guide/</loc>
     <lastmod>2026-08-18T22:10:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/topik-learning-korean/</loc>
+    <lastmod>2026-08-19T14:20:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>

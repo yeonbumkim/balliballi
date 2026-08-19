@@ -12,6 +12,7 @@ export const SERVICE_PAGES = {
   locksmith: { href: '/locksmith', label: 'locksmith service arranged in English' },
   cleaning: { href: '/cleaning', label: 'cleaning service booked in English' },
   moving: { href: '/moving', label: 'moving help arranged in English' },
+  'korean-lessons': { href: '/korean-lessons', label: 'Korean lessons arranged in English' },
   etc: { href: '/etc', label: 'anything-else concierge service' },
 } as const;
 
