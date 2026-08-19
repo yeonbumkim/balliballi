@@ -2,6 +2,7 @@
 title: "Boiler Replacement Cost in Korea: ₩1,045,000, All In"
 description: "A real receipt for a condensing gas boiler in Seoul, fitted: unit, labour and VAT. What the spec on the box means, and who is supposed to pay for it."
 pubDate: 2026-08-19T00:05:00+09:00
+updatedDate: 2026-08-20T00:05:00+09:00
 service: plumbing
 category: home
 tags: ["boiler", "replacement", "heating", "navien", "landlord", "cost"]
@@ -18,9 +19,12 @@ The next question is always the same, and nobody answers it in English:
 
 Here is one real answer, with the receipt behind it.
 
-## The number
+## The number, twice
 
-A **Navien condensing gas boiler, supplied and fitted** in Seoul:
+We have two real receipts for the same job, **four years apart**. Together
+they do something a single price never can: they show the number is stable.
+
+### December 2021 — a Navien condensing boiler, supplied and fitted
 
 | Line | Amount |
 |---|---|
@@ -28,15 +32,27 @@ A **Navien condensing gas boiler, supplied and fitted** in Seoul:
 | VAT (부가세, 10%) | ₩95,000 |
 | **Total paid** | **₩1,045,000** |
 
-That is the whole bill — the boiler, the fitting, the old unit taken away,
-tax included. Roughly **US$725** at ₩1,440 to the dollar.
+### January 2026 — another 22K unit, same job
 
-**Two honest caveats.** First, this receipt is dated **4 December 2021**, so
-treat it as a benchmark rather than today's quote. Second — and this is why
-it's still worth publishing — **the number has not moved dramatically since.**
-A mid-size domestic condensing boiler fitted in Seoul is still around the
-₩1,000,000 mark, and that is the figure to plan with. If a quote comes back
-at three times this, you now know enough to ask why.
+| Line | Amount |
+|---|---|
+| **Boiler replacement, all in** | **₩900,000** |
+
+The second is a handwritten receipt with no separate VAT line, which is
+normal for a small independent installer. Same capacity class, same city,
+**a slightly lower number four years later.**
+
+### What that means for you
+
+**Plan on roughly ₩900,000 – ₩1,050,000** for a mid-size condensing boiler
+supplied and fitted in Seoul — about **US$625 – 730** at ₩1,440 to the
+dollar. That is the whole bill: the boiler, the fitting, the old unit taken
+away.
+
+Two dated receipts four years apart is not a market survey, but it is two
+more than most people get before they say yes to a quote. **If a number comes
+back at two or three times this, you now know enough to ask why** — and to
+get a second quote before agreeing.
 
 What moves the price is capacity, fuel type and how awkward the installation
 is — not the brand badge. A bigger flat needs a bigger unit. A boiler in a
@@ -173,7 +189,7 @@ expensive.
 ### If you own the flat, it's yours
 
 None of that applies if you bought the place. There is no landlord to ask —
-the boiler is your equipment and the ₩1,045,000 is your ₩1,045,000.
+the boiler is your equipment and that ₩900,000-odd is yours to find.
 
 The same tax logic works for you, though, which is the argument for doing it
 properly rather than cheaply: **keep the receipt.** When you sell, a boiler
@@ -203,7 +219,7 @@ the number is fair, and make the call in Korean.
 > on [WhatsApp](https://wa.me/821075191282) — we'll tell you what the spec
 > means and whether the price is in the normal range. First answer is free.
 
-The one-line version: **a condensing gas boiler fitted in Seoul lands around
-₩1,000,000 including VAT, check that 용량 and 연료타입 match your flat, insist
+The one-line version: **a condensing gas boiler fitted in Seoul lands
+between ₩900,000 and ₩1,050,000, check that 용량 and 연료타입 match your flat, insist
 on the CO alarm — and if it's age or wear, the bill belongs to your landlord,
 who can write it off against their gain when they sell.**
