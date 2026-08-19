@@ -5,6 +5,9 @@ pubDate: 2026-08-19T14:20:00+09:00
 updatedDate: 2026-08-19T16:10:00+09:00
 service: korean-lessons
 category: settling-in
+cover: "./topik-levels-scores-typographic-cover.webp"
+coverAlt: "A chart of TOPIK pass marks: levels 1 and 2 need 80 and 140 out of 200 on TOPIK I, and levels 3 to 6 need 120, 150, 190 and 230 out of 300 on TOPIK II"
+coverCaption: "TOPIK I is out of 200. TOPIK II is out of 300."
 tags: ["topik", "korean-language", "study", "visa", "university"]
 draft: false
 ---

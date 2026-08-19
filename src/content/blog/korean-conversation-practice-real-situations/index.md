@@ -5,6 +5,9 @@ pubDate: 2026-08-19T14:25:00+09:00
 updatedDate: 2026-08-19T16:10:00+09:00
 service: korean-lessons
 category: settling-in
+cover: "./cafe-counter-bilingual-menu-korean-note.webp"
+coverAlt: "A Seoul cafe counter menu listing drinks in Korean and English side by side, with a handwritten Korean sign taped beside it"
+coverCaption: "The menu is bilingual. The handwritten note isn't."
 tags: ["korean-tutor", "korean-language", "conversation", "speaking", "lessons", "settling-in"]
 draft: false
 ---
