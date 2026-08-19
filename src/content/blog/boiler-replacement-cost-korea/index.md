@@ -32,6 +32,13 @@ they do something a single price never can: they show the number is stable.
 | VAT (부가세, 10%) | ₩95,000 |
 | **Total paid** | **₩1,045,000** |
 
+![A Korean credit card slip dated 21/12/04 showing 950,000 won plus 95,000 won VAT for a total of 1,045,000 won, with merchant and card details redacted](./boiler-receipt-2021.webp)
+
+*The 2021 card slip — merchant and card details redacted · ⓒ @BalliBalliSeoul*
+
+The transaction date is on it — **21/12/04**, paid over three monthly
+instalments — along with the split between the price and the VAT.
+
 ### January 2026 — another 22K unit, same job
 
 | Line | Amount |
@@ -47,9 +54,11 @@ date, the item line — **보일러(교체) R620-22KF** — and the total. There
 separate VAT line, which is normal for a small independent installer working
 off a receipt book rather than a card terminal.
 
-**We have blanked the installer's registration number, name, address and
-bank details.** They are a private business that never agreed to appear here;
-the number is the point, not them.
+**On both receipts we have blanked the same things** — the business's
+registration number, name, address and bank or card identifiers. They are
+private businesses that never agreed to appear here, and the numbers are the
+point, not them. Everything that matters for checking a quote is still
+readable: the date, the item, the amounts.
 
 Same capacity class, same city, **a slightly lower number four years later.**
 
