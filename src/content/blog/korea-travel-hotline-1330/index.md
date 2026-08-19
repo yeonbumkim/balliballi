@@ -174,10 +174,3 @@ someone to *do* something in Korean rather than translate a sentence,
 
 Use both. 1330 for the sentence you can't say. Us for the thing that
 still has to get done.
-
-<!--
-✅ 검증 완료 (2026-08-19) — 상세·출처는 FACTCHECK.md
-   V2 언어 8개 · V4 119·1345 연계 · V5 운영시간 07:00~24:00 365일 · V3 앱 Wi-Fi 무료통화
-✅ 커버: 타이포 생성 완료 (hotline-1330-cover.webp)
-⬜ 남은 것: 클러스터 편입 · 발행 시 112/119 글에서 되걸기
--->
