@@ -2,7 +2,7 @@
 title: "Our Coliving Rooms: Kyung Hee, HUFS and Korea University"
 description: "Three furnished coliving houses beside Seoul university campuses, run by us. A new women-only house opens near Korea University in late August 2026."
 pubDate: 2026-08-13T16:13:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-19T14:45:00+09:00
 service: moving
 category: home
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
@@ -147,6 +147,11 @@ If you do go the normal-flat route later, read
 [what to check before you sign](/blog/what-to-check-before-renting-seoul/)
 first. Most of the money people lose in Korean rentals is lost at
 the viewing, not in the contract.
+
+One thing worth sorting early if you are here to study rather than
+on exchange: **Korean-taught programmes ask for a TOPIK level**, and
+your score picks the level rather than you do —
+[what the numbers actually are](/blog/topik-learning-korean/).
 
 What you get with us specifically:
 

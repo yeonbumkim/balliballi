@@ -2,7 +2,7 @@
 title: "Which Clinic in Korea? A Symptom-to-Department Guide"
 description: "Korean clinics are split by specialty with no gatekeeper GP. Which department treats what, what a visit costs, and how to find English support."
 pubDate: 2026-08-07T22:49:00+09:00
-updatedDate: 2026-08-19T14:40:00+09:00
+updatedDate: 2026-08-19T14:45:00+09:00
 service: etc
 category: health
 tags: ["healthcare", "clinic", "hospital", "nhis", "korean-phrases"]
@@ -150,6 +150,11 @@ reception and nurses usually don't. Your realistic options:
 - **Ask before you go.** A two-minute phone call — "do you have
   anyone who speaks English?" — saves an entire wasted trip. That
   call is the part that stops most people.
+
+Picking the department is half of it. **Saying what hurts is the
+other half**, and it is one of the few situations here where
+rehearsing the sentence beforehand genuinely pays —
+[how to practise the ones that actually come up](/blog/korean-conversation-practice-real-situations/).
 
 ## Before you go: the practical checklist
 

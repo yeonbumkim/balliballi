@@ -2,6 +2,7 @@
 title: "How Korean Restaurants Work: Drawers, Bells, Free Banchan"
 description: "Nothing on the table, no server coming over, side dishes you didn't order — Korean restaurants run on rules nobody explains. Here are the five that matter."
 pubDate: 2026-08-17T20:02:00+09:00
+updatedDate: 2026-08-19T14:45:00+09:00
 service: etc
 category: food
 tags: ["restaurants", "etiquette", "banchan", "cafes", "first-week"]
@@ -113,6 +114,11 @@ that's where a meal stops being fun. Send us the restaurant or a
 photo of the menu on WhatsApp and our
 [anything-else concierge service](/etc) will translate it, tell you
 what's spicy, and make the booking call in Korean.
+
+Ordering is also the best place to start practising, precisely
+because the stakes are nil and the script repeats — it is the first
+of the
+[situations worth rehearsing](/blog/korean-conversation-practice-real-situations/).
 
 ## Get it sorted
 
