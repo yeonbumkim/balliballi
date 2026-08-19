@@ -1,7 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
-import { WHATSAPP_URL } from '../consts';
+import { WHATSAPP_URL, KAKAO_URL } from '../consts';
 import imgSink from '../assets/work/new-pedestal-sink-installed.webp';
 import imgFaucet from '../assets/work/new-kitchen-faucet-installed.webp';
 import imgBathroom from '../assets/work/renovated-bathroom-bathtub.webp';
@@ -153,6 +153,7 @@ const jsonLd = {
         in English. First answer is free.
       </p>
       <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="cta-btn">💬 WhatsApp Us — in English</a>
+      <a href={KAKAO_URL} target="_blank" rel="noopener" class="cta-btn kakao">KakaoTalk Chat</a>
     </aside>
   </article>
 </Base>
@@ -171,5 +172,6 @@ const jsonLd = {
   @media(max-width:640px){.work-grid{grid-template-columns:1fr}.work-grid img{height:auto}}
   .cta{background:var(--primary-light);border:2px solid #bbf7d0;border-radius:var(--radius);padding:22px;margin-top:44px;font-size:15px}
   .cta-btn{display:inline-flex;align-items:center;gap:8px;margin-top:14px;background:var(--whatsapp);color:#fff !important;font-weight:800;padding:13px 24px;border-radius:999px;text-decoration:none !important}
+  .cta-btn.kakao{background:var(--kakao);color:#191919 !important}
   .cta-btn:hover{filter:brightness(.95)}
 </style>
