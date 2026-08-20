@@ -323,6 +323,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/contact/</loc>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/korean-lessons</loc>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
