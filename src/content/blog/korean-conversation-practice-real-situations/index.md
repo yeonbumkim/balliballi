@@ -2,7 +2,7 @@
 title: "Korean Conversation Practice and How to Find a Tutor"
 description: "You finished the app and still freeze at the counter. Why textbook Korean fails, the situations worth rehearsing, and when a tutor is the only fix."
 pubDate: 2026-08-19T14:25:00+09:00
-updatedDate: 2026-08-19T16:10:00+09:00
+updatedDate: 2026-08-20T18:10:00+09:00
 service: korean-lessons
 category: settling-in
 cover: "./cafe-counter-bilingual-menu-korean-note.webp"
@@ -109,7 +109,10 @@ Which leaves the practical question of what kind of person:
 
 - **A university language institute** is thorough and structured,
   and runs as a fixed timetable of classes — the lectures are
-  excellent and the schedule is not negotiable
+  excellent and the schedule is not negotiable. **Seoul's free city
+  classes** belong in the same bracket, and
+  [what each route costs](/blog/learn-korean-seoul-free-classes/)
+  is worth knowing before you pay for anything
 - **A conversation exchange partner** is free and sociable, and
   will almost never correct you, because correcting a friend is
   rude in any language

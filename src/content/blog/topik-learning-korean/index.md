@@ -2,7 +2,7 @@
 title: "TOPIK Explained: Levels, Why It Matters, How to Study"
 description: "Korea's official language test, decoded — the two papers, what each level actually unlocks for visas and university, and how people really study for it."
 pubDate: 2026-08-19T14:20:00+09:00
-updatedDate: 2026-08-19T16:10:00+09:00
+updatedDate: 2026-08-20T18:10:00+09:00
 service: korean-lessons
 category: settling-in
 cover: "./topik-levels-scores-typographic-cover.webp"
@@ -139,7 +139,10 @@ Honestly, all three work, for different people:
   writing — the two things nobody can correct alone
 - **Language institutes** attached to universities are thorough and
   structured, and they are a serious time commitment on a fixed
-  timetable
+  timetable — though several now run evening and online courses
+  that a working schedule can actually take. **Seoul also runs free
+  classes**, and the whole range is laid out here:
+  [how to learn Korean in Seoul](/blog/learn-korean-seoul-free-classes/)
 - **A tutor** is the flexible middle: your schedule, your weak
   areas, and someone marking the writing you cannot mark yourself
 
