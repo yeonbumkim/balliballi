@@ -159,7 +159,7 @@ class before it sells out, book the courts, translate the gym contract
 > **Want in — pool class, court time, or a gym that won't burn you?**
 > Message us on [WhatsApp](https://wa.me/821075191282) with what you're
 > after and your neighborhood — we'll find it, register you, and check
-> the fine print in Korean. First answer is free.
+> the fine print in Korean. Asking costs nothing — you pay only for the work you book.
 
 Cheapest possible start, tonight: a swim cap from Daiso, a free-swim
 timetable, and a run on the river path. Total cost, about ₩3,000 — and

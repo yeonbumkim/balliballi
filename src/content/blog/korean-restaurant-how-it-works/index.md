@@ -125,7 +125,7 @@ of the
 > **Standing outside a place you can't read, or stuck at a table
 > with no idea what to press?** Message us on
 > [WhatsApp](https://wa.me/821075191282) — we'll walk you through
-> it in English, live. First answer is free.
+> it in English, live. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **cutlery's in the drawer, press the bell,
 water and banchan are free, cafes want payment first, and you pay

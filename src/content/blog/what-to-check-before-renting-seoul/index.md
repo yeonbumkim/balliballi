@@ -214,7 +214,7 @@ disposal of whatever the last tenant left behind.
 > **Looking at a listing and not sure what you're reading?** Send it
 > to us on [WhatsApp](https://wa.me/821075191282) — we'll tell you
 > what kind of housing it actually is, what that price should get
-> you, and what to check when you go. First answer is free.
+> you, and what to check when you go. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **a ₩1–2M deposit means goshiwon, a real
 one-room starts around ₩10M, the management fee matters more than

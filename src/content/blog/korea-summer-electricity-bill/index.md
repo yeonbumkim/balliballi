@@ -230,7 +230,7 @@ This heat is not normal even by Korean standards — it's already
 > Korean?** Send us a photo on
 > [WhatsApp](https://wa.me/821075191282) — we'll translate the
 > bill, tell you which tier you're in, and arrange the aircon
-> cleaning if that's the fix. First answer is free.
+> cleaning if that's the fix. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **know your tier and your meter date, leave
 an inverter running at 26°C, spend the hot hours in a bank or a

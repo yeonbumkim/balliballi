@@ -166,7 +166,7 @@ the mechanics.
 > **Planning where to live around a commute — or just lost at
 > Sindorim?** Message us on [WhatsApp](https://wa.me/821075191282) with
 > your two anchor points, and we'll tell you which lines and
-> neighborhoods make your life easiest. First answer is free.
+> neighborhoods make your life easiest. Asking costs nothing — you pay only for the work you book.
 
 Learn Line 2 first, respect Line 1's branches, and find out if Line 9's
 express stops near you. That's ninety percent of Seoul subway mastery —

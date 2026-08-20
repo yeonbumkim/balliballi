@@ -150,7 +150,7 @@ plain English.
 > **Moving out, or staring at a wardrobe you can't legally throw away?**
 > Send us a photo on [WhatsApp](https://wa.me/821075191282) — we'll tell you
 > what it costs to dispose of, file the district report for you, and arrange
-> muscle if you need it. First answer is free.
+> muscle if you need it. Asking costs nothing — you pay only for the work you book.
 
 And the one-line version to keep: **general waste in the district bag, food
 waste separate, recycling rinsed and sorted, big stuff reported first.**

@@ -1,11 +1,11 @@
 ---
 import Base from '../layouts/Base.astro';
-import { WHATSAPP_URL, KAKAO_URL, EMAIL_URL } from '../consts';
+import { WHATSAPP_URL, KAKAO_URL, EMAIL_URL, FORM_URL } from '../consts';
 ---
 
 <Base
   title="Contact Us — Balli Balli Seoul"
-  description="Tell us what's wrong in English on WhatsApp. Send a photo, your address and what happened — we handle the Korean side. First answer is free."
+  description="Tell us what's wrong in English on WhatsApp. Send a photo, your address and what happened — we handle the Korean side. Asking costs nothing — you pay only for the work you book."
   noindex={true}
 >
   <div class="contact">
@@ -45,10 +45,25 @@ import { WHATSAPP_URL, KAKAO_URL, EMAIL_URL } from '../consts';
       <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="cta-btn">💬 WhatsApp</a>
       <a href={EMAIL_URL} class="cta-btn email">✉️ Email</a>
 
+    <div class="form-alt">
+      <p>
+        <strong>Prefer to fill in a form?</strong> Send us the details in one go
+        and we'll come back to you — useful if you'd rather not install a
+        messenger, or you're planning ahead rather than stuck right now.
+      </p>
+      <a href={FORM_URL} target="_blank" rel="noopener" class="form-link">
+        Open the enquiry form →
+      </a>
+      <p class="form-note">We reply to the form within one business day. For
+      anything urgent, use the buttons above.</p>
+    </div>
+
     <p class="assure">
-      <strong>The first answer is always free.</strong> We read every message
-      and reply as soon as we can — if we're mid-job, we'll still confirm
-      we've seen you and follow up right after.
+      <strong>Asking costs nothing.</strong> You pay for the work itself — the
+      plumber's visit, the clean, the lesson — and you'll always know the price
+      before anything is booked. We read every message and reply as soon as we
+      can; if we're mid-job, we'll confirm we've seen you and follow up right
+      after.
     </p>
   </div>
 </Base>
@@ -67,6 +82,12 @@ import { WHATSAPP_URL, KAKAO_URL, EMAIL_URL } from '../consts';
   .cta-btn.kakao{background:var(--kakao);color:#191919 !important}
   .cta-btn.email{background:var(--email);color:#fff !important}
   .cta-btn:hover{transform:translateY(-1px);box-shadow:0 8px 24px rgba(0,0,0,.12)}
+  .form-alt{margin:30px auto 0;max-width:520px;padding:20px 22px;border:2px dashed var(--border);border-radius:var(--radius);text-align:left}
+  .form-alt p{font-size:14.5px;color:var(--muted);margin:0}
+  .form-alt strong{color:var(--fg)}
+  .form-link{display:inline-block;margin-top:12px;font-weight:800;color:var(--primary)}
+  .form-link:hover{text-decoration:underline}
+  .form-note{margin-top:12px !important;font-size:13px !important}
   .assure{margin-top:22px;font-size:14px;color:var(--muted)}
   .assure strong{color:var(--fg)}
 </style>

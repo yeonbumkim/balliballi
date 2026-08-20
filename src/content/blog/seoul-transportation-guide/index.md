@@ -327,7 +327,7 @@ in Korean so you can show a driver.
 > **Not sure which one to use, or stuck at a machine?** Message us
 > on [WhatsApp](https://wa.me/821075191282) — tell us where you're
 > going and we'll give you the route in English, and book it if it
-> needs Korean. First answer is free.
+> needs Korean. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **subway by day, taxi after midnight, Uber in
 Seoul and Kakao outside it, the card covers day trips as far as

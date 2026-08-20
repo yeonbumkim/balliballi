@@ -5,6 +5,9 @@ export const EMAIL_ADDRESS = "balliballiseoul@gmail.com";
 export const EMAIL_URL =
   "mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29";
 
+export const FORM_URL =
+  "https://docs.google.com/forms/d/e/1FAIpQLSf6f4cI3S08-bYTxSsbI0FpxQ4KKFAIdPJRRdx6Mc1gIs66FQ/viewform";
+
 export const KAKAO_URL = "https://pf.kakao.com/_RJxhSX/chat";
 
 export const SERVICE_PAGES = {

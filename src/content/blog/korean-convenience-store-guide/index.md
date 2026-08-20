@@ -184,7 +184,7 @@ are transactions, not translations, and they're
 > **Need to send a parcel, pay a bill, or receive a delivery you
 > can't be home for?** Message us on
 > [WhatsApp](https://wa.me/821075191282) — we'll fill the Korean
-> form and walk it through with you. First answer is free.
+> form and walk it through with you. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **red tag means a free one, the chilled wall
 is a real meal, the counter sends parcels and tops up your transit

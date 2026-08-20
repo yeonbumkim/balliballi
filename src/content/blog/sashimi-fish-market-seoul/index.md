@@ -228,7 +228,7 @@ to move.
 > [anything-else concierge service](/etc) will tell you which market
 > is nearest you, what a fair price looks like for what you're
 > being offered, and translate the negotiation while you're standing
-> there. First answer is free.
+> there. Asking costs nothing — you pay only for the work you book.
 
 ## Get it sorted
 

@@ -173,7 +173,7 @@ our [moving help](/moving) covers that leg too.
 > [WhatsApp](https://wa.me/821075191282) — if one of our own
 > rooms fits, we'll show it to you; either way we'll tell you
 > which door fits your budget and help with the Korean side.
-> First answer is free.
+> Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **no ARC means platforms-with-a-premium or
 land-short-then-sign-local; your deposit ceiling picks the door;

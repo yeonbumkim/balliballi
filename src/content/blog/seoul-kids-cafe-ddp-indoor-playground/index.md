@@ -248,7 +248,7 @@ handles well in a noisy room.
 > it is open today?** Send us the name or a link on
 > [WhatsApp](https://wa.me/821075191282) and our
 > [anything-else concierge service](/etc) will call and ask, in
-> Korean, and tell you in English. First answer is free.
+> Korean, and tell you in English. Asking costs nothing — you pay only for the work you book.
 
 For more ways to get a family out of the weather, our guide to
 [escaping the heat at IFC Mall](/blog/ifc-mall-yeouido-heat-escape/)

@@ -176,7 +176,7 @@ of friction.
 > **Moving in and not sure what to record — or already staring at a
 > deduction you don't agree with?** Message us on
 > [WhatsApp](https://wa.me/821075191282) with photos and we'll tell
-> you where you stand. First answer is free.
+> you where you stand. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **photograph the three meters before you
 unpack, shoot every wall base, corner and appliance, keep it in your

@@ -176,7 +176,7 @@ Exchange details, report it, let the professionals argue about percentages.
 
 > **Stuck at the roadside with a phone call you can't make?** Message us on
 > [WhatsApp](https://wa.me/821075191282) — we'll ring the rental company or
-> the other driver's insurer and translate it live. First answer is free.
+> the other driver's insurer and translate it live. Asking costs nothing — you pay only for the work you book.
 
 ## Photograph it before anything moves
 

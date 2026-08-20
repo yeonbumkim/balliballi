@@ -152,4 +152,4 @@ you out, here's
 > **Stuck figuring out a refund, a rescheduled game, or anything else
 > that's suddenly in Korean?** Message us on
 > [WhatsApp](https://wa.me/821075191282) — we'll sort it out in
-> English. First answer is free.
+> English. Asking costs nothing — you pay only for the work you book.

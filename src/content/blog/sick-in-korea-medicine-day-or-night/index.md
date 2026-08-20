@@ -194,7 +194,7 @@ not the medicine.
 
 > **Standing at the medicine stand unable to read a box?** Message
 > us on [WhatsApp](https://wa.me/821075191282) — send a photo and
-> we'll translate it, in English. First answer is free.
+> we'll translate it, in English. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **convenience store for a fever at 2 a.m.
 (including children's syrups), pharmacy when it needs advice,

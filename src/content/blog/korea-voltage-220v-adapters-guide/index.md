@@ -183,7 +183,7 @@ whether repair or replacement wins.
 > **Staring at a suitcase of chargers — or already smelled the
 > smoke?** Message us on [WhatsApp](https://wa.me/821075191282)
 > with photos of the labels — we'll tell you what works, what
-> needs what, and order the missing pieces. First answer is free.
+> needs what, and order the missing pieces. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: read the INPUT label — 100–240V means a
 ₩2,000 adapter, 120V-only means leave it home or buy Korean. Your

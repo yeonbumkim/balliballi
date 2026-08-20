@@ -136,7 +136,7 @@ argument it feeds into starts
 > [WhatsApp](https://wa.me/821075191282) with your home size,
 > neighborhood and preferred rhythm — we'll set up a recurring
 > cleaner, brief them in Korean, and relay everything in
-> English. First answer is free.
+> English. Asking costs nothing — you pay only for the work you book.
 
 The permission slip, since apparently nobody local gives it:
 hiring weekly help is normal here, affordable by international

@@ -145,7 +145,7 @@ package pickup and drop-off points for couriers. When Koreans say
 > **Something in Korea confusing you at 1 a.m.?** A label you can't
 > read, a queue app in Korean, a medicine you can't find? Message us on
 > [WhatsApp](https://wa.me/821075191282) — we'll figure it out with you
-> in English. First answer is free.
+> in English. Asking costs nothing — you pay only for the work you book.
 
 Korea's small surprises share one theme: the system works, it's just
 never explained out loud. The trash goes home in your pocket, the wait

@@ -213,7 +213,7 @@ errand: two minutes for a local, an afternoon for you.
 > your neighborhood — we'll tell you **which department** to look
 > for, and find which clinics near you are **open** and can take
 > you **in English**. We don't recommend providers and we take no
-> money from them; the choice is yours. First answer is free.
+> money from them; the choice is yours. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **start at a local clinic, match the
 symptom to the specialty sign, bring your ARC, and phone ahead

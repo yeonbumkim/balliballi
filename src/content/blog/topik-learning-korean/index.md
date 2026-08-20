@@ -169,7 +169,7 @@ This is something we arrange, so it is worth stating plainly:
 > separately](/blog/korean-conversation-practice-real-situations/).
 >
 > Message us on [WhatsApp](https://wa.me/821075191282) and we will
-> come back with options. **First answer is free.**
+> come back with options. **Asking costs nothing — you pay only for the work you book.**
 
 What we offer, and what it costs, is on our
 [Korean lessons page](/korean-lessons) — including a free ten-minute

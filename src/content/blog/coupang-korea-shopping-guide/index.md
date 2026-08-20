@@ -192,7 +192,7 @@ medication is between you and the pharmacist, by law.) We buy it, get it
 delivered to your door, and chase the
 delivery or return if anything goes wrong. You get one fixed quote (the
 item's price plus our coordination fee) before anything is bought, and the
-first answer is free. It's the same
+asking costs nothing — you pay only for the work you book. It's the same
 [anything-else concierge service](/etc) we run for phone calls and appliance
 repairs — personal shopping is just another day on it.
 
@@ -206,7 +206,7 @@ you were never given (see our
 > **Need something but can't get past the sign-up?** Message us on
 > [WhatsApp](https://wa.me/821075191282) with what you need — we'll find it
 > (online or in a store), quote you one fixed price, and get it to your door.
-> First answer is free.
+> Asking costs nothing — you pay only for the work you book.
 
 And once your ARC arrives, make the account anyway — set the app to English,
 match your name to your ARC exactly, and Coupang becomes the single most

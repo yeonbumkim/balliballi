@@ -140,7 +140,7 @@ months.
 > - Tell us your rough level and when you are free
 >
 > Message us on [WhatsApp](https://wa.me/821075191282) and we will
-> come back with options. **First answer is free.**
+> come back with options. **Asking costs nothing — you pay only for the work you book.**
 
 Rates and how it works are on our
 [Korean lessons page](/korean-lessons), and there is a free

@@ -183,7 +183,7 @@ and once you have the keys, photograph everything you find
 > photos on [WhatsApp](https://wa.me/821075191282) — corners, wall
 > bases, behind the furniture — and we'll tell you what we'd walk
 > away from. If you already live with it, we'll tell you whether
-> it's a clean or a repair. First answer is free.
+> it's a clean or a repair. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **crouch in the corners and smell, check the
 bottom edge of the wallpaper, treat white crystals as a red flag,

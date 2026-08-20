@@ -223,7 +223,7 @@ That part we [can do](/etc).
 > **Need a clinic that's open, in English?** Message us on
 > [WhatsApp](https://wa.me/821075191282) — we'll ring round and
 > tell you who can see you and when. We don't recommend providers
-> and take no money from them. First answer is free.
+> and take no money from them. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **convenience store for right now, Olive
 Young for choice, pads and liners everywhere, tampons and deodorant

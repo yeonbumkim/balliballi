@@ -137,7 +137,7 @@ service](/etc) covers the weird ones too.
 > **Locked out right now?** Send a photo of your lock and your address on
 > [WhatsApp](https://wa.me/821075191282) — we'll tell you whether the 9V trick
 > will work, and if not, arrange a locksmith with a fixed quote, in English.
-> First answer is free.
+> Asking costs nothing — you pay only for the work you book.
 
 One more thing for next time: Korean locks warn you before the battery dies.
 Depending on the model, the inside unit's light turns from green to red, the

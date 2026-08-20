@@ -115,7 +115,7 @@ transfer distance runs to 30 km rather than 10 km before surcharges start.
 
 > **Stuck on the Korean part?** Message us on
 > [WhatsApp](https://wa.me/821075191282) — we'll work out the route, the fare
-> and which exit you actually want, in English. First answer is free.
+> and which exit you actually want, in English. Asking costs nothing — you pay only for the work you book.
 
 ## The 6:30am discount nobody mentions
 

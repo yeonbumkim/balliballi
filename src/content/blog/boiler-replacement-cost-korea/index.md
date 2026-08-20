@@ -237,7 +237,7 @@ the number is fair, and make the call in Korean.
 
 > **Been quoted for a boiler?** Send us a photo of the quote and of the boiler
 > on [WhatsApp](https://wa.me/821075191282) — we'll tell you what the spec
-> means and whether the price is in the normal range. First answer is free.
+> means and whether the price is in the normal range. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **a condensing gas boiler fitted in Seoul lands
 between ₩900,000 and ₩1,050,000, check that 용량 and 연료타입 match your flat, insist

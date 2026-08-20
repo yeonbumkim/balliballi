@@ -171,7 +171,7 @@ what you're holding — before you buy four of them.
 
 > **Standing in front of the ramyeon wall?** Snap it and message us
 > on [WhatsApp](https://wa.me/821075191282) — we'll tell you which
-> cup is which, in English. First answer is free.
+> cup is which, in English. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **original buldak is 4,404 and manageable,
 Nuclear is 8,706 and isn't, carbonara is the gentle one, cups are

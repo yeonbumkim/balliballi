@@ -241,7 +241,7 @@ you another morning off work.
 > type, whether you have the ARC yet, what you need the account to
 > do. Our [anything-else concierge service](/etc) will tell you what
 > to bring, and can come to the branch and translate so you do it
-> once rather than twice. First answer is free.
+> once rather than twice. Asking costs nothing — you pay only for the work you book.
 
 ## Get it sorted
 
