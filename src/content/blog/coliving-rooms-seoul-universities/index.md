@@ -205,9 +205,9 @@ Things we'd rather you knew before you ask than after you arrive:
 
 > **Looking for a room near Kyung Hee, HUFS or Korea University?**
 > Message us on [WhatsApp](https://wa.me/821075191282) or
-> [KakaoTalk](https://open.kakao.com/o/glCt6lMh) — tell us the
-> campus and the month, and we'll tell you what's available. In
-> English, first answer free.
+> [KakaoTalk](https://open.kakao.com/o/glCt6lMh) — tell us the campus and
+> the month, and we'll tell you what's available. In English. Asking costs
+> nothing — you pay only for the work you book.
 
 And if you end up living somewhere else entirely, the rest of this
 site still applies: we're the people who

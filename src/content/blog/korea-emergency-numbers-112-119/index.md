@@ -134,8 +134,9 @@ aftermath with you in English.
 
 > **Not an emergency, but urgent and confusing?** That's our lane —
 > message us on [WhatsApp](https://wa.me/821075191282) and we'll figure
-> out who needs to be called and call them in Korean. First answer is
-> free. **If it's a real emergency, stop reading and dial 112 or 119.**
+> out who needs to be called and call them in Korean. Asking costs nothing
+> — you pay only for the work you book. **If it's a real emergency, stop
+> reading and dial 112 or 119.**
 
 Tonight's homework: save 112, 119 and 1330 as contacts, and pin your
 Korean address to your notes app. That's the whole preparedness plan —

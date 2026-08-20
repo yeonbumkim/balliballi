@@ -120,9 +120,9 @@ price confirmed in the chat before anyone touches a wrench.
 
 > **Dripping faucet and not sure if it's the ₩10,000 fix or the
 > landlord's problem?** Send a photo and a 10-second video on
-> [WhatsApp](https://wa.me/821075191282) — we'll tell you which part
-> it is, what it should cost, and who should be paying. First answer
-> is free.
+> [WhatsApp](https://wa.me/821075191282) — we'll tell you which part it
+> is, what it should cost, and who should be paying. Asking costs nothing
+> — you pay only for the work you book.
 
 And the one-line version: **cartridge for drips, aerator for spray,
 photos before repairs, and never force a rusty valve.** That covers

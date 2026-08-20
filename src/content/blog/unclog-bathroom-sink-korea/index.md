@@ -118,10 +118,10 @@ that call in Korean for you.
 ## Get it sorted
 
 > **Tried the ₩2,000 tricks and it's still backing up?** Send a photo or
-> video of the drain on [WhatsApp](https://wa.me/821075191282) — we'll tell
-> you whether it's a DIY fix or a plumber job, and if it's the latter,
-> arrange one with the price confirmed in English first. First answer is
-> free.
+> video of the drain on [WhatsApp](https://wa.me/821075191282) — we'll
+> tell you whether it's a DIY fix or a plumber job, and if it's the
+> latter, arrange one with the price confirmed in English first. Asking
+> costs nothing — you pay only for the work you book.
 
 And a habit that prevents round two: drop a ₩1,000 hair-catcher net over
 the drain, and pull the stopper for a rinse once a month. Your future self

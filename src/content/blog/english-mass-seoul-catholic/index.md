@@ -2,7 +2,7 @@
 title: "English Mass in Seoul: Where to Go on Sunday"
 description: "Five Seoul churches serve Mass in English every Sunday, and ten more languages have their own. The full schedule — and why you should ring ahead."
 pubDate: 2026-08-10T13:38:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-20T14:30:00+09:00
 service: etc
 category: culture
 tags: ["catholic", "church", "english-mass", "community", "seoul-life"]
@@ -170,6 +170,32 @@ every Catholic parish around you with its Mass timetable posted;
 Protestant churches are **교회**, which is worth knowing because the
 two words are not interchangeable and a Korean speaker will send you
 somewhere quite different depending on which you use.
+
+![Stainless-steel Mass timetable board outside a Seoul parish church, listing Sunday, weekday, confession and baptism times in Korean](./korean-parish-mass-timetable.webp)
+
+*The board by the door at 방배4동 성당 in Seocho-gu — the nearest parish
+to Seorae Village. Almost every church posts one like it · ⓒ
+@BalliBalliSeoul*
+
+These boards all use the same handful of words, so once you can read
+one of them you can read any of them:
+
+| Korean | What it means |
+| --- | --- |
+| **주일미사** | Sunday Mass |
+| **토요저녁** | Saturday evening vigil — counts as your Sunday Mass |
+| **평일미사** | Weekday Mass |
+| **교중미사** | The principal Sunday Mass, the busiest one |
+| **고해성사** | Confession — on this board, 15 minutes before each Mass |
+| **오전 / 오후** | a.m. / p.m., followed by the hour and 시 |
+
+Read that one board and you can see the shape of a Korean parish
+week: a vigil on Saturday evening, five Masses on Sunday split by
+age group, and an early weekday Mass at 6 a.m. for people on their
+way to work. Treat the photo as an example rather than a schedule —
+parishes shuffle times seasonally and put the new sheet up without
+announcing it anywhere online, which is exactly why the advice
+below is to ring first.
 
 Mass in Korean is still Mass. If you're new here and want the
 community more than the language, your neighbourhood parish is

@@ -171,9 +171,9 @@ else. Both are errands rather than translations, and both are
 ## Get it sorted
 
 > **Want beans shipped, or an app that won't accept your number?**
-> Message us on [WhatsApp](https://wa.me/821075191282) — we'll
-> register it, order it, or have it sent, in English. First answer
-> is free.
+> Message us on [WhatsApp](https://wa.me/821075191282) — we'll register
+> it, order it, or have it sent, in English. Asking costs nothing — you
+> pay only for the work you book.
 
 The one-line version: **order and pay first, take the buzzer,
 ₩1,500 to ₩8,000 depending on your tier, and the table is yours

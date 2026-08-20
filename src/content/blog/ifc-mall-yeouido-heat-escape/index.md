@@ -2,7 +2,7 @@
 title: "Beat Seoul's Heat Indoors: A Day at IFC Mall Yeouido"
 description: "When it's 38°C outside, one Yeouido building gives you a cinema, food courts, cafes, shopping and a river park exit — all without stepping into the sun."
 pubDate: 2026-08-07T18:38:00+09:00
-updatedDate: 2026-08-19T14:40:00+09:00
+updatedDate: 2026-08-20T14:45:00+09:00
 service: etc
 category: things-to-do
 tags: ["ifc-mall", "yeouido", "heat-wave", "things-to-do", "arcade"]
@@ -41,8 +41,44 @@ Atrium on L3 is IFC Mall's permanent pop-up space**, and there is
 almost always something set up in it — free to walk through, whether
 or not you buy anything.
 
-When we visited in August 2026 it was a **Newtro Game Festival**: a
-free retro arcade in the middle of the mall.
+### On right now: a pop-up bookshop (19–23 August 2026)
+
+This week the atrium is a **bookshop that doesn't normally exist** —
+a wooden hut standing on a lawn of green turf, built for World
+Humanitarian Day by the Korea NGO Council for Overseas Development
+Cooperation (KCOC).
+
+![Overhead view of a wooden pop-up bookshop on green turf in the IFC Mall Yeouido atrium, with reading benches and a sticker wall](./ifc-mall-atrium-bookshop-popup.webp)
+
+*'우연한 책방' on L3, photographed 20 August 2026 · ⓒ @BalliBalliSeoul*
+
+| | |
+| --- | --- |
+| **What** | **우연한 책방: 같은 페이지 위의 우리** — "An Accidental Bookshop: Us, on the Same Page" |
+| **Dates** | **19 – 23 August 2026** |
+| **Where** | L3, North Atrium |
+| **Cost** | **Free**, no booking |
+
+Sixteen humanitarian organisations have each filled part of it with
+books and field stories — **Good Neighbors, the Korean Red Cross,
+Save the Children, Oxfam, World Vision, ChildFund, Concern
+Worldwide, Plan Korea, the ICRC, IOM, UNDP, UNICEF, UNFPA, UNHCR and
+the WFP** among them, with support from the Ministry of Foreign
+Affairs and KOICA. You sit on the turf, read, leave a note on the
+sticker wall, and walk out again without buying anything.
+
+**Fair warning on language:** the books and panels are mostly in
+Korean. It is still worth the five minutes if you are passing — the
+installation carries most of the meaning by itself, and it is
+air-conditioned, which is the whole premise of this article.
+
+**On 23 August it comes down and something else goes up.** That is
+the normal rhythm of this space.
+
+### The one before it: a free retro arcade
+
+Earlier the same month, the same floor space was a **Newtro Game
+Festival**: a free retro arcade in the middle of the mall.
 
 ![Standing banner for the IFC Mall Newtro Game Festival showing dates and game list](./ifc-mall-newtro-game-festival-banner.webp)
 
@@ -83,7 +119,8 @@ So the practical advice isn't "go and see the arcade." It's
 **check the atrium on your way past**, because there's a decent
 chance something is on — and it costs nothing to look.
 
-**We'll update this page when we hear what's next in there.**
+**We update this page each time we catch a new one** — the bookshop
+above is the August 2026 edition.
 
 ## The rest of the building
 
@@ -144,10 +181,10 @@ sunburn:
 
 > **Planning a day in Seoul around the heat — or stuck on a
 > Korean-only booking page?** Message us on
-> [WhatsApp](https://wa.me/821075191282) and our
-> [anything-else concierge service](/etc) will map the day, book
-> what needs booking, and answer the questions in English. First
-> answer is free.
+> [WhatsApp](https://wa.me/821075191282) and our [anything-else concierge
+> service](/etc) will map the day, book what needs booking, and answer the
+> questions in English. Asking costs nothing — you pay only for the work
+> you book.
 
 The one-line version: **take Line 5 or 9 to Yeouido, never go
 outside, watch a film, eat, sit in a cafe, and glance at the L3
