@@ -2,7 +2,7 @@
 title: "Keypad Door Lock Dead in Korea? How to Get Back In"
 description: "The 9V battery trick that opens most dead Korean keypads, when it won't work, and what a locksmith actually costs in Seoul — in plain English."
 pubDate: 2026-08-05T10:00:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-20T17:40:00+09:00
 service: locksmith
 category: home
 tags: ["door-lock", "lockout", "keypad", "emergency"]
@@ -24,7 +24,8 @@ at the convenience store downstairs.
 A dead battery looks like this: you touch the keypad and **no lights come on at
 all**, or the numbers flash for a second and immediately go dark. If the keypad
 lights up normally and beeps but the door still won't open, skip ahead — that's
-a different problem, and the battery trick won't help.
+a different problem, and the battery trick won't help. We wrote that one up
+separately: [what a beeping lock is telling you](/blog/door-lock-beeping-korea/).
 
 ### The 9V battery trick
 
