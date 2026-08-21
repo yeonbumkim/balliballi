@@ -2,7 +2,7 @@
 title: "Korean Cafe Culture: Prices, Chains, and the All-Day Table"
 description: "Why Korea has a cafe on every corner: what each chain costs, how ordering works, and why one americano legitimately buys you a whole afternoon."
 pubDate: 2026-08-08T19:33:00+09:00
-updatedDate: 2026-08-17T20:10:00+09:00
+updatedDate: 2026-08-21T13:25:00+09:00
 service: etc
 category: food
 tags: ["cafe", "coffee", "starbucks", "study-cafe", "seoul-life"]
@@ -34,6 +34,13 @@ Coffee here is stratified, and knowing the tiers saves real money:
 The ultra-budget wave is genuinely new and genuinely good — a
 ₩1,500 americano from a chain that grew explosively in the last few
 years is the reason "cheap coffee" is no longer an oxymoron here.
+
+There is a tier below all of these, and it is the one Korean offices
+and homes actually run on: **a coffee stick, at roughly ₩174 to ₩420 a
+cup.** That's Maxim and KANU, and we priced the whole supermarket shelf
+in [the guide to Korea's coffee sticks](/blog/korean-instant-coffee-maxim-kanu/) —
+including which of the two is sweet and which is black, because they
+are not the same drink.
 
 ## Starbucks Korea is its own thing
 

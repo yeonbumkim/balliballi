@@ -2,7 +2,7 @@
 title: "Korean Ramyeon at the Convenience Store: Buldak, Decoded"
 description: "A heat ladder from Shin to Nuclear, why the buldak you know abroad isn't the one on this shelf, what cups cost, and how to eat it in the store."
 pubDate: 2026-08-09T00:30:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-21T13:25:00+09:00
 service: etc
 category: food
 tags: ["convenience-store", "buldak", "ramyeon", "food", "budget"]
@@ -166,6 +166,11 @@ and the difference between "very spicy" and "the one that made
 people cry on YouTube" is one word on a lid. Send us a photo of the
 shelf and our [anything-else concierge service](/etc) will tell you
 what you're holding — before you buy four of them.
+
+Two aisles over on the same shelf run is the other thing Korea buys by
+the boxful — **coffee sticks.** Same logic, same colour-coded packaging,
+same "which one is the sweet one" confusion: we sorted
+[Maxim and KANU out here](/blog/korean-instant-coffee-maxim-kanu/).
 
 ## Get it sorted
 
