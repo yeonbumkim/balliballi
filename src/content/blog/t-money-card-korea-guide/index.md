@@ -2,7 +2,7 @@
 title: "T-money Card Korea: Buy One, Tap Everywhere, Transfer Free"
 description: "Skip the transit-card research. Buy T-money at any convenience store, top up in cash, always tap out — and free transfers do the rest. With 2026 fares."
 pubDate: 2026-08-10T10:29:00+09:00
-updatedDate: 2026-08-18T22:10:00+09:00
+updatedDate: 2026-08-21T09:20:00+09:00
 service: etc
 category: transport
 tags: ["t-money", "transportation", "subway", "bus", "tourist"]
@@ -160,7 +160,10 @@ beat pay-per-ride at roughly 40+ rides a month. But **this is the
 one part of Korean transit currently in flux**, so treat any
 article you read — including this one — as a snapshot:
 
-- Seoul's **Climate Card (기후동행카드)** is being wound down. A
+- Seoul's **Climate Card (기후동행카드)** is being wound down, and
+  we have written up
+  [what replaces it and by when](/blog/seoul-climate-card-ending-k-pass/)
+  in full. A
   banner on the ticket machines in August 2026 put it bluntly:
   **payback applies only to top-ups made through June, and from
   August the benefits move to "모두의카드" — the K-Pass.**

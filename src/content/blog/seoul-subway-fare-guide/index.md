@@ -2,6 +2,7 @@
 title: "Seoul Subway Fares: What It Costs, Plus a 6:30am Discount"
 description: "Adult ₩1,550 to start, ₩100 more per 5km, and free transfers if you tap out. The official 2026 fare table, turned into what you'll actually pay."
 pubDate: 2026-08-18
+updatedDate: 2026-08-21T09:20:00+09:00
 service: etc
 category: transport
 tags: ["subway", "fares", "transportation", "seoul-metro", "tourist"]
@@ -202,7 +203,8 @@ commute, not a holiday.
 
 Seoul also runs short-term tourist passes and a monthly unlimited pass, but
 **that side of the system is being restructured through 2026** as the city's
-Climate Card is wound down and its benefits move to the national K-Pass. We
+Climate Card is wound down and its benefits move to the national K-Pass —
+[the dates and the switch are here](/blog/seoul-climate-card-ending-k-pass/). We
 track what the ticket machines are actually saying about it in the
 [T-money guide](/blog/t-money-card-korea-guide/#monthly-passes-dont-build-a-plan-around-them-right-now),
 because it has been changing faster than most guides update. The plain fares
