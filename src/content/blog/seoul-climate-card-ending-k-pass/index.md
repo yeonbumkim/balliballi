@@ -1,7 +1,7 @@
 ---
 title: "Seoul's Climate Card Is Ending: What Replaces It, and When"
 description: "The 30-day Climate Card is being wound down and folded into K-Pass. The dates that matter, and the paper route foreigners are told to use."
-pubDate: 2026-08-21T09:20:00+09:00
+pubDate: 2026-08-23T22:24:00+09:00
 service: etc
 category: transport
 cover: "./ticket-machine-english-menu-cover.webp"
