@@ -6,7 +6,7 @@ PUBLISH_SCHEDULE.md
 PHOTO_LIBRARY.md
 HOWTO_PUBLISH.md
 HOWTO_CONVERSION_TRACKING.md
-
+payment.txt
 # Build output & deps
 node_modules/
 dist/

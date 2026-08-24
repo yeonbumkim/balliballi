@@ -61,7 +61,7 @@
     :root{
       --primary:#16a34a; --primary-dark:#15803d; --primary-light:#f0fdf4;
       --fg:#121212; --muted:#6b7280; --border:#e5e7eb; --bg:#ffffff; --bg-soft:#f9fafb;
-      --whatsapp:#25d366; --kakao:#fee500; --email:#374151; --radius:16px;
+      --whatsapp:#25d366; --kakao:#fee500; --email:#374151; --paypal:#ffc439; --radius:16px;
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -102,6 +102,7 @@
     .btn-whatsapp{background:var(--whatsapp);color:#fff}
     .btn-kakao{background:var(--kakao);color:#191919}
     .btn-email{background:var(--email);color:#fff}
+    .btn-paypal{background:var(--paypal);color:#003087;border:1px solid #e0a800}
     .cta-row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
     @media(max-width:640px){.cta-row{flex-direction:column;align-items:stretch}.cta-row .btn{width:100%}}
 
@@ -173,6 +174,14 @@
     footer ul{list-style:none;display:flex;flex-direction:column;gap:9px}
     footer a:hover{color:var(--fg)}
     .foot-bottom{border-top:1px solid var(--border);padding-top:24px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font-size:12px}
+
+    /* Service fee (PayPal) */
+    .fee{text-align:center}
+    .fee .container{max-width:640px}
+    .fee p.fee-lede{color:var(--muted);margin:12px 0 26px;font-size:15px}
+    .fee .cta-row{justify-content:center}
+    .fee .btn{min-width:200px}
+    .fee .fee-note{margin-top:20px;font-size:13px;color:var(--muted)}
 
     /* Floating mobile CTA */
     .float-cta{position:fixed;bottom:0;left:0;right:0;z-index:40;display:none;grid-template-columns:1fr 1fr;gap:1px;background:var(--border)}
@@ -362,6 +371,24 @@
         </div>
       </div>
     </section>
+
+    <!-- ===================== Service fee (PayPal) ===================== -->
+    <section class="fee">
+      <div class="container">
+        <p class="eyebrow">Service fee</p>
+        <h2>Pay your handling fee</h2>
+        <p class="fee-lede">
+          This covers our side of the job — the English support, the Korean phone calls, the
+          scheduling. <strong>Message us first</strong> so we can confirm which amount applies;
+          the provider's own charge is quoted and paid separately.
+        </p>
+        <div class="cta-row">
+          <a href="https://www.paypal.com/ncp/payment/U7Z5XAH98TQYU" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="5">Pay $5 with PayPal</a>
+          <a href="https://www.paypal.com/ncp/payment/KJ63M4GAY66S4" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="10">Pay $10 with PayPal</a>
+        </div>
+        <p class="fee-note">Secure checkout on PayPal — card or PayPal balance, no Korean bank account needed.</p>
+      </div>
+    </section>
   </main>
 
   <!-- ===================== Footer ===================== -->
@@ -420,13 +447,18 @@
     <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20help.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="f-wa">💬 WhatsApp</a>
     <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="f-email">✉️ Email</a>
   </div>
-  <!-- WhatsApp click conversion tracking (GA4: whatsapp_click) -->
+  <!-- Click conversion tracking (GA4: whatsapp_click, paypal_click) -->
   <script>
     document.addEventListener('click', function (e) {
-      var a = e.target && e.target.closest ? e.target.closest('a[href*="wa.me"]') : null;
+      if (!e.target || !e.target.closest) return;
+      var a = e.target.closest('a[href*="wa.me"]');
       if (a && window.gtag) {
         gtag('event', 'whatsapp_click', { page_path: location.pathname });
           /* Google Ads conversion fires here once the action exists. */
+      }
+      var pp = e.target.closest('a[href*="paypal.com/ncp/payment"]');
+      if (pp && window.gtag) {
+        gtag('event', 'paypal_click', { page_path: location.pathname, value: Number(pp.dataset.fee || 0), currency: 'USD' });
       }
     }, true);
   </script>
