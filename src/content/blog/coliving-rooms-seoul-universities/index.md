@@ -3,7 +3,7 @@ title: "Our Coliving Rooms: Kyung Hee, HUFS and Korea University"
 description: "Three furnished coliving houses beside Seoul university campuses, run by us. A new women-only house opens near Korea University in late August 2026."
 pubDate: 2026-08-13T16:13:00+09:00
 updatedDate: 2026-08-19T14:45:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
 cover: "./coliving-cover.webp"
@@ -211,6 +211,6 @@ Things we'd rather you knew before you ask than after you arrive:
 
 And if you end up living somewhere else entirely, the rest of this
 site still applies: we're the people who
-[unblock the drain](/plumbing), [open the door](/locksmith) and
+[unblock the drain](/plumbing) and
 [make the Korean phone call](/etc) for foreign residents across
 Seoul.

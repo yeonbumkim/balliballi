@@ -3,7 +3,7 @@ title: "Student Housing in Seoul: Renting Without an ARC or Phone"
 description: "Arriving for the semester and every Korean housing site rejects you? Here's how students actually rent from abroad — platforms, deposits, and the play."
 pubDate: 2026-08-08T00:00:00+09:00
 updatedDate: 2026-08-23T14:30:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
 cover: "./sharehouse-single-room-bed-desk.webp"
@@ -109,8 +109,9 @@ Worth knowing before it happens to you at 1 a.m.: those keypads run
 on batteries, and when the battery dies the door simply stops
 opening. It's the single most common way people get locked out here,
 and it's fixable in minutes if you know the trick — we wrote up
-[what to do when a keypad lock dies](/blog/keypad-door-lock-dead-locked-out-seoul/),
-and we [open doors in English](/locksmith) when it can't wait.
+[what to do when a keypad lock dies](/blog/keypad-door-lock-dead-locked-out-seoul/).
+(~~And we open doors in English when it can't wait.~~ **Locksmith
+call-outs are a service we stopped arranging in August 2026.**)
 
 ## The deposit reality check
 
@@ -170,8 +171,9 @@ contract with you before you sign — a language-and-paperwork
 service, priced as such. To be clear, **we're not a licensed real
 estate brokerage and don't broker other people's rooms**: your
 contract is always signed directly with the landlord or a licensed
-agent (공인중개사). And if the move itself is the next headache,
-our [moving help](/moving) covers that leg too.
+agent (공인중개사). ~~And if the move itself is the next headache,
+our moving help covers that leg too.~~ **We stopped arranging moves in
+August 2026.**
 
 ## Get it sorted
 

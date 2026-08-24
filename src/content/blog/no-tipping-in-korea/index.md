@@ -49,10 +49,10 @@ gratitude.
 What actually matters instead is **agreeing the price before the
 work starts**, which is the norm here and the thing to insist on.
 That's precisely what we do when we arrange a
-[plumber](/plumbing), a [locksmith](/locksmith), a
-[cleaner](/cleaning) or a [moving crew](/moving) for someone: the
+[plumber](/plumbing) or a [cleaner](/cleaning) for someone: the
 price is confirmed in the chat first, so there's no negotiation at
-the door and no tipping question afterwards.
+the door and no tipping question afterwards. (~~Locksmith and moving
+jobs~~ — those two we no longer arrange, as of August 2026.)
 
 ## The kiosk will not ask you
 

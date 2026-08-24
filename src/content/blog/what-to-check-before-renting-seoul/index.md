@@ -3,7 +3,7 @@ title: "Renting in Seoul: What the Deposit Really Tells You"
 description: "A ₩1–2M deposit usually means you're not looking at a one-room at all. How to read a Seoul listing, and the ten-minute inspection that saves you a year."
 pubDate: 2026-08-13T16:31:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["renting", "housing", "deposit", "one-room", "moving-in"]
 cover: "./viewing-cover.webp"
@@ -205,9 +205,10 @@ over the management fee.
 We do two things here. Through our
 [anything-else concierge service](/etc) **we come to viewings with
 you** — translating, asking the questions above, and telling you
-honestly what we'd walk away from. And when you've signed, our
-**[moving service](/moving)** handles the van, the crew and the
-disposal of whatever the last tenant left behind.
+honestly what we'd walk away from. ~~And when you've signed, our
+moving service handles the van, the crew and the disposal of whatever
+the last tenant left behind.~~ **We stopped arranging moves in August
+2026.**
 
 ## Get it sorted
 

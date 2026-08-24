@@ -306,8 +306,10 @@ meter, which is normal and not a scam.
 
 If the "luggage" in question is closer to a household than a
 suitcase — arriving to move in, or leaving with everything you own —
-that's a van and a crew, not a taxi, and it's
-[what our moving service arranges](/moving).
+that's a van and a crew, not a taxi. ~~It's what our moving service
+arranges.~~ **We stopped arranging moves in August 2026**; our
+[anything-else service](/etc) can still make the booking calls in
+Korean for you.
 
 ## The Korean part
 
