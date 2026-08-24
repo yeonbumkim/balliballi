@@ -3,7 +3,7 @@ title: "How to Throw Away Trash in Korea Without Getting Fined"
 description: "Korea's four waste streams explained: district bags, mandatory food-waste separation, recycling rules, and the official process for bulky items."
 pubDate: 2026-08-06T08:30:00+09:00
 updatedDate: 2026-08-14T15:10:00+09:00
-service: etc
+service: moving
 category: settling-in
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
 cover: "./four-sorting-bins-recycling-station.webp"
@@ -62,7 +62,7 @@ station; villas and one-rooms put sorted bags curbside on set nights.
 anything that won't fit in a bag — has its own official process. More on
 that below, because it's the one that catches everyone.
 
-If it's a whole flat's worth — a move-out, a clear-out, or an estate to empty — that stops being a sticker job and becomes a van and two people. That's what our [cleaning service](/cleaning) is for. (~~And our moving service~~ — **we stopped arranging moves in August 2026.**)
+If it's a whole flat's worth — a move-out, a clear-out, or an estate to empty — that stops being a sticker job and becomes a van and two people. That's what our [cleaning](/cleaning) and [moving](/moving) services are for.
 
 ## The fines are real
 
@@ -138,14 +138,12 @@ won or lost with the photographs you took
 [on the day you moved in](/blog/photograph-your-flat-move-in-day/),
 repeated from the same angles on the way out.
 
-~~Through our moving help service, we file the bulky-waste declaration for
-you, get the sticker sorted, and coordinate the haul-out.~~ **We stopped
-arranging moves in August 2026.**
-
-The paperwork side is still something we do: the bulky-waste declaration is
-a Korean-language form and a phone call, and for that — plus which bag,
-which bin, which night, and what your specific building expects — our
-[anything-else concierge service](/etc) answers in plain English.
+This is a thing we handle constantly, especially around move-outs. Through
+our [moving help service](/moving), we file the bulky-waste declaration for
+you, get the sticker sorted, and coordinate the haul-out — and for
+everything else (which bag, which bin, which night, what your specific
+building expects), our [anything-else concierge service](/etc) answers in
+plain English.
 
 ## Get it sorted
 

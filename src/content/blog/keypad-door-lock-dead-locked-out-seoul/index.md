@@ -3,7 +3,7 @@ title: "Keypad Door Lock Dead in Korea? How to Get Back In"
 description: "The 9V battery trick that opens most dead Korean keypads, when it won't work, and what a locksmith actually costs in Seoul — in plain English."
 pubDate: 2026-08-05T10:00:00+09:00
 updatedDate: 2026-08-20T17:40:00+09:00
-service: etc
+service: locksmith
 category: home
 tags: ["door-lock", "lockout", "keypad", "emergency"]
 cover: "./keypad-lock-9v-battery.jpg"
@@ -98,13 +98,10 @@ Typical ranges in central Seoul, as of 2026:
 Two things to know about how pricing works here. First, many local locksmiths
 charge noticeably more at night and on weekends, and the price you hear on the
 phone isn't always the price at the door. The fix for both is the same: **get
-the price confirmed in writing before anyone is dispatched.** ~~When we arrange
-a locksmith through our English-speaking locksmith service, the quote is fixed
-in the chat first.~~
-
-**Update, August 2026: we no longer arrange locksmith call-outs.** The advice
-above still stands and matters more without us — get the figure in writing,
-in the chat or by text, before anyone sets off.
+the price confirmed in writing before anyone is dispatched.** When we arrange a
+locksmith through our [English-speaking locksmith service](/locksmith),
+the quote is fixed in the chat first, and there's no night or weekend
+surcharge.
 
 Second, a legitimate locksmith in Korea will ask you to **prove you live
 there** before opening the door — photo ID plus something tying you to the

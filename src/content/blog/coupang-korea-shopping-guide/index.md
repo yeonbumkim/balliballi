@@ -165,11 +165,8 @@ couple of orders a month usually justifies it.
 One thing Coupang can't do is carry the old one out. Furnishing an
 empty flat usually means a pile of boxes going up and something
 bulky coming down — mattresses and appliances need
-[an official bulky-waste sticker](/blog/how-to-throw-away-trash-in-korea/).
-~~And if it's a whole move, that's ours to arrange.~~ **We stopped
-arranging moves in August 2026** — but our
-[anything-else service](/etc) will still make the Korean calls that
-booking one takes.
+[an official bulky-waste sticker](/blog/how-to-throw-away-trash-in-korea/),
+and if it's a whole move, [that's ours to arrange](/moving).
 
 One warning before you order an appliance you intend to keep:
 **Korea runs on 220V at 60Hz**, and a device bought here may not

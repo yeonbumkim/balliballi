@@ -19,9 +19,9 @@
   </script>
 
   <!-- ===================== SEO ===================== -->
-  <title>Locked Out in Seoul: Costs, Keypad Locks &amp; What to Expect</title>
+  <title>Locksmith in Seoul, Arranged in English | Lockouts &amp; Digital Door Locks</title>
   <meta name="naver-site-verification" content="b855ca0b2040ecb261c6e73882c636c6aa57d176" />
-  <meta name="description" content="What a lockout costs in Korea, why keypad door locks die, and what a legitimate locksmith asks before opening a door. Note: we no longer arrange locksmith call-outs. Gangnam, Yongsan, Seocho.">
+  <meta name="description" content="Locked out in Seoul? Text us in English — we arrange a trusted local locksmith and manage everything for you. Digital door lock (keypad) problems, lockouts, lock replacement. Gangnam, Yongsan, Seocho.">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
   <meta name="geo.region" content="KR-11">
   <meta name="geo.placename" content="Gangnam-gu, Yongsan-gu, Seocho-gu, Seoul">
@@ -30,8 +30,8 @@
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Balli Balli Seoul">
-  <meta property="og:title" content="Locked Out in Seoul: Costs, Keypad Locks &amp; What to Expect">
-  <meta property="og:description" content="What a lockout costs in Korea and how keypad locks fail — a reference guide. We no longer arrange locksmith call-outs.">
+  <meta property="og:title" content="Locksmith in Seoul, Arranged in English | Gangnam &amp; Yongsan">
+  <meta property="og:description" content="Locked out? Text us in English — we arrange a local locksmith and handle all the Korean. Fast dispatch, upfront pricing.">
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://balliballi.com/og-image.png">
   <meta property="og:image:width" content="1200">
@@ -40,6 +40,30 @@
   <meta name="twitter:image" content="https://balliballi.com/og-image.png">
 
   <!-- ===================== Structured Data ===================== -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Locksmith",
+    "@id": "https://balliballi.com/locksmith#locksmith",
+    "name": "Balli Balli Seoul — Locksmith",
+    "legalName": "지인어스",
+    "alternateName": ["Jiinus", "Locksmith help in English Seoul"],
+    "description": "Locksmith arrangement service for expats and travelers in Seoul — chat with us in English and we book and manage a trusted local locksmith. Lockouts, digital door lock repair and replacement. Fast dispatch to Gangnam, Yongsan and Seocho.",
+    "url": "https://balliballi.com/locksmith",
+    "priceRange": "₩₩",
+    "currenciesAccepted": "KRW",
+    "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+    "address": { "@type": "PostalAddress", "addressLocality": "Seoul", "addressCountry": "KR" },
+    "areaServed": [
+      { "@type": "AdministrativeArea", "name": "Gangnam-gu, Seoul" },
+      { "@type": "AdministrativeArea", "name": "Yongsan-gu, Seoul" },
+      { "@type": "AdministrativeArea", "name": "Seocho-gu, Seoul" }
+    ],
+    "knowsLanguage": ["en", "ko"],
+    "slogan": "Locked out? Back inside, balli balli.",
+    "knowsAbout": ["emergency lockout service","digital door lock repair","keypad door lock installation","lock replacement","door lock battery replacement","smart lock installation","key duplication"]
+  }
+  </script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -84,7 +108,7 @@
     :root{
       --primary:#3b82f6; --primary-dark:#1d4ed8; --primary-light:#eff6ff;
       --fg:#121212; --muted:#6b7280; --border:#e5e7eb; --bg:#ffffff; --bg-soft:#f9fafb;
-      --whatsapp:#25d366; --kakao:#fee500; --email:#374151; --radius:16px;
+      --whatsapp:#25d366; --kakao:#fee500; --email:#374151; --paypal:#ffc439; --radius:16px;
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -111,18 +135,12 @@
 
     .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;border-radius:999px;font-weight:800;cursor:pointer;transition:transform .15s,box-shadow .15s;border:none}
     .btn:hover{transform:translateY(-1px);box-shadow:0 8px 24px rgba(0,0,0,.12)}
-
-    /* 서비스 종료 안내 */
-    .discontinued{background:#fff7ed;border:2px solid #fdba74;border-left:6px solid #ea580c;border-radius:14px;padding:20px 22px;margin:0 0 28px}
-    .discontinued .dtitle{font-weight:800;font-size:17px;color:#9a3412;margin:0 0 8px;letter-spacing:-.01em}
-    .discontinued p{margin:0 0 8px;font-size:14.5px;line-height:1.65;color:#7c2d12}
-    .discontinued p:last-child{margin-bottom:0}
-    .discontinued a{color:#9a3412;font-weight:700}
     .btn-lg{padding:18px 32px;font-size:18px}
     .btn-md{padding:14px 24px;font-size:15px}
     .btn-whatsapp{background:var(--whatsapp);color:#fff}
     .btn-kakao{background:var(--kakao);color:#191919}
     .btn-email{background:var(--email);color:#fff}
+    .btn-paypal{background:var(--paypal);color:#003087;border:1px solid #e0a800}
     .cta-row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
     .cta-lead{margin:0 0 14px;font-weight:700;font-size:17px}
     @media(max-width:640px){.cta-row{flex-direction:column;align-items:stretch}.cta-row .btn{width:100%}}
@@ -208,6 +226,14 @@
     .float-cta .f-kakao{background:var(--kakao);color:#191919}
     .float-cta .f-email{background:var(--email);color:#fff}
     @media(max-width:820px){.float-cta{display:grid}body{padding-bottom:56px}}
+    /* Service fee (PayPal) */
+    .fee{text-align:center}
+    .fee .container{max-width:720px}
+    .fee p.fee-lede{color:var(--muted);margin:12px 0 26px;font-size:15px}
+    .fee .cta-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;justify-content:center}
+    @media(max-width:780px){.fee .cta-row{grid-template-columns:1fr}}
+    .fee .btn{min-width:0;width:100%}
+    .fee .fee-note{margin-top:20px;font-size:13px;color:var(--muted)}
   </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890314542345467"
      crossorigin="anonymous"></script>
@@ -226,6 +252,8 @@
         <a href="#symptoms">Situations</a>
         <a href="#faq">FAQ</a>
         <a href="/contact/">Contact</a>
+        <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="nav-cta nav-kakao"><span class="k-full">KakaoTalk</span><span class="k-abbr">Kakao</span></a>
+        <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20a%20locksmith.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Situation%20%28locked%20out%20%2F%20keypad%20dead%20%2F%20new%20code%20%2F%20Airbnb%29%3A%0A-%20Am%20I%20outside%20the%20door%20right%20now%3F%20%28yes%2Fno%29%3A%0A%0A%28A%20photo%20of%20the%20lock%20helps%20a%20lot%21%29" target="_blank" rel="noopener" class="nav-cta">💬 WhatsApp</a>
       </nav>
     </div>
   </header>
@@ -236,24 +264,24 @@
     <section class="hero">
       <div class="container hero-grid">
         <div>
-          <div class="discontinued" role="note">
-            <p class="dtitle">⚠️ This service has ended</p>
-            <p><strong>We no longer arrange locksmith call-outs.</strong> The service closed in August 2026 and we are not taking new locksmith requests through any channel — chat, email or phone.</p>
-            <p>Everything below is kept online as reference: what a lockout actually costs in Korea, how digital door locks fail, and what a legitimate locksmith will ask you before opening a door. The prices and timings are what they were when we ran the service, so treat them as a guide when you call a locksmith yourself.</p>
-            <p>If the hard part is the Korean rather than the lock, our <a href="/etc">anything-else service</a> is still running and can make the call for you. For plumbing and cleaning, see <a href="/plumbing">plumbing</a> and <a href="/cleaning">cleaning</a>.</p>
-          </div>
           <p class="eyebrow">Lockouts · Digital door locks · Lock replacement</p>
-          <h1>Locked out in Seoul: what it costs and how it goes</h1>
+          <h1>Locked out in Seoul? Back inside, balli balli.</h1>
           <p class="lede">
             Dead keypad, forgotten code, or a door that just won't open — at 2 AM, in a language you
-            don't speak. This page explains what that costs in Korea and how the call goes.
-            <strong>We no longer arrange the call-out itself.</strong>
+            don't speak. <strong>Text or WhatsApp us a photo of your lock</strong> and we'll get you back
+            inside. <strong>Fixed price confirmed before we touch the door.</strong>
           </p>
           <ul class="hero-facts">
             <li><b>Fast</b><span class="muted">Emergency dispatch — Gangnam, Yongsan &amp; Seocho</span></li>
             <li><b>Fixed quote</b><span class="muted">Price confirmed by message before we arrive</span></li>
             <li><b>ID verified</b><span class="muted">We verify residency before opening — your security matters</span></li>
           </ul>
+          <p class="cta-lead">Locked out right now? Message us.</p>
+          <div class="cta-row">
+            <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-lg btn-kakao">KakaoTalk</a>
+            <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20a%20locksmith.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Situation%20%28locked%20out%20%2F%20keypad%20dead%20%2F%20new%20code%20%2F%20Airbnb%29%3A%0A-%20Am%20I%20outside%20the%20door%20right%20now%3F%20%28yes%2Fno%29%3A%0A%0A%28A%20photo%20of%20the%20lock%20helps%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-lg btn-whatsapp">💬 WhatsApp</a>
+            <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-lg btn-email">✉️ Email</a>
+          </div>
           <div class="trust-strip">
             <span class="chip">✓ Airbnb lockouts (host verification required)</span>
             <span class="chip">✓ Night &amp; holiday rates in the quote</span>
@@ -306,6 +334,12 @@
             </div>
           </div>
           <p class="estimate-note" style="margin-top:16px">↑ A range, not a price. What decides the upper end: the lock model and its age, whether the door has been forced before, whether the unit has to be replaced rather than opened, and what time it is. <strong>Send a photo of the lock and we convert this range into one fixed figure before anyone leaves</strong> — and if the lock turns out to be something other than the photo showed, you hear the new number before anything is touched.</p>
+          <p class="cta-lead">Send us a photo of the problem.</p>
+          <div class="cta-row">
+            <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-md btn-kakao">KakaoTalk</a>
+            <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20a%20locksmith.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Situation%20%28locked%20out%20%2F%20keypad%20dead%20%2F%20new%20code%20%2F%20Airbnb%29%3A%0A-%20Am%20I%20outside%20the%20door%20right%20now%3F%20%28yes%2Fno%29%3A%0A%0A%28A%20photo%20of%20the%20lock%20helps%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-md btn-whatsapp">💬 WhatsApp</a>
+            <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-md btn-email">✉️ Email</a>
+          </div>
           <p class="estimate-note">* A 3 a.m. lockout costs more than a Tuesday afternoon one — the out-of-hours surcharge is inside the fixed quote you get before we dispatch, never added later · Non-destructive methods first, always</p>
         </div>
       </div>
@@ -503,8 +537,33 @@
       <div class="container" style="max-width:720px">
         <h2>Standing outside your door? Message us now.</h2>
         <p>Fast dispatch · Fixed quote in the chat · Non-destructive first · English OK</p>
+        <p class="cta-lead">Locked out right now? Message us.</p>
+        <div class="cta-row">
+          <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-lg btn-kakao">KakaoTalk</a>
+          <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20a%20locksmith.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Situation%20%28locked%20out%20%2F%20keypad%20dead%20%2F%20new%20code%20%2F%20Airbnb%29%3A%0A-%20Am%20I%20outside%20the%20door%20right%20now%3F%20%28yes%2Fno%29%3A%0A%0A%28A%20photo%20of%20the%20lock%20helps%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-lg btn-whatsapp">💬 WhatsApp</a>
+          <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-lg btn-email">✉️ Email</a>
+        </div>
       </div>
     </section>
+    <!-- ===================== Service fee (PayPal) ===================== -->
+    <section class="fee">
+      <div class="container">
+        <p class="eyebrow">Service fee</p>
+        <h2>Pay your handling fee</h2>
+        <p class="fee-lede">
+          This covers our side of the job — the English support, the Korean phone calls, the
+          scheduling. The locksmith's own charge is quoted and paid separately, as shown above.
+          <strong>Message us first</strong> so we can confirm which amount applies.
+        </p>
+        <div class="cta-row">
+          <a href="https://www.paypal.com/ncp/payment/K7CPXRKSSW34U" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="1">Pay $1 with PayPal</a>
+          <a href="https://www.paypal.com/ncp/payment/U7Z5XAH98TQYU" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="5">Pay $5 with PayPal</a>
+          <a href="https://www.paypal.com/ncp/payment/KJ63M4GAY66S4" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="10">Pay $10 with PayPal</a>
+        </div>
+        <p class="fee-note">Secure checkout on PayPal — card or PayPal balance, no Korean bank account needed.</p>
+      </div>
+    </section>
+
   </main>
 
   <!-- ===================== Footer ===================== -->
@@ -518,6 +577,7 @@
           </div>
           <p>Locksmith help for expats &amp; travelers — arranged in English.<br>Text us — we handle the Korean side.</p>
           <ul style="margin-top:16px">
+            <li>💬 <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20a%20locksmith.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Situation%20%28locked%20out%20%2F%20keypad%20dead%20%2F%20new%20code%20%2F%20Airbnb%29%3A%0A-%20Am%20I%20outside%20the%20door%20right%20now%3F%20%28yes%2Fno%29%3A%0A%0A%28A%20photo%20of%20the%20lock%20helps%20a%20lot%21%29" target="_blank" rel="noopener" style="font-weight:700;color:var(--fg)">WhatsApp — in English</a></li>
             <li>📍 Gangnam · Yongsan · Seocho + all Seoul</li>
           </ul>
         </div>
@@ -542,6 +602,7 @@
             <li>E-commerce reg. no.: 2025-서울중구-143</li>
             <li>Representative: Yeonbum Kim</li>
             <li>Email: <a href="mailto:balliballiseoul@gmail.com">balliballiseoul@gmail.com</a></li>
+            <li><a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener">KakaoTalk channel</a></li>
           </ul>
         </div>
       </div>
@@ -557,6 +618,12 @@
     </div>
   </footer>
 
+  <!-- Floating mobile CTA bar -->
+  <div class="float-cta">
+    <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="f-kakao">KakaoTalk</a>
+    <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20a%20locksmith.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Situation%20%28locked%20out%20%2F%20keypad%20dead%20%2F%20new%20code%20%2F%20Airbnb%29%3A%0A-%20Am%20I%20outside%20the%20door%20right%20now%3F%20%28yes%2Fno%29%3A%0A%0A%28A%20photo%20of%20the%20lock%20helps%20a%20lot%21%29" target="_blank" rel="noopener" class="f-wa">💬 WhatsApp</a>
+    <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="f-email">✉️ Email</a>
+  </div>
 
   <!-- ===================== JS ===================== -->
   <script>
@@ -579,7 +646,12 @@
   <!-- WhatsApp click conversion tracking (GA4: whatsapp_click) -->
   <script>
     document.addEventListener('click', function (e) {
-      var a = e.target && e.target.closest ? e.target.closest('a[href*="wa.me"]') : null;
+      if (!e.target || !e.target.closest) return;
+      var pp = e.target.closest('a[href*="paypal.com/ncp/payment"]');
+      if (pp && window.gtag) {
+        gtag('event', 'paypal_click', { page_path: location.pathname, value: Number(pp.dataset.fee || 0), currency: 'USD' });
+      }
+      var a = e.target.closest('a[href*="wa.me"]');
       if (a && window.gtag) {
         gtag('event', 'whatsapp_click', { page_path: location.pathname });
           /* Google Ads conversion fires here once the action exists. */

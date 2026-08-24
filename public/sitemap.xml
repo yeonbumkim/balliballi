@@ -11,6 +11,16 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/locksmith</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/moving</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/plumbing</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
@@ -351,15 +361,5 @@
     <loc>https://balliballi.com/korean-lessons</loc>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://balliballi.com/locksmith</loc>
-    <priority>0.4</priority>
-    <changefreq>yearly</changefreq>
-  </url>
-  <url>
-    <loc>https://balliballi.com/moving</loc>
-    <priority>0.4</priority>
-    <changefreq>yearly</changefreq>
   </url>
 </urlset>

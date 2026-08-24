@@ -2,7 +2,7 @@
 title: "Door Lock Beeping in Korea? What Each Warning Means"
 description: "Your Korean keypad lock is alive and beeping at you. The four things it usually means, which one you can fix in ten seconds, and when it needs a locksmith."
 pubDate: 2026-08-20T17:40:00+09:00
-service: etc
+service: locksmith
 category: home
 cover: "./door-lock-panel-cover.webp"
 coverAlt: "The outside panel of a Milre digital door lock on a Korean flat door, with a video doorbell mounted just above it"
@@ -178,16 +178,11 @@ neither is much help at midnight. The manual is Korean. The brand's
 service line is Korean. The locksmith who answers is Korean.
 
 > **Send us a photo of the lock and tell us what noise it is
-> making.** ~~Our locksmith service will tell you whether this is a
-> battery, a hinge or a call-out — and if it is a call-out, we make
-> the call and stay on the line.~~
->
-> **Update, August 2026: we no longer arrange locksmith call-outs.**
-> We can still read the lock from a photo and tell you what the noise
-> means, and our [anything-else service](/etc) will make the Korean
-> phone call for you — but you book the locksmith yourself. Message
-> us on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
-> [WhatsApp](https://wa.me/821075191282).
+> making.** Our [locksmith service arranged in English](/locksmith)
+> will tell you whether this is a battery, a hinge or a call-out —
+> and if it is a call-out, we make it and stay on the line. Message
+> us on [WhatsApp](https://wa.me/821075191282) or
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat).
 
 ## Get it sorted
 
