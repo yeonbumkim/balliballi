@@ -84,7 +84,7 @@
     :root{
       --primary:#c2410c; --primary-dark:#9a3412; --primary-light:#fff7ed;
       --fg:#121212; --muted:#6b7280; --border:#e5e7eb; --bg:#ffffff; --bg-soft:#f9fafb;
-      --whatsapp:#25d366; --kakao:#fee500; --email:#374151; --radius:16px;
+      --whatsapp:#25d366; --kakao:#fee500; --email:#374151; --paypal:#ffc439; --radius:16px;
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -116,6 +116,7 @@
     .btn-whatsapp{background:var(--whatsapp);color:#fff}
     .btn-kakao{background:var(--kakao);color:#191919}
     .btn-email{background:var(--email);color:#fff}
+    .btn-paypal{background:var(--paypal);color:#003087;border:1px solid #e0a800}
     .cta-row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
     @media(max-width:640px){.cta-row{flex-direction:column;align-items:stretch}.cta-row .btn{width:100%}}
 
@@ -236,6 +237,14 @@
     .faq details{border-bottom:1px solid var(--border);padding:14px 0}
     .faq summary{font-weight:700;cursor:pointer}
     .faq p{margin-top:10px;color:var(--muted);line-height:1.8}
+
+    /* Service fee (PayPal) */
+    .fee{text-align:center}
+    .fee .container{max-width:640px}
+    .fee p.fee-lede{color:var(--muted);margin:12px 0 26px;font-size:15px}
+    .fee .cta-row{justify-content:center}
+    .fee .btn{min-width:200px}
+    .fee .fee-note{margin-top:20px;font-size:13px;color:var(--muted)}
   </style>
 </head>
 
@@ -433,6 +442,24 @@
       </div>
     </section>
 
+    <!-- ===================== Service fee (PayPal) ===================== -->
+    <section class="fee">
+      <div class="container">
+        <p class="eyebrow">Service fee</p>
+        <h2>Pay your handling fee</h2>
+        <p class="fee-lede">
+          This covers our side of the job — matching you to a tutor, the English support, the
+          scheduling. The teacher's lesson fee is quoted and paid separately, as shown above.
+          <strong>Message us first</strong> so we can confirm which amount applies.
+        </p>
+        <div class="cta-row">
+          <a href="https://www.paypal.com/ncp/payment/U7Z5XAH98TQYU" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="5">Pay $5 with PayPal</a>
+          <a href="https://www.paypal.com/ncp/payment/KJ63M4GAY66S4" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="10">Pay $10 with PayPal</a>
+        </div>
+        <p class="fee-note">Secure checkout on PayPal — card or PayPal balance, no Korean bank account needed.</p>
+      </div>
+    </section>
+
   </main>
 
   <footer>
@@ -493,7 +520,12 @@
 
   <script>
     document.addEventListener('click', function (e) {
-      var a = e.target && e.target.closest ? e.target.closest('a[href*="wa.me"]') : null;
+      if (!e.target || !e.target.closest) return;
+      var pp = e.target.closest('a[href*="paypal.com/ncp/payment"]');
+      if (pp && window.gtag) {
+        gtag('event', 'paypal_click', { page_path: location.pathname, value: Number(pp.dataset.fee || 0), currency: 'USD' });
+      }
+      var a = e.target.closest('a[href*="wa.me"]');
       if (a && window.gtag) {
         gtag('event', 'whatsapp_click', { page_path: location.pathname });
       }
