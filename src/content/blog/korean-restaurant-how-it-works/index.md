@@ -2,7 +2,7 @@
 title: "How Korean Restaurants Work: Drawers, Bells, Free Banchan"
 description: "Nothing on the table, no server coming over, side dishes you didn't order — Korean restaurants run on rules nobody explains. Here are the five that matter."
 pubDate: 2026-08-17T20:02:00+09:00
-updatedDate: 2026-08-19T14:45:00+09:00
+updatedDate: 2026-08-24T11:00:00+09:00
 service: etc
 category: food
 tags: ["restaurants", "etiquette", "banchan", "cafes", "first-week"]
@@ -71,6 +71,13 @@ The one piece of etiquette that matters: **take what you'll eat.**
 Refills are unlimited; leaving a mountain of untouched banchan is
 the thing that gets frowned at, because leftover side dishes can't
 be reused.
+
+The kimchi on that tray has one detail worth a glance: **restaurants
+here are legally required to tell you which country the cabbage came
+from**, and the notice is on the menu or a small board on the wall.
+[Reading that line takes ten seconds](/blog/kimchi-origin-label-korea/) —
+and it's the difference between eating Korean kimchi and eating the
+kind you can buy at home.
 
 ![A stone-pot rice dish on a Korean restaurant table with side dishes and water cups](./bulgogi-sotbap-stone-pot.webp)
 
