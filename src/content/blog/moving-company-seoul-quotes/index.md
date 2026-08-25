@@ -262,7 +262,7 @@ outside the price, and whether anyone has actually been to look.
 
 If the Korean part is the obstacle, that is what we do: we
 [arrange the move](/moving) in English, read the quotes back to you in
-plain terms, and can send someone to interpret on the day. We are a
+plain terms, and in Seoul can sometimes send someone to interpret on the day. We are a
 booking and coordination service — the crew is an independent local
 company, and their price goes to them.
 
