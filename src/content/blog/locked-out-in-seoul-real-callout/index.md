@@ -1,126 +1,138 @@
 ---
-title: "Locked Out in Seoul: What a Real Callout Cost"
-description: "One job, start to finish — a classic lock in Dobong-gu opened in the evening for ₩50,000 all in. What happens when you call, and what they ask for."
+title: "Bedroom Door Locked in Korea? What to Try First"
+description: "Most Korean bedroom doors open with a coin or a thin rod through the pinhole. How, when it won't work, and what a locksmith cost for one that didn't."
 pubDate: 2026-08-25T18:15:00+09:00
 service: locksmith
 tags: ["locksmith", "locked-out", "seoul", "prices"]
 cover: "./cover.webp"
-coverAlt: "Typographic cover reading Locked Out in Seoul"
-coverCaption: "One job, start to finish"
+coverAlt: "Typographic cover reading Bedroom Door Locked in Korea"
+coverCaption: "The pinhole, and when it fails"
 draft: false
 ---
 
-Most guides tell you what a job might cost. This is one job that actually happened,
-with the real number at the end of it.
+The door to a room inside your own home has shut, the handle will not turn, and
+everything you need is on the other side of it. This is a smaller problem than being
+locked out of the building, and it is usually solved in about a minute — but only if
+you know where to look.
 
-On 24 August 2026 someone in Dobong-gu, in the north of Seoul, messaged us after
-being shut out of their home. Not a dead keypad — an ordinary mechanical lock, the
-kind still fitted to a great many Korean villas and older flats. Here is the whole
-thing, because knowing how the hour goes is most of what makes it bearable.
+## Try this first: the hole in the handle
 
-## What actually happened
+Most Korean interior doors have a **privacy lock**, not a real one. Its whole purpose
+is to stop someone walking in on you, and it is designed to be defeated from outside
+in an emergency. Look at the centre of the handle or the knob on the corridor side.
+You will usually find one of two things.
 
-They reached us on WhatsApp, then carried on in KakaoTalk. Both work; use whichever
-you already have open.
+**A small hole.** Push something thin and stiff straight into it, firmly, until you
+feel the mechanism give. A straightened paperclip, a bamboo skewer, the thin end of a
+chopstick, an earring hook. Not a cotton bud — it needs to be rigid. Some pop open
+instantly; some need you to push and turn the handle at the same time.
 
-The first questions were the boring ones that decide everything else: which district,
-what kind of lock, is anyone else on the deed, can you prove you live there. From a
-photo of the door it was clear this was a mechanical cylinder rather than a digital
-unit, which changes who gets sent and what tools they bring.
+**A slot.** Put a coin or a flathead screwdriver into it and turn, like a very large
+screw. A ₩100 coin fits most of them.
 
-We found a locksmith covering that part of the city, agreed a price and a time, and
-came back with one number in the chat. Nobody was dispatched until that was accepted.
-The locksmith arrived in the window we had given, checked ID, opened the door without
-drilling it, and that was the job.
+That is genuinely the whole trick, and it works on the large majority of bedroom and
+bathroom doors in Korean flats. If you have a hole or a slot on the outside, you
+almost certainly do not need to call anyone.
 
-**Total: ₩50,000**, which included our fee for the calls and the scheduling. No
-surcharge for the hour. The figure in the chat was the figure at the door.
+## The card trick, and when it works
+
+If there is no hole and no slot, look at the gap along the door frame.
+
+If you can see a **spring latch** — the angled metal tongue that clicks shut when the
+door closes — a stiff card can sometimes push it back. Slide the card into the gap
+above or below the latch, angle it towards the sloped side, and push while pressing
+the door. Use a card you are prepared to ruin.
+
+It only works on a latch. If the door is held by a **deadbolt**, a straight square
+bolt with no slope to it, nothing will slide it back and pushing harder just bends
+your card.
+
+## When none of that works
+
+Sometimes a bedroom door is not fitted with a privacy lock at all. Rooms in shared
+houses, converted rooms, rooms a landlord has re-fitted, and offices often carry a
+proper keyed cylinder — the same kind of lock you would put on a front door. From the
+outside it can look almost identical. The difference is that there is no hole, no
+slot, and no emergency release, because it was never designed to be opened by the
+person standing outside.
+
+That is the job we were called to on 24 August 2026, in Dobong-gu in the north of
+Seoul. Someone messaged us on WhatsApp, then carried on in KakaoTalk: a bedroom door
+that had locked, and a lock that a coin or a chopstick was never going to open.
+
+From a photo of the handle it was clear this was not a privacy latch. We found a
+locksmith covering that part of the city, agreed a price and a time, and came back
+with one number in the chat. Nobody was dispatched until that was accepted. The
+locksmith arrived in the window we had given, checked that they lived there, and
+opened the door without damaging it.
+
+**Total: ₩50,000**, including our fee for the calls and the scheduling. No surcharge
+for the hour. The figure in the chat was the figure at the door.
 
 That job is the first row in our [service log](/locksmith#log), where every job we
 arrange goes up once it is finished — date, district, work, and the all-in total.
 
-## What it cost, and why it was at the low end
+## What decides the price
 
-₩50,000 is at the cheap end of a Seoul lockout, and it was a simple one: a standard
-mechanical cylinder, no damage, no replacement, at an hour that carried no
-out-of-hours premium.
+₩50,000 was at the cheap end. An interior door usually is: the lock is lighter than a
+front-door cylinder and the locksmith is not working against a security fitting.
 
-What pushes the number up, roughly in order:
+What pushes it up, roughly in order:
 
-- **The lock type.** A high-security or dimple cylinder takes longer and costs more
-  than a standard one. A digital lock is its own category again.
-- **The hour.** Many Korean locksmiths charge a night and weekend premium. Ours
-  didn't on this job, but assume it exists and ask.
-- **Whether it opens.** Non-destructive picking is always tried first. If the lock
-  cannot be opened that way it gets drilled, and a drilled lock has to be replaced —
-  which is a new part plus fitting, not a callout fee.
+- **Whether it opens without damage.** Picking is always tried first. If the lock has
+  to be drilled it must then be replaced, and that is a part plus fitting rather than
+  a callout.
+- **The hour.** Many Korean locksmiths add a night and weekend premium. Ours did not
+  on this job, but assume it exists and ask before you agree.
+- **The lock itself.** A cheap interior cylinder and a high-security one are not the
+  same job.
 
-A range for the usual jobs is on the
-[locksmith service page](/locksmith), and the log next to it shows what individual
-jobs came to.
+Guide ranges for the usual work are on the [locksmith page](/locksmith), and the log
+beside them shows what individual jobs actually came to.
 
-## Classic locks are not keypads
+> **Stuck outside a room right now?** Send us a photo of the handle on
+> [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27m%20locked%20out%20of%20a%20room.%0A%0A-%20Name%3A%0A-%20District%3A%0A-%20Is%20there%20a%20small%20hole%20or%20slot%20in%20the%20handle%3F%3A%0A-%20Can%20you%20prove%20you%20live%20there%3F%3A)
+> — if it has a pinhole we will tell you how to open it yourself and charge you
+> nothing. If it doesn't, we come back with one price and a time, in English, before
+> anyone is sent.
 
-Korea is full of digital locks, so most advice you find assumes one. If your door has
-a key, some of that advice does not apply to you.
+## If someone or something is inside
 
-**There is no battery trick.** With a dead keypad you can often bring the lock back
-to life for long enough to type your code — the 9V-battery method covered in
-[what to do when your keypad lock dies](/blog/keypad-door-lock-dead-locked-out-seoul/).
-A mechanical lock has nothing to revive. It is a physical problem with a physical
-answer.
+A locked bedroom stops being a minor annoyance when there is a child, a pet, a
+running tap or something on the stove behind it. Say that in the first message. It
+changes what gets recommended and how fast — and if it is a genuine safety emergency,
+**119** is the right call before any locksmith, and they have English interpreters.
 
-**Picking is normal, and it is the good outcome.** A competent locksmith will open a
-standard cylinder without damaging it, usually in minutes. Drilling is the fallback,
-not the opening move — and if someone reaches for a drill first, ask why.
+## They will still ask you to prove you live there
 
-**A key snapped in the lock is a different job** from a lock that simply will not
-turn, and it is worth saying which one you have when you message. Extraction
-sometimes saves the cylinder and sometimes doesn't.
+Even for an interior door. Photo ID plus something tying you to the address — your
+lease, post with your name on it, or the building office confirming. It is the only
+thing standing between someone's home and anyone who says it is theirs, and a
+locksmith who skips it is a locksmith to avoid.
 
-**Building management may hold a key.** In a serviced building the 관리사무소 is
-worth trying before anyone is called, and it costs nothing. In a villa or an older
-low-rise, usually there is nobody to ask, which is why these callouts happen at all.
-
-> **Standing outside your door right now?** Message us on
-> [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27m%20locked%20out.%0A%0A-%20Name%3A%0A-%20District%3A%0A-%20Key%20lock%20or%20keypad%3A%0A-%20Can%20you%20prove%20you%20live%20there%3F%3A)
-> with your district and a photo of the door. We come back with one price and a time,
-> in English, before anyone is sent. Asking costs nothing.
-
-## They will ask you to prove you live there
-
-Every legitimate locksmith in Korea will, and a foreign tenant should expect the
-question rather than be offended by it. Photo ID plus something tying you to the
-address: your lease, post with your name on it, or your landlord or building office
-confirming by phone.
-
-This is the only thing standing between your front door and anyone who says it is
-theirs. If a locksmith is happy to open a door for someone who cannot show any of
-that, the problem is the locksmith.
-
-Have your alien registration card ready. If your documents are all inside the flat
-you are locked out of, say so early — it is a solvable problem, but it is solved by
-the building office or the landlord, not by skipping the check.
+If your documents are behind the locked door, say so early. It is solvable, usually
+through the building office or your landlord, but it is solved rather than skipped.
 
 ## The Korean part
 
-None of this is complicated. It is just conducted entirely in Korean, at speed, while
-you are standing in a corridor.
+The pinhole trick needs no Korean at all, which is why it is worth trying first.
 
-The awkward part is not the lock; it is being asked three questions about lock types
-you have no vocabulary for, then being quoted a number you cannot sanity-check, by
-someone who found you through a sticker in a lift. That is the gap we sit in: we make
-the calls, agree the price in writing first, and stay on the chat until the door is
-open.
+Everything after it does. You end up describing a handle you have no vocabulary for,
+to someone who quotes a number you cannot sanity-check, found through a sticker in a
+lift. That is the gap we sit in: we look at the photo, tell you whether this is a
+one-minute fix or a callout, agree the price in writing first, and stay on the chat
+until the door is open.
 
 ## Get it sorted
 
-If you are locked out now, message us with your district and a photo of the door and
-we will come back with a price and a time. If you are reading this in advance, the
-useful preparation is small: know whether your lock takes a key or a code, know
-whether your building office holds a spare, and keep one document with your name and
-address somewhere that is not inside the flat.
+Check the outside of the handle before anything else. A hole means a paperclip; a
+slot means a coin; neither means it is a real lock and someone has to come.
 
-The [locksmith service page](/locksmith) has the guide ranges and the running log of
-what real jobs came to. We arrange the locksmith and handle the Korean side; the work
-itself is done by the independent local pro we send, and their charge is theirs.
+If it comes to that, message us with your district and a photo of the handle. The
+[locksmith page](/locksmith) carries the guide ranges and the running log of what
+real jobs cost. We arrange the locksmith and handle the Korean side — the work is
+done by the independent local pro we send, and their charge is theirs.
+
+For a front door rather than a bedroom one, the digital-lock guides are more use:
+[what to do when your keypad lock dies](/blog/keypad-door-lock-dead-locked-out-seoul/)
+and [what a beeping door lock means](/blog/door-lock-beeping-korea/).
