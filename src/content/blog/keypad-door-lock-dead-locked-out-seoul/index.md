@@ -95,6 +95,16 @@ Typical ranges in central Seoul, as of 2026:
 | Full digital lock replacement (unit included) | ₩120,000–250,000          |
 | Code reset + fresh batteries after moving in  | ₩30,000–60,000            |
 
+**A real job, for reference.** In August 2026 someone in Dobong-gu — northern
+Seoul, well outside our three core dispatch zones — messaged us on WhatsApp and
+KakaoTalk after being locked out. A simple keypad opening, at the hour they asked
+for, for **₩50,000 all in** — agreed in the chat before anyone was dispatched.
+
+It was the first job we ever booked, so we have waived our fee on their next one.
+Every job we arrange goes into a running
+[service log](/locksmith#log) with the date, the district and what it came to, so
+you can see real prices rather than only a range.
+
 Two things to know about how pricing works here. First, many local locksmiths
 charge noticeably more at night and on weekends, and the price you hear on the
 phone isn't always the price at the door. The fix for both is the same: **get
