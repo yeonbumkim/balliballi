@@ -1,8 +1,8 @@
 ---
 title: "Our Coliving Rooms: Kyung Hee, HUFS and Korea University"
-description: "Three furnished coliving houses beside Seoul university campuses, run by us. A new women-only house opens near Korea University in late August 2026."
+description: "Three furnished coliving houses beside Seoul university campuses, run by us and women only. A new house opens near Korea University in late August 2026."
 pubDate: 2026-08-13T16:13:00+09:00
-updatedDate: 2026-08-19T14:45:00+09:00
+updatedDate: 2026-08-26T17:53:00+09:00
 service: moving
 category: home
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
@@ -21,7 +21,7 @@ campus:
 | ----- | ------ | ----- |
 | **Kyung Hee University** (경희대) | Hoegi / Dongdaemun-gu | Single and twin |
 | **Hankuk University of Foreign Studies** (한국외대) | Same neighbourhood | Single and twin |
-| **Korea University** (고려대) | Anam | **Opening late August 2026 — single rooms** |
+| **Korea University** (고려대) | Jongam-dong, Seongbuk-gu | **Opening late August 2026 — single rooms** |
 
 ## 🆕 New house: Korea University, opening late August 2026
 
@@ -143,6 +143,10 @@ often an ARC you don't have yet. We wrote that up in full —
 **[how to find housing in Seoul before you have an ARC](/blog/student-housing-seoul-no-arc/)** —
 and a coliving room is the usual way around it.
 
+Studying at Korea University specifically? The dorms, the goshiwon, the
+one-rooms and what each really costs are laid out in
+**[Korea University housing](/blog/korea-university-housing/)**.
+
 If you do go the normal-flat route later, read
 [what to check before you sign](/blog/what-to-check-before-renting-seoul/)
 first. Most of the money people lose in Korean rentals is lost at
@@ -189,17 +193,19 @@ what you need, we'll say so.
 
 Things we'd rather you knew before you ask than after you arrive:
 
-- **The Korea University house is women only.** The other two houses
-  are not restricted this way — ask.
+- **All three houses are women only.** That is not a policy we vary,
+  so it is worth knowing before you write to us.
 - **The Korea University house is a third-floor walk-up.** No lift.
 - **Coliving means sharing.** The kitchen, the laundry and the
   bathroom are shared with the other residents. Rooms are private;
   the rest of the house is not.
 - **There's a minimum stay.** These aren't nightly rentals — we're
   looking for people staying a semester or longer.
-- **Prices depend on the house, the room type and the season**, so
-  we quote when you ask rather than printing a number here that goes
-  stale.
+- **The Korea University house has its prices published** — deposit,
+  rent and maintenance in full, on
+  [its own page](/blog/korea-university-housing/). For the other two,
+  ask: the room types differ and we would rather quote than print a
+  number here that goes stale.
 
 ## Get it sorted
 

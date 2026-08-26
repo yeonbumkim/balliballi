@@ -49,7 +49,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/coliving-rooms-seoul-universities/</loc>
-    <lastmod>2026-08-19T14:45:00+09:00</lastmod>
+    <lastmod>2026-08-26T17:53:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -170,6 +170,12 @@
   <url>
     <loc>https://balliballi.com/blog/korea-travel-hotline-1330/</loc>
     <lastmod>2026-08-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/korea-university-housing/</loc>
+    <lastmod>2026-08-26T17:53:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
