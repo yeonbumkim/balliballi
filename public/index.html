@@ -179,9 +179,8 @@
     .fee{text-align:center}
     .fee .container{max-width:720px}
     .fee p.fee-lede{color:var(--muted);margin:12px 0 26px;font-size:15px}
-    .fee .cta-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;justify-content:center}
-    @media(max-width:780px){.fee .cta-row{grid-template-columns:1fr}}
-    .fee .btn{min-width:0;width:100%}
+    .fee .cta-row{justify-content:center}
+    .fee .btn{min-width:260px}
     .fee .fee-note{margin-top:20px;font-size:13px;color:var(--muted)}
 
     /* Floating mobile CTA */
@@ -427,11 +426,9 @@
           then you pay it here. The provider's own charge is separate — it goes to them, at the Korean price.
         </p>
         <div class="cta-row">
-          <a href="https://www.paypal.com/ncp/payment/K7CPXRKSSW34U" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="1">Pay $1 with PayPal</a>
-          <a href="https://www.paypal.com/ncp/payment/U7Z5XAH98TQYU" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="5">Pay $5 with PayPal</a>
           <a href="https://www.paypal.com/ncp/payment/KJ63M4GAY66S4" target="_blank" rel="noopener" class="btn btn-md btn-paypal" data-fee="10">Pay $10 with PayPal</a>
         </div>
-        <p class="fee-note">These are the common amounts — anything else, we send you a link for that exact figure. Secure checkout on PayPal: card or PayPal balance, no Korean bank account needed.</p>
+        <p class="fee-note">Any other amount is sent to you as its own link. Secure checkout on PayPal: card or PayPal balance, no Korean bank account needed.</p>
       </div>
     </section>
   </main>
