@@ -2,11 +2,12 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
+updatedDate: 2026-08-27T10:23:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
 cover: "./cover.webp"
-coverAlt: "The shared common room of a Jongam-dong share house, with a dining table, a rice cooker and microwave on a sideboard, and a full-height window onto a balcony"
+coverAlt: "The shared common room of a Jongam-dong share house: a dining table and chairs, a sideboard with a microwave, rice cooker and kettle, a floor lamp and curtained windows"
 coverCaption: "The common room, three minutes from KU"
 draft: false
 ---
@@ -75,6 +76,13 @@ the room.
 These are walk-throughs rather than photographs, and deliberately so: a still can
 make a small room look generous by standing in the right corner, and a continuous
 pan cannot.
+
+![A single room's desk with an office chair, postcards pinned on the wall above it and an air conditioner](./room-desk-postcards.webp)
+
+*Desk, chair and aircon in every room · ⓒ @BalliBalliSeoul*
+
+The walls take pins and tape, and we would rather you used them. A room you have not
+been allowed to change is a room you are only sleeping in.
 
 **The rooms are not identical.** The window, the wall the bed sits against and the
 usable floor differ from one to the next — so ask which room you are being offered,
