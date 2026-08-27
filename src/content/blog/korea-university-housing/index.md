@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-27T10:38:00+09:00
+updatedDate: 2026-08-27T11:01:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -181,9 +181,11 @@ Things we would rather you knew before you ask than after you arrive.
   is, so ask us before you fix anything up.
 - **Coliving means sharing.** The room is yours. The kitchen, the bathroom and the
   laundry are not.
-- **The minimum stay is four months.** Worth doing the arithmetic before you ask:
-  a Korean Language Center term is ten weeks, so a single term on its own does not
-  reach it. Two terms, or a university semester, does.
+- **The minimum stay is four months** — a Korean Language Center term is ten weeks,
+  so a single term on its own does not reach it; two terms, or a university semester,
+  does. **Ask anyway.** If a room is standing empty we would rather have someone in
+  it than hold the rule, and a shorter stay is sometimes possible. It depends on what
+  is free the week you write, so the only way to know is to ask.
 
 ## Why this rather than a dorm or a studio
 
