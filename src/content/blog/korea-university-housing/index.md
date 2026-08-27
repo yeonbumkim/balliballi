@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-27T10:26:00+09:00
+updatedDate: 2026-08-27T10:28:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -72,6 +72,13 @@ the room.
 </video>
 
 *And a third · ⓒ @BalliBalliSeoul*
+
+![A single room with curtains drawn back at the window, a bed, a desk and chair, and a wall air conditioner](./room-curtains-bed-desk.webp)
+
+*Curtains are in every room now · ⓒ @BalliBalliSeoul*
+
+One honest note about the videos above: they were filmed before the **curtains** went
+up. Everything else in them is what you would walk into; the windows now have these.
 
 These are walk-throughs rather than photographs, and deliberately so: a still can
 make a small room look generous by standing in the right corner, and a continuous
