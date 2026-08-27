@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-27T10:32:00+09:00
+updatedDate: 2026-08-27T10:38:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -36,8 +36,14 @@ lined with bars.
 
 **The house is the third floor of a three-storey building, and there is no lift.**
 It is worth knowing before you arrive with a suitcase, and worth deciding about
-before you book. **The roof is yours to use** — which, in a city where private
-outdoor space is close to unobtainable at student prices, is not a small thing.
+before you book.
+
+**The roof is yours to use, and it is a roof rather than a terrace.** The old decking
+came up and the floor underneath is bare, so nobody is going to photograph it for a
+brochure — which is why there is no picture of it here. What it is, is outdoor space
+you can stand in, dry washing on, or sit out on in the evening, three flights above a
+street in Seoul. At student prices that is close to unobtainable, and we would rather
+undersell it than have you arrive expecting a roof garden.
 
 ## The rooms
 
