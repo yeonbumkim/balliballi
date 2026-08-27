@@ -2,6 +2,7 @@
 title: "Naver Map: The App You Install Before You Land in Korea"
 description: "Google Maps still cannot route you on foot in Korea — that is changing, slowly. What Naver Map does in English, Chinese and Japanese, and how to set it up."
 pubDate: 2026-08-27T16:27:00+09:00
+updatedDate: 2026-08-27T17:24:00+09:00
 service: etc
 tags: ["naver-map", "navigation", "apps", "transport", "korea"]
 cover: "./cover.webp"
@@ -154,7 +155,13 @@ less useful when what you want is a quick honest verdict on whether the noodles 
 any good.
 
 So the full habit is: **find it in Google, route to it in Naver, and check what Kakao
-thinks of it before you commit to dinner.** Google Maps is the next section.
+thinks of it before you commit to dinner.**
+
+There is more to Kakao Map than the ratings — roadview that keeps its older captures,
+and sending a pin straight into a KakaoTalk chat — and it has
+[its own guide](/blog/kakao-map-korea/).
+
+Google Maps is the next section.
 
 ## What Google Maps is still for
 
