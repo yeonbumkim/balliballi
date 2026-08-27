@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-27T10:23:00+09:00
+updatedDate: 2026-08-27T10:26:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -77,12 +77,9 @@ These are walk-throughs rather than photographs, and deliberately so: a still ca
 make a small room look generous by standing in the right corner, and a continuous
 pan cannot.
 
-![A single room's desk with an office chair, postcards pinned on the wall above it and an air conditioner](./room-desk-postcards.webp)
+![A single room's desk with an office chair, a few postcards on the wall above it and an air conditioner](./room-desk-postcards.webp)
 
 *Desk, chair and aircon in every room · ⓒ @BalliBalliSeoul*
-
-The walls take pins and tape, and we would rather you used them. A room you have not
-been allowed to change is a room you are only sleeping in.
 
 **The rooms are not identical.** The window, the wall the bed sits against and the
 usable floor differ from one to the next — so ask which room you are being offered,
@@ -166,6 +163,9 @@ Things we would rather you knew before you ask than after you arrive.
 
 - **This house is women only** — and so are our other two. It is not a policy we vary.
 - **Third floor, no lift.** Three flights, every time.
+- **Nothing goes into the walls.** No nails, no screws, and nothing that pulls the
+  surface off when it comes down. It is the most avoidable deposit deduction there
+  is, so ask us before you fix anything up.
 - **Coliving means sharing.** The room is yours. The kitchen, the bathroom and the
   laundry are not.
 - **The minimum stay is four months.** Worth doing the arithmetic before you ask:
