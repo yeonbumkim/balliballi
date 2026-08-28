@@ -2,12 +2,12 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-27T11:01:00+09:00
+updatedDate: 2026-08-28T14:07:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
 cover: "./cover.webp"
-coverAlt: "The shared common room of a Jongam-dong share house: a dining table and chairs, a sideboard with a microwave, rice cooker and kettle, a floor lamp and curtained windows"
+coverAlt: "A corner of the shared common room: a dining table, a vase, a lit floor lamp and a clock on the sideboard beside a curtained window"
 coverCaption: "The common room, three minutes from KU"
 draft: false
 ---
@@ -88,9 +88,11 @@ up. Everything else in them is what you would walk into; the windows now have th
 
 These are walk-throughs rather than photographs, and deliberately so: a still can
 make a small room look generous by standing in the right corner, and a continuous
-pan cannot.
+pan cannot. The photographs on this page are properly shot and lightly styled — **the
+vase, the books and the lamp on the sideboard are ours, not yours.** The furniture,
+the appliances and the walls are what you get.
 
-![A single room's desk with an office chair, a few postcards on the wall above it and an air conditioner](./room-desk-postcards.webp)
+![A desk and chair by the window, with a few postcards on the wall above it](./room-desk-postcards.webp)
 
 *Desk, chair and aircon in every room · ⓒ @BalliBalliSeoul*
 
@@ -105,7 +107,7 @@ window and a balcony door behind it. That is the part a goshiwon does not have a
 most share houses do not either: somewhere to be that is neither your bed nor a café
 you have to buy something in.
 
-![A shared common room with a dining table, a sideboard holding a rice cooker and microwave, and a full-height window onto a balcony](./common-room-table-balcony.webp)
+![The shared common room: a table and chairs under a ceiling fan light, with a sideboard holding a kettle, rice cooker and microwave](./common-room-table-balcony.webp)
 
 *The common room · ⓒ @BalliBalliSeoul*
 
@@ -116,7 +118,7 @@ a student living on rice notices in the first week.
 The kitchen proper is next door: a **new refrigerator**, a gas hob with an extractor,
 a sink, cabinets above and below, and a drying rack over the counter.
 
-![A shared kitchen with a large refrigerator, gas hob, sink, white cabinets and a drying rack above the counter](./shared-kitchen-fridge-hob.webp)
+![The galley kitchen: a tall fridge, gas hob, sink and white cabinets along one wall](./shared-kitchen-fridge-hob.webp)
 
 *The kitchen · ⓒ @BalliBalliSeoul*
 
@@ -134,6 +136,10 @@ slower than new arrivals expect.
 
 The bathroom is shared, and this is it — basin, toilet, shower, and the laundry in
 the same room.
+
+![The shared bathroom: washing machine, basin, mirror cabinet, toilet and a curtained shower area](./shared-bathroom-styled.webp)
+
+*The shared bathroom · ⓒ @BalliBalliSeoul*
 
 <video controls preload="none" playsinline
   poster="/video/jongam-shared-bathroom-tour-poster.webp"
