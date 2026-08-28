@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-28T14:33:00+09:00
+updatedDate: 2026-08-28T14:38:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -37,20 +37,30 @@ the room.
 *A desk you can actually work at, in every room · ⓒ @BalliBalliSeoul*
 
 These photographs are properly shot and lightly styled, and it is worth saying which
-is which: **the vase, the books and the lamp on the sideboard are ours, not yours.**
-The furniture, the appliances and the walls are what you get.
+is which: **the vase, the books, the postcards and the little lamps are ours, not
+yours.** The furniture, the appliances and the walls are what you get.
 
-If you would rather see a room move than sit still — which is the honest way to judge
-a small space — **ask, and we will send you a walk-through video** of the room that is
-actually free.
+**The rooms are not identical**, and here are three of them. Every one has a single
+bed, a desk and chair, curtains, its own window and its own wall aircon. What moves is
+everything else — which wall the bed goes against, where the window falls, and the
+shape of the floor you are left standing on.
 
-![A single room with curtains drawn back at the window, a bed, a desk and chair, and a wall air conditioner](./room-curtains-bed-desk.webp)
+![A bright single room with the desk in the foreground by the door, the bed against the far wall and a wall air conditioner above](./room-layout-desk-left.webp)
 
-*Every room has curtains, a bed, a desk and its own aircon · ⓒ @BalliBalliSeoul*
+*Desk by the door, bed across the room · ⓒ @BalliBalliSeoul*
 
-**The rooms are not identical.** The window, the wall the bed sits against and the
-usable floor differ from one to the next — so ask which room you are being offered,
-not just which house. We will tell you.
+![The same room type turned around: the bed runs along the right-hand wall and the desk sits in the far corner beneath the air conditioner](./room-layout-bed-right.webp)
+
+*Same furniture, different room — bed along one wall, desk in the corner · ⓒ @BalliBalliSeoul*
+
+![A single room with the bed on the left under the window, the desk and chair along the right-hand wall and the air conditioner above it](./room-layout-bed-left.webp)
+
+*And another, the other way round · ⓒ @BalliBalliSeoul*
+
+So ask **which room** you are being offered, not just which house — we will tell you.
+And if you would rather see a room move than sit still, which is the honest way to
+judge a small space, **ask and we will send you a walk-through video** of the one that
+is actually free.
 
 ## What you share
 
