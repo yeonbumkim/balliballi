@@ -1,2 +1,6 @@
 /blog/how-to-use-coupang-in-english/ /blog/coupang-korea-shopping-guide/ 301
 /blog/how-to-use-coupang-in-english /blog/coupang-korea-shopping-guide/ 301
+
+# 명함 QR용 짧은 주소 (302 — 나중에 대상 변경 가능). utm으로 GA4에서 유입 추적
+/luggage   /blog/luggage-storage-yeouido/?utm_source=card&utm_medium=qr&utm_campaign=ifc_luggage   302
+/luggage/  /blog/luggage-storage-yeouido/?utm_source=card&utm_medium=qr&utm_campaign=ifc_luggage   302
