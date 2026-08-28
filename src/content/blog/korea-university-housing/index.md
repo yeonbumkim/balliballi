@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-28T14:30:00+09:00
+updatedDate: 2026-08-28T14:33:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -34,7 +34,7 @@ the room.
 
 ![A desk and chair by the window, with a few postcards on the wall above it](./room-desk-postcards.webp)
 
-*Desk, chair and aircon in every room · ⓒ @BalliBalliSeoul*
+*A desk you can actually work at, in every room · ⓒ @BalliBalliSeoul*
 
 These photographs are properly shot and lightly styled, and it is worth saying which
 is which: **the vase, the books and the lamp on the sideboard are ours, not yours.**
