@@ -2,9 +2,9 @@
 title: "Luggage Storage in Yeouido: Where to Leave a Suitcase"
 description: "Checked out at eleven with a flight at nine. The free staffed desk most people miss, the mall lockers, the station ones, and what to do when they are full."
 pubDate: 2026-08-28T11:21:00+09:00
-updatedDate: 2026-08-28T11:44:00+09:00
+updatedDate: 2026-08-28T15:17:00+09:00
 service: etc
-tags: ["luggage", "yeouido", "travel", "ifc-mall", "the-hyundai-seoul"]
+tags: ["luggage", "yeouido", "travel", "ifc-mall", "the-hyundai-seoul", "fireworks-festival", "cherry-blossom"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Luggage storage in Yeouido"
 coverCaption: "Free desk, mall lockers, station lockers"
@@ -19,7 +19,11 @@ There are four ways to put it down, and they are not equally good. **Three of th
 free** — including the best one, which is staffed rather than a locker, and which
 almost nobody who has not been told about it finds.
 
-## Start here: the tourist desk at The Hyundai Seoul
+**One exception before you read any further: if you are coming on Saturday 5 September
+2026, the fireworks festival is on and none of this works that day.**
+[Skip to that part](#festival-days-the-fireworks-in-september-and-the-blossoms-in-april).
+
+## Start here: The Hyundai Seoul's free staffed desk on 1F
 
 **Ground floor, behind Tiffany & Co. — the Tourist Desk takes suitcases.** A person
 takes it, gives you a ticket, and it waits behind a counter rather than in a metal
@@ -52,7 +56,7 @@ day of Chuseok.** Those are lunar dates, so they move — and they are exactly t
 a visitor is most likely to be out with a suitcase and nowhere to put it. If your trip
 touches one of them, read the next section rather than this one.
 
-## The Hyundai Seoul's self-serve lockers
+## The Hyundai Seoul's free lockers on B1, B3 and B4
 
 For bags rather than suitcases, the same building has coin lockers in three places:
 
@@ -63,7 +67,7 @@ Same free-and-store-hours arrangement, and this is where the store wants your
 valuables and your shopping to go. Suitcase at the desk upstairs, everything else
 down here.
 
-## IFC Mall
+## IFC Mall: free lockers on L1, 10am to 10pm
 
 Across the road, IFC Mall has lockers on **L1, in the passage between the Apple Store
 and Nike**, alongside the ATMs. **They are free, and available from 10am to 10pm.**
@@ -81,7 +85,7 @@ in a way it is not at the station. And that closing time is two hours later than
 department store across the road, which makes IFC the better choice for an evening
 flight.
 
-### One thing about IFC's floors
+### IFC Mall floors: L1 is one below the ground floor
 
 **L1 is not the ground floor. It is one floor below it.**
 
@@ -95,13 +99,13 @@ A quick orientation, since it decides where you end up:
 - **L2** — Youngpoong Books
 - **L3** — the cinema and the restaurants
 
-### Travelling with a child
+### Nursing room: IFC Mall L3, next to McDonald's
 
 There is a **nursing room on L3, next to McDonald's** — a changing table, a sink and
 a water dispenser. Worth knowing before you go looking, because L3 is also where the
 restaurants are, which is where you were heading anyway.
 
-## Yeouido Station
+## Yeouido Station coin lockers: paid, and where they are
 
 The lockers at **Yeouido Station sit between Exit 3 and Exit 4**. They take large
 suitcases as well as small items, and they are paid for with a T-money card.
@@ -119,7 +123,7 @@ Treat them as a bonus if one happens to be open, not as the plan — with two fr
 options within a few minutes' walk, there is no reason to pay unless the walk is the
 problem.
 
-## Getting between them
+## Getting between them: station, IFC Mall, The Hyundai Seoul
 
 This is easier than it looks, because **all three sit on one line**: Yeouido Station,
 then IFC Mall, then The Hyundai Seoul. The mall is between the other two, so you walk
@@ -147,9 +151,65 @@ case behind you.
 The station lockers sit between the two exits, so you pass them on the way to the
 walkway regardless.
 
-## If you are staying at the Conrad
+## Festival days: the fireworks in September and the blossoms in April
 
-Then none of the above applies to your check-out day. **Ask the concierge** — the
+Twice a year Yeouido stops being a business district with quiet malls and becomes the
+most crowded stretch of ground in Seoul. Everything above still exists on those days.
+Very little of it is available.
+
+### Seoul International Fireworks Festival — Saturday 5 September 2026
+
+The festival runs **13:00 to 22:00, and the fireworks themselves are 20:00 to 21:10**,
+over the river at Yeouido Hangang Park. Assume every locker in Yeouido is taken by
+early afternoon, and assume the staffed desk reaches its limit too — it holds a finite
+number of cases, and this is the day it meets that number.
+
+But **the hard part is not putting the bag down. It is getting it back.**
+
+Put the closing time of each option next to the times of the show:
+
+- **The Hyundai Seoul keeps store hours**, so the desk shuts at roughly the moment the
+  first firework goes up. Leave your case there and it is behind a locked shutter
+  until the next morning.
+- **IFC Mall's lockers close at 22:00.** The show ends at 21:10. That is fifty minutes
+  to cross a park emptying of several hundred thousand people, get down to L1, and get
+  out again — walking the way everyone else is walking.
+
+Neither of those is a plan. Both are ways of losing your suitcase for a night.
+
+**If you are flying out on 5 September, do not put your bag down in Yeouido at all.**
+Leave it at your accommodation, or at the station you are actually departing from, and
+come to the river carrying nothing.
+
+And one harder piece of advice, which we would rather give than have you find out.
+**If you are travelling with young children, with anyone elderly, or with anyone whose
+health or mobility you would have to manage in a crush, think about not coming to
+Yeouido that day at all.** The crowd is dense, after 21:10 it all moves in one
+direction, and mobile signal tends to go with it. It is exactly the kind of crowd a
+child gets separated from a parent in, and exactly the kind a medical problem is slow
+to be reached in. The fireworks are visible from a great deal of Seoul. Nothing
+requires you to be in the tightest part of it.
+
+The festival is annual and the date is announced each year, so if you are reading this
+in a later year, check the date rather than assuming this one.
+
+### Yeouido Spring Flower Festival — early April
+
+Cherry blossom along **Yunjung-ro**, the road behind the National Assembly, for about a
+week in early April. The dates are set each year rather than fixed, because the
+blossom does not consult a calendar.
+
+This is a gentler problem than the fireworks. The crowd is spread over a week of
+daylight instead of compressed into one evening, and it gathers at the far end of
+Yeouido from the malls. **The station lockers will be gone** — treat them as
+unavailable rather than as unlikely — but the desk at The Hyundai Seoul and the
+lockers at IFC are far enough from Yunjung-ro to still work.
+
+Go in the morning. The same lockers that are full at two o'clock are open at ten.
+
+## Conrad Seoul: free luggage hold for guests
+
+Then the lockers are not your problem on check-out day. **Ask the concierge** — the
 hotel holds guests' luggage both before check-in and after check-out, at no charge.
 It is the easiest option of all, and the one you should use rather than walking to a
 station with a case.
@@ -159,7 +219,7 @@ to IFC Mall**, so you can go from the hotel to the shops, the cinema and the
 restaurants without stepping outside — which matters in August, in January, and in
 the rain.
 
-## The opposite problem: your suitcase is too small
+## Need a bigger suitcase? MUJI at IFC Mall sells them
 
 It happens to almost everyone who shops seriously in Seoul.
 
@@ -174,7 +234,7 @@ shopping did to you.
 are already standing in. Buying a case in Seoul and checking it home is routinely
 cheaper than paying excess baggage on an overweight one.
 
-## A short version
+## A short version: every Yeouido option in one table
 
 | Where | What it takes | Cost | Hours |
 | --- | --- | --- | --- |
@@ -184,7 +244,7 @@ cheaper than paying excess baggage on an overweight one.
 | Yeouido Station, Exits 3–4 | Suitcases and bags | Paid, T-money | Station hours, but few of them |
 | Your hotel (the Conrad is connected to IFC) | Everything | Free for guests | Ask the concierge |
 
-## The Korean part
+## The Korean part: stuck at a locker screen in Korean
 
 Locker screens are the usual obstacle — Korean-first, a payment method you may not
 have loaded, and a code you cannot afford to lose. The staffed desk sidesteps all of
