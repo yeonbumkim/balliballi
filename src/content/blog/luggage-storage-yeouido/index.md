@@ -2,6 +2,7 @@
 title: "Luggage Storage in Yeouido: Where to Leave a Suitcase"
 description: "Checked out at eleven with a flight at nine. The free staffed desk most people miss, the mall lockers, the station ones, and what to do when they are full."
 pubDate: 2026-08-28T11:21:00+09:00
+updatedDate: 2026-08-28T11:44:00+09:00
 service: etc
 tags: ["luggage", "yeouido", "travel", "ifc-mall", "the-hyundai-seoul"]
 cover: "./cover.webp"
@@ -35,9 +36,21 @@ Three things make this the one to try first:
   ones are all taken.
 - **It is staffed**, so you are not locked out of your own bag by a screen in Korean.
 
+**It is for suitcases specifically.** The store's own rule is that valuables and the
+things you have just bought go in the self-serve lockers rather than behind the desk —
+so hand over the case, keep the passport, and put the shopping downstairs.
+
+The desk is on **02-3277-0505** if you want to check before you walk over, which is
+worth doing on a day the store might be closing early.
+
 The catch is opening hours: it is a department store, so the desk keeps store hours.
 If your flight is late and the store closes at eight, the bag has to come out before
 then. Plan the last leg around that rather than discovering it at closing time.
+
+**And it closes entirely on three days a year: 1 January, the day of Seollal, and the
+day of Chuseok.** Those are lunar dates, so they move — and they are exactly the days
+a visitor is most likely to be out with a suitcase and nowhere to put it. If your trip
+touches one of them, read the next section rather than this one.
 
 ## The Hyundai Seoul's self-serve lockers
 
@@ -46,13 +59,18 @@ For bags rather than suitcases, the same building has coin lockers in three plac
 - **B1**, by the Osulloc counter, next to Camel Coffee
 - **B3 and B4**, in the car park, beside the central escalators
 
-Same free-and-store-hours arrangement. Use these for shopping bags and small items;
-use the desk upstairs for the suitcase itself.
+Same free-and-store-hours arrangement, and this is where the store wants your
+valuables and your shopping to go. Suitcase at the desk upstairs, everything else
+down here.
 
 ## IFC Mall
 
 Across the road, IFC Mall has lockers on **L1, in the passage between the Apple Store
 and Nike**, alongside the ATMs. **They are free, and available from 10am to 10pm.**
+
+**IFC does not close for holidays.** Individual shops set their own days, but the mall
+itself runs year-round — which makes it the answer on 1 January and on the two lunar
+holidays when the department store is shut.
 
 ![Rows of beige lockers in IFC Mall beside an IBK bank ATM, with a shopper at the payment screen](./ifc-mall-lockers.webp)
 
@@ -101,12 +119,45 @@ Treat them as a bonus if one happens to be open, not as the plan — with two fr
 options within a few minutes' walk, there is no reason to pay unless the walk is the
 problem.
 
+## Getting between them
+
+This is easier than it looks, because **all three sit on one line**: Yeouido Station,
+then IFC Mall, then The Hyundai Seoul. The mall is between the other two, so you walk
+past it either way.
+
+From **Yeouido Station** — Lines 5 and 9 — there is one answer worth giving:
+
+**Go underground. Take Exit 3.**
+
+A moving walkway runs most of the 500m and delivers you to The Hyundai Seoul's **B2
+entrance, already inside the building.** No stairs, no weather, and the walkway does
+the carrying.
+
+**The connecting level is IFC Mall's L2**, which links the station in one direction
+and The Hyundai Seoul in the other — so the whole walk happens indoors. Note that the
+lockers are one floor above that, on L1: if you are passing through and want them,
+go up a level rather than straight on.
+
+**Exit 4 is not an option at the moment.** As of **August 2026 it is under
+construction**, and leaving that way means stairs — with a suitcase, in a station,
+which is exactly the thing you were trying to avoid. Even after it reopens, it is
+400m of open pavement in whatever the sky is doing: shorter on paper, worse with a
+case behind you.
+
+The station lockers sit between the two exits, so you pass them on the way to the
+walkway regardless.
+
 ## If you are staying at the Conrad
 
-Then none of the above applies to your check-out day. **The hotel will hold your
-luggage both before check-in and after check-out**, which is the normal arrangement
-at that class of hotel and the easiest option of all. Ask at the desk rather than
-walking to the station with a case.
+Then none of the above applies to your check-out day. **Ask the concierge** — the
+hotel holds guests' luggage both before check-in and after check-out, at no charge.
+It is the easiest option of all, and the one you should use rather than walking to a
+station with a case.
+
+It also puts you in a good position for the rest of the day: **the Conrad is connected
+to IFC Mall**, so you can go from the hotel to the shops, the cinema and the
+restaurants without stepping outside — which matters in August, in January, and in
+the rain.
 
 ## The opposite problem: your suitcase is too small
 
@@ -127,11 +178,11 @@ cheaper than paying excess baggage on an overweight one.
 
 | Where | What it takes | Cost | Hours |
 | --- | --- | --- | --- |
-| **The Hyundai Seoul, 1F Tourist Desk** | Suitcases | Free | Store hours |
+| **The Hyundai Seoul, 1F Tourist Desk** | Suitcases | Free | Store hours; shut 1 Jan, Seollal, Chuseok |
 | The Hyundai Seoul, B1 / B3 / B4 lockers | Bags, small items | Free | Store hours |
-| IFC Mall, L1 by the ATMs | Suitcases and bags | **Free** | 10am–10pm |
+| IFC Mall, L1 by the ATMs | Suitcases and bags | **Free** | 10am–10pm, year-round |
 | Yeouido Station, Exits 3–4 | Suitcases and bags | Paid, T-money | Station hours, but few of them |
-| Your hotel | Everything | Free for guests | Ask at the desk |
+| Your hotel (the Conrad is connected to IFC) | Everything | Free for guests | Ask the concierge |
 
 ## The Korean part
 
