@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-28T14:07:00+09:00
+updatedDate: 2026-08-28T14:30:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -19,6 +19,71 @@ card.
 
 This is the third option: a room in a share house, three minutes from the station,
 with a deposit sized for a student.
+
+![The shared common room: a table and chairs under a ceiling fan light, with a sideboard holding a kettle, rice cooker and microwave](./common-room-table-balcony.webp)
+
+*The common room · ⓒ @BalliBalliSeoul*
+
+
+## The rooms
+
+Single rooms, furnished, with **air conditioning in every room** — not one unit in
+a corridor. In winter the house runs on a **boiler**, the standard Korean underfloor
+system, so the floor itself is warm rather than a heater blowing at one corner of
+the room.
+
+![A desk and chair by the window, with a few postcards on the wall above it](./room-desk-postcards.webp)
+
+*Desk, chair and aircon in every room · ⓒ @BalliBalliSeoul*
+
+These photographs are properly shot and lightly styled, and it is worth saying which
+is which: **the vase, the books and the lamp on the sideboard are ours, not yours.**
+The furniture, the appliances and the walls are what you get.
+
+If you would rather see a room move than sit still — which is the honest way to judge
+a small space — **ask, and we will send you a walk-through video** of the room that is
+actually free.
+
+![A single room with curtains drawn back at the window, a bed, a desk and chair, and a wall air conditioner](./room-curtains-bed-desk.webp)
+
+*Every room has curtains, a bed, a desk and its own aircon · ⓒ @BalliBalliSeoul*
+
+**The rooms are not identical.** The window, the wall the bed sits against and the
+usable floor differ from one to the next — so ask which room you are being offered,
+not just which house. We will tell you.
+
+## What you share
+
+There is a **common room** — a table to eat at, sit at or work at, with a full-height
+window and a balcony door behind it. That is the part a goshiwon does not have and
+most share houses do not either: somewhere to be that is neither your bed nor a café
+you have to buy something in.
+
+Along the wall are a **microwave**, a **rice cooker** and a **kettle**. The rice
+cooker is worth naming — a Korean share house is under no obligation to have one, and
+a student living on rice notices in the first week.
+
+The kitchen proper is next door: a **new refrigerator**, a gas hob with an extractor,
+a sink, cabinets above and below, and a drying rack over the counter.
+
+![The galley kitchen: a tall fridge, gas hob, sink and white cabinets along one wall](./shared-kitchen-fridge-hob.webp)
+
+*The kitchen · ⓒ @BalliBalliSeoul*
+
+**Wi-Fi is included.** That sounds minor until you remember a new arrival cannot
+easily sign up for Korean internet without an alien registration card and a Korean
+bank account — the two things you will not have in your first fortnight.
+
+Laundry is a **washer-dryer in one unit**, not a washing machine and a drying rack.
+Most Korean homes have no dryer at all, which in a wet July or a freezing January is
+slower than new arrivals expect.
+
+The bathroom is shared, and this is it — basin, toilet, shower, and the laundry in
+the same room.
+
+![The shared bathroom: washing machine, basin, mirror cabinet, toilet and a curtained shower area](./shared-bathroom-styled.webp)
+
+*The shared bathroom · ⓒ @BalliBalliSeoul*
 
 ## Where it is
 
@@ -44,111 +109,6 @@ brochure — which is why there is no picture of it here. What it is, is outdoor
 you can stand in, dry washing on, or sit out on in the evening, three flights above a
 street in Seoul. At student prices that is close to unobtainable, and we would rather
 undersell it than have you arrive expecting a roof garden.
-
-## The rooms
-
-Single rooms, furnished, with **air conditioning in every room** — not one unit in
-a corridor. In winter the house runs on a **boiler**, the standard Korean underfloor
-system, so the floor itself is warm rather than a heater blowing at one corner of
-the room.
-
-<video controls preload="none" playsinline
-  poster="/video/jongam-room-single-tour-poster.webp"
-  style="width:100%;max-width:420px;border-radius:12px;display:block;margin:0 auto">
-  <source src="/video/jongam-room-single-tour.mp4" type="video/mp4">
-  A walk through a single room: bed, desk, chair and air conditioning.
-</video>
-
-*A single room · ⓒ @BalliBalliSeoul*
-
-<video controls preload="none" playsinline
-  poster="/video/jongam-room-desk-tour-poster.webp"
-  style="width:100%;max-width:420px;border-radius:12px;display:block;margin:0 auto">
-  <source src="/video/jongam-room-desk-tour.mp4" type="video/mp4">
-  A walk through a second single room, desk under the window.
-</video>
-
-*Another of the singles · ⓒ @BalliBalliSeoul*
-
-<video controls preload="none" playsinline
-  poster="/video/jongam-room-corner-tour-poster.webp"
-  style="width:100%;max-width:420px;border-radius:12px;display:block;margin:0 auto">
-  <source src="/video/jongam-room-corner-tour.mp4" type="video/mp4">
-  A walk through a third single room, bed along the window wall.
-</video>
-
-*And a third · ⓒ @BalliBalliSeoul*
-
-![A single room with curtains drawn back at the window, a bed, a desk and chair, and a wall air conditioner](./room-curtains-bed-desk.webp)
-
-*Curtains are in every room now · ⓒ @BalliBalliSeoul*
-
-One honest note about the videos above: they were filmed before the **curtains** went
-up. Everything else in them is what you would walk into; the windows now have these.
-
-These are walk-throughs rather than photographs, and deliberately so: a still can
-make a small room look generous by standing in the right corner, and a continuous
-pan cannot. The photographs on this page are properly shot and lightly styled — **the
-vase, the books and the lamp on the sideboard are ours, not yours.** The furniture,
-the appliances and the walls are what you get.
-
-![A desk and chair by the window, with a few postcards on the wall above it](./room-desk-postcards.webp)
-
-*Desk, chair and aircon in every room · ⓒ @BalliBalliSeoul*
-
-**The rooms are not identical.** The window, the wall the bed sits against and the
-usable floor differ from one to the next — so ask which room you are being offered,
-not just which house. We will tell you.
-
-## What you share
-
-There is a **common room** — a table to eat at, sit at or work at, with a full-height
-window and a balcony door behind it. That is the part a goshiwon does not have and
-most share houses do not either: somewhere to be that is neither your bed nor a café
-you have to buy something in.
-
-![The shared common room: a table and chairs under a ceiling fan light, with a sideboard holding a kettle, rice cooker and microwave](./common-room-table-balcony.webp)
-
-*The common room · ⓒ @BalliBalliSeoul*
-
-Along the wall are a **microwave**, a **rice cooker** and a **kettle**. The rice
-cooker is worth naming — a Korean share house is under no obligation to have one, and
-a student living on rice notices in the first week.
-
-The kitchen proper is next door: a **new refrigerator**, a gas hob with an extractor,
-a sink, cabinets above and below, and a drying rack over the counter.
-
-![The galley kitchen: a tall fridge, gas hob, sink and white cabinets along one wall](./shared-kitchen-fridge-hob.webp)
-
-*The kitchen · ⓒ @BalliBalliSeoul*
-
-**Wi-Fi is included.** That sounds minor until you remember a new arrival cannot
-easily sign up for Korean internet without an alien registration card and a Korean
-bank account — the two things you will not have in your first fortnight.
-
-Laundry is a **washer-dryer in one unit**, not a washing machine and a drying rack.
-Most Korean homes have no dryer at all, which in a wet July or a freezing January is
-slower than new arrivals expect.
-
-![An LG washer-dryer combination unit plumbed in beside the basin](./shared-washer-dryer-combo.webp)
-
-*Washer and dryer in one · ⓒ @BalliBalliSeoul*
-
-The bathroom is shared, and this is it — basin, toilet, shower, and the laundry in
-the same room.
-
-![The shared bathroom: washing machine, basin, mirror cabinet, toilet and a curtained shower area](./shared-bathroom-styled.webp)
-
-*The shared bathroom · ⓒ @BalliBalliSeoul*
-
-<video controls preload="none" playsinline
-  poster="/video/jongam-shared-bathroom-tour-poster.webp"
-  style="width:100%;max-width:420px;border-radius:12px;display:block;margin:0 auto">
-  <source src="/video/jongam-shared-bathroom-tour.mp4" type="video/mp4">
-  A walk through the shared bathroom: washing machine, basin, toilet and shower.
-</video>
-
-*Shared bathroom and laundry in one · ⓒ @BalliBalliSeoul*
 
 ## What it costs
 
