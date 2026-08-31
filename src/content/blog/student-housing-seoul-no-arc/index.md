@@ -2,7 +2,7 @@
 title: "Student Housing in Seoul: Renting Without an ARC or Phone"
 description: "Arriving for the semester and every Korean housing site rejects you? Here's how students actually rent from abroad — platforms, deposits, and the play."
 pubDate: 2026-08-08T00:00:00+09:00
-updatedDate: 2026-08-23T14:30:00+09:00
+updatedDate: 2026-08-31T11:53:00+09:00
 service: moving
 category: home
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
@@ -40,7 +40,9 @@ students use every intake.
 > for the autumn intake.
 >
 > **Rooms do come free**, usually between semesters and often at
-> short notice. If you are looking, ask us on
+> short notice. As of **30 August 2026 all three of our houses are
+> full**, and the next rooms are **two singles from 24 December
+> 2026**. If you are looking, ask us on
 > [WhatsApp](https://wa.me/821075191282) or in our
 > [KakaoTalk open chat](https://open.kakao.com/o/glCt6lMh) and we
 > will tell you plainly what is actually available — including when

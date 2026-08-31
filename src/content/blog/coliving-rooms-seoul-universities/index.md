@@ -1,8 +1,8 @@
 ---
 title: "Our Coliving Rooms: Kyung Hee, HUFS and Korea University"
-description: "Three furnished coliving houses beside Seoul university campuses, run by us and women only. A new house opens near Korea University in late August 2026."
+description: "Three furnished coliving houses beside Seoul university campuses, run by us and women only. Single and twin rooms, small deposits, English throughout."
 pubDate: 2026-08-13T16:13:00+09:00
-updatedDate: 2026-08-26T17:53:00+09:00
+updatedDate: 2026-08-31T11:53:00+09:00
 service: moving
 category: home
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
@@ -21,12 +21,30 @@ campus:
 | ----- | ------ | ----- |
 | **Kyung Hee University** (경희대) | Hoegi / Dongdaemun-gu | Single and twin |
 | **Hankuk University of Foreign Studies** (한국외대) | Same neighbourhood | Single and twin |
-| **Korea University** (고려대) | Jongam-dong, Seongbuk-gu | **Opening late August 2026 — single rooms** |
+| **Korea University** (고려대) | Jongam-dong, Seongbuk-gu | Single rooms |
 
-## 🆕 New house: Korea University, opening late August 2026
+> ### Availability — as of 30 August 2026
+>
+> **All three houses are full.** Every room went on 30 August. We would rather say so
+> here than get you into a chat and tell you then.
+>
+> **The next rooms are two singles from 24 December 2026**, across our three houses.
+> That date is the four-month minimum turning over from the August intake — which is
+> also the honest answer to whether the minimum stay is real. It is.
+>
+> A four-month stay starting then runs to late April, so it covers the start of the
+> spring semester in March, and you would extend from there.
+>
+> **If that date does not suit you, tell us the month that does.** Rooms here come free
+> on the four-month cycle rather than continuously, so the question worth asking is not
+> whether one is free today but whether one will be free when you land. Tell us your
+> month and we will write to you when one comes up.
 
-The newest one is finishing now, and it's a bit different from the
-other two.
+
+## The Korea University house
+
+The newest of the three, open since August 2026, and a bit different
+from the other two.
 
 > ### The essentials
 >
@@ -36,7 +54,7 @@ other two.
 >   (Line 6)
 > - **Third floor, stairs only — there is no lift**
 > - Furnished and finished in the same style as our other houses
-> - **Opening late August 2026** — taking enquiries now
+> - **Open since August 2026** — currently full; see the dates above
 
 **Where it is, precisely enough:** the house sits just off
 **Jongam-ro**, near the Hoegi-ro junction, a few minutes north of

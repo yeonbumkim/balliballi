@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-28T14:38:00+09:00
+updatedDate: 2026-08-31T11:53:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -19,6 +19,23 @@ card.
 
 This is the third option: a room in a share house, three minutes from the station,
 with a deposit sized for a student.
+
+> ### Availability — as of 30 August 2026
+>
+> **All three houses are full.** Every room went on 30 August. We would rather say so
+> here than get you into a chat and tell you then.
+>
+> **The next rooms are two singles from 24 December 2026**, across our three houses.
+> That date is the four-month minimum turning over from the August intake — which is
+> also the honest answer to whether the minimum stay is real. It is.
+>
+> A four-month stay starting then runs to late April, so it covers the start of the
+> spring semester in March, and you would extend from there.
+>
+> **If that date does not suit you, tell us the month that does.** Rooms here come free
+> on the four-month cycle rather than continuously, so the question worth asking is not
+> whether one is free today but whether one will be free when you land. Tell us your
+> month and we will write to you when one comes up.
 
 ![The shared common room: a table and chairs under a ceiling fan light, with a sideboard holding a kettle, rice cooker and microwave](./common-room-table-balcony.webp)
 
