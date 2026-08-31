@@ -2,6 +2,7 @@
 title: "Door Lock Beeping in Korea? What Each Warning Means"
 description: "Your Korean keypad lock is alive and beeping at you. The four things it usually means, which one you can fix in ten seconds, and when it needs a locksmith."
 pubDate: 2026-08-20T17:40:00+09:00
+updatedDate: 2026-08-31T14:00:00+09:00
 service: locksmith
 category: home
 cover: "./door-lock-panel-cover.webp"
@@ -35,6 +36,26 @@ office.
 If you live somewhere with heavy fire doors or a strong stairwell
 draught, this will happen to you more than once. It is worth
 knowing before you spend an evening looking up locksmiths.
+
+## You typed the right code and nothing happened
+
+Not every failure makes a sound, and the silent one is the one people
+waste an evening on. The lock lights up. It takes your code. Then
+nothing — no beep, no error, no motor. It looks exactly like a dead
+lock, so everybody goes and buys a battery.
+
+**It is usually the door, not the lock.** The bolt is pinched between
+the door and the frame and cannot slide back, so the motor turns
+against something it cannot move.
+
+**To get in right now:** put your hand flat on the door and push it
+firmly toward the frame — or pull it toward you — while you enter the
+code. Take the weight off the bolt and it frees the moment the motor
+turns.
+
+That gets you through the door tonight. It does not fix anything —
+[the latch is fighting the frame](#3-the-latch-is-fighting-the-frame)
+below is why, and what the repair is.
 
 ## The four things a beep usually means
 
@@ -92,9 +113,15 @@ Hammering more numbers in resets the clock and gets you nowhere.
 
 ### 3. The latch is fighting the frame
 
-If the lock lights up, accepts your code, and then grinds or beeps
-instead of opening cleanly, the motor is struggling against the
-door rather than failing electrically.
+If the lock lights up, accepts your code, and then grinds, beeps, or
+does nothing at all, the motor is struggling against the door rather
+than failing electrically. **The silent version of this is the one that
+fools people** — no warning noise, no error, just a lock that takes the
+right code and leaves you standing there. It looks like a dead lock. It
+is a stuck door.
+
+Push-and-pull gets you through it tonight. What follows is why it is
+happening and what actually stops it.
 
 Test it with the door **open**: work the lock and watch the bolt
 slide in and out. If it moves freely with the door open but jams
