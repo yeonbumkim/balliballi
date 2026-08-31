@@ -2,13 +2,13 @@
 title: "Locked Inside a Room in Korea: How to Get Out"
 description: "The handle broke and the door won't open from your side. When 119 is right, what it will cost you in door, and what to try before either."
 pubDate: 2026-08-31T14:06:00+09:00
-updatedDate: 2026-08-31T14:26:00+09:00
+updatedDate: 2026-08-31T14:43:00+09:00
 service: locksmith
 category: home
 tags: ["locksmith", "doors", "emergency", "119", "share-house"]
 cover: "./cover.webp"
 coverAlt: "The article title beside a screenshot of a text conversation with 119, with a locksmith's number partly redacted"
-coverCaption: "We texted 119. They rang back"
+coverCaption: "I texted 119. They rang back"
 draft: false
 ---
 
@@ -19,27 +19,28 @@ is written for someone in a corridor.
 This is the other one. **You are inside, the handle is turning and doing nothing, and
 the emergency release is on the wrong side of the door.**
 
-It happened to one of us last weekend, in one of our own houses. Here is the honest
-version of it, because it is more useful than a tidy one.
+It happened to me last weekend, in one of our own houses. Here is the honest version
+of it, because it is more useful than a tidy one.
 
-He had his phone. He had signal. His wife was outside the building. There were windows
-he could have opened and called down from. He was never, at any point, in the
-slightest danger, and it took thirty minutes to get out.
+I had my phone. I had signal. My wife was outside the building. There were windows I
+could have opened and called down from. I was never, at any point, in the slightest
+danger, and it took thirty minutes to get out.
 
-**He panicked anyway.**
+**I panicked anyway.**
 
-He was not frozen, either. He tried things — the postcard trick from a childhood
-memory, a mental inventory of what in the room was heavy enough to break a door with.
-Both of those were sensible. He was still rattled the entire time, and it still took
-thirty minutes.
+I was not frozen, either. I tried things — the postcard trick from a childhood memory,
+a mental inventory of what in the room was heavy enough to break a door with. Both of
+those were sensible. I was still rattled the entire time, and it still took thirty
+minutes.
 
 That is the part worth writing down: **being rattled and being capable are not
-opposites, and you will be both.** He makes
-content for a living and did not take a single photograph of any of it, which is why
-there are none in this article. If you want a measure of what a stuck door does to
-somebody, that is a better one than a picture would have been.
+opposites, and you will be both.**
 
-So the first thing this article does is the thing nobody did for him.
+I make content for a living, and I did not take a single photograph of any of it. That
+is why there are none in this article. If you want a measure of what a stuck door does
+to a person, it is a better one than a picture would have been.
+
+So the first thing this article does is the thing nobody did for me.
 
 ## First, the only question that matters
 
@@ -88,16 +89,16 @@ fallback, not the front door. If you can talk, talk.
 part that matters most: **a person from 119 called back**, within a minute of the
 message.
 
-On that call he told them he was **standing the request down.** Nobody made that
-decision for him and nobody argued him out of it. He was safe, and he said so.
+On that call I told them I was **standing the request down.** Nobody made that decision
+for me and nobody argued me out of it. I was safe, and I said so.
 
-**And they helped anyway.** Having just been told they were not needed, they gave him
-the number of a national locksmith call centre over the phone — and then sent it by
-text, twice, at 1:43 and 1:44, so he had it in writing rather than scribbled on whatever
-was to hand.
+**And they helped anyway.** Having just been told they were not needed, they gave me the
+number of a national locksmith call centre over the phone — and then sent it by text,
+twice, at 1:43 and 1:44, so I had it in writing rather than scribbled on whatever was to
+hand.
 
 That is the opposite of what people expect from an emergency number they have decided
-not to bother. **119 did not brush him off. He stood it down, and they made sure he was
+not to bother. **119 did not brush me off. I stood it down, and they made sure I was
 left with somewhere to go.**
 
 So the useful thing to know is not that 119 will turn you away. It is this: **text them
@@ -111,11 +112,11 @@ a carpenter.
 
 So the money is real, and the decision about it is yours.
 
-Here is the trap in it, from the person it happened to. He had the fire service on the
-phone and told them to stand down — **not because he had weighed the risk and found it
-low, but because he did not want to pay for his own door.** He was safe, and standing it
-down happened to be the right call. That is not the reasoning he used. The reasoning he
-used was that doors are expensive.
+Here is the trap in it. I had the fire service on the phone and told them to stand
+down — **not because I had weighed the risk and found it low, but because I did not want
+to pay for my own door.** I was safe, and standing it down happened to be the right
+call. That is not the reasoning I used. The reasoning I used was that doors are
+expensive.
 
 Everybody does that arithmetic. You will do it too. The problem is that it is the exact
 same sentence in a person's head whether there is smoke under the door or not, and it
@@ -193,7 +194,7 @@ So look at which way your door swings. **If you have to pull it toward you to op
 the slope is facing the corridor, and there is no card, postcard or plastic sheet that
 reaches it from where you are standing.** Korean bedroom doors usually open into the
 room, which puts almost everyone who is stuck inside one on the wrong side of that
-slope. One of us spent part of his thirty minutes proving it with a postcard.
+slope. I spent part of my thirty minutes proving it with a postcard.
 
 And if the handle itself has failed — the thing that put you in there — then the latch
 is not spring-loaded any more, it is jammed. At that point the slope does not matter,
@@ -220,7 +221,7 @@ it and spend the effort on reaching somebody.
 You will get out faster through a person than through the door.
 
 - **Anyone in the building.** A neighbour with a screwdriver beats a locksmith with a
-  van, because the neighbour is already there. This is how ours ended — thirty minutes,
+  van, because the neighbour is already there. This is how mine ended — thirty minutes,
   no damage, no invoice.
 - **The building office (관리실)** if there is one, or the landlord.
 - **Us, or whoever manages your building**, with a photo of the handle. Half of these
