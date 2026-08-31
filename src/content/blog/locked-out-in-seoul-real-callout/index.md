@@ -2,6 +2,7 @@
 title: "Bedroom Door Locked in Korea? What to Try First"
 description: "Most Korean bedroom doors open with a coin or a thin rod through the pinhole. How, when it won't work, and what a locksmith cost for one that didn't."
 pubDate: 2026-08-25T18:15:00+09:00
+updatedDate: 2026-08-31T14:07:00+09:00
 service: locksmith
 tags: ["locksmith", "locked-out", "seoul", "prices"]
 cover: "./cover.webp"
@@ -102,6 +103,12 @@ A locked bedroom stops being a minor annoyance when there is a child, a pet, a
 running tap or something on the stove behind it. Say that in the first message. It
 changes what gets recommended and how fast — and if it is a genuine safety emergency,
 **119** is the right call before any locksmith, and they have English interpreters.
+
+And if the person on the wrong side of the door is **you** — the handle turns and
+nothing happens and you are the one in the room — none of the tricks above are
+reachable from where you are standing. That is
+[a different article](/blog/locked-inside-room-korea/), and the short version is that
+the pinhole and the card both live on this side.
 
 ## They will still ask you to prove you live there
 

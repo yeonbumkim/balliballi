@@ -2,7 +2,7 @@
 title: "Clogged Sink in Korea? Fix It Yourself, or Know When to Stop"
 description: "Why drain cleaner didn't work, the ₩2,000 Daiso tools that usually do, and what a plumber actually costs in Seoul — written for English speakers."
 pubDate: 2026-08-06T08:51:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-08-31T14:07:00+09:00
 service: plumbing
 category: home
 tags: ["drains", "sink", "bathroom", "diy"]
@@ -17,6 +17,10 @@ it sit there, and the water still drains like cold honey. Standard Korean
 apartment problem, and the fix usually costs ₩2,000 — if it's the fix your
 sink actually needs. Here's the order to try things in, and the signs that
 mean stop.
+
+**If it's the toilet rather than the sink**, almost none of this transfers — different
+tool, different causes, and a much worse outcome if you get it wrong. That one is
+[here](/blog/clogged-toilet-korea/).
 
 ## Try this first
 
