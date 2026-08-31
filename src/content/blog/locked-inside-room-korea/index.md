@@ -2,6 +2,7 @@
 title: "Locked Inside a Room in Korea: How to Get Out"
 description: "The handle broke and the door won't open from your side. When 119 is right, what it will cost you in door, and what to try before either."
 pubDate: 2026-08-31T14:06:00+09:00
+updatedDate: 2026-08-31T14:20:00+09:00
 service: locksmith
 category: home
 tags: ["locksmith", "doors", "emergency", "119", "share-house"]
@@ -57,27 +58,54 @@ in [Korea's emergency numbers](/blog/korea-emergency-numbers-112-119/).
 Everything below this line is for the other situation: you are fine, nothing is on
 fire, and you simply cannot get out of a room.
 
-## What 119 will actually say if it is not an emergency
+## What 119 actually does when you text them
 
-This is the part nobody tells you, so here it is plainly.
+Here is the real exchange, because it settles three things people wonder about and one
+they never think to ask.
 
-If you call 119 for a stuck door and nobody is in danger, **they will tell you that
-opening it means breaking it** — and for a standard Korean interior door, which is a
-hollow wooden leaf in a wooden frame, breaking it means replacing it. That is not a
-cheap sentence. It is a new door, a new frame if the frame goes with it, and a
-carpenter.
+![A text conversation with 119: a message reading "I am shut in a room, is there a way out?", an automatic reply saying 119 has queried the phone's location, a second saying a voice call would be faster, and two messages giving a national locksmith call centre number](./119-text-locksmith-referral.webp)
 
-**They may also give you a locksmith's phone number instead.** When they do, that is
-worth reading as what it is: the fire service has classed your situation as an
-inconvenience rather than an emergency, and they are right, and you now have a
-decision to make about your own door.
+*119, Saturday 29 August. The message went out at 1:42pm. The locksmith's number came
+back at 1:43. We have removed the last four digits — it is not a company we know
+anything about, and we do not pass on referrals we have not checked.*
 
-That decision is yours and it is a real one.
+**Texting 119 works.** It is the channel for when you cannot speak — or, as here, when
+you can speak perfectly well and are too rattled to want to.
 
-And here is the trap in it, from the person it happened to: **he did not call 119
-because he did not want to pay for his own door.** Not because he had weighed the risk
-and found it low. He was safe, and it happened to be the right call, but that is not
-the reasoning he used. The reasoning he used was that doors are expensive.
+**They find you without being told where you are.** *119에서 긴급구조를 위해 귀하의
+휴대전화 위치를 조회하였습니다* — *119 has queried your mobile phone's location for
+emergency rescue.* That lands before a human has answered anything, and it means the
+worst case is already covered: if you stop replying, they know where to come. If you
+are stuck somewhere you could not describe in Korean anyway, that by itself is a reason
+to send the message.
+
+**But they would rather you rang.** The next reply says so outright — *all systems are
+currently taking reports; reporting by voice call allows faster intake.* Text is the
+fallback, not the front door. If you can talk, talk.
+
+**And then, sixty seconds later, a locksmith's phone number.** Twice, at 1:43 and 1:44.
+
+That last one is what this section exists for. Nobody was dispatched. Nobody asked about
+the door. The fire service read *I am shut in a room*, found nobody in danger in it, and
+handed the problem to the commercial locksmith network inside a minute.
+
+**That is the system working correctly**, and it is much better to understand it before
+you are sitting on the floor of a bedroom than during. 119 is triaging. A well person
+behind a stuck door is not what they are for, and the number they send back is the
+polite version of saying so.
+
+Had it been a real emergency they would have come, and they would have opened the door
+however they needed to — which for a hollow wooden leaf in a wooden frame means breaking
+it, and replacing it afterwards. A new door, a new frame if the frame goes with it, and
+a carpenter.
+
+So the money is real, and the decision about it is yours.
+
+Here is the trap in it, from the person it happened to. He sent the message, read the
+reply, and then **let it go — not because he had weighed the risk and found it low, but
+because he did not want to pay for his own door.** He was safe, and letting it go
+happened to be the right call. That is not the reasoning he used. The reasoning he used
+was that doors are expensive.
 
 Everybody does that arithmetic. You will do it too. The problem is that it is the exact
 same sentence in a person's head whether there is smoke under the door or not, and it
