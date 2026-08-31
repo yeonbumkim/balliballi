@@ -2,13 +2,13 @@
 title: "Locked Inside a Room in Korea: How to Get Out"
 description: "The handle broke and the door won't open from your side. When 119 is right, what it will cost you in door, and what to try before either."
 pubDate: 2026-08-31T14:06:00+09:00
-updatedDate: 2026-08-31T14:20:00+09:00
+updatedDate: 2026-08-31T14:26:00+09:00
 service: locksmith
 category: home
 tags: ["locksmith", "doors", "emergency", "119", "share-house"]
 cover: "./cover.webp"
-coverAlt: "Typographic cover reading Locked Inside a Room in Korea"
-coverCaption: "The pinhole is on the other side of the door"
+coverAlt: "The article title beside a screenshot of a text conversation with 119, with a locksmith's number partly redacted"
+coverCaption: "We texted 119. They rang back"
 draft: false
 ---
 
@@ -65,9 +65,10 @@ they never think to ask.
 
 ![A text conversation with 119: a message reading "I am shut in a room, is there a way out?", an automatic reply saying 119 has queried the phone's location, a second saying a voice call would be faster, and two messages giving a national locksmith call centre number](./119-text-locksmith-referral.webp)
 
-*119, Saturday 29 August. The message went out at 1:42pm. The locksmith's number came
-back at 1:43. We have removed the last four digits — it is not a company we know
-anything about, and we do not pass on referrals we have not checked.*
+*119, Saturday 29 August. The message went out at 1:42pm. Between it and the 1:43
+reply, a person from 119 rang back. We have removed the locksmith's last four digits —
+it is not a company we know anything about, and we do not pass on referrals we have not
+checked.*
 
 **Texting 119 works.** It is the channel for when you cannot speak — or, as here, when
 you can speak perfectly well and are too rattled to want to.
@@ -83,16 +84,25 @@ to send the message.
 currently taking reports; reporting by voice call allows faster intake.* Text is the
 fallback, not the front door. If you can talk, talk.
 
-**And then, sixty seconds later, a locksmith's phone number.** Twice, at 1:43 and 1:44.
+**And then the phone rang.** This is the part the screenshot cannot show, and it is the
+part that matters most: **a person from 119 called back**, within a minute of the
+message.
 
-That last one is what this section exists for. Nobody was dispatched. Nobody asked about
-the door. The fire service read *I am shut in a room*, found nobody in danger in it, and
-handed the problem to the commercial locksmith network inside a minute.
+On that call he told them he was **standing the request down.** Nobody made that
+decision for him and nobody argued him out of it. He was safe, and he said so.
 
-**That is the system working correctly**, and it is much better to understand it before
-you are sitting on the floor of a bedroom than during. 119 is triaging. A well person
-behind a stuck door is not what they are for, and the number they send back is the
-polite version of saying so.
+**And they helped anyway.** Having just been told they were not needed, they gave him
+the number of a national locksmith call centre over the phone — and then sent it by
+text, twice, at 1:43 and 1:44, so he had it in writing rather than scribbled on whatever
+was to hand.
+
+That is the opposite of what people expect from an emergency number they have decided
+not to bother. **119 did not brush him off. He stood it down, and they made sure he was
+left with somewhere to go.**
+
+So the useful thing to know is not that 119 will turn you away. It is this: **text them
+and they will ring you, so keep the phone in your hand.** What happens next is a
+conversation with a person, and you are part of it.
 
 Had it been a real emergency they would have come, and they would have opened the door
 however they needed to — which for a hollow wooden leaf in a wooden frame means breaking
@@ -101,11 +111,11 @@ a carpenter.
 
 So the money is real, and the decision about it is yours.
 
-Here is the trap in it, from the person it happened to. He sent the message, read the
-reply, and then **let it go — not because he had weighed the risk and found it low, but
-because he did not want to pay for his own door.** He was safe, and letting it go
-happened to be the right call. That is not the reasoning he used. The reasoning he used
-was that doors are expensive.
+Here is the trap in it, from the person it happened to. He had the fire service on the
+phone and told them to stand down — **not because he had weighed the risk and found it
+low, but because he did not want to pay for his own door.** He was safe, and standing it
+down happened to be the right call. That is not the reasoning he used. The reasoning he
+used was that doors are expensive.
 
 Everybody does that arithmetic. You will do it too. The problem is that it is the exact
 same sentence in a person's head whether there is smoke under the door or not, and it
