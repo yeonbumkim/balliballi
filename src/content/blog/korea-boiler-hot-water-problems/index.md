@@ -2,7 +2,7 @@
 title: "Hot Water Coming and Going? Ask About the Valve First"
 description: "Intermittent hot water in a Korean flat usually points at one cheap part, not a new boiler. What the symptom means, what it costs, and who pays for it."
 pubDate: 2026-08-13T14:53:00+09:00
-updatedDate: 2026-08-19T00:05:00+09:00
+updatedDate: 2026-09-02T11:15:00+09:00
 service: plumbing
 category: home
 tags: ["boiler", "hot-water", "plumbing", "heating", "landlord"]
@@ -20,6 +20,11 @@ replace it.
 **Maybe. But the symptom you're describing usually points at one
 specific part that costs well under ₩100,000 to swap** — and it's
 worth knowing its name before anyone quotes you for a new boiler.
+
+> **Getting nothing at all, rather than hot water that comes and
+> goes?** That is a different fault with a different first move —
+> [start with the valves](/blog/no-hot-water-korea/), because a closed
+> gas or water valve behaves exactly like a broken boiler.
 
 ## First, what a Korean boiler actually is
 
