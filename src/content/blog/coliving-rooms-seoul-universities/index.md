@@ -2,7 +2,7 @@
 title: "Our Coliving Rooms: Kyung Hee, HUFS and Korea University"
 description: "Three furnished coliving houses beside Seoul university campuses, run by us and women only. Single and twin rooms, small deposits, English throughout."
 pubDate: 2026-08-13T16:13:00+09:00
-updatedDate: 2026-08-31T11:53:00+09:00
+updatedDate: 2026-09-03T11:40:00+09:00
 service: moving
 category: home
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
@@ -164,6 +164,12 @@ and a coliving room is the usual way around it.
 Studying at Korea University specifically? The dorms, the goshiwon, the
 one-rooms and what each really costs are laid out in
 **[Korea University housing](/blog/korea-university-housing/)**.
+
+Already in a goshiwon and wondering whether to stay in it? Two friends
+of ours made that call, and
+**[why they moved out](/blog/goshiwon-vs-share-house-seoul/)** covers
+what a goshiwon is actually like against an officetel, a wolse lease
+and a share house.
 
 If you do go the normal-flat route later, read
 [what to check before you sign](/blog/what-to-check-before-renting-seoul/)

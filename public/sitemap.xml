@@ -55,7 +55,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/coliving-rooms-seoul-universities/</loc>
-    <lastmod>2026-08-31T11:53:00+09:00</lastmod>
+    <lastmod>2026-09-03T11:40:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -104,6 +104,12 @@
   <url>
     <loc>https://balliballi.com/blog/getting-glasses-in-korea/</loc>
     <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/goshiwon-vs-share-house-seoul/</loc>
+    <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
