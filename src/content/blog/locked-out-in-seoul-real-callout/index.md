@@ -70,9 +70,6 @@ opened the door without damaging it.
 **Total: ₩50,000**, start to finish. No surcharge for the hour. The figure in the
 chat was the figure at the door.
 
-That job is the first row in our [service log](/locksmith#log), where every job we
-arrange goes up once it is finished — date, district, work, and the all-in total.
-
 ## What decides the price
 
 ₩50,000 was at the cheap end. An interior door usually is: the lock is lighter than a
