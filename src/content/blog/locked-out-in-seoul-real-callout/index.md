@@ -2,7 +2,7 @@
 title: "Bedroom Door Locked in Korea? What to Try First"
 description: "Most Korean bedroom doors open with a coin or a thin rod through the pinhole. How, when it won't work, and what a locksmith cost for one that didn't."
 pubDate: 2026-08-25T18:15:00+09:00
-updatedDate: 2026-08-31T14:07:00+09:00
+updatedDate: 2026-09-04T00:00:00+09:00
 service: locksmith
 tags: ["locksmith", "locked-out", "seoul", "prices"]
 cover: "./cover.webp"
@@ -67,8 +67,8 @@ with one number in the chat. Nobody was dispatched until that was accepted. The
 locksmith arrived in the window we had given, checked that they lived there, and
 opened the door without damaging it.
 
-**Total: ₩50,000**, including our fee for the calls and the scheduling. No surcharge
-for the hour. The figure in the chat was the figure at the door.
+**Total: ₩50,000**, start to finish. No surcharge for the hour. The figure in the
+chat was the figure at the door.
 
 That job is the first row in our [service log](/locksmith#log), where every job we
 arrange goes up once it is finished — date, district, work, and the all-in total.
