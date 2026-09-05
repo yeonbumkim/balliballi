@@ -2,7 +2,7 @@
 title: "Keypad Door Lock Dead in Korea? How to Get Back In"
 description: "The 9V battery trick that opens most dead Korean keypads, when it won't work, and what a locksmith actually costs in Seoul — in plain English."
 pubDate: 2026-08-05T10:00:00+09:00
-updatedDate: 2026-08-31T14:00:00+09:00
+updatedDate: 2026-09-04T21:04:00+09:00
 service: locksmith
 category: home
 tags: ["door-lock", "lockout", "keypad", "emergency"]
@@ -103,13 +103,15 @@ Typical ranges in central Seoul, as of 2026:
 | Full digital lock replacement (unit included) | ₩120,000–250,000          |
 | Code reset + fresh batteries after moving in  | ₩30,000–60,000            |
 
-Two things to know about how pricing works here. First, many local locksmiths
-charge noticeably more at night and on weekends, and the price you hear on the
-phone isn't always the price at the door. The fix for both is the same: **get
-the price confirmed in writing before anyone is dispatched.** When we arrange a
+Two things to know about how pricing works here. First, **out-of-hours work
+costs more.** A 3 a.m. lockout is not priced like a Tuesday afternoon, and
+nights, weekends and public holidays carry a call-out surcharge. That part is
+normal. What is not normal is the price you hear on the phone differing from
+the price at the door. The fix is the same either way: **get the number
+confirmed in writing before anyone is dispatched.** When we arrange a
 locksmith through our [English-speaking locksmith service](/locksmith),
-the quote is fixed in the chat first, and there's no night or weekend
-surcharge.
+the surcharge is already inside the quote you accept in the chat — ask and you
+get the figure for your hour, not a range.
 
 Second, a legitimate locksmith in Korea will ask you to **prove you live
 there** before opening the door — photo ID plus something tying you to the

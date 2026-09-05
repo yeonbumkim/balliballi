@@ -1,11 +1,11 @@
 ---
 title: "Clogged Sink in Korea? Fix It Yourself, or Know When to Stop"
-description: "Why drain cleaner didn't work, the ₩2,000 Daiso tools that usually do, and what a plumber actually costs in Seoul — written for English speakers."
+description: "Slow drain or fully blocked? The test that tells you which, the ₩2,000 Daiso tools that beat drain cleaner, and what a plumber costs in Seoul."
 pubDate: 2026-08-06T08:51:00+09:00
-updatedDate: 2026-08-31T14:07:00+09:00
+updatedDate: 2026-09-04T21:04:00+09:00
 service: plumbing
 category: home
-tags: ["drains", "sink", "bathroom", "diy"]
+tags: ["drains", "sink", "bathroom", "kitchen", "diy"]
 cover: "./drain-cleaner-bottle-korean-bathroom-sink.webp"
 coverAlt: "A 2-liter bottle of Korean chemical drain cleaner lying in a white bathroom sink"
 coverCaption: "The ₩8,000 bottle that usually loses"
@@ -22,6 +22,52 @@ mean stop.
 tool, different causes, and a much worse outcome if you get it wrong. That one is
 [here](/blog/clogged-toilet-korea/).
 
+## Slow and blocked are not the same problem
+
+Start here, because the answer changes what you do next — and most people
+skip it and go straight for the chemicals.
+
+![A clean white bathroom basin with a pool of clear water sitting in it that has not drained away](./basin-standing-water-slow-drain.webp)
+
+*Spotless basin, water still sitting in it · ⓒ @BalliBalliSeoul*
+
+That basin is clean. It has also been holding that water for a while.
+**A slow drain is a partial restriction** — the pipe is narrowed, not
+sealed — and the cause is usually within arm's reach. **A dead stop is a
+full blockage**, often further down, and the DIY odds are worse.
+
+The slow version rarely arrives overnight. It gets worse over weeks,
+people stop noticing, and then it looks like this.
+
+![A bathroom basin holding a pool of cloudy yellow water that is not draining](./basin-blocked-yellow-water.webp)
+
+*Same problem, several months later · ⓒ @BalliBalliSeoul*
+
+That yellow is not the water supply. It is what has been sitting in the
+trap coming back up, and by this point the ₩2,000 tools are a long shot
+rather than a likely fix. **The gap between those two photographs is the
+whole argument for dealing with a slow drain while it is only slow** —
+it is the cheapest it will ever be to fix.
+
+### The test: how many drains are slow?
+
+Fill the basin, pull the stopper, and watch. Then do the same at every
+other drain in the flat — the shower, the floor drain, the kitchen sink.
+What you are comparing is not seconds on a stopwatch but **whether your
+drains agree with each other.**
+
+| What you see | What it usually means |
+| --- | --- |
+| One drain slow, the rest normal | Your trap or stopper. Keep reading — this is the fixable one |
+| Bathroom drains slow together, kitchen fine | Often the bathroom's shared branch, past your fittings |
+| **Everything slow, everywhere** | The building's vertical stack. **Not your job** — call the 관리사무소 |
+| Slow **and** it gurgles or smells | Air is not moving properly. Worth a professional look |
+| Slow, then suddenly backs up when a neighbour runs water | Stop. That is the shared line, and it can flood you |
+
+The last two rows are the ones people push through and regret. A
+building-line problem does not get better because you fed a plastic strip
+into your basin.
+
 ## Try this first
 
 ### Pull the stopper out
@@ -31,6 +77,10 @@ press to open and close. What nobody tells you: on most models it simply
 **pulls straight out** (grab and yank firmly; some twist off instead). The
 bottom of that stopper is usually wearing a beard of hair and soap gunk,
 and half the time, that *is* the clog. Clean it, push it back in, done.
+
+![A white pedestal basin in a Korean bathroom with a chrome pop-up stopper set into the drain and a bidet hose running across it](./pedestal-basin-pop-up-stopper.webp)
+
+*The chrome cap in the middle is the stopper — it comes out · ⓒ @BalliBalliSeoul*
 
 ### The ₩2,000 tools that beat the ₩8,000 bottle
 
@@ -61,11 +111,40 @@ the back is hollow.
 
 *The pipe in question — basin to floor drain · ⓒ @BalliBalliSeoul*
 
+Put a bucket or a towel under it first. There is always more water in
+that pipe than you expect.
+
 ### Last gentle option
 
 A kettle of hot (not roiling boiling, if your pipes are plastic) water,
 or baking soda followed by vinegar, can loosen greasy buildup. It won't
 break a real hair clog, but it's a decent monthly habit against smells.
+
+## The kitchen sink is a different clog
+
+If it is the kitchen rather than the bathroom, stop thinking about hair.
+**Kitchen drains block with grease**, which pours in warm and sets solid
+in the cold section of pipe. The barbed strip that saves a bathroom sink
+does very little here.
+
+![A stainless steel Korean kitchen sink with the drain strainer lifted out, showing brown grease build-up around the drain opening](./kitchen-drain-grime-close.webp)
+
+*Strainer lifted out — this ring is what slows a kitchen sink · ⓒ @BalliBalliSeoul*
+
+Three things change:
+
+- **Lift the strainer basket out.** Korean kitchen sinks drain through a
+  removable basket (거름망) that sits in the opening. It is meant to be
+  taken out and emptied, and a full one alone will slow the sink to a
+  crawl.
+- **Hot water and washing-up liquid genuinely help here**, unlike with
+  hair. Run the tap as hot as it goes with a squirt of detergent, and
+  repeat. Grease is the one clog that dissolves.
+- **Food scraps do not go down the drain in Korea anyway.** Food waste is
+  collected separately and thrown out by weight — the system is in
+  [how to throw away rubbish in Korea](/blog/how-to-throw-away-trash-in-korea/).
+  Scraping plates into the food bin instead of the sink is the single
+  biggest thing that keeps a kitchen drain clear.
 
 ## When to stop and call someone
 
@@ -101,10 +180,14 @@ Typical ranges for professional work, as of 2026:
 | High-pressure jetting (deep blockage)   | ₩120,000–200,000          |
 | Building main / shared line             | From ₩150,000, on-site quote |
 
-When we arrange a plumber through our
-[English-speaking plumbing service](/plumbing), the price is confirmed with
-you in the chat **before** work starts, there's no night or weekend
-surcharge, and if it can't be fixed, you pay nothing.
+**Nights, weekends and public holidays can carry a call-out surcharge** —
+that is how the trade works here, and anyone telling you otherwise is
+guessing. When we arrange a plumber through our
+[English-speaking plumbing service](/plumbing), the surcharge is inside the
+number you are given: the price is confirmed with you in the chat **before**
+work starts, never added to the invoice afterwards. Ask us in the chat and
+you get the figure for your actual time and job. If it can't be fixed, you
+pay nothing.
 
 ## The Korean part
 
@@ -119,7 +202,16 @@ what we hand you when we arrange the visit. And if the landlord call is the
 part you're dreading, our [anything-else concierge service](/etc) makes
 that call in Korean for you.
 
+This is also where the slow-versus-blocked distinction earns its keep. **A
+drain that has been getting slower for months is evidence of a pipe
+problem**, not of what you did last week — and that is a much better
+position to be in when the bill is being decided.
+
 ## Get it sorted
+
+![Water running freely down a clean bathroom basin drain](./basin-drain-running-clear.webp)
+
+*What you are aiming for · ⓒ @BalliBalliSeoul*
 
 > **Tried the ₩2,000 tricks and it's still backing up?** Send a photo or
 > video of the drain on [WhatsApp](https://wa.me/821075191282) — we'll
