@@ -24,6 +24,8 @@ const blog = defineCollection({
       cover: image().optional(),
       coverAlt: z.string().optional(),
       coverCaption: z.string().max(60).optional(),
+      // 커버 이미지보다 위에 노란 주의 박스를 띄운다 (불쾌할 수 있는 사진 등)
+      contentWarning: z.string().max(400).optional(),
       draft: z.boolean().default(false),
     }),
 });
