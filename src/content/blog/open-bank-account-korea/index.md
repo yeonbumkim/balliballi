@@ -2,7 +2,7 @@
 title: "How to Open a Bank Account in Korea as a Foreigner"
 description: "What to bring, which bank, and the thing nobody warns you about — new accounts open with a daily transfer limit, and lifting it takes paperwork."
 pubDate: 2026-08-18
-updatedDate: 2026-08-20T00:15:00+09:00
+updatedDate: 2026-09-07T01:12:00+09:00
 service: etc
 category: settling-in
 tags: ["bank-account", "settling-in", "arc", "banking", "money"]
@@ -108,6 +108,51 @@ a genuinely bad day.
 
 **If you know a large transfer is coming, deal with the limit
 first.**
+
+### What this looks like in practice
+
+We run a share house, so we watch this happen from the other side of
+the transfer. **Tenant after tenant, independently, has asked to pay
+the deposit and the first month's rent across two days** — not
+because anyone suggested it, but because they hit the ceiling on day
+one and worked out the rest themselves.
+
+Nobody negotiated it. They all arrived at the same workaround,
+which tells you how ordinary the limit is rather than how unlucky
+they were.
+
+Three tenants moving in at the end of the same month, each owing
+₩1,700,000 in deposit and first rent, paid like this:
+
+| | Day one | Day two |
+| --- | --- | --- |
+| Tenant A | ₩1,000,000 | ₩700,000 |
+| Tenant B | ₩1,000,000 | ₩700,000 |
+| **Tenant C** | **₩1,465,071** | **₩234,929** |
+
+**Look at the third row.** The first two split along the obvious line
+— deposit one day, rent the next — which you could explain other
+ways. Nobody chooses ₩1,465,071. That is not a decision; **that is
+where the ceiling was**, and the remainder went the following
+morning.
+
+An amount that does not round is the clearest evidence you will get
+that a limit exists.
+
+Two things follow.
+
+**If you are paying**, you have three options and it is worth
+picking before the day: split it across two or more days, **pay at
+the counter in branch** (the in-person cap is the higher one), or
+lift the limit in advance with the documents below. The first is
+easiest; the last is the only one that also solves the next large
+payment.
+
+**If you are being paid** — a landlord, a share house, anyone taking
+a deposit — build the extra day into your expectations. A new
+arrival sending half today and half tomorrow is not hesitating and
+is not a warning sign. It is the anti-fraud system doing exactly
+what it was built to do.
 
 ## Lifting the limit
 
