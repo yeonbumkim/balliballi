@@ -242,7 +242,13 @@
     .fee .btn{min-width:260px}
     .fee .fee-independent{margin-top:14px;font-weight:700;color:var(--primary-dark)}
     .fee .fee-note{margin-top:20px;font-size:13px;color:var(--muted)}
-  </style>
+  
+      /* KakaoTalk 내비 버튼 — index.html·plumbing.html 과 동일 규격 */
+      .nav-kakao{background:var(--kakao);color:#191919 !important}
+      .nav-kakao:hover{background:#f5dc00 !important}
+      .nav-kakao .k-abbr{display:none}
+      @media(max-width:980px){.nav-kakao .k-full{display:none}.nav-kakao .k-abbr{display:inline}}
+    </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890314542345467"
      crossorigin="anonymous"></script>
 </head>
