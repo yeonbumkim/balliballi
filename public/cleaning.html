@@ -85,7 +85,7 @@
       {
         "@type": "Question",
         "name": "How is cleaning priced?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Deep cleans are priced by home size: a one-room/studio is typically around ₩250,000, a 2-bedroom around ₩500,000, and 30-pyeong-plus apartments from ₩700,000. Regular housekeeping runs around ₩60,000 per 4-hour visit. We confirm a quote from your address and floor plan before booking." }
+        "acceptedAnswer": { "@type": "Answer", "text": "Deep cleans are priced by home size: a one-room/studio is typically around ₩250,000, a 2-bedroom around ₩500,000, and 30-pyeong-plus apartments from ₩700,000. Regular housekeeping starts from ₩70,000 per 3-hour visit. We confirm a quote from your address and floor plan before booking." }
       },
       {
         "@type": "Question",
@@ -238,7 +238,25 @@
     .fee .btn{min-width:260px}
     .fee .fee-independent{margin-top:14px;font-weight:700;color:var(--primary-dark)}
     .fee .fee-note{margin-top:20px;font-size:13px;color:var(--muted)}
-  </style>
+  
+      /* --- blog guide cards (index.html 과 동일 규격) --- */
+      .post-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:36px}
+      .post-card{display:flex;flex-direction:column;border:2px solid var(--border);border-radius:20px;overflow:hidden;background:#fff;transition:border-color .15s,transform .15s}
+      .post-card:hover{border-color:var(--primary);transform:translateY(-2px)}
+      .post-card:hover .post-thumb img{transform:scale(1.03)}
+      .post-thumb{aspect-ratio:1200/630;overflow:hidden;background:var(--bg-soft)}
+      .post-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .25s}
+      .post-body{display:flex;flex-direction:column;flex:1;padding:22px 24px 24px}
+      .post-cat{display:inline-block;align-self:flex-start;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--primary-dark);background:var(--primary-light);border-radius:999px;padding:5px 11px;margin-bottom:14px}
+      .post-card h3{font-size:18px;line-height:1.32;margin-bottom:10px}
+      .post-card p{color:var(--muted);font-size:14.5px;line-height:1.6;flex:1}
+      .post-more{margin-top:16px;font-weight:700;font-size:14px;color:var(--primary-dark)}
+      .cta-alt{margin:16px 0 0;text-align:center;font-size:15px;color:var(--muted)}
+      .cta-alt a{color:var(--primary-dark);font-weight:700;text-decoration:underline;text-underline-offset:3px}
+      .cta-alt a:hover{text-decoration:none}
+      @media(max-width:900px){.post-grid{grid-template-columns:repeat(2,1fr)}}
+      @media(max-width:640px){.post-grid{grid-template-columns:1fr}}
+    </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890314542345467"
      crossorigin="anonymous"></script>
 </head>
@@ -300,7 +318,7 @@
           <div style="margin-top:26px">
             <div class="row"><span>Studio / one-room deep clean</span><span>around ₩250,000</span></div>
             <div class="row"><span>2-bedroom deep clean</span><span>around ₩500,000</span></div>
-            <div class="row"><span>Housekeeping (4 hrs)</span><span>₩60,000</span></div>
+            <div class="row"><span>Housekeeping (3 hrs)</span><span>From ₩70,000</span></div>
             <div class="row"><span>Weekends</span><span>Same price</span></div>
           </div>
         </div>
@@ -316,7 +334,7 @@
 
         <div class="symptom-btns" role="tablist" aria-label="Cleaning type selector">
           <button class="active" data-cost="₩250,000–700,000" data-time="3–6 hours" data-work="Full empty-home deep clean, by home size">Move-in / move-out deep clean</button>
-          <button data-cost="₩60,000" data-time="4-hour visit" data-work="Kitchen, bathrooms, floors, dusting, laundry optional">Regular housekeeping</button>
+          <button data-cost="From ₩70,000" data-time="3-hour visit" data-work="Kitchen, bathrooms, floors, dusting, laundry optional">Regular housekeeping</button>
           <button data-cost="₩80,000–200,000" data-time="2–4 hours" data-work="Mold removal + re-siliconing, grout scrub">Bathroom mold removal</button>
           <button data-cost="₩60,000–150,000" data-time="2–3 hours" data-work="Degrease hood, stovetop, oven, fridge interior">Kitchen deep clean</button>
           <button data-cost="Per-turnover rate" data-time="1.5–3 hours" data-work="Beds, towels, kitchen and bathroom reset">Airbnb turnover</button>
@@ -385,7 +403,7 @@
                 <td class="sym">Regular housekeeping</td>
                 <td class="muted">Kitchen, bathrooms, floors, dusting, trash &amp; recycling sorting (Korea's system, handled)</td>
                 <td class="muted">Weekly / bi-weekly</td>
-                <td class="time">4-hour visits</td>
+                <td class="time">3-hour visits</td>
               </tr>
               <tr>
                 <td class="sym">Bathroom mold treatment</td>
@@ -465,7 +483,7 @@
               <tr><td>Deep clean — studio / one-room (~10 pyeong)</td><td style="text-align:right;font-weight:700">around ₩250,000</td></tr>
               <tr><td>Deep clean — 2-bedroom (~20 pyeong)</td><td style="text-align:right;font-weight:700">around ₩500,000</td></tr>
               <tr><td>Deep clean — 30+ pyeong apartment</td><td style="text-align:right;font-weight:700">From ₩700,000</td></tr>
-              <tr><td>Regular housekeeping (4-hour visit)</td><td style="text-align:right;font-weight:700">₩60,000</td></tr>
+              <tr><td>Regular housekeeping (3-hour visit)</td><td style="text-align:right;font-weight:700">From ₩70,000</td></tr>
               <tr><td>Bathroom mold treatment + re-silicone</td><td style="text-align:right;font-weight:700">₩80,000–200,000</td></tr>
               <tr><td>Airbnb turnover (recurring)</td><td style="text-align:right;font-weight:700">Fixed per-turnover rate</td></tr>
             </tbody>
@@ -476,6 +494,103 @@
           &nbsp;·&nbsp; <strong>Something missed?</strong> Tell us the same day — we take it back to the team and push for it to be put right.
           &nbsp;·&nbsp; <strong>Payment</strong> — the cleaning team's charge is settled with them (usually cash or bank transfer, sometimes card). Our own fee is paid by PayPal — card or PayPal balance, no Korean bank account needed.
         </p>
+      </div>
+    </section>
+
+
+    <!-- ===================== Guides ===================== -->
+    <section id="guides">
+      <div class="container">
+        <p class="eyebrow">From the blog</p>
+        <h2>What we have written about cleaning here</h2>
+        <p class="muted" style="margin-top:14px;max-width:660px">
+          The prices, the Korean words, and the parts nobody warns you about —
+          written up from jobs we have actually booked and stood in.
+        </p>
+        <div class="post-grid">
+          <a class="post-card" href="/blog/move-in-cleaning-seoul/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/move-in-cleaning-seoul.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Move-In Cleaning in Seoul: What Ipjucheongso Really Costs</h3>
+              <p>Korea deep-cleans a flat before you move in, and the tenant usually pays. What 입주청소 covers, what a 25-pyeong job cost, and when to book it.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/move-out-cleaning-korea/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/move-out-cleaning-korea.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Move-Out Cleaning in Korea: Protecting Your Deposit</h3>
+              <p>What Korean landlords actually deduct for, what a move-out clean costs, and the order to do it in — disposal first, clean second, photographs last.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/deep-clean-korea-sorting-first/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/deep-clean-korea-sorting-first.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Deep Cleaning in Korea: Sorting Comes Before Cleaning</h3>
+              <p>Korea sells six different cleanings — 입주, 이사, 거주, 부분, 특수, 정리수납. Which one your flat needs, what each costs, and why the quotes disagree.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/aircon-cleaning-korea/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/aircon-cleaning-korea.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Aircon Cleaning in Korea: Do It When Summer Ends</h3>
+              <p>Switch a Korean aircon off wet in September and it stays wet until May. Why the end of summer is the right time to clean it, and what the job actually is.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/sofa-mattress-cleaning-korea/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/sofa-mattress-cleaning-korea.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Sofa and Mattress Cleaning in Korea: Is It Worth It?</h3>
+              <p>Furnished flats in Korea come with a mattress someone else used. What a professional clean costs, what it can and cannot fix, and when to replace instead.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/housekeeping-service-korea/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/housekeeping-service-korea.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Finding a Weekly Housekeeper in Korea (Yes, They Exist)</h3>
+              <p>Regular home cleaning in Korea is an app-tap away — the platforms locals use, real prices per visit, and how expats find English-speaking cleaners.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/home-organising-korea-jeongni-sunap/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/home-organising-korea-jeongni-sunap.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Home Organising in Korea: It Feels Like Moving House</h3>
+              <p>정리수납 professionals sort and store — but they cannot throw anything out, so you have to be there. What the day is like, what it costs, and one warning.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/mould-behind-baseboard-korea/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/mould-behind-baseboard-korea.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Check Behind the Baseboard Before You Sign a Korean Lease</h3>
+              <p>A Seoul flat can look spotless and still grow mould along every wall. Where it hides, why Korean interiors conceal it, and what to check at a viewing.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+          <a class="post-card" href="/blog/korea-summer-electricity-bill/">
+            <div class="post-thumb"><img src="/img/cleaning-guides/korea-summer-electricity-bill.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Home</span>
+              <h3>Korea&#x27;s Summer Electricity Bill: Why It Spikes (and Fixes)</h3>
+              <p>The progressive rate system behind your August shock, the cashback program, and 40,000 free cooling shelters nobody tells foreign residents about.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
+        </div>
+        <p class="cta-alt" style="margin-top:28px"><a href="/blog/">All guides →</a></p>
       </div>
     </section>
 
@@ -490,7 +605,7 @@
         </details>
         <details>
           <summary>How is cleaning priced?</summary>
-          <p>Deep cleans are priced by home size: a studio is typically around ₩250,000, a 2-bedroom around ₩500,000, and 30-pyeong-plus apartments from ₩700,000. Regular housekeeping runs around ₩60,000 per 4-hour visit. Tell us your size (it's on your lease, in pyeong or ㎡) and we confirm a quote in the chat.</p>
+          <p>Deep cleans are priced by home size: a studio is typically around ₩250,000, a 2-bedroom around ₩500,000, and 30-pyeong-plus apartments from ₩700,000. Regular housekeeping starts from ₩70,000 per 3-hour visit. Tell us your size (it's on your lease, in pyeong or ㎡) and we confirm a quote in the chat.</p>
         </details>
         <details>
           <summary>Do I need to be home? Do I provide supplies?</summary>
