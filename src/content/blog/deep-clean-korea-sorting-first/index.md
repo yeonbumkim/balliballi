@@ -2,6 +2,7 @@
 title: "Deep Cleaning in Korea: Sorting Comes Before Cleaning"
 description: "Korea sells six different cleanings — 입주, 이사, 거주, 부분, 특수, 정리수납. Which one your flat needs, what each costs, and why the quotes disagree."
 pubDate: 2026-09-06T08:28:00+09:00
+updatedDate: 2026-09-07T16:50:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "deep-clean", "one-room", "moving-out", "rubbish"]
@@ -52,7 +53,11 @@ different.** Companies bundle them because the crew and the kit are the
 same, but 입주 is construction dust in a new build and 이사 is years of
 somebody's cooking. If your flat is a handover between tenants rather
 than a new build, the second word is the accurate one — and it is worth
-saying, because the two jobs are dirty in different ways.
+saying, because the two jobs are dirty in different ways. Each has its
+own guide: [move-in cleaning](/blog/move-in-cleaning-seoul/) for the
+flat you are about to live in, and
+[move-out cleaning](/blog/move-out-cleaning-korea/) for the one you are
+handing back — the second being the one that touches your deposit.
 
 **입주청소 is the phrase everyone searches first, and for an occupied
 flat it is the wrong one.** It is the largest advertised category in
@@ -65,6 +70,13 @@ This is the gap most English-language advice leaves open. You do not have
 to choose between "tidy it yourself" and "call the extreme-cleaning
 people" — an ordinary deep clean of an occupied home is a normal,
 bookable, moderately priced service here.
+
+Two more jobs sit outside that table entirely, because they are priced
+**per item** rather than per flat:
+[air conditioner cleaning](/blog/aircon-cleaning-korea/) and
+[sofa and mattress cleaning](/blog/sofa-mattress-cleaning-korea/). Both
+are done at your flat, both are ordinary bookable services, and neither
+is in a whole-flat quote unless you ask for it.
 
 ### What no cleaner will do
 
@@ -154,6 +166,26 @@ bathroom silicone is a separate case again: it usually has to be **cut
 out and replaced**, not cleaned, and a quote that promises to scrub it
 white is a quote to distrust.
 
+It is worth seeing where that line actually falls.
+
+![A bathroom at handover with yellowed grout, discoloured sealant and an old framed mirror](./bathroom-before-refit.webp)
+
+*Yellowed grout and a failed seal. No clean returns this to white · ⓒ @BalliBalliSeoul*
+
+![The same bathroom with a new mirror cabinet, new basin and new toilet installed](./bathroom-after-refit.webp)
+
+*The same bathroom — **refitted, not cleaned** · ⓒ @BalliBalliSeoul*
+
+Those are the same bathroom a few days apart, and the difference between
+them is **new fittings and new sealant**. No cleaning crew produced that
+second photograph, and it is a mistake to look at an after-shot like it
+and think a clean is what you are buying.
+
+Look at what did *not* change. **The floor tile and its grout are the
+originals in both frames** — still marked, still discoloured. That is
+the honest picture: the parts that were replaced look new, and the parts
+that were only cleaned look cleaned.
+
 **Behind and under things.** The gap behind the washing machine, the
 floor under the wardrobe, the top of the kitchen cabinets. These are
 reachable exactly once — while the room is empty — which is the honest
@@ -176,16 +208,14 @@ than they need a clearance crew. Empty-flat cleaning is priced per
 
 | Job | Guide range |
 | --- | --- |
-| Move-in / move-out clean, studio or one-room (~10 pyeong) | Around ₩250,000 |
-| — two-bedroom (~20 pyeong) | Around ₩500,000 |
-| — 30 pyeong and up | From ₩700,000 |
+| Empty-flat clean (입주 / 이사청소) | Roughly **₩23,000–25,000 per pyeong** — about ₩250,000 for a one-room |
 | Partial (부분청소), one room | From around ₩50,000 |
 | Partial, kitchen or bathroom | From around ₩80,000 |
 
-Those work out to roughly **₩23,000–25,000 per pyeong**, which is the
-number worth carrying in your head. When a quote arrives, divide it by
-your floor area. A figure near that line is an ordinary job; a figure far
-above it is a heavier one, and you should be able to hear why.
+When a quote arrives, divide it by your floor area. A figure near that
+line is an ordinary job; a figure far above it is a heavier one, and you
+should be able to hear why. The size-by-size breakdown lives in
+[move-in cleaning](/blog/move-in-cleaning-seoul/).
 
 **A quote far below the line is also worth a question**, not just
 gratitude. Korean cleaning firms warn about the same thing themselves: a

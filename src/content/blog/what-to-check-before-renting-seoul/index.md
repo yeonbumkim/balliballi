@@ -2,7 +2,7 @@
 title: "Renting in Seoul: What the Deposit Really Tells You"
 description: "A ₩1–2M deposit usually means you're not looking at a one-room at all. How to read a Seoul listing, and the ten-minute inspection that saves you a year."
 pubDate: 2026-08-13T16:31:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-09-07T16:50:00+09:00
 service: moving
 category: home
 tags: ["renting", "housing", "deposit", "one-room", "moving-in"]
@@ -163,6 +163,14 @@ building has form.
 screen, and does anything about the frame look like it sweats in
 winter? Condensation marks around window frames are the early
 version of the mould above.
+
+**Separate the dirt from the damage while you are still standing
+there.** Grease, limescale and stains are somebody's cleaning bill.
+Failed sealant, flaking window frames, lifting wallpaper and rust are
+repairs, and they belong to the landlord — but only if you raise them
+before you move in.
+[Move-in cleaning](/blog/move-in-cleaning-seoul/) covers where that line
+falls and what the clean itself costs.
 
 ### Before you sign
 

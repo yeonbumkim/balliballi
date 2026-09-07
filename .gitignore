@@ -36,3 +36,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# 글감 원본 (gulgam_writing 에서 복사 — 배포 대상 아님)
+tmp_writing/
