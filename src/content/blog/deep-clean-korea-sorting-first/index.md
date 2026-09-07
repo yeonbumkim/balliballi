@@ -2,7 +2,7 @@
 title: "Deep Cleaning in Korea: Sorting Comes Before Cleaning"
 description: "Korea sells six different cleanings — 입주, 이사, 거주, 부분, 특수, 정리수납. Which one your flat needs, what each costs, and why the quotes disagree."
 pubDate: 2026-09-06T08:28:00+09:00
-updatedDate: 2026-09-07T16:50:00+09:00
+updatedDate: 2026-09-07T17:20:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "deep-clean", "one-room", "moving-out", "rubbish"]
@@ -209,7 +209,7 @@ than they need a clearance crew. Empty-flat cleaning is priced per
 | Job | Guide range |
 | --- | --- |
 | Empty-flat clean (입주 / 이사청소) | Roughly **₩23,000–25,000 per pyeong** — about ₩250,000 for a one-room |
-| Partial (부분청소), one room | From around ₩50,000 |
+| Partial (부분청소), one room | From around ₩70,000 |
 | Partial, kitchen or bathroom | From around ₩80,000 |
 
 When a quote arrives, divide it by your floor area. A figure near that
