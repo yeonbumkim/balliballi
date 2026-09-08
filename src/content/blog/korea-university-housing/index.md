@@ -2,7 +2,7 @@
 title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
-updatedDate: 2026-08-31T11:53:00+09:00
+updatedDate: 2026-09-08T17:40:00+09:00
 service: moving
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
@@ -99,7 +99,10 @@ a sink, cabinets above and below, and a drying rack over the counter.
 
 **Wi-Fi is included.** That sounds minor until you remember a new arrival cannot
 easily sign up for Korean internet without an alien registration card and a Korean
-bank account — the two things you will not have in your first fortnight.
+bank account — the two things you will not have in your first fortnight. It also
+saves you from the three-year contract most people are steered into on arrival;
+[how internet works here](/blog/internet-installation-korea/) explains why that
+contract is the wrong shape for a one-year stay.
 
 Laundry is a **washer-dryer in one unit**, not a washing machine and a drying rack.
 Most Korean homes have no dryer at all, which in a wet July or a freezing January is

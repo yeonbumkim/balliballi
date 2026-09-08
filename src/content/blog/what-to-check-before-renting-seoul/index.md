@@ -2,7 +2,7 @@
 title: "Renting in Seoul: What the Deposit Really Tells You"
 description: "A ₩1–2M deposit usually means you're not looking at a one-room at all. How to read a Seoul listing, and the ten-minute inspection that saves you a year."
 pubDate: 2026-08-13T16:31:00+09:00
-updatedDate: 2026-09-07T16:50:00+09:00
+updatedDate: 2026-09-08T17:40:00+09:00
 service: moving
 category: home
 tags: ["renting", "housing", "deposit", "one-room", "moving-in"]
@@ -68,6 +68,11 @@ cleaning of common areas?** A ₩50,000 fee that covers nothing and a
 ₩120,000 fee that covers water, internet and heating are very
 different propositions, and the cheaper-looking one often costs
 more.
+
+The internet answer is worth pressing on, because in Korea the building
+is very often already a subscriber and people end up paying twice —
+[internet in Korea](/blog/internet-installation-korea/) covers what to
+ask before you sign anything.
 
 ## Use an agent, and know why
 
