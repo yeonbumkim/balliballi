@@ -4,6 +4,7 @@ description: "Checked out at eleven with a flight at nine. The free staffed desk
 pubDate: 2026-08-28T11:21:00+09:00
 updatedDate: 2026-08-28T15:17:00+09:00
 service: etc
+category: transport
 tags: ["luggage", "yeouido", "travel", "ifc-mall", "the-hyundai-seoul", "fireworks-festival", "cherry-blossom"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Luggage storage in Yeouido"

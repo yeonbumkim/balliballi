@@ -3,6 +3,7 @@ title: "Moving Company in Seoul: What a Fair Quote Looks Like"
 description: "Korea's three moving tiers — yongdal, semi-pack, full-pack — what each really includes, what gets billed on top, and what to check before you sign."
 pubDate: 2026-08-25T16:56:00+09:00
 service: moving
+category: home
 tags: ["moving", "seoul", "prices", "housing"]
 cover: "./cover.webp"
 coverAlt: "Two movers easing a boxed LG refrigerator off a truck onto a Seoul pavement"

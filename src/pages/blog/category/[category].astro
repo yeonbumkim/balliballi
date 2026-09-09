@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import PostGrid from '../../../components/PostGrid.astro';
+import CategoryNav from '../../../components/CategoryNav.astro';
+import { CATEGORY_LABELS } from '../../../consts';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const slugs = [...new Set(posts.map((p) => p.data.category).filter(Boolean))] as (keyof typeof CATEGORY_LABELS)[];
+
+  return slugs.map((slug) => ({
+    params: { category: slug },
+    props: {
+      slug,
+      posts: posts
+        .filter((p) => p.data.category === slug)
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { slug, posts } = Astro.props;
+const label = CATEGORY_LABELS[slug];
+
+// 카테고리마다 다른 한 줄. 없으면 라벨만으로는 페이지가 밋밋하고 설명도 중복된다.
+const BLURB: Record<string, string> = {
+  home: 'Renting, repairs, cleaning and the things that break in a Korean flat.',
+  transport: 'Getting around Seoul and the country — cards, apps, fares and luggage.',
+  'settling-in': 'The paperwork, apps and systems nobody explains in your first month.',
+  food: 'Ordering, reading a menu, and what is actually in the dish.',
+  health: 'Which clinic, what it costs, and where to go out of hours.',
+  'things-to-do': 'Afternoons and weekends that are worth the trip across town.',
+  culture: 'Why things here work the way they do.',
+};
+const blurb = BLURB[slug] ?? '';
+---
+
+<Base
+  title={`${label} guides for Seoul, in English — Balli Balli Seoul`}
+  description={`${posts.length} ${label.toLowerCase()} guides for living in Seoul, written in English. ${blurb}`}
+>
+  <p class="crumb"><a href="/blog/">← All guides</a></p>
+  <h1>{label}</h1>
+  <p class="lede">{blurb}</p>
+
+  <CategoryNav active={slug} />
+
+  <PostGrid posts={posts} />
+</Base>
+
+<style>
+  .crumb{font-size:14px;margin-bottom:10px}
+  .crumb a{color:var(--muted);font-weight:600}
+  .crumb a:hover{color:var(--primary-dark)}
+  h1{font-size:clamp(28px,5vw,42px);font-weight:800;letter-spacing:-.02em}
+  .lede{color:var(--muted);margin:12px 0 30px;max-width:560px}
+  @media(min-width:768px){ :global(main.page-main){max-width:980px} }
+</style>

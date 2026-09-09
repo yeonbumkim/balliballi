@@ -4,6 +4,7 @@ description: "Most Korean bedroom doors open with a coin or a thin rod through t
 pubDate: 2026-08-25T18:15:00+09:00
 updatedDate: 2026-09-04T21:04:00+09:00
 service: locksmith
+category: home
 tags: ["locksmith", "locked-out", "seoul", "prices"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Bedroom Door Locked in Korea"

@@ -3,6 +3,7 @@ title: "Kakao Map: The App Koreans Check Before They Eat"
 description: "The second map worth installing. Why its restaurant ratings are the ones locals trust, plus roadview into the past and pins sent straight into KakaoTalk."
 pubDate: 2026-08-27T17:24:00+09:00
 service: etc
+category: transport
 tags: ["kakao-map", "navigation", "apps", "restaurants", "korea"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Kakao Map, the app Koreans check before they eat"

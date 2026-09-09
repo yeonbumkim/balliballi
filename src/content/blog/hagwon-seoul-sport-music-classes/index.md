@@ -3,6 +3,7 @@ title: "Hagwon in Seoul: Sport, Music and After-School Classes"
 description: "A hagwon is not a weekly club. How monthly enrolment works, the word that unlocks pay-per-class, and which activities a child with no Korean can start."
 pubDate: 2026-08-26T16:10:00+09:00
 service: etc
+category: things-to-do
 tags: ["kids", "expat-families", "seoul", "international-schools"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Hagwon in Seoul"

@@ -3,6 +3,7 @@ title: "Shipping Within Korea: Which Service, and What It Costs"
 description: "Taekbae, quick service, freight or a fulfilment centre — the five things Koreans mean by delivery, what decides the price, and how to book without Korean."
 pubDate: 2026-08-27T15:47:00+09:00
 service: etc
+category: transport
 tags: ["shipping", "delivery", "logistics", "business", "korea"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Shipping Within Korea"

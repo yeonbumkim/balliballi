@@ -3,6 +3,7 @@ title: "Lease Renewal in Korea: The Step Foreign Tenants Miss"
 description: "You have a legal right to a second two-year term and a 5% cap on the increase. One filing decides whether that protection actually reaches you."
 pubDate: 2026-08-25T17:56:00+09:00
 service: etc
+category: home
 tags: ["housing", "renting", "lease", "tenant-rights", "korea"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Lease Renewal in Korea"

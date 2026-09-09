@@ -510,6 +510,48 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/category/culture/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/category/food/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/category/health/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/category/home/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/category/settling-in/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/category/things-to-do/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://balliballi.com/blog/category/transport/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/about/</loc>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>

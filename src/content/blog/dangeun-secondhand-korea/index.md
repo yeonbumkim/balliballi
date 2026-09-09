@@ -3,6 +3,7 @@ title: "당근 (Dangeun): Buying and Selling Secondhand in Korea"
 description: "Korea's biggest secondhand app runs on a neighbourhood check and a Korean phone number. How to get in, what sells before you leave, and where the line is."
 pubDate: 2026-08-27T16:13:00+09:00
 service: etc
+category: settling-in
 tags: ["secondhand", "dangeun", "moving", "budget", "korea"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Dangeun, buying and selling secondhand in Korea"

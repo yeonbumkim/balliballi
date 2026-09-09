@@ -4,6 +4,7 @@ description: "Google Maps still cannot route you on foot in Korea — that is ch
 pubDate: 2026-08-27T16:27:00+09:00
 updatedDate: 2026-08-27T17:24:00+09:00
 service: etc
+category: transport
 tags: ["naver-map", "navigation", "apps", "transport", "korea"]
 cover: "./cover.webp"
 coverAlt: "Typographic cover reading Naver Map, the app you install before you land"
