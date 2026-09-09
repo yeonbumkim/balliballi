@@ -2,6 +2,7 @@
 title: "Kimchi in Korea: The One Line to Read on the Menu"
 description: "Korean restaurants must tell you where the cabbage came from. Find that line, learn two words, and you'll know whether you're eating the real thing."
 pubDate: 2026-08-24T10:55:00+09:00
+updatedDate: 2026-09-09T14:00:00+09:00
 service: etc
 category: food
 tags: ["kimchi", "food", "origin-label", "eating-out", "korean-food"]
@@ -158,6 +159,13 @@ that make kimchi in-house often advertise it on the window or the menu —
 is the phrase. Kimchi-forward restaurants — a 김치찌개 specialist, a
 kimchi-jjim place, an old 백반 house — are the ones most likely to care,
 because kimchi is the product rather than the freebie.
+
+**If you are vegetarian, there is a second label problem.** Kimchi is
+normally fermented with 젓갈 — salted shrimp or anchovy — so origin is
+not the only thing worth asking about. Kimchi without it exists, but it
+is not what arrives free with a meal;
+[eating vegetarian here](/blog/vegetarian-seoul-broth/) covers what to
+ask.
 
 **At the supermarket.** Packaged kimchi carries its origin on the back
 label, in the same 원산지 box. The large domestic brands sit in the chilled

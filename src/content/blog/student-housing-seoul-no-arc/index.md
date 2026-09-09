@@ -2,7 +2,7 @@
 title: "Student Housing in Seoul: Renting Without an ARC or Phone"
 description: "Arriving for the semester and every Korean housing site rejects you? Here's how students actually rent from abroad — platforms, deposits, and the play."
 pubDate: 2026-08-08T00:00:00+09:00
-updatedDate: 2026-08-31T11:53:00+09:00
+updatedDate: 2026-09-09T14:00:00+09:00
 service: moving
 category: home
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
@@ -183,6 +183,11 @@ our [moving help](/moving) covers that leg too.
 > rooms fits, we'll show it to you; either way we'll tell you
 > which door fits your budget and help with the Korean side.
 > Asking costs nothing — you pay only for the work you book.
+
+If you are not a student — or you need a short lease rather than a
+semester — the same walls apply with different answers. The apps,
+agents and coliving people actually used are in
+**[finding housing in Korea](/blog/finding-housing-korea-foreigner/)**.
 
 The one-line version: **no ARC means platforms-with-a-premium or
 land-short-then-sign-local; your deposit ceiling picks the door;

@@ -2,7 +2,7 @@
 title: "Do You Tip in Korea? No — and the Kiosk Won't Ask"
 description: "Korea has no tipping culture: no tip line on kiosks, no jar on the counter, tax and service already in the price. What to do instead when service is great."
 pubDate: 2026-08-07T17:25:00+09:00
-updatedDate: 2026-08-10T15:39:00+09:00
+updatedDate: 2026-09-09T14:00:00+09:00
 service: etc
 category: culture
 tags: ["tipping", "kiosk", "etiquette", "restaurants", "tourist"]
@@ -29,6 +29,12 @@ hotels, not delivery, not hair salons.** The price on the menu is
 the price you pay — Korean prices are quoted with VAT and any
 service charge already inside them, so what you see is what's
 charged.
+
+The salon is where that surprises people most, because a Korean
+haircut comes with a consultation, a wash and a blow-dry and still
+no tip at the end. What it does come with instead is
+[a sales conversation](/blog/haircut-in-korea-prices-salons/) — the
+treatments, the membership, the prepaid block.
 
 This isn't a "technically optional but everyone does it" situation
 like tipping in some countries. It's genuinely not the custom, and

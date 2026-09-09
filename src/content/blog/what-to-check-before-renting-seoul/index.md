@@ -2,7 +2,7 @@
 title: "Renting in Seoul: What the Deposit Really Tells You"
 description: "A ₩1–2M deposit usually means you're not looking at a one-room at all. How to read a Seoul listing, and the ten-minute inspection that saves you a year."
 pubDate: 2026-08-13T16:31:00+09:00
-updatedDate: 2026-09-08T17:40:00+09:00
+updatedDate: 2026-09-09T14:00:00+09:00
 service: moving
 category: home
 tags: ["renting", "housing", "deposit", "one-room", "moving-in"]
@@ -189,6 +189,12 @@ Existing damage that you didn't record is, by default, damage you
 caused.
 
 ## Once you've signed
+
+Before any of that, though, there is the question of which door you
+went through at all — an agent, a short-stay app, coliving, a share
+house — and each one trades a different thing away.
+**[Every route, and who it suits](/blog/finding-housing-korea-foreigner/)**
+sets those side by side.
 
 The checks above protect you before money changes hands. The other
 half of protecting a deposit happens on the day you get the keys:

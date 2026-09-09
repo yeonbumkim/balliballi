@@ -2,7 +2,7 @@
 title: "How Korean Restaurants Work: Drawers, Bells, Free Banchan"
 description: "Nothing on the table, no server coming over, side dishes you didn't order — Korean restaurants run on rules nobody explains. Here are the five that matter."
 pubDate: 2026-08-17T20:02:00+09:00
-updatedDate: 2026-08-24T11:00:00+09:00
+updatedDate: 2026-09-09T14:00:00+09:00
 service: etc
 category: food
 tags: ["restaurants", "etiquette", "banchan", "cafes", "first-week"]
@@ -58,6 +58,12 @@ Two things arrive that you didn't order: **water** and **banchan
 pickles, whatever the kitchen does. Both are **free, included, and
 refillable at no charge.** You do not get billed for a second plate
 of kimchi.
+
+One caveat if you do not eat meat: **those free side dishes are
+usually not vegetarian.** Kimchi is normally made with salted shrimp
+or anchovy, and most soups start from anchovy stock — the question
+that actually works is
+[what the broth is made from](/blog/vegetarian-seoul-broth/).
 
 Refills work one of two ways: press the bell and ask, or help
 yourself at the **self-service station** if the restaurant has one

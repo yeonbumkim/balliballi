@@ -2,7 +2,7 @@
 title: "3 Things About Korea That Surprise Every Newcomer"
 description: "Spotless streets with no trash cans, restaurants open past midnight with hour-long waits, and pharmacies-in-disguise on every corner. Korea, explained."
 pubDate: 2026-08-08T19:13:00+09:00
-updatedDate: 2026-08-17T20:10:00+09:00
+updatedDate: 2026-09-09T14:00:00+09:00
 service: etc
 category: culture
 tags: ["culture-shock", "first-week", "convenience-store", "streets", "cafes"]
@@ -151,3 +151,9 @@ Korea's small surprises share one theme: the system works, it's just
 never explained out loud. The trash goes home in your pocket, the wait
 is part of dinner, and the corner store is the city's safety net.
 Learn those three and your first month gets a lot smoother.
+
+One more that catches visitors pleasantly: **the royal palaces let you
+in free if you are wearing hanbok**, which is why the courtyards are
+full of it. There is an official rule about what counts, and
+[hanbok rental](/blog/hanbok-rental-seoul-guide/) covers it along with
+what the good shops charge.
