@@ -372,6 +372,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/pest-control-korea-cockroaches-bed-bugs/</loc>
+    <lastmod>2026-09-10T16:50:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/photograph-your-flat-move-in-day/</loc>
     <lastmod>2026-09-08T17:40:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -493,7 +499,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/water-leak-korean-apartment/</loc>
-    <lastmod>2026-08-14T15:10:00+09:00</lastmod>
+    <lastmod>2026-09-10T16:50:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -535,7 +541,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/home/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>

@@ -2,7 +2,7 @@
 title: "Water Leaks in a Korean Apartment: Who Pays, and What to Do"
 description: "Whose problem is it when water comes through the ceiling — the insurance nobody checks, why monsoon stalls repairs, and what to do first."
 pubDate: 2026-08-13T12:44:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-09-10T16:50:00+09:00
 service: plumbing
 category: home
 tags: ["leak", "plumbing", "apartment", "insurance", "neighbours"]
@@ -272,6 +272,10 @@ problems that produce similar-looking water:
   [and it has its own tell](/blog/mould-behind-baseboard-korea/)
 - **Water pooling around a drain** is a blockage, not a leak, and
   often [a job you can finish yourself](/blog/unclog-bathroom-sink-korea/)
+- **A dry drain you never use** is the opposite problem — the water
+  seal has evaporated and the pipe is now an open route in for
+  everything that lives in it,
+  [which is a pest call, not a plumbing one](/blog/pest-control-korea-cockroaches-bed-bugs/)
 - **A tap or shower head that will not stop dripping** is a washer,
   [not a plumber's callout](/blog/fix-leaky-faucet-korea/)
 - **Hot water that comes and goes** is the boiler, not the pipework —
