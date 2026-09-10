@@ -2,6 +2,7 @@
 title: "Buying an iPhone in Korea: Unlocked, Taxed, and Taken Home"
 description: "Korean iPhones are unlocked and work abroad. The shutter sound, the tax refund you lose by ordering online, and why 0% instalments are not for you."
 pubDate: 2026-09-10T11:30:00+09:00
+updatedDate: 2026-09-10T12:10:00+09:00
 service: etc
 tags: ["iphone", "unlocked-phone", "shopping", "electronics", "apple-store"]
 category: settling-in
@@ -102,6 +103,10 @@ are a resident, and you do not get it** — which is the answer to a
 question we are asked constantly.
 
 ## If you are buying the Duo, read this first
+
+![Two iPhone Duo handsets, one white and one dark navy, each shown folded from the back and opened flat](./iphone-duo-apple.webp)
+
+*iPhone Duo in Star White and Night Sky · Image: [Apple Newsroom](https://www.apple.com/kr/newsroom/2026/09/apple-unveils-iphone-duo/)*
 
 ![An iPhone Air on display beside its Korean spec card, listing screen size, camera, chip and battery life](./iphone-air-spec-card.webp)
 
