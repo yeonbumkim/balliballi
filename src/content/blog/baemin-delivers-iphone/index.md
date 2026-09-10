@@ -2,6 +2,7 @@
 title: "How to Get an iPhone Same Day in Korea: Order It Delivered"
 description: "Korea's biggest food delivery app also brings sealed electronics to your door. A real order — an iPhone 15 Pro in under two hours, with the receipt."
 pubDate: 2026-08-20
+updatedDate: 2026-09-10T11:30:00+09:00
 service: etc
 category: settling-in
 tags: ["baemin", "delivery", "iphone", "shopping", "settling-in"]
@@ -150,3 +151,9 @@ what the warranty card says, what happens if it arrives damaged.
 That is the part we do. Tell us what you are trying to buy and
 [we will find whether it is deliverable near you](/etc), read the shop's
 terms, and put the right thing in the rider box in Korean.
+
+And if you have not decided **where** to buy it yet — Apple Store, a
+Korean retailer, or online — the trade-offs are different for a foreigner
+than for a local, particularly around the tax refund and the 24-month
+instalments. That is in
+[buying an iPhone in Korea](/blog/buy-unlocked-iphone-korea/).
