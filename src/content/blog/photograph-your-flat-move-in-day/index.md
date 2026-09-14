@@ -2,7 +2,7 @@
 title: "Photograph Your Flat on Move-In Day — Meters First"
 description: "Your deposit is the largest sum you'll hand over in Korea. Twenty minutes with a camera on day one is what protects it — starting with the gas meter."
 pubDate: 2026-08-14T12:10:00+09:00
-updatedDate: 2026-09-08T17:40:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: moving
 category: home
 tags: ["deposit", "moving-in", "renting", "meters", "housing"]
@@ -165,7 +165,9 @@ repair — that is
 [move-in cleaning](/blog/move-in-cleaning-seoul/). On the way out, the
 same flat gets cleaned again, and this time it is your deposit paying
 attention — that is
-[move-out cleaning](/blog/move-out-cleaning-korea/).
+[move-out cleaning](/blog/move-out-cleaning-korea/). Either way, the
+crew's last twenty minutes are yours:
+[walk the clean before you pay for it](/blog/deep-clean-service-seoul/).
 
 The other thing that lands in that same week is
 [getting the internet on](/blog/internet-installation-korea/) — worth

@@ -2,7 +2,7 @@
 title: "Check Behind the Baseboard Before You Sign a Korean Lease"
 description: "A Seoul flat can look spotless and still grow mould along every wall. Where it hides, why Korean interiors conceal it, and what to check at a viewing."
 pubDate: 2026-08-13T15:34:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["mould", "damp", "housing", "renting", "health"]
@@ -164,7 +164,9 @@ Steps 3 and 4 are where we come in: our
 **[cleaning service](/cleaning)** handles the treatment, and for
 anything structural we get the right trade in and translate the
 diagnosis — because "the wall is wet and nobody will tell me why in
-English" is exactly the problem this company was built around.
+English" is exactly the problem this company was built around. If the treatment is
+part of a bigger clean, [the check before you pay](/blog/deep-clean-service-seoul/) is where you
+confirm it was treated and not just wiped.
 
 If keeping on top of it is the issue rather than fixing it once,
 [weekly cleaning help is easier to arrange here than most people

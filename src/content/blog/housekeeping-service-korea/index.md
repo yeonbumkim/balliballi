@@ -2,7 +2,7 @@
 title: "Weekly Housekeeper in Korea: What It Costs and What They Do"
 description: "What a regular cleaner in Korea costs per visit, the apps locals book through, what the job leaves out — and when you need a deep clean instead."
 pubDate: 2026-08-05T15:00:00+09:00
-updatedDate: 2026-09-14T14:30:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "housekeeping", "home", "family", "deep-clean"]
@@ -181,7 +181,8 @@ is scheduled, not triggered.**
 
 Booked ahead, a deep clean is a planned cost. Booked in a panic — the
 week of the handover, the day the landlord is coming — it is the same
-work at a worse price, in whatever slot is left.
+work at a worse price, in whatever slot is left. When the date comes,
+[here is what the crew does, and what to check before you pay](/blog/deep-clean-service-seoul/).
 
 ## Where we fit
 

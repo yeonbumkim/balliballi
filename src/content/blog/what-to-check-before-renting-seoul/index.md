@@ -2,7 +2,7 @@
 title: "Renting in Seoul: What the Deposit Really Tells You"
 description: "A ₩1–2M deposit usually means you're not looking at a one-room at all. How to read a Seoul listing, and the ten-minute inspection that saves you a year."
 pubDate: 2026-08-13T16:31:00+09:00
-updatedDate: 2026-09-09T14:00:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: moving
 category: home
 tags: ["renting", "housing", "deposit", "one-room", "moving-in"]
@@ -200,7 +200,9 @@ The checks above protect you before money changes hands. The other
 half of protecting a deposit happens on the day you get the keys:
 **[photograph the flat before you unpack](/blog/photograph-your-flat-move-in-day/)**,
 starting with the meter readings, because utility bills are
-calculated from a number that does not reset for a new tenant.
+calculated from a number that does not reset for a new tenant. And if
+the flat is being cleaned before you move in,
+[check that clean before you pay for it](/blog/deep-clean-service-seoul/).
 
 If you are arriving for a semester and do not have an ARC or a
 Korean phone number yet, the doors that are actually open to you

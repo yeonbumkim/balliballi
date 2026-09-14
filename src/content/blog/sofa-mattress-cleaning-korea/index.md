@@ -2,6 +2,7 @@
 title: "Sofa and Mattress Cleaning in Korea: Is It Worth It?"
 description: "Furnished flats in Korea come with a mattress someone else used. What a professional clean costs, what it can and cannot fix, and when to replace instead."
 pubDate: 2026-09-07T15:24:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "mattress", "sofa", "one-room", "furnished"]
@@ -92,8 +93,12 @@ whether it is worth booking.
 - **Structural failure** — a collapsed edge, a broken frame, springs you
   can feel — is not a cleaning problem.
 - **Bed bugs are a separate trade.** If you have bites in a line or dark
-  specks along the seams, that is pest control, not upholstery cleaning,
+  specks along the seams, that is [pest control](/blog/pest-control-korea-cockroaches-bed-bugs/), not upholstery cleaning,
   and it needs saying up front rather than discovering on the day.
+
+If the whole flat is being deep-cleaned around the same time, ask whether
+the same company does upholstery — many do, and one visit means one
+[check at the end](/blog/deep-clean-service-seoul/) instead of two.
 
 ## When to replace instead
 

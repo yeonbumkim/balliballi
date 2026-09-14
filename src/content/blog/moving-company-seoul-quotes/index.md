@@ -2,7 +2,7 @@
 title: "Moving Company in Seoul: What a Fair Quote Looks Like"
 description: "Korea's three moving tiers — yongdal, semi-pack, full-pack — what each really includes, what gets billed on top, and what to check before you sign."
 pubDate: 2026-08-25T16:56:00+09:00
-updatedDate: 2026-09-14T12:10:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: moving
 category: home
 tags: ["moving", "seoul", "prices", "housing"]
@@ -265,6 +265,9 @@ messages, itemised in terms you have not met before.
 The tiers are the thing to take away. Before comparing any two numbers,
 work out which of the three services each one is quoting, what sits
 outside the price, and whether anyone has actually been to look.
+
+Most moves also need a clean in the empty window between the two trucks —
+[what that day involves, and what to check](/blog/deep-clean-service-seoul/).
 
 If the Korean part is the obstacle, that is what we do: we
 [arrange the move](/moving) in English, read the quotes back to you in

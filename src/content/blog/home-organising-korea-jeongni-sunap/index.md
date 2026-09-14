@@ -2,6 +2,7 @@
 title: "Home Organising in Korea: It Feels Like Moving House"
 description: "정리수납 professionals sort and store — but they cannot throw anything out, so you have to be there. What the day is like, what it costs, and one warning."
 pubDate: 2026-09-06T08:28:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["organising", "jeongni-sunap", "storage", "home", "decluttering"]
@@ -213,6 +214,10 @@ If you have a lot of things and no working order to them, it is worth
 doing once. Go in expecting a hard day of decisions, a few days of
 reaching into the wrong drawer, and a house that works properly for a
 couple of years.
+
+One thing organising is not: cleaning. If the flat needs a proper clean
+too, that is a different crew on a different day —
+[here is what that day looks like](/blog/deep-clean-service-seoul/).
 
 ## The Korean part
 

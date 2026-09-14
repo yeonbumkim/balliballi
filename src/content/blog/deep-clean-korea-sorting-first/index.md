@@ -2,7 +2,7 @@
 title: "Deep Cleaning in Korea: Sorting Comes Before Cleaning"
 description: "Korea sells six different cleanings — 입주, 이사, 거주, 부분, 특수, 정리수납. Which one your flat needs, what each costs, and why the quotes disagree."
 pubDate: 2026-09-06T08:28:00+09:00
-updatedDate: 2026-09-07T17:20:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "deep-clean", "one-room", "moving-out", "rubbish"]
@@ -291,3 +291,6 @@ the job accurately to firms that do this work, get you comparable numbers
 in English, and sort out the access and the disposal timing. The
 [cleaning page](/cleaning) has our guide ranges, and the first answer
 costs nothing.
+
+Once a date is booked, the part worth preparing for is the end of it —
+[what the crew does on the day, and the check to do before you pay](/blog/deep-clean-service-seoul/).

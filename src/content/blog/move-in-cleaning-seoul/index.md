@@ -2,6 +2,7 @@
 title: "Move-In Cleaning in Seoul: What Ipjucheongso Really Costs"
 description: "Korea deep-cleans a flat before you move in, and the tenant usually pays. What 입주청소 covers, what a 25-pyeong job cost, and when to book it."
 pubDate: 2026-09-07T15:17:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["move-in", "cleaning", "ipjucheongso", "lease", "deposit"]
@@ -224,6 +225,8 @@ Korean. That is the actual barrier, and it shows up in four places:
 4. **Anything found on the day.** A leak under the sink or mould behind
    an appliance is a landlord conversation, and it goes better with a
    photo and a same-day message than with a complaint in month two.
+   The walk-through to do before the crew leaves is in
+   [the day and the final check](/blog/deep-clean-service-seoul/).
 
 > **Stuck on the Korean part?** Send us your floor area and a couple of
 > photos on [WhatsApp](https://wa.me/821075191282) — we'll get you a

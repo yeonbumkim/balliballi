@@ -2,6 +2,7 @@
 title: "Yongdal in Korea: Will Your Things Fit on a 1-Ton Truck?"
 description: "Yongdal is the cheapest way to move in Korea — a truck and a driver. What fits on a 1-ton bed, what you do yourself, and when it stops working."
 pubDate: 2026-09-14T12:10:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: moving
 category: home
 tags: ["moving", "yongdal", "seoul", "housing", "prices"]
@@ -140,6 +141,11 @@ process is in
 [how to throw away rubbish in Korea](/blog/how-to-throw-away-trash-in-korea/).
 Doing this a week early also shrinks the load, which is the cheapest way
 to stay on one truck.
+
+**Book the clean for the empty window.** If the flat you are moving into
+needs one, it has to happen after the old tenant leaves and before your
+truck arrives — [what the crew needs from you](/blog/deep-clean-service-seoul/) is worth sorting
+the same week as the truck.
 
 **Photograph both flats.** The empty one you are leaving, and the new one
 before anything goes into it. This is the same twenty minutes that

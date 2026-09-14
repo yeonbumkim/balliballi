@@ -2,7 +2,7 @@
 title: "Aircon Cleaning in Korea: Do It When Summer Ends"
 description: "Switch a Korean aircon off wet in September and it stays wet until May. Why the end of summer is the right time to clean it, and what the job actually is."
 pubDate: 2026-09-07T15:17:00+09:00
-updatedDate: 2026-09-14T14:30:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["aircon", "cleaning", "mould", "summer", "landlord"]
@@ -123,6 +123,10 @@ this are quotes that get revised on the day.
 
 Tell whoever you are asking which type you have, how many units, and
 send a photo. It is the single thing that makes a quote hold.
+
+If the unit is being done as part of a move, say so separately: a
+[whole-flat deep clean](/blog/deep-clean-service-seoul/) almost never includes the inside of the
+aircon unless you ask for it.
 
 ## What it costs
 

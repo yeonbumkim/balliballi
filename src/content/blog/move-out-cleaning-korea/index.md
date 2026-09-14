@@ -2,6 +2,7 @@
 title: "Move-Out Cleaning in Korea: Protecting Your Deposit"
 description: "What Korean landlords actually deduct for, what a move-out clean costs, and the order to do it in — disposal first, clean second, photographs last."
 pubDate: 2026-09-07T15:20:00+09:00
+updatedDate: 2026-09-14T16:30:00+09:00
 service: cleaning
 category: home
 tags: ["move-out", "deposit", "cleaning", "renting", "landlord"]
@@ -92,7 +93,10 @@ corridor. The whole system is in
 
 **2. Move out.** Furniture first, then the clean.
 
-**3. Then the clean**, into an empty flat.
+**3. Then the clean**, into an empty flat — and walk it with the team
+leader before they leave. Ten minutes of
+[checking the clean before you pay](/blog/deep-clean-service-seoul/) is the difference between
+the crew fixing a missed track and the landlord finding it.
 
 **4. Photograph it, empty and clean, before you hand the keys back.**
 Walk the same route you walked on the first day and take the same shots
