@@ -147,24 +147,13 @@ every week for a year and they will be exactly where they started,
 because they need equipment and time that a three-hour visit does not
 have.
 
-![The inside of an empty fridge with shelves cleared, showing a dried pale spill across the top shelf and crusted residue under the vegetable drawers](./fridge-interior-spills-shelves.webp)
-
-*Emptied is not the same as cleaned · ⓒ @BalliBalliSeoul*
-
-That fridge has been emptied. Nobody has cleaned it. **Inside the
-fridge is not in the standard scope** of a regular visit and rarely
-gets done unless you ask specifically — which is fine, until the day
-you move out and it is on the handover list.
-
-![A chrome bath mixer tap on white tiles, the shower hose connector ringed with hardened brown limescale and corrosion](./bath-mixer-limescale-shower-fitting.webp)
-
-*The tiles are clean. The fitting is not · ⓒ @BalliBalliSeoul*
-
-Look at the tiles around that tap — they are fine. Someone has been
-cleaning this bathroom. **The brown ring on the hose connector is
-limescale and corrosion**, it has been building for years, and a cloth
-will never touch it. It comes off with descaler and time, or it does
-not come off.
+The clearest examples are the ones in our
+[deep cleaning guide](/blog/deep-clean-korea-sorting-first/): a fridge
+that has been emptied but never cleaned, with spills dried hard under
+the crisper drawers, and a bath tap ringed with years of limescale on a
+wall of otherwise spotless tiles. **Inside the fridge is not in the
+standard scope** of a regular visit, and scale comes off with descaler
+and time — a cloth never touches it.
 
 The same is true of four other things people expect their weekly
 cleaner to solve:
