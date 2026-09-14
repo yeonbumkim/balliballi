@@ -2,6 +2,7 @@
 title: "Moving Company in Seoul: What a Fair Quote Looks Like"
 description: "Korea's three moving tiers — yongdal, semi-pack, full-pack — what each really includes, what gets billed on top, and what to check before you sign."
 pubDate: 2026-08-25T16:56:00+09:00
+updatedDate: 2026-09-14T12:10:00+09:00
 service: moving
 category: home
 tags: ["moving", "seoul", "prices", "housing"]
@@ -34,6 +35,10 @@ buying is a vehicle and a driver. Many drivers will help you carry
 things and plenty are generous about it — but treat that as goodwill
 rather than something you have paid for. Some yongdal bookings really are
 vehicle-only. Ask which one yours is before the day, not on it.
+Whether your things actually fit on one bed is the question that decides
+the whole move —
+[the 1-ton truck has fixed dimensions](/blog/yongdal-1-ton-truck-korea/),
+and they matter more than the tonne in the name.
 
 **반포장 is the middle option, and the wording misleads people.** "Semi-
 packing" sounds like they pack half of it. They do not. **You** buy the
