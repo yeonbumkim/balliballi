@@ -1,11 +1,11 @@
 ---
-title: "Finding a Weekly Housekeeper in Korea (Yes, They Exist)"
-description: "Regular home cleaning in Korea is an app-tap away — the platforms locals use, real prices per visit, and how expats find English-speaking cleaners."
+title: "Weekly Housekeeper in Korea: What It Costs and What They Do"
+description: "What a regular cleaner in Korea costs per visit, the apps locals book through, what the job leaves out — and when you need a deep clean instead."
 pubDate: 2026-08-05T15:00:00+09:00
-updatedDate: 2026-08-14T15:10:00+09:00
+updatedDate: 2026-09-14T14:30:00+09:00
 service: cleaning
 category: home
-tags: ["cleaning", "housekeeping", "home", "family"]
+tags: ["cleaning", "housekeeping", "home", "family", "deep-clean"]
 cover: "./organized-closet-pants-hangers-after.webp"
 coverAlt: "A Korean closet after a housekeeping visit — pants and jeans neatly folded over sliding hangers"
 coverCaption: "The closet, after one visit"
@@ -13,71 +13,91 @@ draft: false
 ---
 
 Ask around about hiring a weekly cleaner in Korea and you may get
-puzzled looks — which convinces many expats it isn't a thing here.
-It's absolutely a thing. Korea has a mature, app-driven home
-cleaning market, plus an informal expat-facing one, and busy
-working parents use both without ceremony. If you're drowning in
-teaching-plus-toddler life, here's the map — because searching in
-English only surfaces the move-out deep-clean companies, and that's
-not what you need.
+puzzled looks, which convinces a lot of people it isn't done here. It
+is. Korea has a mature, app-driven home cleaning market and an informal
+English-speaking one beside it, and households use both without
+ceremony.
 
-## The app tier: Korea's cleaning platforms
+The part that actually trips people up is different. **Korea sells two
+cleaning products that English calls by the same word**, they cost five
+times apart, and ordering the wrong one is the most common mistake we
+see.
 
-The domestic market runs on housekeeping apps — the big names
-locals recommend are **Cleaning Lab (청소연구소)** and **Miso
-(미소)** — matching vetted cleaners to homes for one-off or
-recurring visits:
+## Two different products
 
-- **Pricing** runs by home size and hours: a standard **4-hour
-  visit for an ordinary apartment runs around ₩60,000** (as of
-  2026), with recurring weekly bookings priced slightly better and
-  small-space options for one-rooms. A **move-in/move-out deep
-  clean is a different product at roughly double that rate** —
-  different crews, different equipment, one-off timing.
-- **Same-cleaner continuity** is a supported feature — you can
-  keep the person you like for recurring slots, and platforms
-  notify you of substitutions.
-- **Scope**: standard visits cover floors, bathrooms, kitchen
-  surfaces and tidying; laundry-folding and extras are
-  request-and-agree territory. It's house *keeping*, not the
-  industrial move-in deep clean — different product, different
-  crews.
-- The apps are **Korean-language** with Korean sign-up and
-  payment — the usual wall, and the main reason expats who'd
+| | 가사도우미 / 정기 청소 | 입주청소 / 청소 (deep clean) |
+| --- | --- | --- |
+| What it is | One person, your home as it is | A crew with machines, the home empty or close to it |
+| Cadence | Weekly, fortnightly, monthly | Once — at a move, or once or twice a year |
+| Equipment | Usually **your** cleaner and vacuum | Theirs: steam, extractors, chemicals |
+| Covers | Floors, bathrooms, kitchen surfaces, tidying | Inside every cabinet, hood, silicone, window frames, skirting |
+| Typical price | **From ₩70,000 for about 3 hours** | **₩250,000 for a studio, ₩500,000 for a 2-bed, ₩700,000+ for 30평** |
+
+**Neither one replaces the other**, which is the whole point of the
+table. A weekly cleaner keeps a clean home clean. They will not get the
+grease film off the inside of the range hood, and they were never asked
+to. That is a different trade, described in
+[deep cleaning in Korea](/blog/deep-clean-korea-sorting-first/).
+
+Most households need the first one regularly and the second one rarely.
+Knowing which you are asking for is most of the battle.
+
+## The app tier: how Koreans book it
+
+The domestic market runs on housekeeping apps — the names locals give
+you are **청소연구소 (Cleaning Lab)** and **미소 (Miso)** — matching
+vetted cleaners to homes for one-off or recurring visits.
+
+- **Priced by home size and hours.** A standard visit for an ordinary
+  flat runs in the region of ₩60,000–70,000 for three to four hours as
+  of 2026, with recurring bookings priced a little better and smaller
+  options for one-rooms.
+- **Same-cleaner continuity is a supported feature.** You can keep the
+  person you like for a recurring slot, and the app tells you about
+  substitutions.
+- **The apps are Korean-language**, with Korean sign-up and Korean
+  payment. That is the wall, and it is the main reason people who would
   happily pay never start.
 
-An open secret of the market: after months with the same platform
-cleaner, many households quietly transition to a **direct
-arrangement** — same person, similar money, no platform in the
-middle. It's common enough to be a cultural norm, with the obvious
-trade-off that the platform's insurance and substitution system
-goes away.
+An open secret of the market: after some months with the same platform
+cleaner, many households quietly move to a **direct arrangement** —
+same person, similar money, no platform in the middle. It is common
+enough to count as a norm. The trade-off is real, though: the
+platform's insurance and its substitute-cleaner system both go away,
+and if that person is ill in February, February is your problem.
 
-## The expat tier: English-speaking help
+## The English-speaking tier
 
-Parallel to the apps, an informal English-speaking market thrives
-in the international community — cleaners and nanny-housekeepers
-who work the expat circuit, found through community groups and
-word of mouth. Rates run a bit above app pricing, communication
-runs in English, and arrangements are personal: the same person,
-weekly, for years, often flexing between cleaning and
-childcare-adjacent help. For families, this tier's flexibility
-(fold the laundry, receive the delivery, overlap with the
-school run) is the selling point the apps can't match.
+Parallel to the apps there is an informal market of cleaners and
+nanny-housekeepers who work the international community, found through
+community groups and word of mouth. Rates run a bit above app pricing,
+the communication runs in English, and the arrangements are personal —
+the same person, weekly, for years, often flexing between cleaning and
+household help.
+
+For families that flexibility is the selling point the apps cannot
+match. The cost is that there is no company behind it: no vetting you
+did not do yourself, no cover, no replacement.
 
 ## Making the first visit go well
 
-A few norms that smooth the start: **supplies are usually yours**
-— Korean housekeepers work with the household's own cleaner,
-cloths and vacuum (platforms specify; direct hires assume it), so
-stock the basics before day one (a ₩20,000 Daiso run covers it).
-**Declutter before they come** — cleaning and organizing your
-belongings are different jobs, and a floor full of stuff turns
-paid cleaning hours into paid picking-up hours. And **write your
-priorities**, even in translated Korean: "bathroom mold and
-kitchen grease first, skip the bedroom" gets you a better three
-hours than leaving it open-ended. Recurring arrangements develop
-their own rhythm by week three; the notes matter most at the
+**Supplies are usually yours.** Korean housekeepers work with the
+household's own cleaner, cloths and vacuum. Platforms spell this out;
+direct hires assume it. Stock the basics before day one — a ₩20,000
+Daiso run covers it. (If you would rather not, the cleaner can bring
+their own for a small fee, but say so when you book.)
+
+**Declutter before they arrive.** Cleaning and organising your
+belongings are different jobs, and a floor covered in things turns paid
+cleaning hours into paid picking-up hours. If the flat has gone past
+that point, what you want is not a cleaner at all — it is
+[정리수납, the Korean organising trade](/blog/home-organising-korea-jeongni-sunap/),
+which is a different booking and a different day.
+
+**Write your priorities down**, even in translated Korean. *"Bathroom
+mould and kitchen grease first, skip the bedroom"* buys you a better
+three hours than leaving it open-ended. Recurring arrangements find
+their own rhythm by about week three; the notes matter most at the
 start.
 
 ![A Korean wardrobe after a housekeeping visit — duvets, blankets and winter jackets folded and stacked in order](./organized-wardrobe-bedding-after.webp)
@@ -95,51 +115,114 @@ scrubbed down to the strainer baskets, not just rinsed:
 
 *And after · ⓒ @BalliBalliSeoul*
 
-## The practical details nobody writes down
+## Getting them in the door
 
-- **Keys and codes**: Korean door locks make recurring access
-  easy — most households issue a **temporary or secondary door
-  code** for cleaning day rather than cutting keys, and rotate it
-  whenever the arrangement changes.
-- **Being home or not**: both are normal. First visits usually
-  overlap; established routines run while you're at work.
-- **The 아줌마/이모님 culture**: older Korean housekeepers are the
-  backbone of this industry and often its best practitioners —
-  expect brisk competence, occasional unsolicited life advice,
-  and standards higher than yours.
-- **Trust logistics**: platforms carry vetting and damage
-  policies; direct and informal hires run on references — ask
-  for them, and start with a paid trial visit either way.
+This is the practical question everyone asks late and should ask early.
+
+**Korean door locks make recurring access easy.** Most households issue
+a **temporary or secondary door code** for cleaning day rather than
+cutting a key, and change it whenever the arrangement changes. Almost
+every keypad lock sold here supports more than one code — if you have
+never opened yours, the panel and its quirks are covered in
+[what your door lock is trying to tell you](/blog/door-lock-beeping-korea/).
+Leaving a key with the building office works too.
+
+**Being home or not are both normal.** First visits usually overlap so
+you can walk through what you want; established routines run while you
+are at work.
+
+**Trust runs on different rails in each tier.** Platforms carry vetting
+and a damage policy. Direct and informal hires run on references — ask
+for them, and start with a paid trial visit either way.
+
+**And the 이모님 culture is real.** Older Korean housekeepers are the
+backbone of this industry and often its best practitioners. Expect
+brisk competence, occasional unsolicited life advice, and standards
+higher than your own.
+
+## What a weekly cleaner will not fix
+
+Some things do not respond to frequency. You can clean around them
+every week for a year and they will be exactly where they started,
+because they need equipment and time that a three-hour visit does not
+have.
+
+![The inside of an empty fridge with shelves cleared, showing a dried pale spill across the top shelf and crusted residue under the vegetable drawers](./fridge-interior-spills-shelves.webp)
+
+*Emptied is not the same as cleaned · ⓒ @BalliBalliSeoul*
+
+That fridge has been emptied. Nobody has cleaned it. **Inside the
+fridge is not in the standard scope** of a regular visit and rarely
+gets done unless you ask specifically — which is fine, until the day
+you move out and it is on the handover list.
+
+![A chrome bath mixer tap on white tiles, the shower hose connector ringed with hardened brown limescale and corrosion](./bath-mixer-limescale-shower-fitting.webp)
+
+*The tiles are clean. The fitting is not · ⓒ @BalliBalliSeoul*
+
+Look at the tiles around that tap — they are fine. Someone has been
+cleaning this bathroom. **The brown ring on the hose connector is
+limescale and corrosion**, it has been building for years, and a cloth
+will never touch it. It comes off with descaler and time, or it does
+not come off.
+
+The same is true of four other things people expect their weekly
+cleaner to solve:
+
+| You keep cleaning | What it actually needs |
+| --- | --- |
+| A black line in the bathroom silicone | Removal and re-siliconing — or [it is damp, not dirt](/blog/mould-behind-baseboard-korea/) |
+| A smell every time the aircon starts | [The inside of the unit, dismantled](/blog/aircon-cleaning-korea/) — not a wipe of the filter |
+| A sofa or mattress that never feels fresh | [Extraction cleaning](/blog/sofa-mattress-cleaning-korea/), which is a machine and a drying time |
+| Grease on the hood, cabinet tops, skirting | The deep clean above |
+
+## Book the deep clean on a calendar, not on a crisis
+
+Here is the habit worth copying from Korean households: **the big clean
+is scheduled, not triggered.**
+
+- **Air conditioner — before the season and after it.** Late spring so
+  the first hot week does not smell, and autumn so it does not sit damp
+  all winter.
+- **The whole flat — once a year**, and the sensible slot is whenever
+  you are least in it.
+- **Moving — at both ends.** [The clean before you move in](/blog/move-in-cleaning-seoul/)
+  and [the one that protects your deposit](/blog/move-out-cleaning-korea/)
+  are the two most cost-effective cleans anyone ever books.
+
+Booked ahead, a deep clean is a planned cost. Booked in a panic — the
+week of the handover, the day the landlord is coming — it is the same
+work at a worse price, in whatever slot is left.
 
 ## Where we fit
 
-Regular housekeeping is exactly the kind of thing our
-[cleaning service](/cleaning) arranges: we set up the recurring
-schedule with vetted local cleaners, handle every Korean
-conversation (the booking, the scope notes, the "please also do
-the balcony this week" messages), and stay in the loop as your
-communication channel — so you get the domestic market's prices
-with English-language coordination. One-off deep cleans,
-move-out cleans and the recurring weekly slot all run through
-the same chat.
+Regular housekeeping is the single thing people ask us for most, and
+setting one up is straightforward: we arrange the recurring schedule
+with vetted local cleaners, handle every Korean conversation — the
+booking, the scope notes, the *"please also do the balcony this week"*
+messages — and stay in the chat as your channel. You get domestic
+market prices with the coordination in English. The weekly slot, the
+one-off deep clean and the move-out clean all run through the same
+conversation, and the full price list is on the
+[cleaning page](/cleaning).
 
-Two related jobs a cleaner will not solve for you. If a wall keeps
-going black in the same spot, that is damp rather than dirt —
-[here is how to tell, and whose problem it is](/blog/mould-behind-baseboard-korea/).
-And if the move-out clean is what you are planning for, the deposit
-argument it feeds into starts
-[the day you move in](/blog/photograph-your-flat-move-in-day/).
+**We take no commission from any cleaner or cleaning company we put in
+front of you.** Whichever one you use, we earn the same — which is why
+we can tell you that you do not need a ₩500,000 deep clean when three
+hours a week is the actual answer.
 
 ## Get it sorted
 
-> **Drowning in work and laundry?** Message us on
-> [WhatsApp](https://wa.me/821075191282) with your home size,
-> neighborhood and preferred rhythm — we'll set up a recurring
-> cleaner, brief them in Korean, and relay everything in
-> English. Asking costs nothing — you pay only for the work you book.
+> **Drowning in work and laundry?** Send us your home size,
+> neighbourhood and the rhythm you want.
+> **[KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) is the easiest way
+> to reach us**, and [WhatsApp](https://wa.me/821075191282) works too.
+> We'll set up a recurring cleaner, brief them in Korean, and relay
+> everything back in English. Asking costs nothing — you pay only for
+> the work you book.
 
-The permission slip, since apparently nobody local gives it:
-hiring weekly help is normal here, affordable by international
-standards, and the single highest-leverage purchase a
-two-job-and-kids household makes. The puzzled looks are wrong —
-book the cleaner.
+The permission slip, since nobody local seems to hand one out: hiring
+regular help is ordinary here, cheap by international standards, and
+the highest-leverage few hours a busy household buys. Start with the
+weekly visit. Put the deep clean in the calendar. Do not buy the second
+one when you needed the first.

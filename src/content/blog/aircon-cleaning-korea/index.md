@@ -2,6 +2,7 @@
 title: "Aircon Cleaning in Korea: Do It When Summer Ends"
 description: "Switch a Korean aircon off wet in September and it stays wet until May. Why the end of summer is the right time to clean it, and what the job actually is."
 pubDate: 2026-09-07T15:17:00+09:00
+updatedDate: 2026-09-14T14:30:00+09:00
 service: cleaning
 category: home
 tags: ["aircon", "cleaning", "mould", "summer", "landlord"]
@@ -53,7 +54,10 @@ nothing to check.
 Behind the filter is the heat exchanger — a dense block of aluminium
 fins — and behind that a long barrel fan, and under both a drain tray.
 That is where the smell actually lives, and none of it is reachable
-without taking the machine apart.
+without taking the machine apart. Which is why no amount of ordinary
+cleaning touches it — this sits outside what
+[a regular housekeeper does](/blog/housekeeping-service-korea/), and
+always has.
 
 People try. A can of aircon spray through the vents is sold everywhere
 and mostly moves the problem deeper, because whatever it dissolves
