@@ -2,7 +2,7 @@
 title: "Buying an iPhone in Korea: Unlocked, Taxed, and Taken Home"
 description: "Korean iPhones are unlocked and work abroad. The shutter sound, the tax refund you lose by ordering online, and why 0% instalments are not for you."
 pubDate: 2026-09-10T11:30:00+09:00
-updatedDate: 2026-09-10T12:10:00+09:00
+updatedDate: 2026-09-14T18:50:00+09:00
 service: etc
 tags: ["iphone", "unlocked-phone", "shopping", "electronics", "apple-store"]
 category: settling-in
@@ -152,9 +152,9 @@ not qualify for, and the chance to hold the thing first.
     <strong style="color:var(--fg)">Buy online</strong> — unlocked models, next-morning delivery in Seoul. No VAT refund on online orders.
   </p>
   <div style="display:flex;flex-wrap:wrap;gap:10px">
-    <a href="https://link.coupang.com/a/gVaRvokm6u" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image3.coupangcdn.com/image/affiliate/banner/21e5bc980d7f04804b9b83782f141ff4@2x.jpg" alt="Apple iPhone 17 unlocked, white, 256GB — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
-    <a href="https://link.coupang.com/a/gVaWOEC2zA" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image2.coupangcdn.com/image/affiliate/banner/818b9a6cc83f35d242632b2c6b0ced04@2x.jpg" alt="Apple iPad Pro 11 (M5), Space Black, 256GB Wi-Fi — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
-    <a href="https://link.coupang.com/a/gVaX7IyFfo" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image9.coupangcdn.com/image/affiliate/banner/a0092dca066728721dbbd58685a32bab@2x.jpg" alt="Apple MacBook Pro 14 (M5), Space Black, 16GB 1TB — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
+    <a href="https://link.coupang.com/re/AFPROMO08?lptag=AF9005681" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image3.coupangcdn.com/image/affiliate/banner/21e5bc980d7f04804b9b83782f141ff4@2x.jpg" alt="Apple iPhone 17 unlocked, white, 256GB — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
+    <a href="https://link.coupang.com/re/AFPROMO08?lptag=AF9005681" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image2.coupangcdn.com/image/affiliate/banner/818b9a6cc83f35d242632b2c6b0ced04@2x.jpg" alt="Apple iPad Pro 11 (M5), Space Black, 256GB Wi-Fi — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
+    <a href="https://link.coupang.com/re/AFPROMO08?lptag=AF9005681" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image9.coupangcdn.com/image/affiliate/banner/a0092dca066728721dbbd58685a32bab@2x.jpg" alt="Apple MacBook Pro 14 (M5), Space Black, 16GB 1TB — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
   </div>
   <p style="margin:12px 0 0;font-size:12px;line-height:1.5;color:var(--muted)">
     Affiliate links — we earn a small commission if you buy through them, at no extra cost to you.<br>

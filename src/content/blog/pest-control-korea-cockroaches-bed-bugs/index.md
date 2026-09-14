@@ -2,6 +2,7 @@
 title: "Pest Control in Korea: Cockroaches, Bed Bugs, and Costs"
 description: "Who to call about cockroaches, bed bugs and silverfish in a Korean flat, what your building already pays for, who is liable, and what a visit costs."
 pubDate: 2026-09-10T16:50:00+09:00
+updatedDate: 2026-09-14T18:50:00+09:00
 service: etc
 category: home
 tags: ["pest-control", "cockroaches", "bed-bugs", "renting", "landlord"]
@@ -200,9 +201,9 @@ summer trades one problem for [another one](/blog/mould-behind-baseboard-korea/)
     <strong style="color:var(--fg)">Domestic steam cleaners</strong> — the SC2 on the left is the one in the photo above and the cheapest way in. The SC4 heats faster and holds more water, which matters if you are doing a whole bed frame in one go. The Bissell set is the alternative if you want the floor tools. All three are household machines: handy for bathroom grout and silicone year-round, a supporting tool on bed bugs rather than the treatment.
   </p>
   <div style="display:flex;flex-wrap:wrap;gap:10px">
-    <a href="https://link.coupang.com/a/gVBEbbtTTo" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/13ea46a3bc6533951973f8f4e21f96da@2x.jpg" alt="Kärcher SC2 EasyFix multi-purpose steam cleaner — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
-    <a href="https://link.coupang.com/a/gVBOzTBTd6" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image4.coupangcdn.com/image/affiliate/banner/9a287dd1c804169ebb99fe3307d5635d@2x.jpg" alt="Kärcher SC4 EasyFix high-temperature steam cleaner, white — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
-    <a href="https://link.coupang.com/a/gVBPPetM6u" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://img5c.coupangcdn.com/image/affiliate/banner/48a8155600853eb55e0c230c696182ce@2x.jpg" alt="Bissell steam cleaner Deluxe set with stand, grey-blue — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
+    <a href="https://link.coupang.com/re/AFPROMO08?lptag=AF9005681" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/13ea46a3bc6533951973f8f4e21f96da@2x.jpg" alt="Kärcher SC2 EasyFix multi-purpose steam cleaner — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
+    <a href="https://link.coupang.com/re/AFPROMO08?lptag=AF9005681" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://image4.coupangcdn.com/image/affiliate/banner/9a287dd1c804169ebb99fe3307d5635d@2x.jpg" alt="Kärcher SC4 EasyFix high-temperature steam cleaner, white — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
+    <a href="https://link.coupang.com/re/AFPROMO08?lptag=AF9005681" target="_blank" rel="nofollow sponsored noopener" referrerpolicy="unsafe-url"><img src="https://img5c.coupangcdn.com/image/affiliate/banner/48a8155600853eb55e0c230c696182ce@2x.jpg" alt="Bissell steam cleaner Deluxe set with stand, grey-blue — buy on Coupang" width="104" height="208" loading="lazy" style="display:block;border-radius:6px;width:104px;max-width:104px;height:auto;margin:0"></a>
   </div>
   <p style="margin:12px 0 0;font-size:12px;line-height:1.5;color:var(--muted)">
     Affiliate links — we earn a small commission if you buy through them, at no extra cost to you.<br>
