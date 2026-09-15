@@ -1,13 +1,13 @@
 ---
 title: "TOPIK Explained: Levels, Why It Matters, How to Study"
-description: "Korea's official language test, decoded — the two papers, what each level actually unlocks for visas and university, and how people really study for it."
+description: "Korea's official language test, decoded — paper or computer, the score each level needs, what the levels unlock, and how people really study for it."
 pubDate: 2026-08-19T14:20:00+09:00
-updatedDate: 2026-08-20T18:10:00+09:00
+updatedDate: 2026-09-15T17:00:00+09:00
 service: korean-lessons
 category: settling-in
-cover: "./topik-levels-scores-typographic-cover.webp"
-coverAlt: "A chart of TOPIK pass marks: levels 1 and 2 need 80 and 140 out of 200 on TOPIK I, and levels 3 to 6 need 120, 150, 190 and 230 out of 300 on TOPIK II"
-coverCaption: "TOPIK I is out of 200. TOPIK II is out of 300."
+cover: "./topik-scores-paper-computer-cover.webp"
+coverAlt: "A chart of TOPIK pass marks. On paper, TOPIK I levels 1 and 2 need 80 and 140 out of 200, and TOPIK II levels 3 to 6 need 120, 150, 190 and 230 out of 300. On computer, the same levels need 121 and 236 out of 400, and 191, 291, 361 and 431 out of 600"
+coverCaption: "Same levels, two scales: paper and computer"
 tags: ["topik", "korean-language", "study", "visa", "university"]
 draft: false
 ---
@@ -45,14 +45,17 @@ the one that matters for most official purposes, and it includes
 written composition — which is where unprepared candidates lose
 most of their marks.
 
-The writing paper is **four questions**, and the shape of it
-surprises people: two short answers where you supply the missing
-phrase yourself, then two essays. One essay is an everyday topic.
-The other asks for your opinion on an issue and expects it argued.
-Seventy minutes, no multiple choice, nothing to guess at.
+The writing section is where the two formats differ most. **On
+paper it is four questions**, and the shape of it surprises people:
+two short answers where you supply the missing phrase yourself, then
+two essays — one on an everyday topic, one asking for your opinion
+on an issue and expecting it argued. **On computer it is three
+questions in 50 minutes, typed.** Either way there is no multiple
+choice and nothing to guess at.
 
-The test runs **six times a year in Korea** — three of those
-sittings are Korea-only, three are held overseas as well.
+**TOPIK now comes in two formats** — the traditional paper test and
+a computer-based one — and in 2026 each runs six times in Korea,
+most of those sittings also at test centres abroad.
 
 ## Your score picks the level — here are the numbers
 
@@ -60,21 +63,89 @@ This is the part that is hard to find in one place, and it is worth
 knowing before you book anything, because it tells you what you are
 actually aiming at.
 
-| Paper | Total | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
-| ----- | ----- | ------- | ------- | ------- | ------- | ------- | ------- |
-| **TOPIK I** | 200 | **80** | **140** | — | — | — | — |
-| **TOPIK II** | 300 | — | — | **120** | **150** | **190** | **230** |
+| Test | Total | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ---- | ----- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **TOPIK I — paper** | 200 | **80** | **140** | — | — | — | — |
+| **TOPIK II — paper** | 300 | — | — | **120** | **150** | **190** | **230** |
+| **TOPIK I — computer** | 400 | **121** | **236** | — | — | — | — |
+| **TOPIK II — computer** | 600 | — | — | **191** | **291** | **361** | **431** |
 
-Read it as a floor: score 150 on TOPIK II and you are level 4;
+**The two formats award the same levels on different scales**, so a
+score means nothing until you know which test it came from: 230 is
+level 6 on paper and only level 3 on computer.
+
+Read it as a floor: score 150 on paper TOPIK II and you are level 4;
 score 149 and you are level 3. There is no rounding and no appeal to
 how close you were.
 
-Two things fall out of that table. **The jump from 3 to 4 is 30
-points and the jump from 4 to 5 is 40** — the middle of the scale is
+Two things fall out of that table. **On the paper scale the jump
+from 3 to 4 is 30 points and from 4 to 5 is 40** — the middle is
 where the work is. And **sitting the wrong paper caps you**: TOPIK I
 cannot award you level 3 no matter how well you do, so if level 3 or
 above is what you need, TOPIK II is the paper even if it feels a
 stretch.
+
+## Paper or computer: PBT and IBT
+
+The paper test is called **PBT** and the computer test **IBT**. They
+carry the same official standing and the same levels, and a result
+from either is valid for two years. What differs is the day itself.
+
+| | Paper (PBT) | Computer (IBT) |
+| --- | --- | --- |
+| How you answer | Marking and handwriting, with a double-ended pen the invigilator hands you | A test-centre PC, with a Korean keyboard |
+| Writing (TOPIK II) | Four questions, handwritten inside fixed boxes | Three questions in 50 minutes, typed |
+| Breaks | TOPIK II has a break between its two sittings | None |
+| Fee in Korea (I / II) | ₩40,000 / ₩55,000 | ₩70,000 / ₩95,000 |
+| Results, 2026 example | 18 October sitting → 10 December | 28 November sitting → 18 December |
+
+**On paper you cannot bring your own pen or pencil** — answers must
+be written with the one you are given, and writing outside the
+answer box scores nothing. Correcting an essay means two lines
+through the mistake or correction tape you bring yourself; test
+centres stopped supplying it in 2020.
+
+**On computer, the question is whether you can type Korean quickly.**
+If you have only ever handwritten Korean, fifty minutes on a keyboard
+is a different test of the same knowledge. If you already type
+Korean every day, the faster results and the absence of a pen you
+cannot rub out are real advantages.
+
+## Registering: the parts that catch foreigners out
+
+Registration happens online at **topik.go.kr**, in a window of about
+a week, roughly ten weeks before each sitting. Most of it is
+routine. These are the parts that stop people, taken from the
+official notice for the 2026 computer-based sittings:
+
+- **A Windows computer only.** The site does not accept registration
+  from a Mac or a phone
+- **No foreign cards.** Cards issued abroad and overseas transfers
+  cannot pay the fee — you need a Korean card or a Korean bank
+  account for the virtual-account option
+- **Pay within an hour.** You have one hour after applying to choose
+  a payment method, or the application is cancelled
+- **Your name must match your ID exactly**, English spelling
+  included. A mismatch means you cannot sit the test
+- **The photo has rules**: the immigration ARC photo standard, taken
+  within six months, 413×531 pixels, JPG or PNG, under 500KB
+- **One account, one test centre.** You can sit TOPIK I and TOPIK II
+  at the same centre on the same day
+- **Small centres can be cancelled.** A centre with 15 or fewer
+  applicants may be dropped, with a full refund
+- **Refunds shrink over time**: in full until the last morning of
+  registration, then 50% for a week, then 40% up to the day before
+  the test
+
+Online registration on that site is for sittings in Korea. Abroad,
+you register through the local test organiser. The TOPIK call centre
+in Korea is **02-3668-1331**.
+
+> **As of 15 September 2026:** registration for the 16th
+> computer-based TOPIK, held on **28 November**, is open until
+> **21 September at 16:00 KST**. In Seoul it runs at Korea, Konkuk
+> and Sungshin Women's universities, with Seokyeong University added
+> for TOPIK II.
 
 ## What the levels are actually for
 
@@ -130,6 +201,10 @@ the words the exam uses is what moves the score.
 **Listening rewards volume.** Drama with subtitles is entertainment.
 Drama without subtitles, radio, podcasts — that is training.
 
+**If you sit the computer test, practise typing Korean.** The
+keyboard layout is not the problem after a week; speed under a clock
+is. Do past essays typed, timed, with no autocorrect.
+
 ## Self-study, class, or a teacher?
 
 Honestly, all three work, for different people:
@@ -171,7 +246,8 @@ This is something we arrange, so it is worth stating plainly:
 > for — [we wrote about that
 > separately](/blog/korean-conversation-practice-real-situations/).
 >
-> Message us on [WhatsApp](https://wa.me/821075191282) and we will
+> Message us on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
+> [WhatsApp](https://wa.me/821075191282) and we will
 > come back with options. **Asking costs nothing — you pay only for the work you book.**
 
 What we offer, and what it costs, is on our
@@ -208,7 +284,8 @@ Practise on the coffee order. Get help with the lease.
 ## Get it sorted
 
 The one-line version: **TOPIK I awards levels 1–2, TOPIK II awards
-3–6, your score picks the level rather than you, writing is where
+3–6, your score picks the level rather than you — on a different
+scale for the paper and computer tests — writing is where
 most people lose marks, and past papers under a clock beat any app.
 Check topik.go.kr for the dates and the exact requirement — and if
 you want a teacher, ask us.**
