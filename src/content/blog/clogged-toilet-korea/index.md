@@ -2,6 +2,7 @@
 title: "Clogged Toilet in Korea: What to Do and Who Pays"
 description: "Stop flushing first. What actually blocks a Korean toilet, the ₩3,000 tool that clears most of them, and the question to ask the plumber before he leaves."
 pubDate: 2026-08-31T14:06:00+09:00
+updatedDate: 2026-09-16T16:35:00+09:00
 service: plumbing
 category: home
 tags: ["toilet", "drains", "bathroom", "plumber", "diy"]
@@ -151,6 +152,11 @@ reason you do not get told is almost always that nobody asked.
 A straightforward unblock is usually half an hour. If the first number you hear is
 well above these and nobody has looked at anything yet, that is worth a second
 opinion rather than an argument.
+
+Those are market ranges rather than our prices. What we charge is fixed per step,
+and the story of the ₩900,000 quote that made us set flat prices — including the
+questions to ask before anything is taken apart — is in
+[toilet unclogging cost in Seoul](/blog/toilet-unclogging-cost-seoul/).
 
 ## Who pays, if you rent
 
