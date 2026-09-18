@@ -1,8 +1,8 @@
 ---
 title: "Weekly Housekeeper in Korea: What It Costs and What They Do"
-description: "What a regular cleaner in Korea costs per visit, the apps locals book through, what the job leaves out — and when you need a deep clean instead."
+description: "Residential cleaners in Korea: what a weekly housekeeper costs per visit, the apps locals book through, and when you need a deep clean instead."
 pubDate: 2026-08-05T15:00:00+09:00
-updatedDate: 2026-09-14T16:30:00+09:00
+updatedDate: 2026-09-18T12:20:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "housekeeping", "home", "family", "deep-clean"]
@@ -12,8 +12,10 @@ coverCaption: "The closet, after one visit"
 draft: false
 ---
 
-Ask around about hiring a weekly cleaner in Korea and you may get
-puzzled looks, which convinces a lot of people it isn't done here. It
+Ask around about hiring a weekly cleaner in Korea — a residential
+cleaner, a housekeeper, a cleaning lady, whatever it was called at home
+— and you may get puzzled looks, which convinces a lot of people it
+isn't done here. It
 is. Korea has a mature, app-driven home cleaning market and an informal
 English-speaking one beside it, and households use both without
 ceremony.
@@ -66,7 +68,7 @@ enough to count as a norm. The trade-off is real, though: the
 platform's insurance and its substitute-cleaner system both go away,
 and if that person is ill in February, February is your problem.
 
-## The English-speaking tier
+## English-speaking residential cleaners
 
 Parallel to the apps there is an informal market of cleaners and
 nanny-housekeepers who work the international community, found through
