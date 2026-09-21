@@ -158,7 +158,7 @@ find something else, you get a revised price at your door instead of in
 the chat.
 
 > **Not sure whether yours is worth cleaning?** Send a photo and tell us
-> what the problem is on [WhatsApp](https://wa.me/821075191282) — we'll
+> what the problem is on [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20a%20cleaning%20quote.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Home%20size%20%28pyeong%20or%20m2%29%3A%0A-%20What%20I%20need%20%28move-in%20deep%20clean%20%2F%20housekeeping%20%2F%20mold%20%2F%20Airbnb%29%3A%0A-%20Preferred%20day%20%28e.g.%20Sat%204%20Oct%2C%20or%20weekdays%29%3A%0A-%20Preferred%20time%20%28e.g.%2010am%2C%20or%20morning%29%3A%0A%0A%28Photos%20help%20a%20lot%21%20Please%20book%20at%20least%202%E2%80%933%20days%20ahead%20%E2%80%94%20ideally%20a%20week.%20Same-day%20or%20next-day%20requests%20may%20not%20be%20possible.%29) — we'll
 > ask in Korean, get you a quote per item, and tell you honestly if the
 > answer is "replace it". Asking costs nothing.
 
