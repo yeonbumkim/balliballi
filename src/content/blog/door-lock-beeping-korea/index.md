@@ -182,7 +182,7 @@ panel, or anything that has already left you standing outside once.
 The 관리사무소 in most Korean apartment buildings deals with door
 locks constantly and will often send someone up for nothing, or tell
 you which shop the building uses. Officetels usually have the same
-arrangement at the front desk.
+arrangement at the front desk. The wider map of which trade owns which problem — and what the office covers free — is in [who to call for what in a Korean flat](/blog/english-speaking-handyman-seoul/).
 
 ## Renting? Ask before you pay for it
 

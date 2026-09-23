@@ -40,6 +40,8 @@ Then it doesn't stop:
 
 ## First: who is responsible?
 
+If you are not yet sure this is a plumbing job at all, start with [who to call for what in a Korean flat](/blog/english-speaking-handyman-seoul/) — it sorts symptoms by trade.
+
 This is the question everything hangs on, and Korean practice
 splits it three ways.
 
