@@ -70,6 +70,8 @@ If it's a whole flat's worth — a move-out, a clear-out, or an estate to empty 
 
 ## The fines are real
 
+If it has already built up — bags by the door you were not sure how to put out — that is a different problem from the rules, and it is covered in [trash removal in Seoul](/blog/trash-removal-service-seoul/).
+
 Illegal dumping — general trash in the wrong bag, food waste mixed in,
 furniture quietly left by the curb — is an actual offense, with fines
 commonly starting around ₩100,000 and climbing for repeat cases (as of

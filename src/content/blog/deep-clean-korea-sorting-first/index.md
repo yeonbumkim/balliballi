@@ -107,6 +107,8 @@ moment.
 
 ## The bottleneck is disposal, not cleaning
 
+If the disposal is the whole job — bags that need sorting and putting out, with no cleaning behind them — see [trash removal in Seoul](/blog/trash-removal-service-seoul/).
+
 This is the part that surprises people who have done this elsewhere.
 **In Korea you cannot simply put it all out on the kerb.**
 
