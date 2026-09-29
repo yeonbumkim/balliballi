@@ -36,6 +36,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/after-school-classes-seoul/</loc>
+    <lastmod>2026-09-29T11:03:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/aircon-cleaning-korea/</loc>
     <lastmod>2026-09-14T16:30:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -583,7 +589,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/settling-in/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>

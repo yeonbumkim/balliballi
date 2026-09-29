@@ -286,6 +286,8 @@ and nowhere to wait.
 
 ## Get it sorted
 
+If you would rather not do the searching and the phone calls at all, we research venues and book them for you — with an example of the sheet we send in [after-school and hobby classes in Seoul](/blog/after-school-classes-seoul/).
+
 Tell us the school, the day and time window, your child's age, your budget and what
 they are curious about. We call round in Korean, ask the four questions above, and
 come back in English with what each place actually said — days, monthly or
