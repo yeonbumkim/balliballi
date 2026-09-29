@@ -70,7 +70,7 @@ When a family asked us to find an after-school activity for a ten-year-old —
 Tuesday afternoons, near the school, under ₩100,000 a session — what we sent
 back was eight venues, each one checked individually.
 
-**[Look at the actual sheet](/sample/after-school-classes-seoul.html)** —
+**[Look at the actual sheet](/sample/after-school-classes-seoul)** —
 the same document, with the family's details removed.
 
 What is in it, for every venue:
