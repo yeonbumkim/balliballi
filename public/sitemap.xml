@@ -150,6 +150,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/gangnam-move-in-clean-chuseok/</loc>
+    <lastmod>2026-09-30T15:29:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/getting-glasses-in-korea/</loc>
     <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
@@ -355,7 +361,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/move-in-cleaning-seoul/</loc>
-    <lastmod>2026-09-14T16:30:00+09:00</lastmod>
+    <lastmod>2026-09-30T15:29:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>

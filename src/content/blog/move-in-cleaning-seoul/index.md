@@ -2,7 +2,7 @@
 title: "Move-In Cleaning in Seoul: What Ipjucheongso Really Costs"
 description: "Korea deep-cleans a flat before you move in, and the tenant usually pays. What 입주청소 covers, what a 25-pyeong job cost, and when to book it."
 pubDate: 2026-09-07T15:17:00+09:00
-updatedDate: 2026-09-14T16:30:00+09:00
+updatedDate: 2026-09-30T15:29:00+09:00
 service: cleaning
 category: home
 tags: ["move-in", "cleaning", "ipjucheongso", "lease", "deposit"]
@@ -208,6 +208,8 @@ things have no order rather than that the flat is dirty, that is a
 [different trade with a different price](/blog/home-organising-korea-jeongni-sunap/).
 
 ## The Korean part
+
+One we did ourselves, because it fell the day before Chuseok and nobody was working: [a Gangnam studio, three hours, three passes](/blog/gangnam-move-in-clean-chuseok/).
 
 Almost every cleaning company here works by phone and KakaoTalk, in
 Korean. That is the actual barrier, and it shows up in four places:
