@@ -214,6 +214,8 @@ than they need a clearance crew. Empty-flat cleaning is priced per
 | Partial (부분청소), one room | From around ₩70,000 |
 | Partial, kitchen or bathroom | From around ₩80,000 |
 
+A bathroom on its own is the most common partial job, and what it covers — grout, silicone, limescale, the floor drain — is in [bathroom deep clean in Seoul](/blog/bathroom-deep-clean-seoul/).
+
 When a quote arrives, divide it by your floor area. A figure near that
 line is an ordinary job; a figure far above it is a heavier one, and you
 should be able to hear why. The size-by-size breakdown lives in
