@@ -172,6 +172,8 @@ It's also, quietly, one of the
 
 ## The Korean part
 
+The counter is a small set of repeated sentences, which makes it the easiest Korean to learn first — see [conversation practice built on real situations](/blog/korean-conversation-practice-real-situations/).
+
 The labels are the easy part — your camera translates those. The
 hard part is the counter: **a parcel form that wants a Korean name
 and phone number, a bill-payment kiosk that only speaks Korean, a

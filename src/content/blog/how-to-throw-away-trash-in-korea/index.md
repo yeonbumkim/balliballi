@@ -132,6 +132,8 @@ is another's free pickup. Worth an hour's try.
 
 ## The Korean part
 
+This is Korean worth learning rather than translating forever — forms, counters, and the two or three sentences that end an errand. Our [Korean lessons](/korean-lessons) are built around situations like it.
+
 Every step of this system speaks Korean: the district's declaration website,
 the item-category dropdown menus, the 주민센터 counter, the building's
 recycling-night rules, the RFID card registration for food waste. And the

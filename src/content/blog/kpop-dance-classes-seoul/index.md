@@ -101,6 +101,10 @@ Worth knowing before you walk in, because the format surprises people.
   taught across several sessions, so dropping into week three of a cover
   class means arriving mid-sentence. Ask which week the class is on.
 
+If you want to understand the corrections rather than only copy them, a few
+weeks of [Korean lessons](/korean-lessons) goes further than you would expect — class
+vocabulary is small and repeats every week.
+
 **What to bring:** indoor trainers that have never been outside, water, and
 clothes you can move in. Studios have changing rooms; most have lockers.
 

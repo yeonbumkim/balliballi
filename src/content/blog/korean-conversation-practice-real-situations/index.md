@@ -173,6 +173,8 @@ actually said.
 
 ## Get it sorted
 
+The situation that costs the most money when you cannot do it is the trade call — naming the job, describing the symptom, agreeing the price. That one has its own guide: [who to call for what in a Korean flat](/blog/english-speaking-handyman-seoul/).
+
 The one-line version: **the problem is rehearsal, not vocabulary.
 Pick the twenty situations that make up your week, drill the
 replies rather than the questions, learn the phrases that buy you

@@ -172,6 +172,11 @@ Four places it breaks:
 4. **Agreeing a price before anyone starts.** The single sentence most worth
    having in Korean, and the hardest to say.
 
+We can make the call for you. If you would rather be the one making it next
+time, that is what [Korean lessons](/korean-lessons) are for — "what will this cost in
+total?" is one of the first sentences our tutors drill, because it is the one
+that saves money.
+
 ## Get it sorted
 
 Send us the problem — a photo and a line about what is happening. We will

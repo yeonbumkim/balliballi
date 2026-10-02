@@ -358,6 +358,8 @@ the popular slots go to whoever could read the announcement.
 
 ## Get it sorted
 
+Another way to be in a Korean-speaking room every week, with almost no Korean required to start: [K-pop dance classes](/blog/kpop-dance-classes-seoul/), which run on counts and demonstration.
+
 The one-line version: **learn Hangul this weekend, then pick by
 schedule rather than by app — the city runs free classes, King
 Sejong runs free online material, the universities run the serious
