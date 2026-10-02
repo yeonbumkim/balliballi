@@ -162,6 +162,8 @@ hours, which is exactly the combination that keeps people from starting.
 
 ## Get it sorted
 
+The most-asked one has its own guide: [K-pop dance classes in Seoul](/blog/kpop-dance-classes-seoul/), including the Korean word that finds the studios near you rather than the ones near the tourists.
+
 Tell us three things and we can start: **what you want to learn, roughly
 where you are, and when you are free.** If it is for a child, add their age
 and how much Korean they have.

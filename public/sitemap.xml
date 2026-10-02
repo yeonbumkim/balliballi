@@ -318,6 +318,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/kpop-dance-classes-seoul/</loc>
+    <lastmod>2026-10-02T16:05:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/learn-korean-seoul-free-classes/</loc>
     <lastmod>2026-08-20T18:10:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -607,7 +613,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/things-to-do/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>
