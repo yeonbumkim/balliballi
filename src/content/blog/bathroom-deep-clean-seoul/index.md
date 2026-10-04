@@ -98,6 +98,8 @@ And this is the same room afterwards.
 
 ## What it cannot fix
 
+For the parts that do come off and get washed, across the whole flat rather than one room, see [what actually comes apart in a deep clean](/blog/deep-clean-what-comes-apart/).
+
 Being straight about this saves you from paying twice.
 
 **Silicone that has gone black all the way through does not come back.**

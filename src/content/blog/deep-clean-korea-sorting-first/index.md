@@ -135,6 +135,8 @@ and the fees for getting rid of it legally.
 
 ## What is left is genuine cleaning
 
+And a photographic answer to what that means in practice — hood filters, aircon grilles, drain traps — is in [what actually comes apart in a deep clean](/blog/deep-clean-what-comes-apart/).
+
 Once the volume is gone, what remains is surface work, and it is the part
 a cleaning team is actually built for.
 

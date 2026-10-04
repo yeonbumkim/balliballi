@@ -200,6 +200,8 @@ the unit is also throwing damp into the room, check whether you have a
 
 ## The Korean part
 
+Filters are the part a whole-flat deep clean already covers — [what actually comes apart in a deep clean](/blog/deep-clean-what-comes-apart/) shows where that line sits.
+
 1. **Asking for the right job.** 분해청소 and 간단청소 are different
    words for different work, and getting the wrong one is how people
    end up cleaning twice.

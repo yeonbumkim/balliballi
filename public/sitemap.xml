@@ -114,6 +114,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/deep-clean-what-comes-apart/</loc>
+    <lastmod>2026-10-04T20:13:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/door-lock-beeping-korea/</loc>
     <lastmod>2026-08-31T14:00:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -601,7 +607,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/home/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>
