@@ -252,6 +252,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/kiip-level-test-sample-questions/</loc>
+    <lastmod>2026-10-04T22:13:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/kimchi-origin-label-korea/</loc>
     <lastmod>2026-09-09T14:00:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -619,7 +625,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/settling-in/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>

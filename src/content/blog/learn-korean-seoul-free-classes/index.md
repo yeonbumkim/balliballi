@@ -358,6 +358,8 @@ the popular slots go to whoever could read the announcement.
 
 ## Get it sorted
 
+Many of those students are working towards the Social Integration Programme — what its placement test asks is in [the KIIP level test, with five sample questions](/blog/kiip-level-test-sample-questions/).
+
 Many of these rooms are run by churches and community centres, which are also where an English-language Sunday service is easiest to find: [English mass in Seoul](/blog/english-mass-seoul-catholic/).
 
 Another way to be in a Korean-speaking room every week, with almost no Korean required to start: [K-pop dance classes](/blog/kpop-dance-classes-seoul/), which run on counts and demonstration.

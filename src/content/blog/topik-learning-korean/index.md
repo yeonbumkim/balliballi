@@ -283,6 +283,8 @@ Practise on the coffee order. Get help with the lease.
 
 ## Get it sorted
 
+If the exam in front of you is the Social Integration Programme placement test rather than TOPIK, that one has its own guide: [the KIIP level test, with five sample questions](/blog/kiip-level-test-sample-questions/).
+
 The one-line version: **TOPIK I awards levels 1–2, TOPIK II awards
 3–6, your score picks the level rather than you — on a different
 scale for the paper and computer tests — writing is where
