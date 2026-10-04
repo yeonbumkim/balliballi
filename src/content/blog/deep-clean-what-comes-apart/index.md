@@ -6,8 +6,8 @@ service: cleaning
 category: home
 tags: ["cleaning", "deep-clean", "move-in", "kitchen", "aircon"]
 cover: "./cover.webp"
-coverAlt: "An air conditioner grille removed and laid on the floor beside its dust-clogged filter"
-coverCaption: "The filter behind the grille, which nobody sees"
+coverAlt: "An air purifier grille removed and laid on the floor beside its dust-clogged filter"
+coverCaption: "The filter behind the grille, which nobody takes off"
 draft: false
 ---
 
@@ -38,23 +38,26 @@ in a sink is a different operation from wiping a hob.
 **The sink strainer assembly** unscrews into three parts, and the part that
 smells is the one underneath.
 
-![A cleaned kitchen with the hood filters back in place, the counter and sink finished](./kitchen-wide-hood-filters-counter-after.webp)
+![A cleaned kitchen: the washed hood filters standing on the counter, the sink, the hood front and the whole kitchen](./kitchen-wide-hood-filters-and-counter-after.webp)
 
-*The same kitchen with everything refitted · ⓒ @BalliBalliSeoul*
+*The same kitchen afterwards — the filters washed and standing on the worktop, waiting to go back in · ⓒ @BalliBalliSeoul*
 
-![A stainless sink after cleaning, the strainer parts separated beside it, and the hob reassembled](./sink-after-strainer-parts-hob-after.webp)
+![A stainless sink after cleaning, the strainer basket, drain cover and cutlery tray laid out beside it, and the hob reassembled](./sink-after-strainer-parts-and-hob-after.webp)
 
-*Parts washed separately, then put back · ⓒ @BalliBalliSeoul*
+*Strainer basket, drain cover, cutlery tray — washed separately, then put back · ⓒ @BalliBalliSeoul*
 
-## The air conditioner: the grille is a lid
+## Every grille in the flat is a lid
 
-![An air conditioner front grille removed and laid on the floor beside a filter grey with dust](./aircon-grille-filter-dirty-and-diffuser.webp)
+![An air purifier front grille removed and laid on the floor beside its dust-grey filter, and a ceiling light cover taken down](./air-purifier-grille-filter-and-light-cover.webp)
 
-*The filter on the right spent a summer in the unit on the left · ⓒ @BalliBalliSeoul*
+*An air purifier's filter, and a ceiling light cover off its fitting · ⓒ @BalliBalliSeoul*
 
-The front panel of a wall unit unclips, and behind it are filters that slide
-straight out. **This is the five-minute job that most tenants never do**, and
-the grey mat in that photograph is what you have been breathing.
+The front panel of an air conditioner unclips and the filters slide out
+behind it. So does the grille on an air purifier. **So do the ceiling light
+covers**, which collect a decade of dust on the inside where nobody looks.
+
+None of it is difficult. All of it is invisible until somebody takes it off,
+which is why it goes unwashed for years.
 
 Two things worth separating, because they are priced differently:
 
@@ -65,9 +68,9 @@ Two things worth separating, because they are priced differently:
 
 ## The bathroom: the drain is three pieces
 
-![A shower screen, glass shelf, mixer tap and the floor drain taken apart into its separate pieces](./shower-screen-shelf-mixer-drain-parts.webp)
+![A shower screen and glass shelf clouded with limescale, a mixer tap, and the floor drain lifted out in pieces on the tiles](./shower-screen-shelf-mixer-and-drain-parts.webp)
 
-*The floor drain, in the pieces it is made of · ⓒ @BalliBalliSeoul*
+*Before: scale on the glass, and the floor drain in the pieces it is made of · ⓒ @BalliBalliSeoul*
 
 A Korean floor drain is a stack: the grating, a cup trap that holds the water
 seal, and a rubber collar below it. **The smell lives in the middle piece**,
@@ -77,7 +80,7 @@ make a lasting difference.
 The bidet seat comes off its bracket too, which is the only way to clean
 under it.
 
-![Bathroom floor tiles with hair and grime before cleaning, beside the finished shower stall](./bathroom-floor-before-and-shower-stall-after.webp)
+![Bathroom floor tiles with hair and grime before cleaning, beside the finished shower stall](./bathroom-floor-hair-before-and-shower-after.webp)
 
 *Before, and the same room finished · ⓒ @BalliBalliSeoul*
 
@@ -98,9 +101,9 @@ reach the runners and the vents.
 
 ## Windows: the tracks and the screens
 
-![A window track thick with grime before cleaning, beside finished windows](./window-tracks-before-and-windows-after.webp)
+![Close views of a window track with its drain cable, and the finished windows and screens](./window-tracks-with-cable-and-windows-after.webp)
 
-*The track is where the dirt collects, and where nobody looks · ⓒ @BalliBalliSeoul*
+*The track and its little drain channel, then the windows afterwards · ⓒ @BalliBalliSeoul*
 
 Window tracks and insect screens are the two things that make a flat look
 cleaned or not cleaned, and both are usually skipped. The screens lift out of
@@ -108,9 +111,9 @@ the frame and get washed flat.
 
 ## Under the sink, behind the appliances
 
-![Grime and cabling under a kitchen sink before cleaning, beside finished cabinet shelves](./under-sink-grime-before-and-cabinets-after.webp)
+![The cabinet floor under a kitchen sink with gas and water lines running through it, beside finished cupboard shelves](./under-sink-grime-and-cabinet-shelves-after.webp)
 
-*Under the sink before, and the cupboards after · ⓒ @BalliBalliSeoul*
+*Under the sink, where the pipes and the junction box live — and the cupboards after · ⓒ @BalliBalliSeoul*
 
 The cupboard under the sink is where a previous tenant's leaks, spills and
 pest problems all end up, and it is reachable exactly once: when the flat is
