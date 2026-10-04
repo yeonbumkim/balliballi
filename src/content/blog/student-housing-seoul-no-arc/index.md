@@ -116,6 +116,8 @@ and we [open doors in English](/locksmith) when it can't wait.
 
 ## The deposit reality check
 
+The two cheapest doors, side by side and in detail: [goshiwon versus a share house](/blog/goshiwon-vs-share-house-seoul/).
+
 This is the number that decides which door is yours. Standard
 Korean one-room contracts run **₩5,000,000–10,000,000 deposits**
 (fully refundable at move-out, and often tradeable — bigger

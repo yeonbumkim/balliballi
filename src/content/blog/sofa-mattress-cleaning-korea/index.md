@@ -313,6 +313,8 @@ that instead of quoting you for the disposal.
 
 ## Between cleans
 
+Where upholstery sits among the six Korean cleaning categories is in [deep cleaning in Korea](/blog/deep-clean-korea-sorting-first/).
+
 The habits that actually matter are dull and free.
 
 **Air the room.** Windows open daily, even in the wet season, even

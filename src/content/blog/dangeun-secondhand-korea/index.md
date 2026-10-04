@@ -149,6 +149,8 @@ neighbourhood, and start buying long before the banking is sorted.
 
 ## Selling before you leave
 
+If the buyer is not local, the item has to be posted — which courier to use and what it costs is in [shipping within Korea](/blog/shipping-within-korea/).
+
 This is the half people leave too late.
 
 **Start three to four weeks out, not three days.** Things sell at the price you set

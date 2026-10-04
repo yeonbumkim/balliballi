@@ -142,6 +142,8 @@ undersell it than have you arrive expecting a roof garden.
 
 ## What it costs
 
+If the dormitory is full or you were never eligible, the private alternatives are compared in [goshiwon versus a share house](/blog/goshiwon-vs-share-house-seoul/).
+
 | | |
 | --- | --- |
 | Deposit (보증금) | **₩1,500,000** — paid once, returned when you leave |

@@ -68,6 +68,8 @@ two o'clock, but they need to know in advance.
 
 ## What is included, and what you have to ask for
 
+What that looks like in practice — the hood filters out, the drain in pieces — is photographed in [what actually comes apart](/blog/deep-clean-what-comes-apart/).
+
 A standard quote usually covers the whole flat: cabinets inside and
 out, window frames and screens, the bathroom including limescale and
 silicone, the kitchen including the range hood, light fittings,

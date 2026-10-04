@@ -127,6 +127,8 @@ time zone that is asleep when the depot is open.
 
 ## Get it sorted
 
+If what you need is somewhere to leave a suitcase for the day rather than send it, see [luggage storage in Yeouido](/blog/luggage-storage-yeouido/).
+
 That gap is what we do. Tell us what you are sending, roughly how big it is, where it
 is going and when it needs to arrive — and we will tell you in English which of the
 five services above fits, what it should cost, and what the carrier will ask for.

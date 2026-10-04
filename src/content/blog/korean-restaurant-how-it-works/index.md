@@ -120,6 +120,8 @@ because the reflex is hard to unlearn.
 
 ## The Korean part
 
+One room where none of the above applies is a fish market, where you choose the fish and the rules are their own: [Noryangjin and the fish markets](/blog/sashimi-fish-market-seoul/).
+
 Menus without pictures, servers who don't speak English, the
 question of what's in the stew, allergies you can't explain, and
 restaurants that only take Korean-language phone reservations —

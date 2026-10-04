@@ -108,6 +108,8 @@ kind of lottery you don't want when you need something by tomorrow.
 
 ## Where it breaks for foreigners
 
+The same wall catches people trying to send a bouquet: [sending flowers in Korea](/blog/send-flowers-in-korea/) is mostly a story about checkout.
+
 If the sign-up section above felt discouraging, know that it's not you.
 *"I don't think I've ever dealt with a process this complicated in my
 life,"* opens

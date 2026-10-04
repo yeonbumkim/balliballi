@@ -190,6 +190,8 @@ caused.
 
 ## Once you've signed
 
+And two years later, the renewal has its own rules — what the law gives a tenant is in [lease renewal in Korea](/blog/lease-renewal-korea-foreign-tenants/).
+
 Before any of that, though, there is the question of which door you
 went through at all — an agent, a short-stay app, coliving, a share
 house — and each one trades a different thing away.

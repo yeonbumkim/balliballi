@@ -147,6 +147,8 @@ monsoon, and you will be breathing it the whole time.
 
 ## What actually fixes it
 
+When the fix is new wallpaper or flooring rather than cleaning, the question of who pays is in [wallpaper and flooring in a Korean rental](/blog/wallpaper-flooring-korean-landlord/).
+
 In rough order of seriousness:
 
 1. **Ventilate and de-humidify.** Cheapest, and genuinely effective

@@ -127,7 +127,7 @@ items wait for pickup, so a quick word with the building office (관리사무소
 saves an argument.
 
 Before you pay to throw furniture away, though: if it still works, Koreans
-sell or give it away on secondhand apps first — one person's disposal fee
+sell or give it away on secondhand apps first — [당근 is how that works](/blog/dangeun-secondhand-korea/), and one person's disposal fee
 is another's free pickup. Worth an hour's try.
 
 ## The Korean part

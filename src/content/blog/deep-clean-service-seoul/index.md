@@ -97,6 +97,8 @@ matters.
 
 ## The final check: do it before you pay
 
+For one room rather than the whole flat, the bathroom version of this is in [bathroom deep clean in Seoul](/blog/bathroom-deep-clean-seoul/).
+
 In Korea this has a name — **검수** (geomsu), the inspection. Reputable
 companies expect it: the team leader walks the flat with you, and
 anything you find is fixed while the crew and their equipment are still

@@ -156,6 +156,8 @@ what it was built to do.
 
 ## Lifting the limit
 
+One everyday thing the limited account is enough for: [buying and selling on 당근](/blog/dangeun-secondhand-korea/), where most deals are cash in hand anyway.
+
 You lift it by giving the bank a reason to believe you are a normal
 customer with normal reasons to move money. Typically that means
 bringing **evidence of income or of settled life**, such as:

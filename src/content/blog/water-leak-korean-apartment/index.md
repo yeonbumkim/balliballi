@@ -246,6 +246,8 @@ sequence we've watched play out, twice.
 
 ## What to do in the first hour
 
+If the water is rising in a toilet rather than coming through a ceiling, that is a different emergency: [clogged toilet in Korea](/blog/clogged-toilet-korea/).
+
 If water is coming in right now:
 
 - **Photograph and film it**, with something showing the date. Your
