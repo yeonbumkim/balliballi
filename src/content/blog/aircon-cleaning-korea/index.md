@@ -219,6 +219,8 @@ Filters are the part a whole-flat deep clean already covers — [what actually c
 
 ## Get it sorted
 
+Filters, though, are a five-minute job you can do monthly: [the twenty minutes you can do yourself](/blog/clean-filters-drains-yourself-korea/).
+
 Rinse the filter, run fan mode after cooling, and if the smell is
 already there, book a full strip rather than a wipe. Those three moves
 cover almost every version of this.

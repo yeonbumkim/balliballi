@@ -156,6 +156,8 @@ different job from one that has not been touched since the last tenant.
 
 ## Keeping it that way
 
+The floor drain trap comes apart in your hands, and it is the one that stops the smell — [the twenty minutes you can do yourself](/blog/clean-filters-drains-yourself-korea/).
+
 The habits that matter in a wet room are small and dull.
 
 **Run the fan after, not during.** Twenty to thirty minutes after a shower

@@ -130,6 +130,8 @@ than after you move in, which is the timing problem described in
 
 ## What this means for the quote you get
 
+And between deep cleans, four of those parts are yours to pull out and wash in a sink — [the twenty minutes you can do yourself](/blog/clean-filters-drains-yourself-korea/).
+
 Three practical consequences, if you are deciding what to book.
 
 1. **Ask what comes off.** "Do you remove the hood filters, the aircon
