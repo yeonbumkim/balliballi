@@ -58,6 +58,10 @@ class and a hundred thousand won.
 
 That is the entire argument for preparing. Not pride — arithmetic.
 
+The full table — hours and fees for every level, how the score maps to
+placement, and which goals actually require finishing level 5 — is in
+[KIIP levels, hours and fees](/blog/kiip-levels-hours-fees/).
+
 Fees and levels do get revised, so confirm the current numbers on
 [kiiptest.org](https://www.kiiptest.org/) before you budget around them.
 
@@ -246,4 +250,4 @@ Tell us your level and when you are sitting the test, and we will set up
 practice sessions around it. The [Korean lessons page](/korean-lessons) has
 the prices.
 
-More questions, and the rest of the format, are coming in this series.
+More questions, and the rest of the format, are coming in this series. Next: [what each level costs in hours and money](/blog/kiip-levels-hours-fees/).

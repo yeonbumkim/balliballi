@@ -258,6 +258,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/kiip-levels-hours-fees/</loc>
+    <lastmod>2026-10-05T21:30:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/kimchi-origin-label-korea/</loc>
     <lastmod>2026-09-09T14:00:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -540,12 +546,6 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://balliballi.com/blog/topik-scholarships-korean-universities/</loc>
-    <lastmod>2026-09-16T10:00:00+09:00</lastmod>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://balliballi.com/blog/trash-removal-service-seoul/</loc>
     <lastmod>2026-09-28T09:17:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -625,7 +625,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/settling-in/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>
