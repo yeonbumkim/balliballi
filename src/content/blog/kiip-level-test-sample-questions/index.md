@@ -1,6 +1,7 @@
 ---
 title: "KIIP Level Test: 5 Sample Questions, With Answers"
 description: "What the KIIP pre-evaluation actually asks, five practice questions with the answers explained, and why the level you are placed in is worth money."
+updatedDate: 2026-10-06T14:45:00+09:00
 pubDate: 2026-10-04T22:13:00+09:00
 service: korean-lessons
 category: settling-in
@@ -251,3 +252,5 @@ practice sessions around it. The [Korean lessons page](/korean-lessons) has
 the prices.
 
 More questions, and the rest of the format, are coming in this series. Next: [what each level costs in hours and money](/blog/kiip-levels-hours-fees/).
+
+**Starting from no Korean at all?** Sitting this test well is worth more than it looks — every level it skips is 100 hours you never attend. [The route that saves a year](/blog/kiip-beginner-roadmap/) is the arithmetic of that.

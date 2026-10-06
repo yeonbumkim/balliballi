@@ -1,6 +1,7 @@
 ---
 title: "KIIP in Korea: Levels, Hours, Fees, and Who Needs Level 5"
 description: "What the Social Integration Programme costs in money and in semesters, how the placement score maps to levels, and which goals actually require finishing."
+updatedDate: 2026-10-06T14:45:00+09:00
 pubDate: 2026-10-05T21:30:00+09:00
 service: korean-lessons
 category: settling-in
@@ -96,9 +97,12 @@ What the written half looks like, with five practice questions, is in
 Two routes around it.
 
 **Skip it and start at zero.** The pre-evaluation is optional for new
-participants. Not sitting it means starting at level 0 — which is a perfectly
+participants. Not sitting it means starting at level 0, which is a perfectly
 reasonable choice if your Korean is genuinely beginner and you would rather
-not pay ₩38,000 to be told so.
+not pay ₩38,000 to be told so. People who have finished tend to argue the
+other way — [learn the language first and enter
+higher](/blog/kiip-beginner-roadmap/), because every level you skip is 100
+hours you never sit through.
 
 **Use a TOPIK grade instead.** A TOPIK result can place you without the
 pre-evaluation: grade 1 to level 2, grade 2 to level 3, grade 3 to level 4,
