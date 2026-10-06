@@ -1,7 +1,7 @@
 ---
 title: "KIIP Level Test: 5 Sample Questions, With Answers"
 description: "What the KIIP pre-evaluation actually asks, five practice questions with the answers explained, and why the level you are placed in is worth money."
-updatedDate: 2026-10-06T14:45:00+09:00
+updatedDate: 2026-10-06T18:40:00+09:00
 pubDate: 2026-10-04T22:13:00+09:00
 service: korean-lessons
 category: settling-in
@@ -235,7 +235,10 @@ Five questions in a short interview, about you and your life here: where you
 live, what you do, what you did at the weekend. Nobody is grading your accent.
 
 **The culture part rewards living here with your eyes open.** Emergency
-numbers, rubbish, public offices, basic manners.
+numbers, rubbish, public offices, basic manners. It is the cheapest part of
+the paper to improve, because it does not need better Korean — eight more
+questions from that section, with answers, are in
+[the KIIP culture test](/blog/kiip-culture-test-questions/).
 
 If you are taking the test and also sitting TOPIK, the two overlap more than
 people expect — what TOPIK is and how the levels work is in
