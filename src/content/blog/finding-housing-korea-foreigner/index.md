@@ -2,6 +2,7 @@
 title: "Finding Housing in Korea: Every Route, and Who It Suits"
 description: "Short lease, low deposit, address registration — pick two. The apps, agents, coliving and share houses foreigners use, and what each one costs."
 pubDate: 2026-09-09T09:00:00+09:00
+updatedDate: 2026-10-06T10:00:00+09:00
 service: etc
 category: home
 tags: ["housing", "renting", "short-term", "arc", "deposit"]
@@ -163,8 +164,11 @@ the comparison against goshiwons is in
 2. **Decide your deposit ceiling.** Under a million, you are on apps and
    in coliving. Ten million opens the ordinary rental market.
 3. **Search the Korean platforms** — Zigbang (직방), Dabang (다방),
-   Peter Pan's Good Room (피터팬의 좋은 방 구하기) — and the short-stay
-   apps alongside them.
+   Peter Pan's Good Room (피터팬의 좋은 방 구하기) — and, if you only
+   need one to three months, **start with the short-stay apps instead**:
+   **33m2 (삼삼엠투)**, **enkostay**, and Airbnb with a monthly discount
+   applied. For a stay that short they beat both agents and hotels, and
+   the deposits are a few hundred thousand won rather than ten million.
 4. **Get the listing checked before you travel to it**, and treat any
    unusually good price as unverified until someone has stood in it.
 5. **Confirm registration in writing** before you pay anything. One
@@ -184,11 +188,13 @@ in a language they do not speak, and who assumes a short stay means an
 empty room in four months. A Korean-speaking intermediary changes that
 conversation more than any amount of budget does.
 
-> **Stuck on a listing, or unsure whether an address can be registered?**
-> Send it to us on [WhatsApp](https://wa.me/821075191282) or
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — we'll read the Korean,
-> ask the agent the questions you would ask, and tell you if it looks
-> like a bait listing. Asking costs nothing.
+> **Cannot read a listing?** Send us the screenshot on
+> [WhatsApp](https://wa.me/821075191282) or
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we will tell you what
+> it actually says — the deposit, the monthly maintenance fee, the minimum
+> stay, and whether it mentions address registration. **Translation, not
+> negotiation**: we read it for you, we do not deal with the agent on your
+> behalf. Asking costs nothing.
 
 ## Get it sorted
 
@@ -196,7 +202,34 @@ The order that works: **address first, deposit second, area third.** Most
 people do it backwards, fall for a neighbourhood, and then discover the
 room cannot hold their registration.
 
-We arrange viewings, read contracts, and talk to agents and landlords in
-Korean through our [concierge service](/etc). **No landlord, agent or
-platform pays us** — so if the answer is a goshiwon, or an app, or a
-house that is not ours, that is what we will tell you.
+### Tell us where you have to be in the morning
+
+The one part of this we can genuinely shorten is the map. Tell us **what
+you will be doing here, where you need to be on a weekday morning, your
+budget, and how you like to live** — quiet or busy, cooking or eating out,
+near a gym or near a park — and we will come back with **two or three
+neighbourhoods worth searching**, the honest commute from each, and what
+that money tends to get you there.
+
+**That is area advice, not property advice**, and the difference is the
+whole point:
+
+- We suggest **neighbourhoods**. We do not find, show or recommend
+  individual flats.
+- We do not contact landlords or agents for you, sit in on viewings, or
+  negotiate terms.
+- When you want to view a place and sign for it, that is work for a
+  **licensed agent**, and you should use one.
+- **Nobody pays us for this.** No landlord, agent or platform, and not
+  you either — so if the answer is a goshiwon, or an app, or a house that
+  is not ours, that is what we will tell you.
+
+It helps more than it sounds. Most people choose a neighbourhood from a
+map and meet the commute afterwards. In Seoul the gap between a good
+address and a miserable one is usually one subway line, not one district.
+
+**Outside Seoul, ask us first.** We cover Seoul, Gyeonggi and Incheon, but
+our feel for a neighbourhood thins out fast the further south you go — for
+places like Pyeongtaek, the local foreign-resident communities around the
+base know the ground better than we do, and we will say so rather than
+guess.
