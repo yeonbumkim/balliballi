@@ -26,6 +26,8 @@ const blog = defineCollection({
       coverCaption: z.string().max(60).optional(),
       // 커버 이미지보다 위에 노란 주의 박스를 띄운다 (불쾌할 수 있는 사진 등)
       contentWarning: z.string().max(400).optional(),
+      // 공지처럼 검색엔진에 올릴 필요가 없는 글 → noindex, nofollow + 사이트맵 제외
+      noindex: z.boolean().default(false),
       draft: z.boolean().default(false),
     }),
 });

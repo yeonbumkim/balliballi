@@ -7,6 +7,7 @@ tags: ["notice", "service"]
 cover: "./cover.webp"
 coverAlt: "A typographic notice reading: moving and delivery services have ended"
 coverCaption: "Effective 6 October 2026"
+noindex: true
 draft: false
 ---
 

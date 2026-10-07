@@ -46,7 +46,7 @@ const jsonLd = {
 };
 ---
 
-<Base title={title} description={description} ogImage={ogImage}>
+<Base title={title} description={description} ogImage={ogImage} noindex={post.data.noindex}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <article>
     <header class="post-head">
