@@ -3,7 +3,7 @@ title: "Photograph Your Flat on Move-In Day — Meters First"
 description: "Your deposit is the largest sum you'll hand over in Korea. Twenty minutes with a camera on day one is what protects it — starting with the gas meter."
 pubDate: 2026-08-14T12:10:00+09:00
 updatedDate: 2026-09-14T16:30:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["deposit", "moving-in", "renting", "meters", "housing"]
 cover: "./move-in-cover.webp"
@@ -180,8 +180,7 @@ Move-in day is usually the day everything else is happening at once:
 the van, the contract, the internet installation, the agent, a
 landlord speaking Korean at speed.
 
-Our **[moving service](/moving)** handles the van and the crew, and
-through our [anything-else concierge service](/etc) we'll walk the
+Through our [anything-else concierge service](/etc) we'll walk the
 flat with you, find the meters, read what's written on them, and
 raise anything that needs raising with the landlord — in Korean, in
 the tone that gets it fixed rather than the tone that starts a year

@@ -3,7 +3,7 @@ title: "A Share House Three Minutes from Korea University"
 description: "Single rooms in Jongam-dong by Korea University Station: aircon in every room, a washer-dryer, a shared kitchen and a rooftop. Deposits sized for students."
 pubDate: 2026-08-26T17:53:00+09:00
 updatedDate: 2026-09-08T17:40:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["coliving", "share-house", "housing", "students", "korea-university"]
 cover: "./cover.webp"

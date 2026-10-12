@@ -56,7 +56,7 @@ Three consequences you feel immediately:
 | No hot water, boiler showing an error code | Boiler service, often the brand's own engineer |
 | Locked out, keypad dead, code change, lock replacement | [Locksmith](/locksmith) |
 | Mould, grease, the flat needs a deep clean | [Cleaning](/cleaning) |
-| Moving a wardrobe, a small load, disposal of furniture | [Moving](/moving) |
+| Moving a wardrobe, a small load, disposal of furniture | [Yongdal — a 1-ton truck](/blog/yongdal-1-ton-truck-korea/) |
 | Wallpaper torn or lifting, flooring damaged | 도배·장판 (dobae/jangpan) — the interiors trade |
 | A shelf, a curtain rail, flat-pack furniture | A local handyman-for-hire, or the hardware shop |
 | Window screen torn, silicone gone black | Small specialist shops, often same-day |

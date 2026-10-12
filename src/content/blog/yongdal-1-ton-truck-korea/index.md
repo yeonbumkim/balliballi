@@ -3,7 +3,7 @@ title: "Yongdal in Korea: Will Your Things Fit on a 1-Ton Truck?"
 description: "Yongdal is the cheapest way to move in Korea — a truck and a driver. What fits on a 1-ton bed, what you do yourself, and when it stops working."
 pubDate: 2026-09-14T12:10:00+09:00
 updatedDate: 2026-09-14T16:30:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["moving", "yongdal", "seoul", "housing", "prices"]
 cover: "./cover.webp"
@@ -20,6 +20,11 @@ The useful question is different. Yongdal is not a discount version of a
 moving company — it is a different product, and the only thing that
 decides whether it works for you is whether your things fit on one truck
 and whether you can get them down to it.
+
+> **We no longer arrange moving or delivery.** That service ended on
+> 6 October 2026 — [the notice is here](/blog/notice-moving-delivery-ended/).
+> This guide stays up because the information is still useful; the booking is
+> something you now do yourself, or through a company you find directly.
 
 ## What you are actually buying
 
@@ -188,15 +193,13 @@ above the price of it is money you did not need to spend. If you are
 guessing on either count, get the photos in front of a driver before you
 book anything.
 
-If the Korean part is the obstacle, that is what we do: we
-[arrange the move](/moving) in English, put your volume and access in
-front of drivers in terms they can price, and read the reply back to you
-in plain English. We are a booking and coordination service — the driver
-is an independent local operator, and their price goes to them.
+**We no longer arrange moves.** That service ended on 6 October 2026, and
+we are not booking drivers or coordinating loads any more —
+[the notice is here](/blog/notice-moving-delivery-ended/).
 
-We take no commission from any driver. Whichever one you use, we earn the
-same, which is the only reason we can tell you honestly when the cheap
-option is the right one.
+The judgement above is still the useful part: if your things fit on one bed
+and you can get them down to it, yongdal is the right answer, and anything
+more expensive is money you did not need to spend.
 
 Not sure whether your load is a one-truck job? Send photos of each room
 and we'll tell you what you are looking at.

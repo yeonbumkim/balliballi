@@ -3,7 +3,7 @@ title: "Moving Company in Seoul: What a Fair Quote Looks Like"
 description: "Korea's three moving tiers — yongdal, semi-pack, full-pack — what each really includes, what gets billed on top, and what to check before you sign."
 pubDate: 2026-08-25T16:56:00+09:00
 updatedDate: 2026-09-14T16:30:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["moving", "seoul", "prices", "housing"]
 cover: "./cover.webp"
@@ -18,6 +18,11 @@ three times the lowest. Nobody has explained why.
 That gap is usually not one company being greedy. It is three companies
 quoting three different services, and until you know which is which, you
 cannot tell which number is fair.
+
+> **We no longer arrange moving or delivery.** That service ended on
+> 6 October 2026 — [the notice is here](/blog/notice-moving-delivery-ended/).
+> This guide stays up because the information is still useful; the booking is
+> something you now do yourself, or through a company you find directly.
 
 ## The three tiers, and why the price triples
 
@@ -269,11 +274,10 @@ outside the price, and whether anyone has actually been to look.
 Most moves also need a clean in the empty window between the two trucks —
 [what that day involves, and what to check](/blog/deep-clean-service-seoul/).
 
-If the Korean part is the obstacle, that is what we do: we
-[arrange the move](/moving) in English, read the quotes back to you in
-plain terms, and in Seoul can sometimes send someone to interpret on the day. We are a
-booking and coordination service — the crew is an independent local
-company, and their price goes to them.
+**We no longer arrange moves.** That service ended on 6 October 2026, and
+we are not booking crews, taking quotes or coordinating moving days any
+more — [the notice is here](/blog/notice-moving-delivery-ended/).
 
-We take no commission from any mover. Whichever one you pick, we earn the
-same, which is the only way we can tell you honestly which quote to take.
+What is above still holds, though, and it is the part that saves money: work
+out which tier you are actually being quoted, get someone to look at the
+load, and never compare two numbers that are pricing different work.

@@ -3,7 +3,7 @@ title: "Student Housing in Seoul: Renting Without an ARC or Phone"
 description: "Arriving for the semester and every Korean housing site rejects you? Here's how students actually rent from abroad — platforms, deposits, and the play."
 pubDate: 2026-08-08T00:00:00+09:00
 updatedDate: 2026-09-09T14:00:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["student-housing", "one-room", "arc", "exchange-student", "renting"]
 cover: "./sharehouse-single-room-bed-desk.webp"
@@ -175,7 +175,8 @@ service, priced as such. To be clear, **we're not a licensed real
 estate brokerage and don't broker other people's rooms**: your
 contract is always signed directly with the landlord or a licensed
 agent (공인중개사). And if the move itself is the next headache,
-our [moving help](/moving) covers that leg too.
+[a yongdal 1-ton truck](/blog/yongdal-1-ton-truck-korea/) is usually
+the answer for a student-sized load.
 
 ## Get it sorted
 

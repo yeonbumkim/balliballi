@@ -2,7 +2,7 @@
 title: "Korean Landlords Redo Wallpaper and Floors — If You Ask"
 description: "Korean landlords often replace wallpaper and vinyl flooring between tenants — but only if you ask, and only before you sign. How to get it in writing."
 pubDate: 2026-09-03T14:00:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["renting", "lease", "dobae", "jangpan", "move-in"]
 cover: "./cover.webp"

@@ -162,6 +162,9 @@
     .svc .status{position:absolute;top:18px;right:18px;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;border-radius:999px;padding:4px 10px}
     .svc.live .status{background:var(--primary);color:#fff}
     .svc.soon{opacity:.72}
+.svc.ended{opacity:.6}
+.svc.ended .status{background:#4b5563;color:#fff}
+.svc.ended:hover{opacity:.78}
     .svc.soon .status{background:#e5e7eb;color:#4b5563}
 
     /* How it works */
@@ -400,12 +403,12 @@
             <p>Move-in deep cleans (입주청소), regular housekeeping, mold removal, Airbnb turnovers — fixed quotes by home size.</p>
             <span class="go">Get a quote →</span>
           </a>
-          <a href="/moving" class="svc live">
-            <span class="status">Live</span>
+          <a href="/moving" class="svc ended">
+            <span class="status">Ended</span>
             <span class="icon">📦</span>
             <h3>Moving Help</h3>
-            <p>Small moves (용달), ladder trucks, furniture assembly, and Korea's bulky-waste sticker disposal — all arranged.</p>
-            <span class="go">Get a quote →</span>
+            <p>No longer offered. We stopped arranging moving and delivery on 6 October 2026.</p>
+            <span class="go">Read the notice →</span>
           </a>
           <a href="/etc" class="svc live">
             <span class="status">Live</span>
@@ -588,7 +591,7 @@
             <li><a href="/plumbing">Plumbing &amp; Drains</a></li>
             <li><a href="/locksmith">Locksmith</a></li>
             <li><a href="/cleaning">Cleaning</a></li>
-            <li><a href="/moving">Moving Help</a></li>
+            
             <li><a href="/etc">Anything Else</a></li>
             <li><a href="/korean-lessons">Korean Lessons</a></li>
             <li><a href="/blog/">Blog — Guides for life in Seoul</a></li>

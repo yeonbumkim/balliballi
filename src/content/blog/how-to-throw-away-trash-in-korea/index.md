@@ -3,7 +3,7 @@ title: "How to Throw Away Trash in Korea Without Getting Fined"
 description: "Korea's four waste streams explained: district bags, mandatory food-waste separation, recycling rules, and the official process for bulky items."
 pubDate: 2026-08-06T08:30:00+09:00
 updatedDate: 2026-09-07T16:50:00+09:00
-service: moving
+service: etc
 category: settling-in
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
 cover: "./four-sorting-bins-recycling-station.webp"
@@ -66,7 +66,7 @@ first: [having it cleaned](/blog/sofa-mattress-cleaning-korea/) costs
 less than you'd think, and in a furnished rental the thing you're about
 to sticker probably isn't yours.
 
-If it's a whole flat's worth — a move-out, a clear-out, or an estate to empty — that stops being a sticker job and becomes a van and two people. That's what our [cleaning](/cleaning) and [moving](/moving) services are for.
+If it's a whole flat's worth — a move-out, a clear-out, or an estate to empty — that stops being a sticker job and becomes a van and two people. That's what our [cleaning](/cleaning) service is for.
 
 ## The fines are real
 
@@ -147,8 +147,8 @@ won or lost with the photographs you took
 repeated from the same angles on the way out.
 
 This is a thing we handle constantly, especially around move-outs. Through
-our [moving help service](/moving), we file the bulky-waste declaration for
-you, get the sticker sorted, and coordinate the haul-out — and for
+our [anything-else concierge service](/etc) we can file the bulky-waste
+declaration for you and get the sticker sorted — and for
 everything else (which bag, which bin, which night, what your specific
 building expects), our [anything-else concierge service](/etc) answers in
 plain English.

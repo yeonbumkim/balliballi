@@ -2,7 +2,7 @@
 title: "Goshiwon in Seoul: Why Two Friends Moved to a Share House"
 description: "A goshiwon is the cheapest room in Seoul and the smallest. What it is really like, how it compares to an officetel or wolse, and what a share house costs."
 pubDate: 2026-09-03
-service: moving
+service: etc
 category: home
 tags: ["goshiwon", "share-house", "officetel", "wolse", "housing"]
 cover: "./cover.webp"

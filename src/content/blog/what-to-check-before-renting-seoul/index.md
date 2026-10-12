@@ -3,7 +3,7 @@ title: "Renting in Seoul: What the Deposit Really Tells You"
 description: "A ₩1–2M deposit usually means you're not looking at a one-room at all. How to read a Seoul listing, and the ten-minute inspection that saves you a year."
 pubDate: 2026-08-13T16:31:00+09:00
 updatedDate: 2026-09-14T16:30:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["renting", "housing", "deposit", "one-room", "moving-in"]
 cover: "./viewing-cover.webp"
@@ -225,12 +225,12 @@ Everything above happens in Korean: the listing, the agent, the
 contract, the landlord's answer about the boiler, the negotiation
 over the management fee.
 
-We do two things here. Through our
-[anything-else concierge service](/etc) **we come to viewings with
-you** — translating, asking the questions above, and telling you
-honestly what we'd walk away from. And when you've signed, our
-**[moving service](/moving)** handles the van, the crew and the
-disposal of whatever the last tenant left behind.
+Through our [anything-else concierge service](/etc) we read
+listings, messages and contracts back to you in plain English, and
+tell you what the Korean actually says. **Translation, not
+brokerage**: we do not attend viewings as your representative,
+negotiate on your behalf or find you a flat. Viewing and signing is
+work for a licensed agent (공인중개사).
 
 ## Get it sorted
 

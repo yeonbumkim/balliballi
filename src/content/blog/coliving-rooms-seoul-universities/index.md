@@ -3,7 +3,7 @@ title: "Our Coliving Rooms: Kyung Hee, HUFS and Korea University"
 description: "Three furnished coliving houses beside Seoul university campuses, run by us and women only. Single and twin rooms, small deposits, English throughout."
 pubDate: 2026-08-13T16:13:00+09:00
 updatedDate: 2026-09-03T11:40:00+09:00
-service: moving
+service: etc
 category: home
 tags: ["coliving", "housing", "share-house", "students", "seoul"]
 cover: "./coliving-cover.webp"
