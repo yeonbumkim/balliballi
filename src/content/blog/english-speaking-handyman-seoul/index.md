@@ -2,6 +2,7 @@
 title: "English-Speaking Handyman in Seoul: Who to Call for What"
 description: "Korea has no handyman trade. Jobs are split by specialism, and the fix is knowing which one yours belongs to — plus what the building office does free."
 pubDate: 2026-09-23T14:39:00+09:00
+updatedDate: 2026-10-13T15:02:00+09:00
 service: etc
 category: home
 tags: ["handyman", "repairs", "management-office", "renting", "home"]
@@ -22,6 +23,9 @@ somebody who only does one of the four things on your list.
 
 This is a map of which trade owns which problem, what the building office
 will do for nothing, and what you can hand to a shop on your own street.
+If you are still working out how the flat itself runs — the floor heating,
+the gas valve, the wet bathroom — start with
+[how every part of a Korean apartment works](/blog/living-in-a-korean-apartment/).
 
 ![A shop sign high on a Seoul building reading 전기 철물 열쇠 — electrical, hardware, keys](./hardware-shop-sign-from-street.webp)
 

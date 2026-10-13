@@ -2,7 +2,7 @@
 title: "Water Leaks in a Korean Apartment: Who Pays, and What to Do"
 description: "Whose problem is it when water comes through the ceiling — the insurance nobody checks, why monsoon stalls repairs, and what to do first."
 pubDate: 2026-08-13T12:44:00+09:00
-updatedDate: 2026-09-10T16:50:00+09:00
+updatedDate: 2026-10-13T15:02:00+09:00
 service: plumbing
 category: home
 tags: ["leak", "plumbing", "apartment", "insurance", "neighbours"]
@@ -287,7 +287,8 @@ problems that produce similar-looking water:
 
 Everything else — a stain on a ceiling, water crossing between
 units, anything that reaches a shared corridor — belongs in this
-article.
+article. For the rest of the flat, part by part, see
+[living in a Korean apartment](/blog/living-in-a-korean-apartment/).
 
 ## The Korean part
 
