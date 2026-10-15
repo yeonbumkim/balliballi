@@ -2,7 +2,7 @@
 title: "Hair Salons in Korea: Prices, Photos, and the Upsell"
 description: "What a cut, colour or perm costs in Seoul, why an English-speaking stylist is not the same as an experienced one, and how to shut down the pitch."
 pubDate: 2026-09-09T09:10:00+09:00
-updatedDate: 2026-10-15T15:00:00+09:00
+updatedDate: 2026-10-15T19:30:00+09:00
 service: etc
 tags: ["haircut", "salon", "prices", "beauty", "daily-life"]
 cover: "./cover.webp"
@@ -234,6 +234,13 @@ Two things to know before you hand anything over:
 
 And the plain version: a shop that has your money in advance has already
 been paid, whatever happens to you next.
+
+**The same machinery runs next door.** Korean nail salons build it straight
+into the published price — four of ten menus we read quote 회원가 (*member
+price*) as the headline, and one prints both: ₩40,000 for members against
+₩50,000 for everybody else, on the same single-colour gel. [What a Korean
+nail salon actually charges](/blog/korean-nail-salon-guide/) has that table,
+and the same advice applies: not on the first visit.
 
 ## Not all branches are the same salon
 
