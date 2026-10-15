@@ -2,6 +2,7 @@
 title: "Hair Salons in Korea: Prices, Photos, and the Upsell"
 description: "What a cut, colour or perm costs in Seoul, why an English-speaking stylist is not the same as an experienced one, and how to shut down the pitch."
 pubDate: 2026-09-09T09:10:00+09:00
+updatedDate: 2026-10-15T15:00:00+09:00
 service: etc
 tags: ["haircut", "salon", "prices", "beauty", "daily-life"]
 cover: "./cover.webp"
@@ -35,36 +36,129 @@ conversations — the photo and the price — that decide how it goes.
 
 ## What it costs in Seoul
 
-Typical ranges, as of 2026 — Seoul prices, with neighborhood salons cheaper
-than Gangnam flagships:
+Most Korean salons do not put a price list in the window. **They publish one
+online instead** — on their own Naver listing, where anybody can read it
+before walking in. So rather than ranges, here are six real shops within
+walking distance of each other in **여의도 and 영등포**, as their pages listed
+them on **15 October 2026**.
 
-| Service                                   | Typical price              |
-| ----------------------------------------- | -------------------------- |
-| Men's cut — budget chain (e.g. Blue Club) | Around ₩10,000             |
-| Men's cut — neighborhood salon            | ₩15,000–25,000             |
-| Women's cut — neighborhood salon          | ₩20,000–40,000             |
-| Cut at a brand salon (either)             | ₩30,000–60,000+            |
-| Men's down perm (다운펌)                  | ₩20,000–40,000 add-on      |
-| Perm or color                             | ₩80,000–200,000+ by length |
+| Shop | What it is | Cut | Perm | Colour |
+|---|---|---|---|---|
+| **블루클럽 당산점** | Men's budget chain | **₩12,000** | ₩47,000 | ₩35,000 grey cover · ₩47,000 fashion |
+| **엉클부스 영등포본점** | Barbershop | ₩22,000 cut only · ₩32,000 with semi-shave and styling | 다운펌 alone ₩30,000 · with cut ₩63,000 | 새치염색 alone ₩40,000 |
+| **리멘즈헤어 여의도본점** | Barbershop | ₩30,000 | cut + 다운펌 ₩55,000 · cut + 일반펌 ₩100,000 · cut + 아이롱펌 ₩140,000 | ₩65,000 |
+| **아이디헤어 여의도 브라이튼점** | Salon | ₩35,000 | 베이직펌 ₩160,000 (men's ₩140,000) · 볼륨매직 ₩250,000 · 매직셋팅 ₩300,000 | roots ₩100,000 · full ₩150,000–190,000 |
+| **가든준오 IFC몰점** | Brand salon | 디자인컷 ₩40,000 | 여성 베이직펌 S ₩198,000 · 남성 숏펌 ₩158,000 | ₩150,000 |
+| **차홍룸 여의도점** | Brand salon | **₩55,000** | 숏 ₩220,000 · 단발 ₩290,000 · 미디움 ₩320,000 · 롱 **₩350,000** | 숏 ₩150,000 → 롱 ₩230,000 |
 
-Two pricing quirks to know. First, **no tipping — ever**. The price on the
-menu is the price. Second, at brand salons the price depends on **who cuts
-you**: stylists are tiered (designer → senior → director), and the same
-haircut can double as you climb the ranks. The tier menu is usually posted;
-the cheapest designer is rarely a downgrade.
+Read the cut column first. **₩12,000 to ₩55,000 for a haircut, in one
+neighbourhood, on the same afternoon.** The perm column is worse: ₩47,000 to
+₩350,000, a factor of seven. There is no "Korean price" for a haircut. There
+is a price for the kind of shop you walk into, and the gap between the kinds
+is enormous.
 
-For women, two more line items to expect: a **length surcharge** (기장
-추가) on perms and color for hair past the shoulders — often ₩10,000–30,000
-— and treatment upsells during the consultation. Korea's signature
-**magic straight perm (매직)** sits at the top of the menu, and quoted
-prices usually assume shorter hair, so confirm the with-length total before
-committing.
+Two things to hold these numbers against. **여의도 is a finance district** and
+sits at the expensive end of Seoul, which sits at the expensive end of Korea
+— the same brands charge less in other districts and noticeably less outside
+the capital. And an ordinary neighbourhood 미용실 undercuts all of this,
+typically **₩15,000–25,000 for a men's cut and ₩20,000–40,000 for a
+women's**. What you give up is not the basics — it is the production around
+them: the sit-down consultation, a menu of stylists to choose between, the
+treatment list, the interior, the drink. That is a fair trade for a trim and
+a bad one for a change you care about.
 
+![A neighbourhood Korean hair salon mid-cut: a stylist combing a seated customer in a yellow cape with cut hair on it, wash basins and chairs behind, and DESIGNER HAIR SHOP lettering on the wall. Both faces are obscured](./neighbourhood-salon-mid-cut.webp)
+
+*One room, one stylist, and a cape with the afternoon on it · ⓒ @BalliBalliSeoul*
+
+**That is the other end of the table, and it is where most of Korea actually
+sits.** No consultation room, no tier menu on the wall, no coffee — a cape, a
+comb, and somebody who has done this ten thousand times. In a shop that size
+there is usually no ladder to climb either: the person cutting is the person
+whose name is on the lease.
+
+**The wash is not one of the things you give up.** Look at the back of that
+photograph: two shampoo basins in a small neighbourhood shop. A hair wash
+comes with a cut almost everywhere in Korea, at every price, and it is not an
+extra you have to ask for. The exception is the budget quick-cut chains, where
+it may cost a little more or be skipped — which is part of what makes them
+quick.
+
+For a trim, a fringe, a child's cut or a grey touch-up, that is the entire
+service, and the brand salons are selling you production you did not ask for.
+For a colour correction, or a perm on hair that has been bleached before, it
+is not — and knowing which of the two you have is most of what this page is
+for.
+
+> **Last verified: 15 October 2026** — prices as published on each shop's own
+> Naver listing. Salon menus change, and event rates change monthly. Treat
+> this as the shape of the market, not a quote.
+
+### Three things that move the number after you sit down
+
+**1. Your hair length.** Look at the 차홍룸 row again: the *same* heat perm is
+₩290,000 on a bob and ₩350,000 past the shoulders, and their colour runs
+₩150,000 at short to ₩230,000 at long. **That is a gap of ₩60,000–80,000
+between tiers**, not the small surcharge people expect. Menus mark it 기장별
+차등 요금. [Which perm is which, and how the length tiers
+work](/blog/korean-perm-menu-explained/) covers the menu itself.
+
+**2. Who does it.** At brand salons the price depends on **the rank of the
+stylist**, and they say so on the menu in those words — 직급별 차등 요금 at
+차홍룸, and 준오's list has a line that reads simply *"디자이너 직급별 가격이
+다릅니다"*. The ladder runs 인턴 → 디자이너 → 수석디자이너 → 실장 → 부원장 →
+원장, and the advertised price is the bottom of it. **Rank is an in-house job
+title, not a higher qualification** — Korea licenses 미용사 once, nationally.
+The cheapest designer at a good salon is what most Koreans book.
+
+**3. 상담 — "ask us".** Several lines on 준오's published menu have no number
+at all, just the word 상담 (*sangdam*, consultation). That is not evasion and
+it is not a foreigner price; it means the job genuinely varies and they quote
+it in the chair. **Expect it on 셋팅펌, on anything described as 디자인별, and
+on long hair.** It is also the point at which you should name your ceiling out
+loud.
+
+And the pricing quirk that works in your favour: **no tipping, ever.** The
+number on the menu is the number at the till.
+
+One more worth knowing before a first visit. **신규 (first-visit) rates are
+real and they are published.** 엉클부스 lists a cut at ₩32,000 and the same
+cut as a 신규 이벤트 at ₩25,000; cut-plus-down-perm is ₩63,000 normally and
+₩55,000 new. If you are shopping for a regular shop anyway, the first
+appointment at each is the cheap one.
+
+### Two cheap lines on every menu
+
+**앞머리컷 (fringe trim) is its own item**, and it is the cheapest thing in the
+building — ₩10,000 at 아이디헤어 and 준오, ₩25,000 even at 차홍룸. You can book
+a salon for nothing but your fringe, and plenty of people do, every few weeks.
+
+**주니어 컷 is cheaper, and it does not mean the same thing everywhere.** On
+아이디헤어's menu it is spelled out as *~초등학생까지* — a children's cut, up to
+primary school age, ₩30,000. On 준오's it sits at ₩35,000 just below the
+₩40,000 디자인컷, which reads as a junior stylist rather than a junior head.
+**Same two words, two different discounts.** If the price looks too good, ask
+which one it is before you book it.
+
+A caution on comparing the perm column across shop types: **barbershop prices
+usually bundle the cut in, salon prices usually do not.** 리멘즈' ₩100,000
+일반펌 includes the haircut; 준오's ₩198,000 does not. Two of the six shops
+above are barbershops rather than salons, and that is a different business
+with a differently shaped menu — [what a Korean barbershop actually is, and
+what a shave involves](/blog/korean-barber-shop-guide/) covers it properly.
+
+Two more line items to expect at a salon, both during the consultation:
+treatment and clinic upsells (아이디헤어 lists scalp care at ₩120,000, 준오
+a head spa at ₩158,000 — these are real services at real prices, not scams,
+but they are optional), and Korea's signature **magic straight perm (매직)**,
+which sits at the top of every menu. 아이디헤어 prices 볼륨매직 at ₩250,000
+and a 매직셋팅 mix at ₩300,000. Quoted magic prices assume shorter hair, so
+confirm the with-length total before committing.
 ## The salon landscape
 
 **Budget chains** — the famous one is **Blue Club (블루클럽)**, a men's
-quick-cut franchise where roughly ₩10,000 gets you a competent, no-frills
-cut; a shampoo may cost a little extra or be skipped entirely. Walk in, take
+quick-cut franchise where a basic cut was ₩12,000 at the Dangsan branch in
+October 2026 — competent and no-frills; a shampoo may cost a little extra or be skipped entirely. Walk in, take
 a number, done in twenty minutes. Similar low-cost cut shops live in every
 neighborhood and subway station mall.
 
@@ -185,8 +279,9 @@ photograph matters more than the adjectives.
   normal thing to show.
 - **The down perm exists.** A Korea-specific men's service that flattens
   the puffy sides of East Asian hair. If you have thick straight hair that
-  wings out, this ₩20,000–40,000 add-on is why Korean men's cuts look the
-  way they do.
+  wings out, this is why Korean men's cuts look the way they do. It ran
+  **₩30,000–40,000 on its own** at the shops above in October 2026, and less
+  when bundled with the cut.
 - **Carry cash.** Salons take cards, but foreign cards are the ones that
   get declined at the terminal, and it is a bad moment to discover that
   with wet hair. Redditors in that thread mention salons preferring cash
