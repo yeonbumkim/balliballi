@@ -2,6 +2,7 @@
 title: "Emergency Cleaning in Korea: Two Hours Before They Arrive"
 description: "Someone is coming and the flat is a state. A two-hour triage plan built around Korean rubbish rules, Korean floors, and the smells that give you away."
 pubDate: 2026-10-23T11:30:00+09:00
+updatedDate: 2026-10-23T14:00:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "trash", "apartment", "daily-life", "landlord"]
@@ -134,6 +135,18 @@ Korean homes are floor-oriented. The heating is in the floor, people sit on
 it, and visitors take their shoes off and stand in your entrance for thirty
 seconds with nothing to do but look. **A clear floor reads as a clean home here
 in a way that a clear worktop does not.**
+
+![The floor of a Seoul one-room covered wall to wall with clothes, packaging, hangers and bags, with no clear space to stand](./floor-covered-pick-it-up.webp)
+
+*A real one-room floor, before anybody started · ⓒ @BalliBalliSeoul*
+
+That photograph is from a job, not a stock library, and it is worth looking at
+for one reason: **there is nothing unusual in it.** It is clothes, packaging,
+hangers and carrier bags — ordinary things that stopped getting put away for a
+few weeks. No single item in that room is a problem. The floor is the problem.
+
+Which is also why it comes back fast, and why picking up beats sorting when
+the clock is running.
 
 So, in order:
 
