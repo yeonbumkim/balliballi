@@ -2,7 +2,7 @@
 title: "Deep Cleaning in Korea: Sorting Comes Before Cleaning"
 description: "Korea sells six different cleanings — 입주, 이사, 거주, 부분, 특수, 정리수납. Which one your flat needs, what each costs, and why the quotes disagree."
 pubDate: 2026-09-06T08:28:00+09:00
-updatedDate: 2026-09-14T16:30:00+09:00
+updatedDate: 2026-10-23T11:30:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "deep-clean", "one-room", "moving-out", "rubbish"]
@@ -126,6 +126,12 @@ The whole system is in
 [how to throw away rubbish in Korea](/blog/how-to-throw-away-trash-in-korea/),
 and it is worth ten minutes before you start rather than after you have
 forty bags and nowhere to put them.
+
+**And if the reason you are reading this is that somebody is arriving this
+afternoon**, the disposal rule above is exactly why the usual panic-clean
+advice fails here — bag it, stage it, and put it out tonight.
+[Emergency cleaning in Korea](/blog/emergency-cleaning-korea/) is the
+two-hour version.
 
 Two practical consequences. **Volume drives the price** of a clearance
 job far more than floor area does, so an hour of your own sorting is the
