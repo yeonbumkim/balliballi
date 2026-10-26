@@ -1,7 +1,8 @@
 ---
 title: "Clean a Mattress Yourself in Korea: What It Really Takes"
-description: "A toddler's accident, a Kärcher SE 4, and a tank of yellow water. The detergent rule, the twelve hours of drying, and when to book the crew."
+description: "Cleaning a mattress yourself in Korea: a toddler's accident, a Kärcher SE 4, a tank of yellow water, and the twelve hours of drying that have no shortcut."
 pubDate: 2026-10-26T18:20:00+09:00
+updatedDate: 2026-10-26T19:05:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "mattress", "stains", "kids", "diy"]
@@ -117,8 +118,8 @@ another twenty passes.
 The listings sell you a machine that does the work. It does one part of the
 work. You do the rest, and the rest is most of it.
 
-A single double mattress took the better part of a morning. You cannot stand
-up to it — you are kneeling on the bed, leaning across, dragging a hose and a
+A single double mattress took ninety minutes of unbroken work — the gap
+between the first photo here and the last. You cannot stand up to it — you are kneeling on the bed, leaning across, dragging a hose and a
 tank behind you, and a mattress is wider than your arms are long, so half of
 it is done from an awkward angle. Then you empty the waste tank, refill the
 clean one, and start again.
@@ -157,8 +158,8 @@ What actually sped it up:
 | **Stand it up if you can** | Air on both faces roughly halves it. On a heavy double in a small room this is often not realistic, and that is fine |
 
 Most Korean wall units have 제습 on the remote as a separate mode, and this is
-the one week of the year it earns its place. If you have had damp trouble in
-the flat before, the same logic is the whole of
+exactly the job it is for. If you have had damp trouble in the flat before,
+the same logic is the whole of
 [mould behind the baseboard](/blog/mould-behind-baseboard-korea/) — and if
 the unit itself smells when you run it, that is a different job, covered in
 [aircon cleaning](/blog/aircon-cleaning-korea/).
@@ -229,7 +230,7 @@ stops being the cheap option.
 
 **And buying is only cheap if you will use it twice.** With a small child, a
 pet or a fabric sofa that gets sat on, you will. For one accident, hire it —
-or skip both and have somebody else kneel on the bed for three hours.
+or skip both and have somebody else kneel on the bed for an hour and a half.
 
 ## When to call somebody instead
 
@@ -273,3 +274,12 @@ is the part we arrange in English. We are an intermediary, not the crew: we
 book it, we hold the conversation in Korean, and the quote is agreed with you
 in the chat before anyone comes to the door. The
 [cleaning page](/cleaning) covers the rest of the house.
+
+## Corrections
+
+We log changes here rather than editing quietly, so you can see what we
+got wrong and when.
+
+| Date | What changed |
+| ---- | ------------ |
+| **26 October 2026** | **How long the job took, and one line about 제습.** The first version said the mattress "took the better part of a morning" and later that you could "kneel on the bed for three hours". Our own photographs are timestamped 11:02 and 12:31, so the figure is ninety minutes and both lines now say so. The same version called 제습 "the one week of the year it earns its place" — the dehumidify mode is not a one-week-a-year setting, and the claim has been removed. |
