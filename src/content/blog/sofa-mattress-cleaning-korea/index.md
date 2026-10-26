@@ -2,7 +2,7 @@
 title: "Sofa and Mattress Cleaning in Korea: Is It Worth It?"
 description: "A toddler's accident, a ₩26,000 listing that is not the price, and what a mattress clean in Korea can and cannot fix — with the stain photos."
 pubDate: 2026-09-07T15:24:00+09:00
-updatedDate: 2026-09-30T15:01:00+09:00
+updatedDate: 2026-10-26T18:20:00+09:00
 service: cleaning
 category: home
 tags: ["cleaning", "mattress", "sofa", "stains", "kids", "one-room"]
@@ -161,6 +161,11 @@ We used a **Kärcher SE 4**, a spray-extraction cleaner: it sprays water and
 solution into the fabric and vacuums it straight back out in the same pass.
 That is the same principle as the professional job described above, at a
 smaller scale and a much smaller price.
+
+**We have since done a full-size double mattress with the same machine**, and
+written up everything this section leaves out — the detergent rule, what comes
+back in the waste tank, and the twelve hours of drying — in
+[cleaning a mattress yourself in Korea](/blog/clean-mattress-yourself-korea/).
 
 **What worked, in order:**
 
