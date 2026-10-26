@@ -409,7 +409,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/locked-inside-room-korea/</loc>
-    <lastmod>2026-08-31T14:43:00+09:00</lastmod>
+    <lastmod>2026-10-26T16:00:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -570,6 +570,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/suitcase-lock-key-lost/</loc>
+    <lastmod>2026-10-26T16:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/surprising-things-about-korea/</loc>
     <lastmod>2026-09-09T14:00:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -667,7 +673,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/home/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>

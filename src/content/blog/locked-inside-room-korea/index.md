@@ -2,7 +2,7 @@
 title: "Locked Inside a Room in Korea: How to Get Out"
 description: "The handle broke and the door won't open from your side. When 119 is right, what it will cost you in door, and what to try before either."
 pubDate: 2026-08-31T14:06:00+09:00
-updatedDate: 2026-08-31T14:43:00+09:00
+updatedDate: 2026-10-26T16:00:00+09:00
 service: locksmith
 category: home
 tags: ["locksmith", "doors", "emergency", "119", "share-house"]
@@ -252,6 +252,11 @@ damage, and expensive the moment it does not. The
 [guide ranges and the running log of real jobs](/locksmith) are on our locksmith page.
 What moves the number is the same as ever: whether it opens without damage, the hour,
 and how far someone has to travel.
+
+**That last one decides more than people expect.** A call-out is mostly the journey,
+which is why it is the right price for a door and the wrong price for a padlock you
+could carry to a shop — [we turned down exactly that job and sent a bolt cutter
+instead](/blog/suitcase-lock-key-lost/).
 
 If the handle has to be replaced, the part is not the expensive bit. A standard interior
 handle set is a few tens of thousands of won at a hardware shop or online.
