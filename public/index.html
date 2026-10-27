@@ -8,14 +8,24 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X5GFEDGW6Y"></script>
+  <!-- Analytics and ads load on the live host only. Local previews and
+       *.pages.dev builds must stay out of GA4, Ads and AdSense. -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    (function () {
+      var h = location.hostname;
+      if (h !== 'balliballi.com' && h !== 'www.balliballi.com') return;
 
-    gtag('config', 'G-X5GFEDGW6Y');
-    gtag('config', 'AW-17808115804');
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { dataLayer.push(arguments); };
+      gtag('js', new Date());
+      gtag('config', 'G-X5GFEDGW6Y');
+      gtag('config', 'AW-17808115804');
+
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-X5GFEDGW6Y';
+      document.head.appendChild(s);
+    })();
   </script>
 
   <!-- ===================== SEO ===================== -->
@@ -245,8 +255,17 @@
     .tm-lead .tm-tag{background:#fff;border-color:#bbf7d0}
     .tm-note{margin-top:30px;font-size:13.5px;color:var(--muted)}
     </style>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890314542345467"
-     crossorigin="anonymous"></script>
+  <script>
+    (function () {
+      var h = location.hostname;
+      if (h !== 'balliballi.com' && h !== 'www.balliballi.com') return;
+      var a = document.createElement('script');
+      a.async = true;
+      a.crossOrigin = 'anonymous';
+      a.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890314542345467';
+      document.head.appendChild(a);
+    })();
+  </script>
 </head>
 <body>
 
@@ -341,6 +360,15 @@
         </p>
         <!-- LATEST:START -->
         <div class="post-grid">
+          <a class="post-card" href="/blog/hikorea-website-english/">
+            <div class="post-thumb"><img src="/img/blog-latest/hikorea-website-english.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
+            <div class="post-body">
+              <span class="post-cat">Settling in</span>
+              <h3>HiKorea Website in English: How to Use It and Book a Visit</h3>
+              <p>The official immigration portal is hikorea.go.kr. How to switch it to English, what each menu does, how visit booking works, and where it stops helping.</p>
+              <span class="post-more">Read →</span>
+            </div>
+          </a>
           <a class="post-card" href="/blog/clean-mattress-yourself-korea/">
             <div class="post-thumb"><img src="/img/blog-latest/clean-mattress-yourself-korea.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
             <div class="post-body">
@@ -356,15 +384,6 @@
               <span class="post-cat">Settling in</span>
               <h3>Lost Your Suitcase Lock Key in Korea? The ₩5,000 Answer</h3>
               <p>Someone asked us to send a locksmith for a padlocked suitcase. We said no, sent a KRW 4,660 bolt cutter instead, and gave up the fee. The arithmetic.</p>
-              <span class="post-more">Read →</span>
-            </div>
-          </a>
-          <a class="post-card" href="/blog/drone-rules-korea/">
-            <div class="post-thumb"><img src="/img/blog-latest/drone-rules-korea.webp" alt="" width="1200" height="630" loading="lazy" decoding="async"></div>
-            <div class="post-body">
-              <span class="post-cat">Settling in</span>
-              <h3>Flying a Drone in Korea: The Rules, and Where to Check</h3>
-              <p>Seoul is mostly restricted airspace. What your drone's weight decides, why flight and filming approval are separate, and the one portal that decides.</p>
               <span class="post-more">Read →</span>
             </div>
           </a>
