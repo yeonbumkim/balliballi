@@ -2,7 +2,7 @@
 title: "How to Open a Bank Account in Korea as a Foreigner"
 description: "What to bring, which bank, and the thing nobody warns you about — new accounts open with a daily transfer limit, and lifting it takes paperwork."
 pubDate: 2026-08-18
-updatedDate: 2026-09-07T01:12:00+09:00
+updatedDate: 2026-10-27T15:00:00+09:00
 service: etc
 category: settling-in
 tags: ["bank-account", "settling-in", "arc", "banking", "money"]
@@ -249,6 +249,11 @@ there** — the staff do this all day and it is much faster than
 fighting the app alone. And **a Korean phone number in your own
 name** is doing a lot of work in this system; if the number is not
 yours, expect friction at every verification step.
+
+That certificate and that phone number are the same pair the immigration
+portal asks for, which is where most people stall when they try to file
+anything online — [using HiKorea in English](/blog/hikorea-website-english/)
+covers what the site expects and what to do when it will not accept you.
 
 ## Sending money home
 

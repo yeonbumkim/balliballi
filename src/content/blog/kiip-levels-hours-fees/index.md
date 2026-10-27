@@ -1,7 +1,7 @@
 ---
 title: "KIIP in Korea: Levels, Hours, Fees, and Who Needs Level 5"
 description: "What the Social Integration Programme costs in money and in semesters, how the placement score maps to levels, and which goals actually require finishing."
-updatedDate: 2026-10-06T14:45:00+09:00
+updatedDate: 2026-10-27T15:00:00+09:00
 pubDate: 2026-10-05T21:30:00+09:00
 service: korean-lessons
 category: settling-in
@@ -24,6 +24,11 @@ the hours written down, every decision about this programme becomes obvious.
 > Figures below are as published and correct to the best of our knowledge in
 > **October 2026** — confirm yours on
 > [socinet.go.kr](https://www.socinet.go.kr/) before you plan around them.
+
+One address worth getting right first: **socinet is not hikorea.** KIIP lives
+on socinet; immigration applications and office bookings live on hikorea, and
+people lose afternoons on the wrong one — [using HiKorea in
+English](/blog/hikorea-website-english/) sets out which site does what.
 
 ## The levels, the hours, and what each one costs
 

@@ -216,6 +216,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://balliballi.com/blog/hikorea-website-english/</loc>
+    <lastmod>2026-10-27T15:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://balliballi.com/blog/home-organising-korea-jeongni-sunap/</loc>
     <lastmod>2026-09-14T16:30:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -289,7 +295,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/kiip-levels-hours-fees/</loc>
-    <lastmod>2026-10-06T14:45:00+09:00</lastmod>
+    <lastmod>2026-10-27T15:00:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -481,7 +487,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/open-bank-account-korea/</loc>
-    <lastmod>2026-09-07T01:12:00+09:00</lastmod>
+    <lastmod>2026-10-27T15:00:00+09:00</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -685,7 +691,7 @@
   </url>
   <url>
     <loc>https://balliballi.com/blog/category/settling-in/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>
