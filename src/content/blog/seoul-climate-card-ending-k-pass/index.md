@@ -2,6 +2,7 @@
 title: "Seoul's Climate Card Is Ending: What Replaces It, and When"
 description: "The 30-day Climate Card is being wound down and folded into K-Pass. The dates that matter, and the paper route foreigners are told to use."
 pubDate: 2026-08-23T22:24:00+09:00
+updatedDate: 2026-10-30T16:30:00+09:00
 service: etc
 category: transport
 cover: "./ticket-machine-english-menu-cover.webp"
@@ -211,6 +212,12 @@ precisely: a **youth discount extended to discharged servicemen up
 to 42**, a **Ttareungyi bike-share link**, and **cultural venue
 discounts** — the last of which needs a change to city ordinance
 first. All are described as arriving within the year.
+
+**Since this was written, the handover has happened.** The replacement
+scheme has also been renamed — K-Pass is now 모두의카드 — and the first
+refunds under it have landed. What the rates are now, what expired on
+30 September, and the fact that the payout date depends on which card you
+hold are in [K-Pass for foreigners](/blog/k-pass-refund-foreigners/).
 
 ## The Korean part
 

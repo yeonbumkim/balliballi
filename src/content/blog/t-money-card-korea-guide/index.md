@@ -2,7 +2,7 @@
 title: "T-money Card Korea: Buy One, Tap Everywhere, Transfer Free"
 description: "Skip the transit-card research. Buy T-money at any convenience store, top up in cash, always tap out — and free transfers do the rest. With 2026 fares."
 pubDate: 2026-08-10T10:29:00+09:00
-updatedDate: 2026-08-21T09:20:00+09:00
+updatedDate: 2026-10-30T16:30:00+09:00
 service: etc
 category: transport
 tags: ["t-money", "transportation", "subway", "bus", "tourist"]
@@ -183,6 +183,15 @@ station.
 **For a visit measured in days or weeks, plain T-money wins on
 flexibility alone.** For a long stay, check the current rules at
 the time you commit — not from a blog post.
+
+## If you hold an ARC, the card can pay you back
+
+Register the card with the national transit refund scheme and **20% of your
+monthly spending comes back** once you pass fifteen trips in a month. It needs
+an alien registration number, and mobile T-money pays later than any other
+card in the scheme — on the last working day of the following month. The
+rates and the dates are in
+[K-Pass for foreigners](/blog/k-pass-refund-foreigners/).
 
 ## Leaving Korea: get your balance back
 
