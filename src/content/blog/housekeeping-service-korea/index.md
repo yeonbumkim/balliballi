@@ -188,30 +188,12 @@ work at a worse price, in whatever slot is left. When the date comes,
 
 ## Where we fit
 
-Regular housekeeping is the single thing people ask us for most, and
-setting one up is straightforward: we arrange the recurring schedule
-with vetted local cleaners, handle every Korean conversation — the
-booking, the scope notes, the *"please also do the balcony this week"*
-messages — and stay in the chat as your channel. You get domestic
-market prices with the coordination in English. The weekly slot, the
-one-off deep clean and the move-out clean all run through the same
-conversation, and the full price list is on the
-[cleaning page](/cleaning).
-
 **We take no commission from any cleaner or cleaning company we put in
 front of you.** Whichever one you use, we earn the same — which is why
 we can tell you that you do not need a ₩500,000 deep clean when three
 hours a week is the actual answer.
 
 ## Get it sorted
-
-> **Drowning in work and laundry?** Send us your home size,
-> neighbourhood and the rhythm you want.
-> **[KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) is the easiest way
-> to reach us**, and [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20a%20cleaning%20quote.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Home%20size%20%28pyeong%20or%20m2%29%3A%0A-%20What%20I%20need%20%28move-in%20deep%20clean%20%2F%20housekeeping%20%2F%20mold%20%2F%20Airbnb%29%3A%0A-%20Preferred%20day%20%28e.g.%20Sat%204%20Oct%2C%20or%20weekdays%29%3A%0A-%20Preferred%20time%20%28e.g.%2010am%2C%20or%20morning%29%3A%0A%0A%28Photos%20help%20a%20lot%21%20Please%20book%20at%20least%202%E2%80%933%20days%20ahead%20%E2%80%94%20ideally%20a%20week.%20Same-day%20or%20next-day%20requests%20may%20not%20be%20possible.%29) works too.
-> We'll set up a recurring cleaner, brief them in Korean, and relay
-> everything back in English. Asking costs nothing — you pay only for
-> the work you book.
 
 The permission slip, since nobody local seems to hand one out: hiring
 regular help is ordinary here, cheap by international standards, and

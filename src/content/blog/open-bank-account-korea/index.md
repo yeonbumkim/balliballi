@@ -288,13 +288,6 @@ weekday banking hours, with documents whose names you have not
 learned yet — and where "come back with a different paper" costs
 you another morning off work.
 
-> **About to go and open one?** Message us on
-> [WhatsApp](https://wa.me/821075191282) with your situation — visa
-> type, whether you have the ARC yet, what you need the account to
-> do. Our [anything-else concierge service](/etc) will tell you what
-> to bring, and can come to the branch and translate so you do it
-> once rather than twice. Asking costs nothing — you pay only for the work you book.
-
 ## Get it sorted
 
 The one-line version: **you need the ARC, a Korean phone number and

@@ -146,10 +146,3 @@ One more heat casualty nobody warns you about: keypad door lock
 batteries drain faster in extreme temperatures. If yours dies and locks
 you out, here's
 [how to get back in](/blog/keypad-door-lock-dead-locked-out-seoul/).
-
-## Get it sorted
-
-> **Stuck figuring out a refund, a rescheduled game, or anything else
-> that's suddenly in Korean?** Message us on
-> [WhatsApp](https://wa.me/821075191282) — we'll sort it out in
-> English. Asking costs nothing — you pay only for the work you book.

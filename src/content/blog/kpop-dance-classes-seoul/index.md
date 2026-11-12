@@ -70,10 +70,6 @@ stops from your flat are **different products at different prices**, and the
 neighbourhood moves the number as much as the class does. A price list would
 be a guess dressed up as information, and this site does not do that.
 
-So we do it the other way round: **you tell us where you are, and we find out
-what it costs there.** Real numbers, from the studios actually within reach
-of you, before you commit to anything.
-
 **And we ask at the local rate** — the price a Korean walking in off the
 street would be quoted, not a figure adjusted because the student is
 foreign. That is the entire point of having somebody make the call in
@@ -134,12 +130,6 @@ Four places this goes wrong for foreigners, and none of them is the dancing.
    not a single class — but many will let you try one, if you ask in the way
    that gets a yes.
 
-> **Want one near you rather than near the tourists?** Tell us your
-> neighbourhood and the evenings you are free on
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
-> [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20help%20finding%20a%20dance%20class.%0A%0A-%20Name%3A%0A-%20Neighbourhood%20or%20station%3A%0A-%20Evenings%20I%27m%20free%3A%0A-%20Beginner%20or%20experienced%3A%0A-%20One%20class%20or%20monthly%3A)
-> — we will find what is actually near you and tell you what it costs.
-
 ## Can a foreigner join a Korean dance class?
 
 **Yes — and the studio is usually surprised to be asked.** Most neighbourhood
@@ -162,9 +152,6 @@ same, which is why we can tell you that the cheap one near your flat is
 probably better value than the famous one across the city.
 
 ## Get it sorted
-
-Send us three things: **where you are, when you are free, and whether you
-want one class or a habit.** Add your level if you have one.
 
 We will come back with what is actually within reach of you, what each one
 costs, and an honest note about which will be hard in Korean — then book the

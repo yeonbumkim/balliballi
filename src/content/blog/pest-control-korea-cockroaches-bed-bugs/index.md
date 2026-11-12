@@ -350,10 +350,3 @@ treatment "didn't work" is that somebody wiped down the kitchen the next
 morning.
 
 ---
-
-**Stuck at the phone call?** That is the part we do. Send us a message
-on KakaoTalk, tell us what you've seen and where you live, and we'll
-ring the management office or a registered firm, ask the questions
-above, and come back to you in English with what they said and what they
-want to charge. **We take no commission from any pest control firm we
-put in front of you** — see [what else we handle](/etc).

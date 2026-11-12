@@ -192,10 +192,6 @@ not the medicine.
 
 ## Get it sorted
 
-> **Standing at the medicine stand unable to read a box?** Message
-> us on [WhatsApp](https://wa.me/821075191282) — send a photo and
-> we'll translate it, in English. Asking costs nothing — you pay only for the work you book.
-
 The one-line version: **convenience store for a fever at 2 a.m.
 (including children's syrups), pharmacy when it needs advice,
 clinic when it needs a prescription, 119 when it's serious — and

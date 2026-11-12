@@ -234,13 +234,6 @@ designs, the lot:
 It is the authoritative version, and it will be updated before we
 are.
 
-> **Stuck on the switch?** Send us a photo of your card or the
-> screen you are stuck on. Our
-> [anything-else concierge service](/etc) will tell you what it
-> says and what to press next, in English. First answer is free —
-> message us on [WhatsApp](https://wa.me/821075191282) or
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat).
-
 ## Get it sorted
 
 The one-line version: **top up a prepaid Climate Card by 31 August

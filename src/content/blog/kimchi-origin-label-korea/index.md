@@ -216,12 +216,6 @@ in Korean and tell you the answer in English.
 
 ## Get it sorted
 
-> **Want to know what's in a dish before you order it — or need something
-> asked in Korean?** Message us on
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
-> [WhatsApp](https://wa.me/821075191282) with a photo of the menu. Asking
-> costs nothing — you pay only for the work you book.
-
 While you're learning to read a Korean table, two more that pay off fast:
 [how a Korean restaurant actually works](/blog/korean-restaurant-how-it-works/)
 covers the side dishes, the cutlery drawer and the bill, and

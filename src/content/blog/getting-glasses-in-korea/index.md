@@ -239,18 +239,6 @@ a language you do not read, while a machine prints something. "Is
 this coating worth it, or is it an upsell?" is a real question and
 a hard one to ask through a translation app.
 
-> **Want someone on the phone while you are in the shop?** Message
-> us on [WhatsApp](https://wa.me/821075191282) and our [anything-else
-> concierge service](/etc) will find a shop near you, call ahead about
-> timing, or translate the upgrade conversation live so you know what you
-> are agreeing to. Asking costs nothing — you pay only for the work you
-> book.
->
-> One line we do not cross: contact lenses are regulated medical
-> devices here, so **we will not buy them on your behalf.** We will
-> get you to a shop and translate — the purchase is yours to make
-> in person.
-
 ## Get it sorted
 
 The one-line version: **walk into any optical shop, no prescription

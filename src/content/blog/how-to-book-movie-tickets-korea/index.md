@@ -159,17 +159,10 @@ sport it is elsewhere.
 Reading 자막/더빙 labels, racing an IMAX booking window through a Korean
 membership flow, or finding the one English-subtitled screening of the
 Korean film everyone's talking about — that's where a movie night dies in
-the planning stage. Through our
-[anything-else concierge service](/etc), tell us the film, the format and
-the night, and we book the seats — center block, subtitled version
-confirmed — and send you the ticket. Asking costs nothing — you pay only for the work you book.
+the planning stage. Give it ten minutes and the vocabulary above rather than
+five minutes and a guess, and book earlier in the week than feels necessary.
 
 ## Get it sorted
-
-> **Chasing IMAX seats or just want Friday sorted?** Message us on
-> [WhatsApp](https://wa.me/821075191282) with the movie and your preferred
-> time — we'll confirm the subtitled screening and book the good seats
-> before they're gone. Asking costs nothing — you pay only for the work you book.
 
 And for a first taste of why Korean cinema culture is special: book a
 recliner hall for a film you already wanted to see, order the half-caramel

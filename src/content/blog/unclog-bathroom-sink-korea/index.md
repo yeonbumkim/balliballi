@@ -182,12 +182,9 @@ Typical ranges for professional work, as of 2026:
 
 **Nights, weekends and public holidays can carry a call-out surcharge** —
 that is how the trade works here, and anyone telling you otherwise is
-guessing. When we arrange a plumber through our
-[English-speaking plumbing service](/plumbing), the surcharge is inside the
-number you are given: the price is confirmed with you in the chat **before**
-work starts, never added to the invoice afterwards. Ask us in the chat and
-you get the figure for your actual time and job. If it can't be fixed, you
-pay nothing.
+guessing. Ask for the all-in figure for your actual time and job **before**
+work starts, and get it said out loud rather than left to the invoice. A
+surcharge named upfront is normal; one that appears afterwards is not.
 
 ## The Korean part
 
@@ -197,10 +194,10 @@ and — the big one — **who pays**. In Korea, clogs from daily use (hair,
 wipes, food scraps) are generally the tenant's cost, while aging pipes and
 structural problems are the landlord's. That conversation happens in Korean
 with your landlord or the building office (관리사무소, *gwallisamuso*), and
-a written diagnosis with camera footage settles it fast — which is exactly
-what we hand you when we arrange the visit. And if the landlord call is the
-part you're dreading, our [anything-else concierge service](/etc) makes
-that call in Korean for you.
+a written diagnosis with camera footage settles it fast — so ask the plumber
+for both before anyone leaves. And if the landlord call is the part you are
+dreading, the building office will often make it for you when the pipe is
+arguably theirs.
 
 This is also where the slow-versus-blocked distinction earns its keep. **A
 drain that has been getting slower for months is evidence of a pipe
@@ -212,12 +209,6 @@ position to be in when the bill is being decided.
 ![Water running freely down a clean bathroom basin drain](./basin-drain-running-clear.webp)
 
 *What you are aiming for · ⓒ @BalliBalliSeoul*
-
-> **Tried the ₩2,000 tricks and it's still backing up?** Send a photo or
-> video of the drain on [WhatsApp](https://wa.me/821075191282) — we'll
-> tell you whether it's a DIY fix or a plumber job, and if it's the
-> latter, arrange one with the price confirmed in English first. Asking
-> costs nothing — you pay only for the work you book.
 
 And a habit that prevents round two: drop a ₩1,000 hair-catcher net over
 the drain, and pull the stopper for a rinse once a month. Your future self

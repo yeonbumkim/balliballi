@@ -42,12 +42,11 @@ students use every intake.
 > **Rooms do come free**, usually between semesters and often at
 > short notice. As of **30 August 2026 all three of our houses are
 > full**, and the next rooms are **two singles from 24 December
-> 2026**. If you are looking, ask us on
-> [WhatsApp](https://wa.me/821075191282) or in our
-> [KakaoTalk open chat](https://open.kakao.com/o/glCt6lMh) and we
-> will tell you plainly what is actually available — including when
-> the answer is nothing right now. Everything else in this article
-> works whether or not you end up with us.
+> 2026**. If you are looking, email
+> **balliballiseoul@gmail.com** and we will tell you plainly what is
+> actually available — including when the answer is nothing right now.
+> **Our KakaoTalk and WhatsApp lines are closed.** Everything else in
+> this article works whether or not you end up with us.
 
 ## Why every site rejects you
 
@@ -180,12 +179,12 @@ the answer for a student-sized load.
 
 ## Get it sorted
 
-> **Semester's coming and the housing hunt is stuck?** Send us
-> your budget, university, and dates on
-> [WhatsApp](https://wa.me/821075191282) — if one of our own
-> rooms fits, we'll show it to you; either way we'll tell you
-> which door fits your budget and help with the Korean side.
-> Asking costs nothing — you pay only for the work you book.
+> **Semester's coming and the housing hunt is stuck?** Email
+> **balliballiseoul@gmail.com** with your budget, university and dates —
+> if one of our own coliving rooms fits, we will show it to you. That is
+> the only thing we still arrange: everything else Balli Balli Seoul used
+> to do [ended on 11 November 2026](/blog/notice-all-services-ended/), and
+> our KakaoTalk and WhatsApp lines are closed.
 
 If you are not a student — or you need a short lease rather than a
 semester — the same walls apply with different answers. The apps,

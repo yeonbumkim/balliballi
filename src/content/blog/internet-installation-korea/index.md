@@ -335,18 +335,6 @@ Then get three things confirmed in writing before you agree: the monthly
 price *without* a mobile bundle, the contract length, and the exact
 cancellation charge if you leave after twelve months.
 
-> **Call the carrier directly — that is the short version.** The three
-> numbers above are free and staffed in English, and there is no question
-> on this page they cannot answer better than a website can. Ask them
-> what you should be signing up for, and ask them to explain any word you
-> do not recognise.
->
-> **If that turns out to be hard, ask us instead.** Message us on
-> [WhatsApp](https://wa.me/821075191282) or
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — with your address and
-> how long your lease runs if you have them, and without them if you do
-> not. Asking costs nothing.
-
 ## Get it sorted
 
 Check the 관리비 first. If internet is not included, work out how long
@@ -365,19 +353,16 @@ need a middleman and you should not pay for one.
 word on the quote means, whether your building already has a line — that
 is what the foreigner line is for, and it is free.
 
-**If that turns out to be hard, ask us instead.** People usually get
-stuck in one of four places: the line keeps office hours you are also
-working, the verification wall stops you before you get a price, the
-address turns out to be complicated, or the quote does not match what
-you were told. Message us on
-[WhatsApp](https://wa.me/821075191282) or
-[KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we take it from there
-in Korean — through our [concierge service](/etc), which you pay for and
-nobody else does.
+**If that turns out to be hard, these are the four places people get
+stuck:** the English line keeps office hours you are also working, the
+verification wall stops you before you get a price, the address turns out
+to be complicated, or the quote does not match what you were told. Each
+one is worth naming on the call — say which it is and ask them to work
+around it, because they have heard it before.
 
 **No carrier pays us, and we take no share of any cash gift.** If a
-reseller is the better answer for your dates, we will say so, and that
-money goes to you rather than through us.
+reseller is the better answer for your dates, that money goes to you
+rather than through anybody else.
 
 If the move itself is still unsettled,
 [moving quotes in Seoul](/blog/moving-company-seoul-quotes/) and

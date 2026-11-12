@@ -256,13 +256,6 @@ fine.
 
 ## Get it sorted
 
-> **Found an artist on Instagram and the booking is all in Korean?** Send us
-> the account or the Naver link on
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we will book the slot,
-> describe what you want, ask what the total comes to, and tell you what they
-> said. We take no commission from any salon, and we do not recommend one we
-> have not seen the work of — the Korean is the part we are good for.
-
 The summary, if you take one line: **ask for the total before they start, and
 tell them when you have to leave.** Those two sentences prevent almost every
 bad nail appointment anyone has here.

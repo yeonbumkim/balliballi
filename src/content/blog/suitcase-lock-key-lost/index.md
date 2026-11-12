@@ -192,12 +192,5 @@ should get the shopping link and the walk.** That is the whole policy.
 
 ## Get it sorted
 
-> **Stuck on something and not sure whether it needs a professional at all?**
-> Send us a photo on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — or
-> [WhatsApp](https://wa.me/821075191282) — and we will tell you honestly which
-> of the three it is: **something you can do yourself, something a shop can do
-> for ₩20,000, or something that genuinely needs a call-out.** Asking costs
-> nothing, and sometimes the answer is that you do not need us.
-
 And the line worth keeping: **a call-out is mostly the journey.** Before you
 pay for one, check whether the thing that is stuck can come to you instead.

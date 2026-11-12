@@ -232,24 +232,6 @@ real life better than a fixed class timetable.
 
 This is something we arrange, so it is worth stating plainly:
 
-> **We can introduce you to a Korean teacher.**
->
-> - **All lessons run online, by video call** — so it does not
->   matter which country or time zone you are in
-> - **In Seoul?** Ask about **in-person lessons** as well
-> - Tell us your current level, what you are aiming at, and roughly
->   when you are free
->
-> **Not taking the exam?** That is the more common request, in fact.
-> Everyday conversation, the Korean for specific situations, or just
-> someone to practise speaking with are all normal things to ask
-> for — [we wrote about that
-> separately](/blog/korean-conversation-practice-real-situations/).
->
-> Message us on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
-> [WhatsApp](https://wa.me/821075191282) and we will
-> come back with options. **Asking costs nothing — you pay only for the work you book.**
-
 What we offer, and what it costs, is on our
 [Korean lessons page](/korean-lessons) — including a free ten-minute
 call with a teacher before you commit to anything. **Say if you are
@@ -289,5 +271,4 @@ The one-line version: **TOPIK I awards levels 1–2, TOPIK II awards
 3–6, your score picks the level rather than you — on a different
 scale for the paper and computer tests — writing is where
 most people lose marks, and past papers under a clock beat any app.
-Check topik.go.kr for the dates and the exact requirement — and if
-you want a teacher, ask us.**
+Check topik.go.kr for the dates and the exact requirement.**

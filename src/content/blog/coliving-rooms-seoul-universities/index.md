@@ -148,10 +148,9 @@ appointment in advance.
 - **Weekdays are sometimes possible** depending on the week — ask
   and we'll see what we can do
 
-So when you message us, tell us roughly **when you'd arrive in
-Korea** as well as which month you want the room. If your flight
-lands Saturday morning, we can often have you moved in the same
-weekend.
+So when you write, say roughly **when you'd arrive in Korea** as well as
+which month you want the room. If your flight lands Saturday morning, we
+can often have you moved in the same weekend.
 
 ## Why students choose a house like this
 
@@ -195,20 +194,15 @@ What you get with us specifically:
 
 ## How to ask
 
-Rooms go by conversation, not by form. Message us and tell us which
-campus, whether you want a single or a twin, and roughly when you'd
-move in.
+Rooms go by conversation, not by form. Email us and say which campus,
+whether you want a single or a twin, and roughly when you'd move in.
 
-> ### 💬 Two ways to reach us
+> ### 💬 How to reach us
 >
-> - **[WhatsApp](https://wa.me/821075191282)** — fastest, in English
-> - **[KakaoTalk open chat](https://open.kakao.com/o/glCt6lMh)** — if
->   you're already in Korea and on Kakao
->
-> Tell us: **which university**, **single or twin**, **your move-in
-> month**, and **when you land in Korea**. We'll tell you what's
-> free, what it costs, what the room looks like right now — and book
-> a time for the manager to meet you.
+> **Our KakaoTalk and WhatsApp lines are closed.** Room enquiries go to
+> **balliballiseoul@gmail.com** — put **which university**, **single or
+> twin**, **your move-in month** and **when you land in Korea** in the
+> first message, and we will reply with what is free and what it costs.
 
 Asking costs nothing and commits you to nothing. If we don't have
 what you need, we'll say so.
@@ -234,13 +228,12 @@ Things we'd rather you knew before you ask than after you arrive:
 ## Get it sorted
 
 > **Looking for a room near Kyung Hee, HUFS or Korea University?**
-> Message us on [WhatsApp](https://wa.me/821075191282) or
-> [KakaoTalk](https://open.kakao.com/o/glCt6lMh) — tell us the campus and
-> the month, and we'll tell you what's available. In English. Asking costs
-> nothing — you pay only for the work you book.
+> Email **balliballiseoul@gmail.com** with the campus and the month and we
+> will tell you what is available, in English. Asking costs nothing. Note
+> that our KakaoTalk and WhatsApp lines are closed, and the rest of what
+> Balli Balli Seoul used to arrange — plumbing, locksmiths, cleaning,
+> lessons, errands — [ended on 11 November 2026](/blog/notice-all-services-ended/).
 
-And if you end up living somewhere else entirely, the rest of this
-site still applies: we're the people who
-[unblock the drain](/plumbing), [open the door](/locksmith) and
-[make the Korean phone call](/etc) for foreign residents across
-Seoul.
+And if you end up living somewhere else entirely, the
+[guides on this site](/blog/) still apply — what things cost, who to
+call, and the Korean words you will need to say it in.

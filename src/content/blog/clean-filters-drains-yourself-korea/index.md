@@ -145,10 +145,11 @@ That is a phone call, and it is the one we make for you.
 Do the twenty minutes. It is genuinely most of the benefit, and it costs
 nothing.
 
-When you hit the line — the aircon that still smells with clean filters, the
-drain that is still slow with a clean trap, the silicone that has gone black
-— send us a photo. We will tell you which trade it is and what it should
-cost, and book it in Korean if you want us to.
+That line is worth knowing: the aircon that still smells with clean filters,
+the drain that is still slow with a clean trap, the silicone that has gone
+black. Past it, this stops being a cleaning job and becomes a trade's. Your
+building office (관리사무소) is the fastest route to the one they already
+use.
 
 If the flat has not had a proper going-over in a year, that is the
 [deep clean](/blog/deep-clean-korea-sorting-first/) rather than the twenty

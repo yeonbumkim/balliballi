@@ -82,17 +82,6 @@ the door.
 Which leaves you with a phone number and **a phone call that will
 be answered in Korean.**
 
-> ### We'll make that call for you
->
-> Tell us which Mass you're aiming for and we'll ring the parish
-> office, confirm this week's time in Korean, and send you back the
-> answer in English — including whether it's on at all this Sunday.
->
-> **[Message us on WhatsApp](https://wa.me/821075191282).** This one
-> is free, and there's nothing to buy. We do it because "a phone
-> call in Korean" is the exact wall this whole site exists to
-> remove.
-
 ## Ten more languages
 
 This is the part that surprised us when we pulled the schedule
@@ -224,11 +213,6 @@ That's the errand our
 something like this we'll just do it.
 
 ## Get it sorted
-
-> **Want this Sunday's time confirmed?** Message us on
-> [WhatsApp](https://wa.me/821075191282) with the church you're
-> thinking of. We'll call, ask in Korean, and reply in English.
-> Free, no catch.
 
 The one-line version: **five English Masses every Sunday — 9 a.m.
 at Myeongdong, 9 and 11 a.m. in Hannam-dong, 4 p.m. in Yeoksam-dong,

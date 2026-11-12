@@ -164,10 +164,6 @@ either. We [book and pay for it](/etc) and send you the door code.
 
 ## Get it sorted
 
-> **Kiosk won't take your card, or won't let you register?**
-> Message us on [WhatsApp](https://wa.me/821075191282) — we'll book
-> and pay for the hour and send you the code. Asking costs nothing — you pay only for the work you book.
-
 The one-line version: **"cafe" here means a room by the hour —
 gaming, studying, printing, washing, singing — you pay at a kiosk
 before you use it, and most of them never close.**

@@ -185,11 +185,6 @@ The fourth is the one worth preparing for. Bring the photographs, know
 which items are wear and which are damage, and put anything agreed in
 writing rather than in a doorway.
 
-> **Not sure whether a deduction is fair?** Send us the photos and what
-> you have been told on [WhatsApp](https://wa.me/821075191282) — we'll
-> read the Korean, tell you what is normal, and put your side of it back
-> in Korean if you want us to. Asking costs nothing.
-
 ## Get it sorted
 
 Book the disposal first, the clean second, and photograph the empty flat

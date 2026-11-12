@@ -163,9 +163,8 @@ picture of clear broth, it isn't.
 
 The flavour names are in Korean, the heat warnings are in Korean,
 and the difference between "very spicy" and "the one that made
-people cry on YouTube" is one word on a lid. Send us a photo of the
-shelf and our [anything-else concierge service](/etc) will tell you
-what you're holding — before you buy four of them.
+people cry on YouTube" is one word on a lid. Photograph the lid and
+run it through a translation app before you buy four of them.
 
 Two aisles over on the same shelf run is the other thing Korea buys by
 the boxful — **coffee sticks.** Same logic, same colour-coded packaging,
@@ -173,10 +172,6 @@ same "which one is the sweet one" confusion: we sorted
 [Maxim and KANU out here](/blog/korean-instant-coffee-maxim-kanu/).
 
 ## Get it sorted
-
-> **Standing in front of the ramyeon wall?** Snap it and message us
-> on [WhatsApp](https://wa.me/821075191282) — we'll tell you which
-> cup is which, in English. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **original buldak is 4,404 and manageable,
 Nuclear is 8,706 and isn't, carbonara is the gentle one, cups are

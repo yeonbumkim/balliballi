@@ -2,7 +2,7 @@
 title: "How to Throw Away Trash in Korea Without Getting Fined"
 description: "Korea's four waste streams explained: district bags, mandatory food-waste separation, recycling rules, and the official process for bulky items."
 pubDate: 2026-08-06T08:30:00+09:00
-updatedDate: 2026-09-07T16:50:00+09:00
+updatedDate: 2026-10-16T11:30:00+09:00
 service: etc
 category: settling-in
 tags: ["trash", "recycling", "food-waste", "bulky-waste", "moving-out"]
@@ -49,7 +49,7 @@ counters as the general ones — ask for them by name, and again, buy them
 in your own district. The counterintuitive
 part: things animals can't eat are *not* food waste — bones, big shells,
 eggshells, tea bags and fruit pits generally belong in the general bag.
-When in doubt, ask us or your building office.
+When in doubt, ask your building office.
 
 **3. Recycling (재활용)** is free, but sorted by material: paper, cardboard
 (flattened), plastic, PET bottles (labels peeled, caps separate in many
@@ -126,6 +126,41 @@ the morning of. And your building may have its own rules about where bulky
 items wait for pickup, so a quick word with the building office (관리사무소)
 saves an argument.
 
+### When you cannot physically move it
+
+A wardrobe on the fourth floor of a villa with no lift is not a thing one
+person carries down. The standard instructions assume you can get the item to
+the collection point yourself, and plenty of people cannot.
+
+**The part nobody tells foreign residents: you can pay to have it carried
+out.** Alongside the basic declaration, in-home collection (방문수거) is
+offered as a paid add-on — the crew comes up, takes the item out of your flat,
+and removes it. **It costs more than the standard fee**, and the surcharge
+depends on the item, the floor and whether there is a lift, so ask for the
+total when you book rather than assuming the posted fee covers it.
+
+That is usually the right answer, and it is worth knowing before you spend a
+Saturday wrestling a sofa down a stairwell.
+
+If you would rather not pay for it:
+
+- **Ask the building first.** In an apartment complex the 관리사무소 can often
+  tell you the right spot, the right day, and occasionally arrange help. It
+  costs a conversation.
+- **Two people and an hour.** Most single items are a two-person job rather
+  than a crew one. Doors come off hinges; sofa legs usually unscrew.
+- **Hire a 용달 — a one-ton truck with a driver**, if it is going somewhere
+  rather than being scrapped. [What a yongdal is and whether your load
+  fits](/blog/yongdal-1-ton-truck-korea/) covers how that works. **We do not
+  arrange this** — [we stopped doing moving and delivery in October
+  2026](/blog/notice-moving-delivery-ended/) — but it is a short Korean phone
+  call and we can make it with you.
+
+**And one route that skips the fee entirely:** charities and social
+enterprises collect usable furniture and appliances for free, and several will
+come to the door. If the item still works, that is worth a call before you pay
+a disposal fee to have the same thing taken away.
+
 Before you pay to throw furniture away, though: if it still works, Koreans
 sell or give it away on secondhand apps first — [당근 is how that works](/blog/dangeun-secondhand-korea/), and one person's disposal fee
 is another's free pickup. Worth an hour's try.
@@ -146,19 +181,7 @@ won or lost with the photographs you took
 [on the day you moved in](/blog/photograph-your-flat-move-in-day/),
 repeated from the same angles on the way out.
 
-This is a thing we handle constantly, especially around move-outs. Through
-our [anything-else concierge service](/etc) we can file the bulky-waste
-declaration for you and get the sticker sorted — and for
-everything else (which bag, which bin, which night, what your specific
-building expects), our [anything-else concierge service](/etc) answers in
-plain English.
-
 ## Get it sorted
-
-> **Moving out, or staring at a wardrobe you can't legally throw away?**
-> Send us a photo on [WhatsApp](https://wa.me/821075191282) — we'll tell you
-> what it costs to dispose of, file the district report for you, and arrange
-> muscle if you need it. Asking costs nothing — you pay only for the work you book.
 
 And the one-line version to keep: **general waste in the district bag, food
 waste separate, recycling rinsed and sorted, big stuff reported first.**

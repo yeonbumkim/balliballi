@@ -205,10 +205,6 @@ actually sells.
 
 ## Get it sorted
 
-If you are arriving and furnishing a room, or leaving and clearing one, tell us what
-you have or what you need. We will write the listing in Korean, read the replies back
-to you in English, and sort the meeting out.
-
 If it is a move rather than a clear-out, that is a different job — see
 [moving company quotes in Seoul](/blog/moving-company-seoul-quotes/).
 

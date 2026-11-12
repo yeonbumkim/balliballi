@@ -2,7 +2,7 @@
 title: "Aircon Cleaning in Korea: Do It When Summer Ends"
 description: "Switch a Korean aircon off wet in September and it stays wet until May. Why the end of summer is the right time to clean it, and what the job actually is."
 pubDate: 2026-09-07T15:17:00+09:00
-updatedDate: 2026-09-14T16:30:00+09:00
+updatedDate: 2026-10-16T10:00:00+09:00
 service: cleaning
 category: home
 tags: ["aircon", "cleaning", "mould", "summer", "landlord"]
@@ -66,6 +66,34 @@ drips into the drain tray and stays there.
 ![An air conditioner running with the vent fully open, showing the louvres and the interior behind them](./vents-open-running.webp)
 
 *Past the louvres it is fins and a fan, and they do not rinse · ⓒ @BalliBalliSeoul*
+
+## 장마 is what does the damage
+
+The reason a Korean aircon ends a summer in worse condition than one
+somewhere drier has a name: **장마 (jangma), the monsoon.**
+
+For weeks the air outside sits at eighty or ninety per cent humidity, and
+the unit runs almost continuously — often in dehumidify mode, which is the
+setting that pulls the most water out of the air. All of that water
+condenses on the cooling fins inside, drains across the tray and out, and
+leaves the inside of the machine permanently damp for the length of the
+rainy season.
+
+**Then the rain stops, the weather cools, and you switch it off.** Damp,
+dark, closed, undisturbed — and that is every condition mould needs, held
+for eight months.
+
+### Why that is not only a smell problem
+
+What grows in there does not stay in there. The next time the unit runs, it
+blows through those fins into a closed room, and the first people to notice
+are usually the ones with asthma, allergies or small children.
+
+Which is the honest case for doing this: **the smell is the symptom you
+notice, not the thing that matters.** If somebody in the house is reacting
+to the air at home, that is worth a doctor's opinion as well as a cleaner's
+— but a unit that has sat wet since August is the obvious place to start
+looking.
 
 ## Why the shoulder season is the whole point
 
@@ -211,11 +239,6 @@ Filters are the part a whole-flat deep clean already covers — [what actually c
    is a conversation, and it goes better in writing.
 4. **Checking the work.** Ask to see the runoff water. A full strip
    produces a bucket of it, and you will not need it explained.
-
-> **Not sure which one you are being quoted?** Send us a photo of the
-> unit on [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20a%20cleaning%20quote.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Home%20size%20%28pyeong%20or%20m2%29%3A%0A-%20What%20I%20need%20%28move-in%20deep%20clean%20%2F%20housekeeping%20%2F%20mold%20%2F%20Airbnb%29%3A%0A-%20Preferred%20day%20%28e.g.%20Sat%204%20Oct%2C%20or%20weekdays%29%3A%0A-%20Preferred%20time%20%28e.g.%2010am%2C%20or%20morning%29%3A%0A%0A%28Photos%20help%20a%20lot%21%20Please%20book%20at%20least%202%E2%80%933%20days%20ahead%20%E2%80%94%20ideally%20a%20week.%20Same-day%20or%20next-day%20requests%20may%20not%20be%20possible.%29) — we'll ask the
-> question in Korean and come back with a price per unit for the job
-> you actually want. First answer is free.
 
 ## Get it sorted
 

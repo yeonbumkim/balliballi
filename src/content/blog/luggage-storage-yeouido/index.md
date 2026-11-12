@@ -251,10 +251,6 @@ Locker screens are the usual obstacle — Korean-first, a payment method you may
 have loaded, and a code you cannot afford to lose. The staffed desk sidesteps all of
 that, which is the real reason to start there.
 
-If you are stuck at a screen, send us a photo of it and we will tell you which button
-to press. If a bag has gone somewhere it should not have, we will make the call in
-Korean.
-
 For getting around Yeouido and the rest of the city, the
 [Seoul transport guide](/blog/seoul-transportation-guide/) covers cards and fares, and
 [Naver Map](/blog/naver-map-korea/) will get you to the right exit — which, for

@@ -210,12 +210,6 @@ activated in an afternoon.
 
 ## Get it sorted
 
-> **Phone shopping in Seoul — or flying out with one?** Message us
-> on [WhatsApp](https://wa.me/821075191282) with the model you're
-> after — we'll find it in stock, check the discounts, and brief
-> you on the shutter-sound situation for your destination. First
-> answer is free.
-
 The takeaway: buy with confidence, it works everywhere — and when
 your camera goes quiet somewhere over the Pacific, now you'll know
 it's a feature, not a glitch.

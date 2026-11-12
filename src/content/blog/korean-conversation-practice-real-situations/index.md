@@ -131,20 +131,6 @@ months.
 
 *Elli, one of the teachers we introduce · ⓒ Balli Balli Seoul*
 
-> **We can introduce you to a Korean teacher** — and this kind of
-> lesson is the most common request, not the exam kind.
->
-> - **All lessons run online, by video call**, so your location and
->   time zone do not matter
-> - **In Seoul?** Ask about **in-person lessons** too
-> - Tell us **what you want to be able to do** — hold a conversation,
->   handle specific situations, sound less stiff, or just practise
->   speaking with someone patient
-> - Tell us your rough level and when you are free
->
-> Message us on [WhatsApp](https://wa.me/821075191282) and we will
-> come back with options. **Asking costs nothing — you pay only for the work you book.**
-
 Rates and how it works are on our
 [Korean lessons page](/korean-lessons), and there is a free
 ten-minute call with a teacher first — which is the sensible way to
@@ -167,9 +153,8 @@ minds.
 
 A contract, a hospital admission, a dispute with a landlord, a
 deposit you might lose: **do not make these your practice ground.**
-That is what our [anything-else concierge service](/etc) is for. We
-will take the call in Korean and tell you in English what was
-actually said.
+Those want a professional interpreter, or a bilingual friend who owes
+you a favour — not your third month of lessons.
 
 ## Get it sorted
 

@@ -206,17 +206,6 @@ roughly 62 km — runs about ₩50,000–60,000 in daytime**, before
 tolls. Somewhere closer, like Hongdae, is less. At 1 a.m. it is
 meaningfully more.
 
-> ### Not sure what your ride should cost?
->
-> **Tell us the route and the time — "Incheon Airport to Hongdae,
-> landing 1 a.m." — and we'll tell you roughly what the meter should
-> read, and what it should *not*.**
->
-> [Message us on WhatsApp](https://wa.me/821075191282). If you've
-> already taken the ride and the number felt wrong, send us the
-> receipt and we'll read it. **Free — this one is just so nobody
-> gets fleeced.**
-
 ### Uber vs Kakao T
 
 | | Uber | Kakao T / K.Ride |
@@ -323,11 +312,6 @@ which card to get, book the awkward leg, and write your destination
 in Korean so you can show a driver.
 
 ## Get it sorted
-
-> **Not sure which one to use, or stuck at a machine?** Message us
-> on [WhatsApp](https://wa.me/821075191282) — tell us where you're
-> going and we'll give you the route in English, and book it if it
-> needs Korean. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **subway by day, taxi after midnight, Uber in
 Seoul and Kakao outside it, the card covers day trips as far as

@@ -281,13 +281,6 @@ part of the paper you can fix in a few evenings.
 
 ## Get it sorted
 
-> **It is the speaking part that stops people, not this.** The society section
-> rewards reading and remembering; the interview does not, and it is the one
-> thing nobody can practise alone. Tell us your level and your test date and we
-> will set up Korean lessons in English around it.
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) is the easiest way to reach
-> us, and prices are on the [Korean lessons page](/korean-lessons).
-
 If you take one thing from this page, take the fifteen days. Everything else
 here is a mark on a paper. That one is a deadline with a fine attached, and it
 starts the day the boxes arrive.

@@ -230,15 +230,6 @@ That last one is where most foreign tenants lose money. Not because they are
 wrong, but because making the case in Korean, to a landlord who would rather
 patch it again, is hard.
 
-That is what we do. Send us the symptom, the quote you were given, or the
-message from your landlord, and our
-[English-speaking plumbing service](/plumbing) will read it, tell you whether
-the number is fair, and make the call in Korean.
-
-> **Been quoted for a boiler?** Send us a photo of the quote and of the boiler
-> on [WhatsApp](https://wa.me/821075191282) — we'll tell you what the spec
-> means and whether the price is in the normal range. Asking costs nothing — you pay only for the work you book.
-
 The one-line version: **a condensing gas boiler fitted in Seoul lands
 between ₩900,000 and ₩1,050,000, check that 용량 and 연료타입 match your flat, insist
 on the CO alarm — and if it's age or wear, the bill belongs to your landlord,

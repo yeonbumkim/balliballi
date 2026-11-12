@@ -49,13 +49,6 @@ into tied bags and staged out of sight. The bags leave the building tonight,
 at the hour your building actually collects. That single change makes the rest
 of this plan work.
 
-> **Do not know your building's night?** That is one Korean phone call to the
-> 관리사무소, and it is the one thing on this page we can genuinely do for you
-> **in the next ten minutes**. Message us on
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) with your address — we will
-> ring them and tell you the night, the hour and the spot. No charge, and
-> nothing to book.
-
 ## Before you touch anything: who is coming?
 
 Twenty seconds of thinking here saves you forty minutes of cleaning the wrong
@@ -274,15 +267,6 @@ difficult:
    tonight is recycling night, whether the bin by the gate is yours to use.
 3. **Buying the right bag.** District, size and type, at a counter, in Korean.
 4. **Telling a technician you need twenty minutes** before they come up.
-
-> **Someone is coming and you are reading this at the wrong end of the
-> morning?** Send us your address on
-> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — or
-> [WhatsApp](https://wa.me/821075191282) if that is what you have — and we
-> will ring your building, find out when the bags can go out, and tell you in
-> English. **That answer is free and it takes one call.** If what you actually
-> need is a cleaner, tell us the date and we will quote it properly, which
-> means not this afternoon.
 
 > **Last verified: 23 October 2026.** Bag rules, collection windows and fines
 > are set by each district and change; your building's notice board and the

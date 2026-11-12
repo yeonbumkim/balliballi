@@ -275,12 +275,6 @@ small errand it exists for.
 
 ## Get it sorted
 
-> **Want a box shipped somewhere, or stuck on a Korean-only checkout?**
-> Message us on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
-> [WhatsApp](https://wa.me/821075191282) and we'll place the order in
-> Korean and send you the tracking. Asking costs nothing — you pay only
-> for the work you book.
-
 The one-line version: **Maxim is coffee with sugar and creamer, KANU is
 black, both come in sizes that fit a suitcase, and the best cup you'll
 have of either is at the top of a mountain with a thermos.**

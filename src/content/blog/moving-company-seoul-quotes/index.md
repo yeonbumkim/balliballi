@@ -165,11 +165,6 @@ A Tuesday in the middle of a lunar month is the cheapest truck in Korea.
 If your landlord is flexible by a few days, get quotes for both and
 compare.
 
-> **Not sure which tier you were quoted?** Send us the quote on
-> [WhatsApp](https://wa.me/821075191282) — we'll read the Korean and tell
-> you what it actually covers and whether the number is normal for that
-> job. Asking costs nothing.
-
 ## Before you sign
 
 Three questions, asked in this order, prevent almost every moving-day

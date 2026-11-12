@@ -187,12 +187,6 @@ they are not language services. The call is in Korean, the
 bag — the make, the colour, what was inside — has to survive being
 translated by whoever picks up.
 
-> **Left something on a train and not sure who to call?** Message
-> us on [WhatsApp](https://wa.me/821075191282) with the line, the
-> station and the door number if you have it — our
-> [anything-else concierge service](/etc) will make the calls in
-> Korean and tell you where your bag is. Asking costs nothing — you pay only for the work you book.
-
 If you are still working out which line you were even on, the
 [colour-coded line guide](/blog/seoul-subway-lines-guide/) is the
 place to start, and the

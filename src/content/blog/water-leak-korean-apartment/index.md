@@ -307,11 +307,6 @@ telling you.
 
 ## Get it sorted
 
-> **Water where it shouldn't be?** Message us on
-> [WhatsApp](https://wa.me/821075191282) with photos — we'll tell
-> you who to call first, what it's likely to cost, and make the
-> Korean calls if you want us to. Asking costs nothing — you pay only for the work you book.
-
 The one-line version: **management office before neighbour, photos
 before argument, check whether you already have liability insurance,
 find the leak before you break anything — and don't expect
