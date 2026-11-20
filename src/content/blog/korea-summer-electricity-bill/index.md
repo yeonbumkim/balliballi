@@ -79,8 +79,8 @@ Two air conditioners, opposite instructions:
 *26°C on the remote — the setpoint most guides land on · ⓒ @BalliBalliSeoul*
 
 **How to tell which you have**: look for 인버터 on the indoor unit
-label, the remote, or the model number — a translation app pointed at
-the sticker will settle it. This single question decides whether
+label, the remote, or the model number — or send us a photo of the
+sticker and we'll read it. This single question decides whether
 your instinct ("turn it off when I leave the room") is saving you
 money or costing you.
 
@@ -225,6 +225,12 @@ This heat is not normal even by Korean standards — it's already
 — so run the AC when you need it. Just run it knowingly.
 
 ## Get it sorted
+
+> **Bill you can't read, aircon that smells, or a cashback form in
+> Korean?** Send us a photo on
+> [WhatsApp](https://wa.me/821075191282) — we'll translate the
+> bill, tell you which tier you're in, and arrange the aircon
+> cleaning if that's the fix. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **know your tier and your meter date, leave
 an inverter running at 26°C, spend the hot hours in a bank or a

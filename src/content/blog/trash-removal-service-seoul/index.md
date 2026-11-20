@@ -125,6 +125,11 @@ are the parts we handle.
 **We buy the district bags for you** where that is what is needed, and pass
 them on at what they cost.
 
+> **Not sure whether this is a one-hour job or a bigger one?** Send a photo of
+> the room on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
+> [WhatsApp](https://wa.me/821075191282) and we will tell you which of the
+> lines above it is, and what the total comes to. Asking costs nothing.
+
 ## When it is a deep clean instead
 
 There is a line worth being honest about, because paying for the wrong one

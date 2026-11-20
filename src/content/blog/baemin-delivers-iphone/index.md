@@ -148,6 +148,10 @@ For food that is survivable. For something that costs as much as a
 month's rent, guessing is less comfortable: which shop is authorised,
 what the warranty card says, what happens if it arrives damaged.
 
+That is the part we do. Tell us what you are trying to buy and
+[we will find whether it is deliverable near you](/etc), read the shop's
+terms, and put the right thing in the rider box in Korean.
+
 And if you have not decided **where** to buy it yet — Apple Store, a
 Korean retailer, or online — the trade-offs are different for a foreigner
 than for a local, particularly around the tax refund and the 24-month

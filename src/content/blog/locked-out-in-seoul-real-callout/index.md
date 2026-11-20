@@ -90,6 +90,12 @@ What pushes it up, roughly in order:
 Guide ranges for the usual work are on the [locksmith page](/locksmith), and the log
 beside them shows what individual jobs actually came to.
 
+> **Stuck outside a room right now?** Send us a photo of the handle on
+> [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27m%20locked%20out%20of%20a%20room.%0A%0A-%20Name%3A%0A-%20District%3A%0A-%20Is%20there%20a%20small%20hole%20or%20slot%20in%20the%20handle%3F%3A%0A-%20Can%20you%20prove%20you%20live%20there%3F%3A)
+> — if it has a pinhole we will tell you how to open it yourself and charge you
+> nothing. If it doesn't, we come back with one price and a time, in English, before
+> anyone is sent.
+
 ## If someone or something is inside
 
 A locked bedroom stops being a minor annoyance when there is a child, a pet, a
@@ -128,10 +134,10 @@ until the door is open.
 Check the outside of the handle before anything else. A hole means a paperclip; a
 slot means a coin; neither means it is a real lock and someone has to come.
 
-If it comes to that, it is a locksmith's job. The
-[locksmith page](/locksmith) still carries the guide ranges and the running
-log of what real jobs cost, which is what tells you whether the number at
-your door is normal.
+If it comes to that, message us with your district and a photo of the handle. The
+[locksmith page](/locksmith) carries the guide ranges and the running log of what
+real jobs cost. We arrange the locksmith and handle the Korean side — the work is
+done by the independent local pro we send, and their charge is theirs.
 
 For a front door rather than a bedroom one, the digital-lock guides are more use:
 [what to do when your keypad lock dies](/blog/keypad-door-lock-dead-locked-out-seoul/)

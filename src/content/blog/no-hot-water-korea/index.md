@@ -133,6 +133,11 @@ Also call, rather than investigate, if you find water under the boiler,
 if the flue pipe at the top looks loose or disconnected, or if the
 thing is making a noise it did not make last week.
 
+> **Stuck on the Korean part?** Send us a photo of the controller and
+> the boiler on [WhatsApp](https://wa.me/821075191282) — we'll tell you
+> what the code means and whether this is a supplier call or an engineer
+> call, in English. First answer is free.
+
 ## Every brand has its own service line
 
 There is no single national boiler helpline. The maker's service number

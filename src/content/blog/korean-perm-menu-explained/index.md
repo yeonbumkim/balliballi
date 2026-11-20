@@ -287,6 +287,14 @@ everybody.
 
 ## Get it sorted
 
+> **Found a stylist on Instagram and the booking is in Korean?** Send us the
+> account or the Naver link on
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we will book the slot,
+> describe exactly what you want, ask what it comes to at your hair length,
+> and tell you what they said back. No salon pays us anything, so we have no
+> opinion about which one you should use — the Korean is the part we are good
+> for.
+
 The one sentence worth remembering: **ask the price for your own hair length,
 and ask how long it takes, before anyone starts mixing anything.** Almost
 every bad salon story in Korea is one of those two questions, unasked.

@@ -296,6 +296,23 @@ So the case for a tutor is a narrow one:
 
 *Elli — a career teacher, and the one to ask for patient beginner work · ⓒ Balli Balli Seoul*
 
+> **We match you with a Korean teacher** — conversation, the
+> Korean for specific situations, workplace Korean, or TOPIK
+> preparation.
+>
+> - **Free 10-minute trial**, then **₩50,000 (about US$40) for a
+>   40-minute 1:1 lesson**
+> - **Online by video call** — Zoom, KakaoTalk or Teams — so your
+>   country and time zone do not matter. **In person in Seoul** is
+>   available too
+> - Booked as you go. No package, nothing prepaid
+>
+> Both teachers, and what each is best for, are on our
+> **[Korean lessons page](/korean-lessons)**. Or message us on
+> [WhatsApp](https://wa.me/821075191282) or
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — first answer is
+> free.
+
 **Not in Seoul, or not in Korea yet?** Everything above this line —
 the city classes, the institutes, the churches — is Seoul only.
 Video lessons are the one option on this page that does not care
@@ -331,6 +348,13 @@ often happens in Korean.** Free class registration runs through
 district and centre websites, university institutes want
 documents, application windows close months ahead of the term, and
 the popular slots go to whoever could read the announcement.
+
+> **Not sure which of these fits you?** Message us on
+> [WhatsApp](https://wa.me/821075191282) with your level, your
+> schedule and what you are aiming at — our
+> [anything-else concierge service](/etc) will tell you honestly
+> which route makes sense, including when that route is a free
+> class rather than us.
 
 ## Get it sorted
 

@@ -162,5 +162,11 @@ filters come out:
 
 ## Get it sorted
 
+Send us photographs of the kitchen, the bathroom and anything that looks bad.
+We will tell you whether it is a partial clean or the full job, what it should
+cost, and we will put the two questions above to the crew in Korean before
+anyone is booked — so that what arrives is the version that takes things
+apart.
+
 Prices are quoted before VAT, and parking is billed at what it costs. The
 [cleaning page](/cleaning) has the rest of the price list.

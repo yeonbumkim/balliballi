@@ -282,9 +282,16 @@ Being stuck in a room in a country where you do not speak the language is worse 
 the door deserves. You cannot explain the handle, you cannot describe the building,
 and the number you were given rings out in Korean.
 
+That is the gap we sit in. Send us a photo of the handle from where you are standing.
+We will tell you whether this is the push-and-pull, and if it is not, we make the call,
+agree the price first, and stay on the chat until the door is open.
+
 ## Get it sorted
 
 If anyone is in danger, **119**, and let them take the door.
 
 If not: check whether the latch is moving, push and pull while you turn, and message
 somebody who is physically close before you message anybody with a van.
+
+**KakaoTalk is the easiest way to reach us**, and WhatsApp works too. Say that you are
+on the inside. Asking costs nothing.

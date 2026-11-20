@@ -161,6 +161,12 @@ specific moment stumps you, our
 
 ## Get it sorted
 
+> **Standing at a counter unsure what the local script is?**
+> Message us on [WhatsApp](https://wa.me/821075191282) — send a photo of
+> the screen or the menu and we'll tell you what's expected, in English,
+> before the awkward pause gets long. Asking costs nothing — you pay only
+> for the work you book.
+
 The one-line version: **the listed price is the whole price, the
 kiosk has no tip button, and "gamsahamnida" plus a five-star
 review is the local way to say thanks.** Keep your cash — you'll

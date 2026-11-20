@@ -209,6 +209,13 @@ explained in
 
 ## Get it sorted
 
+> **Want the good shop booked before you land?** Message us on
+> [WhatsApp](https://wa.me/821075191282) — our
+> [anything-else concierge service](/etc) reserves the hanbok (right
+> tier, right size, hair slot included), checks the palace calendar
+> against your dates, and answers the day-of questions in English.
+> First answer is free.
+
 The one-line version: **premium tier, weekday morning, palace first,
 Tuesday is the wrong day, and reserve in blossom season.** Do that
 and you'll out-photograph everyone who walked in off the street.

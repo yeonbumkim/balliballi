@@ -136,7 +136,19 @@ above correctly.
   your host — which means someone has to reach the host, in Korean, and relay
   the situation accurately.
 
+If you'd rather not fight through that at 11 PM in a hallway, that's the part
+we do. You describe the problem in English with a photo of the lock; we handle
+every Korean conversation — the locksmith, the verification, the host if it's
+an Airbnb — and report back in your chat. And if your problem turns out to be
+something other than the lock, our [anything-else concierge
+service](/etc) covers the weird ones too.
+
 ## Get it sorted
+
+> **Locked out right now?** Send a photo of your lock and your address on
+> [WhatsApp](https://wa.me/821075191282) — we'll tell you whether the 9V trick
+> will work, and if not, arrange a locksmith with a fixed quote, in English.
+> Asking costs nothing — you pay only for the work you book.
 
 One more thing for next time: Korean locks warn you before the battery dies.
 Depending on the model, the inside unit's light turns from green to red, the

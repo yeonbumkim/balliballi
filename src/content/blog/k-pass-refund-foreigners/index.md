@@ -213,6 +213,12 @@ The two things that stop people are both fixable. **Register the card, not
 just order it** — trips before registration do not count. And **check the
 right date for your card** before deciding the refund never came.
 
+> **The Korean part is what we do.** If the sign-up screen stops you, or the
+> card company's Korean-only help desk does, describe it in English on
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we will tell you whether
+> it is something we can take on. Asking costs nothing, and if it is not
+> ours, we will say so and point you at who it belongs to.
+
 Rates, thresholds and payment dates are as published in **October 2026**, and
 this scheme has been revised every year it has existed. The off-peak boost is
 confirmed only to **31 December 2026**. Check

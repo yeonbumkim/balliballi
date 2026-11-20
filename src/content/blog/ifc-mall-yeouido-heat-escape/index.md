@@ -185,6 +185,13 @@ sunburn:
 
 ## Get it sorted
 
+> **Planning a day in Seoul around the heat — or stuck on a
+> Korean-only booking page?** Message us on
+> [WhatsApp](https://wa.me/821075191282) and our [anything-else concierge
+> service](/etc) will map the day, book what needs booking, and answer the
+> questions in English. Asking costs nothing — you pay only for the work
+> you book.
+
 The one-line version: **take Line 5 or 9 to Yeouido, never go
 outside, watch a film, eat, sit in a cafe, and glance at the L3
 atrium on your way past to see what's set up in it this month.**

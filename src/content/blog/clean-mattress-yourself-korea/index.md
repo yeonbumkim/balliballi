@@ -253,6 +253,13 @@ Prices for the booked version — per item, by size and condition — are in
 and where upholstery sits among the Korean cleaning categories is in
 [deep cleaning](/blog/deep-clean-korea-sorting-first/).
 
+> **Not sure whether yours is worth cleaning or replacing?** Send a photo on
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — or
+> [WhatsApp](https://wa.me/821075191282) — and tell us how old the stain is.
+> We will tell you honestly which of the three it is: **a weekend with a
+> rented machine, a job for a crew, or a mattress that has had its life.**
+> Asking costs nothing.
+
 ## Get it sorted
 
 Buy the waterproof cover today, whatever else you decide. If the mattress

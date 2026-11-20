@@ -227,7 +227,19 @@ Everything above happens in Korean: the listing, the agent, the
 contract, the landlord's answer about the boiler, the negotiation
 over the management fee.
 
+Through our [anything-else concierge service](/etc) we read
+listings, messages and contracts back to you in plain English, and
+tell you what the Korean actually says. **Translation, not
+brokerage**: we do not attend viewings as your representative,
+negotiate on your behalf or find you a flat. Viewing and signing is
+work for a licensed agent (공인중개사).
+
 ## Get it sorted
+
+> **Looking at a listing and not sure what you're reading?** Send it
+> to us on [WhatsApp](https://wa.me/821075191282) — we'll tell you
+> what kind of housing it actually is, what that price should get
+> you, and what to check when you go. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **a ₩1–2M deposit means goshiwon, a real
 one-room starts around ₩10M, the management fee matters more than

@@ -29,9 +29,9 @@
   </script>
 
   <!-- ===================== SEO ===================== -->
-  <title>Korean Lessons — Service Ended | Balli Balli Seoul</title>
+  <title>Korean Tutor in Seoul &amp; Online | Lessons, TOPIK &amp; Conversation</title>
   <meta name="naver-site-verification" content="b855ca0b2040ecb261c6e73882c636c6aa57d176" />
-  <meta name="description" content="Balli Balli Seoul no longer arranges Korean lessons or tutors, as of 11 November 2026. All our services have ended. This page is kept for reference.">
+  <meta name="description" content="Find a Korean tutor through Balli Balli Seoul. Free 10-minute trial, then ₩50,000 (about US$40) for a 40-minute 1:1 lesson. Conversation, situational Korean and TOPIK.">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
   <meta name="geo.region" content="KR-11">
   <meta name="geo.placename" content="Seoul">
@@ -40,8 +40,8 @@
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Balli Balli Seoul">
-  <meta property="og:title" content="Korean Lessons — Service Ended | Balli Balli Seoul">
-  <meta property="og:description" content="Balli Balli Seoul no longer arranges Korean lessons or tutors, as of 11 November 2026. All our services have ended. This page is kept for reference.">
+  <meta property="og:title" content="Korean Lessons &amp; Tutors | Online and In Person in Seoul">
+  <meta property="og:description" content="A Korean tutor matched to what you actually want — conversation, everyday situations, or TOPIK. Online worldwide, in person in Seoul.">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://balliballi.com/korean-lessons">
   <meta property="og:image" content="https://balliballi.com/og-image.png">
@@ -50,7 +50,47 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://balliballi.com/og-image.png">
 
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://balliballi.com/korean-lessons#service",
+    "serviceType": "Korean language lesson booking and tutor introduction",
+    "name": "Korean Lessons — Balli Balli Seoul",
+    "url": "https://balliballi.com/korean-lessons",
+    "provider": {
+      "@id": "https://balliballi.com/#org",
+      "@type": "Organization",
+      "name": "Balli Balli Seoul (지인어스)",
+      "url": "https://balliballi.com/"
+    },
+    "areaServed": [
+      { "@type": "AdministrativeArea", "name": "Seoul, South Korea" },
+      { "@type": "Place", "name": "Online, worldwide" }
+    ],
+    "availableLanguage": ["en", "ko"],
+    "description": "Introduction to Korean language teachers for 1:1 lessons, delivered online by video call or in person in Seoul. Conversation, situational Korean and TOPIK preparation."
+  }
+  </script>
 
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "Do I need to be in Korea to take lessons?",
+        "acceptedAnswer": { "@type": "Answer", "text": "No. All lessons run online by video call, so your country and time zone do not matter. If you are in Seoul, in-person lessons can also be arranged." } },
+      { "@type": "Question", "name": "Which app do lessons use?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Whichever video app suits you — Zoom, KakaoTalk video call, Microsoft Teams or another you already have. It is agreed with you before the first lesson." } },
+      { "@type": "Question", "name": "I am a complete beginner. Is that a problem?",
+        "acceptedAnswer": { "@type": "Answer", "text": "No. Tell us you are starting from zero and we will match you with a teacher who works with beginners, including reading Hangul from scratch." } },
+      { "@type": "Question", "name": "Can I learn conversation rather than study for an exam?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, and it is the more common request. Everyday conversation, the Korean for specific situations, and speaking practice are all normal things to ask for. TOPIK preparation is available if that is your goal." } },
+      { "@type": "Question", "name": "Are lessons in English?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Arrangements and scheduling are handled with you in English. How much English is used inside the lesson depends on your level and what you ask for — tell us your preference and we will match accordingly." } }
+    ]
+  }
+  </script>
   <style>
     :root{
       --primary:#c2410c; --primary-dark:#9a3412; --primary-light:#fff7ed;
@@ -175,6 +215,7 @@
       .nav-kakao .k-abbr{display:none}
       @media(max-width:980px){.nav-kakao .k-full{display:none}.nav-kakao .k-abbr{display:inline}}
       /* 모바일 헤더는 CTA 1개만 — 카카오를 남기고 WhatsApp 을 숨긴다 (본문 CTA 에는 둘 다 있다) */
+      @media(max-width:820px){.nav-cta[href*="wa.me"]{display:none !important}}
         .post-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:36px}
       .post-card{display:flex;flex-direction:column;border:2px solid var(--border);border-radius:20px;overflow:hidden;background:#fff;text-decoration:none;transition:border-color .15s,transform .15s}
       .post-card:hover{border-color:var(--primary);transform:translateY(-2px)}
@@ -238,19 +279,6 @@
     .fee .fee-independent{margin-top:14px;font-weight:700;color:var(--primary-dark)}
     .fee .fee-note{margin-top:20px;font-size:13px;color:var(--muted)}
   </style>
-<style>
-  /* 2026-11-11 전 서비스 종료 — 문의 동선(카카오톡·왓츠앱·이메일 CTA) 전면 차단 */
-  .cta-lead, .cta-row, .final-cta, .float-cta, .nav-cta,
-  .cta-band, .hero-cta { display: none !important; }
-  body { padding-bottom: 0 !important; }
-  .ended-banner{background:#1f2937;color:#f9fafb;padding:18px 0;border-bottom:3px solid #fcd34d}
-  .ended-banner .container{max-width:1100px;margin:0 auto;padding:0 20px}
-  .ended-banner .tag{display:inline-block;background:#fcd34d;color:#1f2937;font-weight:800;font-size:12px;
-    letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:999px;margin-bottom:10px}
-  .ended-banner h2{margin:0 0 8px;font-size:22px;line-height:1.35}
-  .ended-banner p{margin:0 0 6px;font-size:15.5px;line-height:1.7;color:#d1d5db}
-  .ended-banner a{color:#fcd34d;text-decoration:underline;text-underline-offset:3px}
-</style>
 </head>
 
 <body>
@@ -268,18 +296,11 @@
         <a href="#teachers">Teachers</a>
         <a href="#faq">FAQ</a>
         <a href="/contact/">Contact</a>
-        
+        <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="nav-cta nav-kakao"><span class="k-full">KakaoTalk</span><span class="k-abbr">Kakao</span></a>
+        <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20Korean%20lessons.%0A%0A-%20Name%3A%0A-%20Current%20level%20%28complete%20beginner%20%2F%20some%20Korean%20%2F%20TOPIK%20level%29%3A%0A-%20Goal%20%28conversation%20%2F%20TOPIK%20%2F%20work%20Korean%29%3A%0A-%20Online%20or%20in%20person%20in%20Seoul%3A%0A-%20When%20you%27re%20free%3A" target="_blank" rel="noopener" class="nav-cta">💬 WhatsApp</a>
       </nav>
     </div>
   </header>
-  <div class="ended-banner">
-    <div class="container">
-      <span class="tag">Service ended</span>
-      <h2>We no longer arrange Korean lessons</h2>
-      <p>This service ended on <strong>11 November 2026</strong>, along with everything else Balli Balli Seoul used to arrange. We are not matching tutors or booking trials. <a href="/blog/notice-all-services-ended/">Read the full notice</a>.</p>
-      <p>Our <a href="/blog/">guides to living in Seoul</a> stay online and free to read. This page is kept for reference only.</p>
-    </div>
-  </div>
 
   <main>
 
@@ -287,11 +308,18 @@
       <div class="container hero-grid">
         <div>
           <p class="eyebrow">Free 10-min trial · Zoom / KakaoTalk / Teams · In person in Seoul</p>
-          <h1>Korean Tutors — What Lessons Cost and How They Ran</h1>
+          <h1>Find a Korean Tutor, Matched to What You Actually Want</h1>
           <p class="lede">
-            This page matched people with a Korean teacher for conversation, everyday situations or TOPIK. <strong>We no longer arrange lessons or trials.</strong> The prices and the honest notes on what each kind of lesson is for are kept below.
+            Not a course you have to fit into. <strong>Tell us what you want to be able to do</strong> —
+            hold a conversation, handle the situations that come up here, or pass TOPIK — and we match
+            you with a Korean teacher. <strong>All lessons run online by video call</strong> — Zoom, KakaoTalk, Teams, whatever you already use. In Seoul? Ask about
+            in-person.
           </p>
           <p class="lede" style="font-size:15px">Two teachers, <a href="#teachers">introduced below</a> — one from the corporate world, one a career teacher.</p>
+          <div class="hero-cta">
+            <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20Korean%20lessons.%0A%0A-%20Name%3A%0A-%20Current%20level%20%28complete%20beginner%20%2F%20some%20Korean%20%2F%20TOPIK%20level%29%3A%0A-%20Goal%20%28conversation%20%2F%20TOPIK%20%2F%20work%20Korean%29%3A%0A-%20Online%20or%20in%20person%20in%20Seoul%3A%0A-%20When%20you%27re%20free%3A" target="_blank" rel="noopener" class="btn btn-wa">💬 Book a free trial</a>
+            <a href="#pricing" class="btn btn-ghost">See prices</a>
+          </div>
           <p class="hero-note">Free 10-minute trial lesson. Tell us your level and your goal.</p>
         </div>
       </div>
@@ -323,6 +351,7 @@
         "I can read but I never speak." Tell us where you are and we will match rather than sell you a level.</p>
       </div>
     </section>
+
 
     <section id="teachers">
       <div class="container">
@@ -480,6 +509,15 @@
 
 
 
+    <section class="cta-band">
+      <div class="container">
+        <h2>Tell us what you want to be able to say</h2>
+        <p>Your level, your goal, and when you are free. We come back with options.</p>
+        <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20Korean%20lessons.%0A%0A-%20Name%3A%0A-%20Current%20level%20%28complete%20beginner%20%2F%20some%20Korean%20%2F%20TOPIK%20level%29%3A%0A-%20Goal%20%28conversation%20%2F%20TOPIK%20%2F%20work%20Korean%29%3A%0A-%20Online%20or%20in%20person%20in%20Seoul%3A%0A-%20When%20you%27re%20free%3A" target="_blank" rel="noopener" class="btn btn-wa">💬 Ask about lessons</a>
+      </div>
+    </section>
+
+
   </main>
 
   <footer>
@@ -492,6 +530,7 @@
           </div>
           <p>Korean tutors for expats and visitors.<br>Online anywhere, in person in Seoul.</p>
           <ul style="margin-top:16px">
+            <li>💬 <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20Korean%20lessons.%0A%0A-%20Name%3A%0A-%20Current%20level%20%28complete%20beginner%20%2F%20some%20Korean%20%2F%20TOPIK%20level%29%3A%0A-%20Goal%20%28conversation%20%2F%20TOPIK%20%2F%20work%20Korean%29%3A%0A-%20Online%20or%20in%20person%20in%20Seoul%3A%0A-%20When%20you%27re%20free%3A" target="_blank" rel="noopener" style="font-weight:700;color:var(--fg)">WhatsApp — ask about lessons</a></li>
             <li>🕐 Replies 7 days a week</li>
             <li>📍 Online worldwide · in person in Seoul</li>
           </ul>
@@ -517,14 +556,14 @@
             <li>E-commerce reg. no.: 2025-서울중구-143</li>
             <li>Representative: Yeonbum Kim</li>
             <li>Email: <a href="mailto:balliballiseoul@gmail.com">balliballiseoul@gmail.com</a></li>
+            <li><a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener">KakaoTalk channel</a></li>
           </ul>
         </div>
       </div>
       <div style="border-top:1px solid var(--border);margin-top:8px;padding-top:20px;margin-bottom:24px;font-size:12px;line-height:1.7;color:var(--muted)">
         <p style="font-weight:700;margin-bottom:6px">Service Notice</p>
-        <p style="margin-bottom:6px"><strong>All Balli Balli Seoul services ended on 11 November 2026.</strong> We no longer arrange plumbing, locksmiths, cleaning, Korean lessons, moving or concierge errands, and our KakaoTalk and WhatsApp enquiry lines are closed. The guides on this site stay online and free to read. <a href="/blog/notice-all-services-ended/" style="text-decoration:underline">Read the notice</a>. The paragraph below describes how the service operated while it ran.</p>
-        <p>Balli Balli Seoul, operated by Jiinus (지인어스), is a coordination and booking service. For Korean lessons we introduce you to an independent teacher and handle the arrangement; we are not the party delivering the teaching. Lessons are given by the assigned teacher, who is responsible for the instruction provided. Prices and schedules shown here are indicative and are confirmed with you in the chat before booking. We do not guarantee any examination result.</p>
-        <p style="margin-top:6px">지인어스는 통신판매중개자로서 거래의 당사자가 아니며, 수업의 제공 및 이에 따른 책임은 해당 강사에게 있습니다.</p>
+        <p>Balli Balli Seoul, operated by Jiinus (지인어스), does three things: <strong>interpreting, translation, and arranging independent local service providers</strong> on your behalf. For Korean lessons we introduce you to an independent teacher and handle the arrangement; we are not the party delivering the teaching. Lessons are given by the assigned teacher, who is responsible for the instruction provided. Prices and schedules shown here are indicative and are confirmed with you in the chat before booking. We do not guarantee any examination result.</p>
+        <p style="margin-top:6px">지인어스는 통역·번역 및 서비스 제공자(강사·업체) 연결(중개)만을 제공하는 통신판매중개자로서 거래의 당사자가 아니며, 수업의 제공 및 이에 따른 책임은 해당 강사에게 있습니다.</p>
       </div>
       <div class="foot-bottom">
         <span>© 2026 Balli Balli Seoul (지인어스). All rights reserved.</span>
@@ -533,6 +572,24 @@
     </div>
   </footer>
 
+  <div class="float-cta">
+    <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="f-kakao">KakaoTalk</a>
+    <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20Korean%20lessons.%0A%0A-%20Name%3A%0A-%20Current%20level%20%28complete%20beginner%20%2F%20some%20Korean%20%2F%20TOPIK%20level%29%3A%0A-%20Goal%20%28conversation%20%2F%20TOPIK%20%2F%20work%20Korean%29%3A%0A-%20Online%20or%20in%20person%20in%20Seoul%3A%0A-%20When%20you%27re%20free%3A" target="_blank" rel="noopener" class="f-wa">💬 WhatsApp</a>
+    <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="f-email">✉️ Email</a>
+  </div>
 
+  <script>
+    document.addEventListener('click', function (e) {
+      if (!e.target || !e.target.closest) return;
+      var pp = e.target.closest('a[href*="paypal.com/ncp/payment"]');
+      if (pp && window.gtag) {
+        gtag('event', 'paypal_click', { page_path: location.pathname, value: Number(pp.dataset.fee || 0), currency: 'USD' });
+      }
+      var a = e.target.closest('a[href*="wa.me"]');
+      if (a && window.gtag) {
+        gtag('event', 'whatsapp_click', { page_path: location.pathname });
+      }
+    });
+  </script>
 </body>
 </html>

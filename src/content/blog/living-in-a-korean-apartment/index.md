@@ -301,10 +301,15 @@ ends in Korean: the gas company's booking line, the boiler panel, the
 notice taped in the lift about the cold snap, the office desk with no
 English, and the call to the right trade when something does break.
 
+> **Stuck on one of them?** Send us a photo on
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — or [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%20need%20help.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%21%29) if
+> that is easier — the panel, the notice, the thing that stopped working. We'll tell you what it says, whose
+> job it is and what it should cost, in English.
+
 ## Get it sorted
 
-If something in the flat has stopped working, start with the building
-office (관리사무소). A surprising share of it — corridor lights, the
-boiler's shared pipework, water pressure, the lift — is theirs to fix at
-no charge, and when it is not, they almost always have the trade they
-already use. That is faster and cheaper than finding one cold.
+If something in the flat has stopped working, send us a photo and a line
+about what is happening on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) (or WhatsApp). We will tell you which trade it belongs to,
+whether the building office should be handling it for free, and roughly
+what it should cost. If it is one of the jobs we arrange, we book it in
+Korean and stay in the chat until it is done.

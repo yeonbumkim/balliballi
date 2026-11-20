@@ -304,6 +304,13 @@ be.**
    the fact that the park, the temple or the building has its own rule, and
    that rule lives with a manager who answers the phone in Korean.
 
+> **Holding a drone and a plan, and stuck at a Korean form?** Send us the
+> screen on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — or
+> [WhatsApp](https://wa.me/821075191282) — and we will tell you what it is
+> asking and what your options are. We will also tell you plainly when the
+> answer is that you should not fly, which is often. **The first answer is
+> free**, and we take no commission from anybody.
+
 > **Last verified: 26 October 2026.** Based on the Korean government's
 > 생활법령 guidance for unmanned aircraft (항공안전법 as in force
 > 17 September 2026) and the Ministry of National Defense 항공촬영 지침서

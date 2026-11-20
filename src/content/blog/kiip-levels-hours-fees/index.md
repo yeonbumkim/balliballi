@@ -179,3 +179,9 @@ evaluation.
 If you are deciding whether to sit the pre-evaluation, the arithmetic is
 simple: ₩38,000 and an afternoon of preparation, against three months per
 twenty points.
+
+We arrange Korean lessons in English, and preparing for this test — the
+spoken part especially, which decides more than people realise — is one of
+the things our tutors do. Tell us when you are sitting it and where you are
+starting from, and we will set the sessions up around the date. Prices are on
+the [Korean lessons page](/korean-lessons).

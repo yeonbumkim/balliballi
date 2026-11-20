@@ -326,6 +326,11 @@ we would send a friend to.
 
 ## Get it sorted
 
+> **Overdue for a cut but dreading the conversation?** Send us a photo of
+> what you want on [WhatsApp](https://wa.me/821075191282) — we'll book a
+> salon that fits your budget and brief the stylist in Korean before you
+> sit down. First answer is free.
+
 And a low-risk way to start: try a neighborhood salon for a simple trim
 first. Worst case, hair grows back — and in Korea, the retry only costs
 ₩20,000.

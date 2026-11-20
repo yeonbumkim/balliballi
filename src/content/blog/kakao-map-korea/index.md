@@ -125,6 +125,10 @@ Ratings tell you a restaurant is good. They do not tell you it is closed for a f
 holiday, that the queue system needs a phone number, or that the sign says walk-ins
 after eight only.
 
+That is the bit we do. Send us the place — a Kakao Map link, a screenshot, a name you
+cannot read — and we will tell you in English what it says, and call ahead if calling
+is what it needs.
+
 For getting to it rather than choosing it, [Naver Map](/blog/naver-map-korea/) is the
 other half of this. For getting around Seoul more broadly, the
 [transport guide](/blog/seoul-transportation-guide/) covers cards and fares.

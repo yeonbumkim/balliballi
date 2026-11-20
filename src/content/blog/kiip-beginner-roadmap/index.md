@@ -149,6 +149,10 @@ and then added tutoring specifically for the interview — including people who
 sailed through the lower levels and hit the wall at level 5. If you are
 budgeting for this, budget for speaking practice rather than more textbooks.
 
+> **No practice partner?** That is the single most common reason people stall.
+> Tell us your level and when you are sitting the test and we will set up
+> conversation practice around it, in English until you do not need English.
+
 ## What to study before you enrol
 
 Nothing exotic. The placement test is pitched at ordinary beginner Korean, so:
@@ -167,6 +171,13 @@ Nothing exotic. The placement test is pitched at ordinary beginner Korean, so:
    you feel ready. Nobody feels ready.
 
 ## Get it sorted
+
+> **Starting from zero?** Tell us where you are now and what you are aiming at,
+> and we will put together Korean lessons in English around that —
+> placement-test preparation, and the spoken part in particular, which is the
+> one nobody can practise alone. [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat)
+> is the easiest way to reach us. Prices are on the
+> [Korean lessons page](/korean-lessons).
 
 Our tutors are native Korean speakers who teach in English. We do not claim
 teaching certification and we are not an accredited institution — what we

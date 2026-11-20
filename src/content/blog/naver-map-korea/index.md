@@ -179,6 +179,10 @@ Maps get you to the door. They do not phone the restaurant to ask whether it is 
 on a public holiday, explain to a driver where you actually meant, or read a notice
 taped to a shutter.
 
+That is where we come in. Send us the place, the address, or a screenshot of
+something you cannot read, and we will tell you in English what it says and call
+ahead if it needs calling.
+
 For getting around more broadly — cards, fares, transfers — the
 [Seoul transport guide](/blog/seoul-transportation-guide/) covers the rest, and the
 [subway fare guide](/blog/seoul-subway-fare-guide/) covers what it costs.

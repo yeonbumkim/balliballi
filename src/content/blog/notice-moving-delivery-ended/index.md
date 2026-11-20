@@ -1,8 +1,7 @@
 ---
 title: "Service Notice: We No Longer Arrange Moving or Delivery"
-description: "As of 6 October 2026 we no longer arrange moving or delivery. Every remaining Balli Balli Seoul service has since closed too, on 11 November 2026."
+description: "As of 6 October 2026 we no longer arrange moving or delivery. Everything else we do is unchanged, and here is where to ask about it."
 pubDate: 2026-10-07T09:00:00+09:00
-updatedDate: 2026-11-11T10:00:00+09:00
 service: etc
 tags: ["notice", "service"]
 cover: "./cover.webp"
@@ -12,29 +11,30 @@ noindex: true
 draft: false
 ---
 
-> **Update, 11 November 2026 — everything else has since ended too.**
-> This notice covered moving and delivery only. All remaining Balli Balli
-> Seoul services have now closed, and our KakaoTalk and WhatsApp lines are
-> shut. [Read the current notice](/blog/notice-all-services-ended/).
-
 **As of 6 October 2026, Balli Balli Seoul no longer arranges moving or
 delivery services.** That includes house moves, 1-ton truck jobs and parcel
 or item delivery runs.
 
-We are sorry to anyone this inconveniences. If you had an enquiry with us
-that was already underway, email us and we will tell you where it stands.
+We are sorry to anyone this inconveniences. If you have an enquiry with us
+that is already underway, message us and we will tell you where it stands.
 
-## What we still did at the time
+## What we still do
 
-When this notice was written, everything else was unchanged — plumbing and
-drains, locksmiths and door locks, cleaning, Korean lessons, and the
-anything-else concierge. **None of that is offered any more.** All of it
-ended on 11 November 2026.
+Everything else is unchanged. We are still an English-language concierge for
+foreign residents and visitors in Korea:
+
+- Plumbing and drains
+- Locksmiths and door locks
+- Cleaning — move-in, move-out, deep cleaning and regular housekeeping
+- Korean lessons
+- Internet and utility set-up, appliance repair, pest control, small handyman
+  jobs, and the phone calls nobody wants to make in Korean
+
+If you are not sure whether something fits, describe it anyway. We will tell
+you if we cannot help, which we would rather do quickly than slowly.
 
 ## Where to ask
 
-Nowhere, now. The KakaoTalk channel and WhatsApp line are closed and are not
-read. Email — **balliballiseoul@gmail.com** — still reaches us if you had
-something underway.
-
-Our [guides to living in Seoul](/blog/) stay online and free to read.
+[KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) is the easiest way to reach us.
+WhatsApp and email work too. Asking costs nothing, and nothing is booked until
+you agree a price.

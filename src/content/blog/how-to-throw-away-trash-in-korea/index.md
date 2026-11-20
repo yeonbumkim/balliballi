@@ -49,7 +49,7 @@ counters as the general ones — ask for them by name, and again, buy them
 in your own district. The counterintuitive
 part: things animals can't eat are *not* food waste — bones, big shells,
 eggshells, tea bags and fruit pits generally belong in the general bag.
-When in doubt, ask your building office.
+When in doubt, ask us or your building office.
 
 **3. Recycling (재활용)** is free, but sorted by material: paper, cardboard
 (flattened), plastic, PET bottles (labels peeled, caps separate in many
@@ -181,7 +181,19 @@ won or lost with the photographs you took
 [on the day you moved in](/blog/photograph-your-flat-move-in-day/),
 repeated from the same angles on the way out.
 
+This is a thing we handle constantly, especially around move-outs. Through
+our [anything-else concierge service](/etc) we can file the bulky-waste
+declaration for you and get the sticker sorted — and for
+everything else (which bag, which bin, which night, what your specific
+building expects), our [anything-else concierge service](/etc) answers in
+plain English.
+
 ## Get it sorted
+
+> **Moving out, or staring at a wardrobe you can't legally throw away?**
+> Send us a photo on [WhatsApp](https://wa.me/821075191282) — we'll tell you
+> what it costs to dispose of, file the district report for you, and arrange
+> muscle if you need it. Asking costs nothing — you pay only for the work you book.
 
 And the one-line version to keep: **general waste in the district bag, food
 waste separate, recycling rinsed and sorted, big stuff reported first.**

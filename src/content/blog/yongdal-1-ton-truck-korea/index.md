@@ -201,8 +201,10 @@ The judgement above is still the useful part: if your things fit on one bed
 and you can get them down to it, yongdal is the right answer, and anything
 more expensive is money you did not need to spend.
 
-Not sure whether your load is a one-truck job? The rule of thumb above is
-the honest answer: if your things fit on one bed and you can get them down
-to it, yongdal is right. If you need someone on the line in English while
-you sort it out, the government's living-information hotline is free —
-see [the 1330 hotline guide](/blog/korea-travel-hotline-1330/).
+Not sure whether your load is a one-truck job? Send photos of each room
+and we'll tell you what you are looking at.
+**[KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) is the easiest way to
+reach us**, and [WhatsApp](https://wa.me/821075191282) works too. If you
+need someone on the line in English while you sort it out, the
+government's living-information hotline is also free — see
+[the 1330 hotline guide](/blog/korea-travel-hotline-1330/).

@@ -228,6 +228,12 @@ exists — it is what temple kitchens make — but it is not what arrives free
 with your meal. Deciding in advance where you stand on that, the way the
 Reddit poster's wife did, saves the argument every single time.
 
+> **Want a table somewhere on this list?** Most of these take walk-ins,
+> and phoning is quicker than any app. **If the call is the part that
+> stops you**, message us on [WhatsApp](https://wa.me/821075191282) or
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) — we'll ring them, ask
+> what the stock is made from, and book you a table. Asking costs nothing.
+
 ## Get it sorted
 
 Learn the stock question first. It does more work than any restaurant

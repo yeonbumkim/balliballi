@@ -127,6 +127,13 @@ contract clause barring any new encumbrance before the day after you move in.
 If you skipped these steps, your position is weak — not just for renewal, but for
 getting your deposit back at all. Fix it now rather than at renewal time.
 
+> **Not sure your address report actually landed?** Send us a photo of your alien
+> registration card and your lease on
+> [WhatsApp](https://wa.me/821075191282) — we'll read them in English, tell you what
+> is on file, what is missing, and exactly what to ask for at the counter. We handle
+> the Korean side by phone and in writing; we are not lawyers, and for a dispute the
+> free legal aid line at 132 is the right call. Asking costs nothing.
+
 ## The lease report, and the fine attached to it
 
 Since June 2021 most residential leases must be reported to the local government —

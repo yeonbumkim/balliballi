@@ -139,3 +139,13 @@ question to ask before anyone starts.
 For the record, on the money: **prices are quoted before VAT**, and if the
 building has no free visitor parking, parking goes on the bill at what it
 actually cost.
+
+## Get it sorted
+
+Send us the address, the date you get the keys, and the size of the place. We
+will tell you what it costs, book it, and send you photographs when it is
+finished — whether you are the one moving in, or the one worrying about it
+from another country.
+
+And if the date you need is anywhere near a holiday, tell us now rather than
+that week.

@@ -209,6 +209,13 @@ discover it on the bill.
 
 ## Get it sorted
 
+> **Found a shop on Instagram and stuck at the booking?** Send us the account
+> or the map pin on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we will
+> make the appointment in Korean, say what you want done, and tell you what
+> they said back. We do not take commission from any shop, and we do not
+> recommend one we have not seen work — what we are good for is the Korean,
+> not the hair.
+
 One last thing, which applies in every chair in the country: **the
 consultation is the haircut.** Five minutes with a photograph and the words
 above decides the result far more than the shop you chose. Korean barbers are

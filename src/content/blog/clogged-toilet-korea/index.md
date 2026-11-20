@@ -188,10 +188,10 @@ the call — **we ask what it was and tell you in English.**
 Stop flushing. Close the valve. Give it twenty minutes and two proper goes with a
 plunger.
 
-If it is still full after that, it is a plumber's job. The
-[plumbing page](/plumbing) still carries the guide ranges, so you can tell
-whether the number at your door sits in the normal band before you agree to
-it.
+If it is still full after that, send us a photo of the bowl and tell us your district.
+The [plumbing page](/plumbing) has the guide ranges. We arrange the plumber and handle
+the Korean side — the work is done by the independent local pro we send, and their
+charge is theirs. If we cannot help, you pay us nothing.
 
 **KakaoTalk is the easiest way to reach us**, and WhatsApp works too. Asking costs
 nothing.

@@ -180,7 +180,18 @@ Move-in day is usually the day everything else is happening at once:
 the van, the contract, the internet installation, the agent, a
 landlord speaking Korean at speed.
 
+Through our [anything-else concierge service](/etc) we'll walk the
+flat with you, find the meters, read what's written on them, and
+raise anything that needs raising with the landlord — in Korean, in
+the tone that gets it fixed rather than the tone that starts a year
+of friction.
+
 ## Get it sorted
+
+> **Moving in and not sure what to record — or already staring at a
+> deduction you don't agree with?** Message us on
+> [WhatsApp](https://wa.me/821075191282) with photos and we'll tell
+> you where you stand. Asking costs nothing — you pay only for the work you book.
 
 The one-line version: **photograph the three meters before you
 unpack, shoot every wall base, corner and appliance, keep it in your

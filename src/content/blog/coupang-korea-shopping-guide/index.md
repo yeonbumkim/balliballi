@@ -18,6 +18,13 @@ right: Coupang is Korea's Amazon, and most items arrive the next morning. The
 catch is that signing up was built for Koreans, and foreigners hit walls that
 locals never see. Here's how far you can get, and what to do when you can't.
 
+> **✨ The tourist shortcut, up front:** no Korean number, no account, no
+> problem. **If your hotel concierge or Airbnb host is okay with receiving a
+> package, we can get anything on Coupang delivered straight to where you're
+> staying** — usually by the next morning. Message us on
+> [WhatsApp](https://wa.me/821075191282) with the item and your address, and
+> skip this entire article. (Details at the bottom for everyone else.)
+
 ## Try this first
 
 ### Switch the app to English (yes, while it's still in Korean)
@@ -48,7 +55,7 @@ Note Coupang's own fine print on that screen: the English version is a
 two differ, the Korean text wins. In practice the browsing, cart and
 checkout screens translate cleanly. Search works in English too, though
 Korean terms still surface more results — typing the Korean product name
-(a translation app will give it to you) often doubles what you find.
+(ask us, or a translation app) often doubles what you find.
 
 ### Sign up — the two-step gate
 
@@ -176,12 +183,31 @@ in Korean, the address format, the customer service line, the seller chat
 when a return goes sideways. If any of that is the wall you're stuck at,
 that's where we come in.
 
+**We buy it for you — wherever it's sold.** Tell us what you need on WhatsApp
+— a link, a photo, or just "a fan that isn't loud, under ₩50,000" — and we
+find the best way to get it: Coupang or Naver if it's cheapest online, Daiso
+or the electronics market if it's an offline thing, the neighborhood hardware
+store if it's an obscure part. (One line we don't cross: medicine — we'll
+gladly point you to an English-friendly pharmacy or clinic, but purchasing
+medication is between you and the pharmacist, by law.) We buy it, get it
+delivered to your door, and chase the
+delivery or return if anything goes wrong. You get one fixed quote (the
+item's price plus our coordination fee) before anything is bought, and the
+asking costs nothing — you pay only for the work you book. It's the same
+[anything-else concierge service](/etc) we run for phone calls and appliance
+repairs — personal shopping is just another day on it.
+
 It also pairs well with a new apartment: while sorting your first Coupang
 order we can set up the rest too — internet, utilities, and the door code
 you were never given (see our
 [keypad door lock guide](/blog/keypad-door-lock-dead-locked-out-seoul/)).
 
 ## Get it sorted
+
+> **Need something but can't get past the sign-up?** Message us on
+> [WhatsApp](https://wa.me/821075191282) with what you need — we'll find it
+> (online or in a store), quote you one fixed price, and get it to your door.
+> Asking costs nothing — you pay only for the work you book.
 
 And once your ARC arrives, make the account anyway — set the app to English,
 match your name to your ARC exactly, and Coupang becomes the single most

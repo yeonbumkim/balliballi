@@ -288,8 +288,18 @@ and nowhere to wait.
 
 If you would rather not do the searching and the phone calls at all, we research venues and book them for you — with an example of the sheet we send in [after-school and hobby classes in Seoul](/blog/after-school-classes-seoul/).
 
+Tell us the school, the day and time window, your child's age, your budget and what
+they are curious about. We call round in Korean, ask the four questions above, and
+come back in English with what each place actually said — days, monthly or
+per-session cost, whether a shuttle reaches you, travel time from the school gate,
+trial class options, and what registration will require.
+
 Sports, music, art, martial arts, or something your family has never heard of. Send
 us the constraints, however specific — especially if they are specific.
+
+We take no commission from any academy. Whichever one you choose we earn the same,
+which is the only reason we can tell you honestly which ones sounded like they had
+room and which sounded like they were saying yes to be polite. [Ask us](/etc).
 
 *Prices, schedules and holiday calendars change. Confirm current details with any
 facility before enrolling, and check your own school's calendar for term breaks and

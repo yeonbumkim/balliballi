@@ -204,6 +204,13 @@ The lock will tell you what is wrong in Korean, or in beeps, and
 neither is much help at midnight. The manual is Korean. The brand's
 service line is Korean. The locksmith who answers is Korean.
 
+> **Send us a photo of the lock and tell us what noise it is
+> making.** Our [locksmith service arranged in English](/locksmith)
+> will tell you whether this is a battery, a hinge or a call-out —
+> and if it is a call-out, we make it and stay on the line. Message
+> us on [WhatsApp](https://wa.me/821075191282) or
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat).
+
 ## Get it sorted
 
 The one-line version: **if it started beeping after the door came

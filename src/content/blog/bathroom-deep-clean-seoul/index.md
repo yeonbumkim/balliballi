@@ -148,6 +148,12 @@ different job from one that has not been touched since the last tenant.
   nothing added. We tell you before the day rather than after it, and if your
   building has a visitor slot, say so when you book and it disappears.
 
+> **Not sure whether yours needs a clean or a repair?** Send photos of the
+> joints and the shower screen on
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
+> [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20a%20cleaning%20quote.%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%3A%0A-%20Home%20size%20%28pyeong%20or%20m2%29%3A%0A-%20What%20I%20need%20%28move-in%20deep%20clean%20%2F%20housekeeping%20%2F%20mold%20%2F%20Airbnb%29%3A%0A-%20Preferred%20day%20%28e.g.%20Sat%204%20Oct%2C%20or%20weekdays%29%3A%0A-%20Preferred%20time%20%28e.g.%2010am%2C%20or%20morning%29%3A%0A%0A%28Photos%20help%20a%20lot%21%20Please%20book%20at%20least%202%E2%80%933%20days%20ahead%20%E2%80%94%20ideally%20a%20week.%20Same-day%20or%20next-day%20requests%20may%20not%20be%20possible.%29)
+> — we will tell you which one it is before anyone is booked.
+
 ## Keeping it that way
 
 The floor drain trap comes apart in your hands, and it is the one that stops the smell — [the twenty minutes you can do yourself](/blog/clean-filters-drains-yourself-korea/).
@@ -189,6 +195,11 @@ chemicals from one expecting a tidy-up — and a crew that arrives expecting
 the tidy-up gives you a revised price at your door instead of in the chat.
 
 ## Get it sorted
+
+Send us photos of the joints, the screen and the floor drain. We will tell
+you whether it is a clean, a silicone replacement, or a ventilation problem
+that cleaning will not solve — and if it is a clean, we book it, brief the
+crew in Korean, and stay in the chat until it is done.
 
 If the whole flat needs doing rather than one room, that is
 [the deep clean day](/blog/deep-clean-service-seoul/), and the

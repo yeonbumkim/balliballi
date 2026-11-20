@@ -208,7 +208,17 @@ The card is the easy half. The hard half is a bus route that
 branches, a station with fourteen exits, or a destination you can't
 pronounce to a driver.
 
+Send us where you're trying to get to and our
+[anything-else concierge service](/etc) will write it out in
+Korean, map the route, and sort the awkward legs — the 5 a.m.
+arrival, the three suitcases, the last bus you just missed.
+
 ## Get it sorted
+
+> **Not sure which card, or how to get somewhere?** Message us on
+> [WhatsApp](https://wa.me/821075191282) — we'll map it in English and
+> write your destination in Korean to show a driver. Asking costs nothing
+> — you pay only for the work you book.
 
 The one-line version: **convenience store, "T-money juseyo," top up
 with cash, always tap out, refund the balance before you fly.**

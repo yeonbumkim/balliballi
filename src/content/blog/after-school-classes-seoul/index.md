@@ -127,6 +127,11 @@ If you have seen something — an Instagram post, a studio you walked past, a
 sport you want to start — send it to us and we will find out what it costs
 and whether you can join.
 
+> **Seen something you want to try?** Send us the link, the shop window photo
+> or just the sport on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) or
+> [WhatsApp](https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20I%27d%20like%20help%20finding%20a%20class.%0A%0A-%20Name%3A%0A-%20What%20I%20want%20to%20learn%3A%0A-%20Where%20I%20am%20%28district%2Fstation%29%3A%0A-%20When%20I%27m%20free%3A%0A-%20For%20a%20child%3F%20Age%20and%20Korean%20level%3A) — we'll find out whether you can join, what it costs and
+> whether there's a trial. Asking costs nothing.
+
 ## What it costs
 
 The class costs what the venue charges, and **you pay the venue directly. We
@@ -158,6 +163,10 @@ hours, which is exactly the combination that keeps people from starting.
 ## Get it sorted
 
 The most-asked one has its own guide: [K-pop dance classes in Seoul](/blog/kpop-dance-classes-seoul/), including the Korean word that finds the studios near you rather than the ones near the tourists.
+
+Tell us three things and we can start: **what you want to learn, roughly
+where you are, and when you are free.** If it is for a child, add their age
+and how much Korean they have.
 
 This is part of the [anything-else concierge service](/etc), and we will come back with the real options, the real prices, and an honest note
 about which ones will be hard in Korean — and then book the one you pick.

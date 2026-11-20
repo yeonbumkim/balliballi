@@ -188,6 +188,13 @@ in what you mixed.
 If one of those clears it — good. You are done, and you spent a few thousand
 won.
 
+> **Tried all three and it is still blocked?** Send us a message on
+> [WhatsApp](https://wa.me/821075191282) or
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and tell us what happened when
+> you plunged it — water only, or something coming back. That one sentence
+> tells us which job this is, and what it costs is on this page rather than
+> decided in your bathroom.
+
 The rest of this page is for what happens when the tools do not work, and for
 making sure that the person who turns up afterwards charges you what they said
 they would.
@@ -336,9 +343,10 @@ speaking rather than in writing. Four things break for an English speaker:
 
 ## Get it sorted
 
-If your toilet is blocked in Seoul right now: stop flushing, and work out
-which of the three prices above this is before you agree to anything.
-Knowing the band is most of the negotiation.
+If your toilet is blocked in Seoul right now: stop flushing, and send us a
+message before you agree to anything. We will tell you which of the three
+prices above this is, arrange the visit in English, and the figure you were
+given is the figure you pay.
 
 And if we have nobody for you — nobody free, nobody near enough, nobody who
 will hold the price — **we will tell you that we have nobody.** You will get a

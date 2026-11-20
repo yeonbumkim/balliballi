@@ -198,6 +198,12 @@ you'll know it's a valve.
 
 ## Get it sorted
 
+> **Hot water misbehaving, or a code on the panel you can't read?**
+> Message us on [WhatsApp](https://wa.me/821075191282) with a photo of the
+> controller and the plate on the boiler — we'll tell you what it's likely
+> to be and what it should cost. Asking costs nothing — you pay only for
+> the work you book.
+
 The one-line version: **hot water that comes and goes is usually the
 diverter valve, that's a sub-₩100,000 repair, boilers themselves run
 8–10 years — and if it's age or wear, the bill belongs to your

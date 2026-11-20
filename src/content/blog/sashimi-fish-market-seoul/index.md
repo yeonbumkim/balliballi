@@ -223,6 +223,13 @@ the upstairs fee covers, and being sure the "recommendation" you
 just accepted is the fish you wanted rather than the one they need
 to move.
 
+> **Want to eat this without guessing at the numbers?** Message us
+> on [WhatsApp](https://wa.me/821075191282) — our
+> [anything-else concierge service](/etc) will tell you which market
+> is nearest you, what a fair price looks like for what you're
+> being offered, and translate the negotiation while you're standing
+> there. Asking costs nothing — you pay only for the work you book.
+
 ## Get it sorted
 
 The one-line version: **skip the sushi counter, take the subway to

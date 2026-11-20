@@ -101,6 +101,11 @@ Be specific in it. "Wallpaper and flooring to be replaced" leaves the
 grade and the timing open. Name the rooms, the material, and a date
 that lands **before** your move-in.
 
+> **Not sure how to say it in Korean?** Send us what you want to ask
+> for on [WhatsApp](https://wa.me/821075191282) and we'll write it out
+> in Korean for you to use — including the wording for the special
+> terms clause. First answer is free.
+
 ## The order matters: papering first, cleaning last
 
 Here is the sequencing detail that catches people out.

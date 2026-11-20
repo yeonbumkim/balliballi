@@ -217,21 +217,28 @@ in a language they do not speak, and who assumes a short stay means an
 empty room in four months. A Korean-speaking intermediary changes that
 conversation more than any amount of budget does.
 
+> **Cannot read a listing?** Send us the screenshot on
+> [WhatsApp](https://wa.me/821075191282) or
+> [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we will tell you what
+> it actually says — the deposit, the monthly maintenance fee, the minimum
+> stay, and whether it mentions address registration. **Translation, not
+> negotiation**: we read it for you, we do not deal with the agent on your
+> behalf. Asking costs nothing.
+
 ## Get it sorted
 
 The order that works: **address first, deposit second, area third.** Most
 people do it backwards, fall for a neighbourhood, and then discover the
 room cannot hold their registration.
 
-### Start from where you have to be in the morning
+### Tell us where you have to be in the morning
 
-The one part of this worth settling before you open a single listing is the
-map. Start from **where you need to be on a weekday morning**, then work
-outwards to **two or three neighbourhoods worth searching** — checking the
-honest door-to-door commute from each, not the straight-line distance, and
-what your budget actually gets you there. People who search by neighbourhood
-name first and commute second are the ones who end up with a cheap room and
-ninety minutes each way.
+The one part of this we can genuinely shorten is the map. Tell us **what
+you will be doing here, where you need to be on a weekday morning, your
+budget, and how you like to live** — quiet or busy, cooking or eating out,
+near a gym or near a park — and we will come back with **two or three
+neighbourhoods worth searching**, the honest commute from each, and what
+that money tends to get you there.
 
 **That is area advice, not property advice**, and the difference is the
 whole point:
@@ -249,3 +256,9 @@ whole point:
 It helps more than it sounds. Most people choose a neighbourhood from a
 map and meet the commute afterwards. In Seoul the gap between a good
 address and a miserable one is usually one subway line, not one district.
+
+**Outside Seoul, ask us first.** We cover Seoul, Gyeonggi and Incheon, but
+our feel for a neighbourhood thins out fast the further south you go — for
+places like Pyeongtaek, the local foreign-resident communities around the
+base know the ground better than we do, and we will say so rather than
+guess.

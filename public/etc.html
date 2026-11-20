@@ -29,9 +29,9 @@
   </script>
 
   <!-- ===================== SEO ===================== -->
-  <title>Anything Else — Service Ended | Balli Balli Seoul</title>
+  <title>Anything Else — English Help for Any Problem in Seoul | Balli Balli Seoul</title>
   <meta name="naver-site-verification" content="b855ca0b2040ecb261c6e73882c636c6aa57d176" />
-  <meta name="description" content="Balli Balli Seoul no longer takes concierge or errand requests, as of 11 November 2026. All our services have ended. This page is kept for reference.">
+  <meta name="description" content="Not sure who to call in Korea? Broken AC, pest control, internet setup, a call you can't make in Korean — message Balli Balli Seoul in English and we'll find the right people and handle it. For expats and travelers.">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
   <meta name="geo.region" content="KR-11">
   <meta name="geo.placename" content="Seoul, South Korea">
@@ -40,8 +40,8 @@
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Balli Balli Seoul">
-  <meta property="og:title" content="Anything Else — Service Ended | Balli Balli Seoul">
-  <meta property="og:description" content="Balli Balli Seoul no longer takes concierge or errand requests, as of 11 November 2026. All our services have ended. This page is kept for reference.">
+  <meta property="og:title" content="Anything Else — English Help for Any Problem in Seoul">
+  <meta property="og:description" content="Not sure who to call? Message us anyway. We find the right people, get a fixed quote, and handle the Korean side — for expats and travelers.">
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://balliballi.com/og-image.png">
   <meta property="og:image:width" content="1200">
@@ -49,7 +49,70 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://balliballi.com/og-image.png">
 
-  
+  <!-- ===================== Structured Data ===================== -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://balliballi.com/etc#concierge",
+    "name": "Balli Balli Seoul — Anything Else",
+    "serviceType": "Concierge and coordination service for foreigners in Korea",
+    "provider": {
+      "@id": "https://balliballi.com/#org",
+      "@type": "Organization",
+      "name": "Balli Balli Seoul",
+      "legalName": "지인어스",
+      "url": "https://balliballi.com/"
+    },
+    "description": "A catch-all help service for foreigners in Korea. Appliance repair, pest control, internet and utility setup, phone calls made on your behalf, handyman jobs and more — described in English, coordinated in Korean, at a fixed quote.",
+    "url": "https://balliballi.com/etc",
+    "areaServed": { "@type": "AdministrativeArea", "name": "Seoul, South Korea" },
+    "availableChannel": {
+      "@type": "ServiceChannel",
+      "name": "WhatsApp / KakaoTalk chat",
+      "availableLanguage": ["en", "ko"]
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What counts as \"anything else\"?",
+        "acceptedAnswer": { "@type": "Answer", "text": "If it's a real-life problem in Korea that needs a local to solve it, it probably counts: a broken AC or washing machine, cockroaches or ants, setting up internet, making a phone call you can't make in Korean, mounting a TV, figuring out a bill you don't understand. Message us — asking costs nothing, and if it's not something we can do, we'll point you to someone who can." }
+      },
+      {
+        "@type": "Question",
+        "name": "How does pricing work for one-off requests?",
+        "acceptedAnswer": { "@type": "Answer", "text": "We scope your request, find the right professional, and send you one fixed quote in the chat — their price plus our coordination fee, no hidden margin on top. Simple call-making and translation tasks start from ₩20,000. You approve the total before anything is booked." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you just make a phone call for me in Korean?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes — this is one of our most-used services. Restaurant no-show disputes, delivery problems, clinic appointments, telecom cancellations, landlord conversations. Tell us what you need said and what outcome you want; we make the call and report back in English, usually the same day." }
+      },
+      {
+        "@type": "Question",
+        "name": "I'm a traveler, not a resident. Can I still use this?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Lost luggage follow-ups, Airbnb issues, pharmacy guidance, booking things that only take Korean phone reservations — travelers are half the reason this service exists. All you need is WhatsApp." }
+      },
+      {
+        "@type": "Question",
+        "name": "What can't you do?",
+        "acceptedAnswer": { "@type": "Answer", "text": "We don't provide legal, medical, immigration or visa advice — for those we can only help you find and book the right licensed professional. We also can't help with anything unlawful, and emergencies involving safety should always go to 112 (police) or 119 (fire/ambulance) first — both have English interpreters." }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I pay? I don't have a Korean card.",
+        "acceptedAnswer": { "@type": "Answer", "text": "Our own fee is paid by PayPal — card or PayPal balance, no Korean bank account needed. The provider's charge is settled with them directly: most take cash or bank transfer, and some take cards. Tell us what suits you and we'll confirm it with them before booking, receipts included." }
+      }
+    ]
+  }
+  </script>
+
   <!-- ===================== Styles ===================== -->
   <style>
     :root{
@@ -174,6 +237,7 @@
       .nav-kakao .k-abbr{display:none}
       @media(max-width:980px){.nav-kakao .k-full{display:none}.nav-kakao .k-abbr{display:inline}}
       /* 모바일 헤더는 CTA 1개만 — 카카오를 남기고 WhatsApp 을 숨긴다 (본문 CTA 에는 둘 다 있다) */
+      @media(max-width:820px){.nav-cta[href*="wa.me"]{display:none !important}}
     </style>
   <script>
     (function () {
@@ -186,19 +250,6 @@
       document.head.appendChild(a);
     })();
   </script>
-<style>
-  /* 2026-11-11 전 서비스 종료 — 문의 동선(카카오톡·왓츠앱·이메일 CTA) 전면 차단 */
-  .cta-lead, .cta-row, .final-cta, .float-cta, .nav-cta,
-  .cta-band, .hero-cta { display: none !important; }
-  body { padding-bottom: 0 !important; }
-  .ended-banner{background:#1f2937;color:#f9fafb;padding:18px 0;border-bottom:3px solid #fcd34d}
-  .ended-banner .container{max-width:1100px;margin:0 auto;padding:0 20px}
-  .ended-banner .tag{display:inline-block;background:#fcd34d;color:#1f2937;font-weight:800;font-size:12px;
-    letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:999px;margin-bottom:10px}
-  .ended-banner h2{margin:0 0 8px;font-size:22px;line-height:1.35}
-  .ended-banner p{margin:0 0 6px;font-size:15.5px;line-height:1.7;color:#d1d5db}
-  .ended-banner a{color:#fcd34d;text-decoration:underline;text-underline-offset:3px}
-</style>
 </head>
 <body>
 
@@ -214,18 +265,11 @@
         <a href="#examples">What we've done</a>
         <a href="#faq">FAQ</a>
         <a href="/contact/">Contact</a>
-        
+        <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="nav-cta nav-kakao"><span class="k-full">KakaoTalk</span><span class="k-abbr">Kakao</span></a>
+        <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20Here%27s%20my%20situation%3A%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%20%28if%20relevant%29%3A%0A-%20What%20I%20need%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="nav-cta">💬 WhatsApp</a>
       </nav>
     </div>
   </header>
-  <div class="ended-banner">
-    <div class="container">
-      <span class="tag">Service ended</span>
-      <h2>We no longer take errands or concierge requests</h2>
-      <p>This service ended on <strong>11 November 2026</strong>, along with everything else Balli Balli Seoul used to arrange. We are not making calls, filing forms or running errands. <a href="/blog/notice-all-services-ended/">Read the full notice</a>.</p>
-      <p>Our <a href="/blog/">guides to living in Seoul</a> stay online and free to read. This page is kept for reference only.</p>
-    </div>
-  </div>
 
   <main>
 
@@ -233,10 +277,18 @@
     <section class="hero">
       <div class="container">
         <p class="eyebrow">The catch-all service</p>
-        <h1>The Problems That Fit No Category</h1>
+        <h1>Not sure who to call?<br><span style="color:var(--primary)">Message us anyway.</span></h1>
         <p class="lede">
-            Some problems don't fit in a category — the phone call nobody wants to make in Korean, the form, the appliance, the errand. <strong>We no longer take any of them.</strong> This page is kept as a record of what the work looked like.
-          </p>
+          Some problems don't fit in a category. If it's a real-life problem in Korea that needs
+          a local to solve it, <strong>describe it in English</strong> — we'll figure out who fixes it,
+          get you a fixed quote, and handle the Korean side. <strong>Asking costs nothing — you pay only for the work you book.</strong>
+        </p>
+        <p class="cta-lead">Describe your problem — in English.</p>
+        <div class="cta-row">
+          <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-lg btn-kakao">KakaoTalk</a>
+          <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20Here%27s%20my%20situation%3A%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%20%28if%20relevant%29%3A%0A-%20What%20I%20need%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-lg btn-whatsapp">💬 WhatsApp</a>
+          <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-lg btn-email">✉️ Email</a>
+        </div>
         <div class="trust-strip">
           <span class="chip">✓ First answer free</span>
           <span class="chip">✓ Fixed quote before anything is booked</span>
@@ -386,6 +438,18 @@
       </div>
     </section>
 
+    <!-- ===================== Final CTA ===================== -->
+    <section class="final-cta">
+      <div class="container" style="max-width:720px">
+        <h2>Whatever it is — just describe it.</h2>
+        <p>First answer free · Fixed quote before booking · English OK · Travelers welcome</p>
+        <div class="cta-row">
+          <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="btn btn-lg btn-kakao">KakaoTalk</a>
+          <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20Here%27s%20my%20situation%3A%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%20%28if%20relevant%29%3A%0A-%20What%20I%20need%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="btn btn-lg btn-whatsapp">💬 WhatsApp</a>
+          <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="btn btn-lg btn-email">✉️ Email</a>
+        </div>
+      </div>
+    </section>
 
   </main>
 
@@ -400,6 +464,7 @@
           </div>
           <p>The catch-all help service for foreigners in Korea.<br>Text us — we handle the Korean side.</p>
           <ul style="margin-top:16px">
+            <li>💬 <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20Here%27s%20my%20situation%3A%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%20%28if%20relevant%29%3A%0A-%20What%20I%20need%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" style="font-weight:700;color:var(--fg)">WhatsApp — in English</a></li>
             <li>📍 Seoul, South Korea</li>
           </ul>
         </div>
@@ -424,14 +489,14 @@
             <li>E-commerce reg. no.: 2025-서울중구-143</li>
             <li>Representative: Yeonbum Kim</li>
             <li>Email: <a href="mailto:balliballiseoul@gmail.com">balliballiseoul@gmail.com</a></li>
+            <li><a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener">KakaoTalk channel</a></li>
           </ul>
         </div>
       </div>
       <div style="border-top:1px solid var(--border);margin-top:8px;padding-top:20px;margin-bottom:24px;font-size:12px;line-height:1.7;color:var(--muted)">
         <p style="font-weight:700;margin-bottom:6px">Service Notice</p>
-        <p style="margin-bottom:6px"><strong>All Balli Balli Seoul services ended on 11 November 2026.</strong> We no longer arrange plumbing, locksmiths, cleaning, Korean lessons, moving or concierge errands, and our KakaoTalk and WhatsApp enquiry lines are closed. The guides on this site stay online and free to read. <a href="/blog/notice-all-services-ended/" style="text-decoration:underline">Read the notice</a>. The paragraph below describes how the service operated while it ran.</p>
-        <p>Balli Balli Seoul, operated by Jiinus (지인어스), is a coordination and booking service. We connect customers with independent local service providers and are not the party performing on-site work. All work is carried out by the assigned provider, who is responsible for the work performed — including its quality, safety, any warranties, and any damages arising from it. Prices, response times and warranty terms shown on this site are indicative and are fulfilled by the assigned provider; final terms are confirmed with you in the chat before booking.</p>
-        <p style="margin-top:6px">지인어스는 통신판매중개자로서 거래의 당사자가 아니며, 시공·서비스의 이행 및 이에 따른 책임은 해당 서비스 제공자(시공자)에게 있습니다.</p>
+        <p>Balli Balli Seoul, operated by Jiinus (지인어스), does three things: <strong>interpreting, translation, and arranging independent local service providers</strong> on your behalf. We connect customers with those providers and are not the party performing on-site work. All work is carried out by the assigned provider, who is responsible for the work performed — including its quality, safety, any warranties, and any damages arising from it. Prices, response times and warranty terms shown on this site are indicative and are fulfilled by the assigned provider; final terms are confirmed with you in the chat before booking.</p>
+        <p style="margin-top:6px">지인어스는 통역·번역 및 서비스 업체 연결(중개)만을 제공하는 통신판매중개자로서 거래의 당사자가 아니며, 시공·서비스의 이행 및 이에 따른 책임은 해당 서비스 제공자(시공자)에게 있습니다.</p>
       </div>
       <div class="foot-bottom">
         <span>© 2026 Balli Balli Seoul (지인어스). All rights reserved.</span>
@@ -440,7 +505,27 @@
     </div>
   </footer>
 
+  <!-- Floating mobile CTA bar -->
+  <div class="float-cta">
+    <a href="https://pf.kakao.com/_RJxhSX/chat" target="_blank" rel="noopener" class="f-kakao">KakaoTalk</a>
+    <a href="https://wa.me/821075191282?text=Hi%20Balli%20Balli%21%20Here%27s%20my%20situation%3A%0A%0A-%20Name%3A%0A-%20Phone%3A%0A-%20Address%20%28if%20relevant%29%3A%0A-%20What%20I%20need%3A%0A%0A%28Photos%20help%20a%20lot%21%29" target="_blank" rel="noopener" class="f-wa">💬 WhatsApp</a>
+    <a href="mailto:balliballiseoul@gmail.com?subject=Balli%20Balli%20Seoul%20-%20Help%20request&body=Hi%20Balli%20Balli%2C%0A%0A-%20Name%3A%0A-%20Phone%2FKakaoTalk%20ID%3A%0A-%20Address%3A%0A-%20What%27s%20the%20problem%3A%0A%0A%28Photos%20help%20a%20lot%20-%20please%20attach%20them.%29" class="f-email">✉️ Email</a>
+  </div>
   <!-- WhatsApp click conversion tracking (GA4: whatsapp_click) -->
+  <script>
+    document.addEventListener('click', function (e) {
+      if (!e.target || !e.target.closest) return;
+      var pp = e.target.closest('a[href*="paypal.com/ncp/payment"]');
+      if (pp && window.gtag) {
+        gtag('event', 'paypal_click', { page_path: location.pathname, value: Number(pp.dataset.fee || 0), currency: 'USD' });
+      }
+      var a = e.target.closest('a[href*="wa.me"]');
+      if (a && window.gtag) {
+        gtag('event', 'whatsapp_click', { page_path: location.pathname });
+          /* Google Ads conversion fires here once the action exists. */
+      }
+    }, true);
+  </script>
 </body>
 
 </html>

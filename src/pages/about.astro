@@ -1,7 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
-import { EMAIL_URL, EMAIL_ADDRESS } from '../consts';
+import { WHATSAPP_URL, KAKAO_URL, EMAIL_URL } from '../consts';
 import imgSink from '../assets/work/new-pedestal-sink-installed.webp';
 import imgFaucet from '../assets/work/new-kitchen-faucet-installed.webp';
 import imgBathroom from '../assets/work/renovated-bathroom-bathtub.webp';
@@ -38,7 +38,7 @@ const jsonLd = {
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'customer service',
-      email: 'balliballiseoul@gmail.com',
+      url: 'https://wa.me/821075191282',
       availableLanguage: ['English', 'Korean'],
     },
     taxID: '108-24-44405',
@@ -48,7 +48,7 @@ const jsonLd = {
 
 <Base
   title="About Us — Balli Balli Seoul"
-  description="We ran coliving houses in Seoul, and helping our foreign residents with life’s breakdowns became a service. That service ended on 11 November 2026. Here’s who we were and how it worked."
+  description="We run coliving houses in Seoul, and helping our foreign residents with life's breakdowns became a service. Here's who we are and how it works."
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
@@ -77,39 +77,40 @@ const jsonLd = {
       is that access, opened up.
     </p>
 
-    <h2>How it worked</h2>
-
-    <p class="ended-note">
-      <strong>This service ended on 11 November 2026.</strong> Nothing below is bookable
-      any more — it is kept here as a record of what we did.
-      <a href="/blog/notice-all-services-ended/">Read the notice</a>.
-    </p>
+    <h2>How it works</h2>
 
     <ol>
       <li>
-        <strong>You messaged us in English</strong> — on KakaoTalk or WhatsApp, with
-        photos of the problem. KakaoTalk was the one we preferred: it is what the
-        plumbers, locksmiths and cleaners we called were already using, so your photos
-        and address went straight through to them instead of being retyped between apps.
-        Asking cost nothing — you paid only for the work you booked. Both lines are
-        now closed.
+        <strong>Message us on <a href={KAKAO_URL} target="_blank" rel="noopener">KakaoTalk</a>
+        or <a href={WHATSAPP_URL} target="_blank" rel="noopener">WhatsApp</a></strong>
+        — in English, with photos of the problem. <strong>KakaoTalk is the one we prefer</strong>:
+        it's what the plumbers, locksmiths and cleaners we call are already using, so your photos
+        and address go straight through to them instead of being retyped between apps. WhatsApp is
+        just as welcome if that's what you have. Asking costs nothing — you pay only for the work
+        you book.
       </li>
       <li>
-        <strong>We diagnosed and quoted.</strong> We told you what it was, what it
-        should cost, and what the options were. The price was confirmed with you in
-        the chat before any work started.
+        <strong>We diagnose and quote.</strong> We tell you what it is, what
+        it should cost, and what the options are. The price is confirmed with
+        you in the chat before any work starts.
       </li>
       <li>
-        <strong>We handled it.</strong> Depending on the job, we either took care of
-        it ourselves or sent a specialist from our network who was good at exactly
-        that work — while we stayed in the middle, in English, from start to finish.
+        <strong>We handle it.</strong> Depending on the job, we either take
+        care of it ourselves or send a specialist from our network who's good
+        at exactly that work — while we stay in the middle, in English, from
+        start to finish.
       </li>
     </ol>
 
     <p>
-      And it was not only repairs. Errands counted too — something bought, filed,
-      picked up, or sorted out in Korean. Our fee was built into the price we
-      confirmed with you, agreed before work started, with no surprises after.
+      And it's not only repairs. If what you need is an errand — something
+      bought, filed, picked up, or sorted out in Korean — we
+      <a href="/etc">do that too</a>.
+    </p>
+
+    <p>
+      Our fee is built into the price we confirm with you — kept at a
+      reasonable level, agreed before work starts, with no surprises after.
     </p>
 
     <h2>The work</h2>
@@ -145,19 +146,20 @@ const jsonLd = {
     </ul>
 
     <p>
-      While the service ran we were a booking and coordination business: we
-      connected you with independent local providers and confirmed all terms with
-      you before work began — the full notice is in the footer of every page.
+      As a booking and coordination service, we connect you with independent
+      local providers and confirm all terms with you before work begins — the
+      full notice is in the footer of every page.
     </p>
 
     <aside class="cta">
       <p>
-        <strong>The service has ended, but the writing stays.</strong> Over a hundred
-        guides to living in Seoul — what things cost, who to call, what the Korean
-        word on the screen means — are still online and free to read.
+        <strong>Something broken, confusing, or stuck in Korean?</strong>
+        Send us a photo — we'll tell you what it is and what it should cost,
+        in English. Asking costs nothing — you pay only for the work you book.
       </p>
-      <a href="/blog/" class="cta-btn">Browse the guides →</a>
-      <a href={EMAIL_URL} class="cta-btn email">✉️ {EMAIL_ADDRESS}</a>
+      <a href={KAKAO_URL} target="_blank" rel="noopener" class="cta-btn kakao">KakaoTalk</a>
+      <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="cta-btn">💬 WhatsApp</a>
+      <a href={EMAIL_URL} class="cta-btn email">✉️ Email</a>
     </aside>
   </article>
 </Base>
@@ -175,9 +177,8 @@ const jsonLd = {
   .work-grid figcaption{margin-top:8px;font-size:12.5px;color:var(--muted);text-align:center}
   @media(max-width:640px){.work-grid{grid-template-columns:1fr}.work-grid img{height:auto}}
   .cta{background:var(--primary-light);border:2px solid #bbf7d0;border-radius:var(--radius);padding:22px;margin-top:44px;font-size:15px}
-  .ended-note{background:#fef3c7;border:2px solid #fcd34d;border-radius:var(--radius);padding:14px 16px;font-size:14.5px;margin:0 0 18px}
-  .ended-note a{color:#92400e;font-weight:700;text-decoration:underline;text-underline-offset:3px}
-  .cta-btn{display:inline-flex;align-items:center;gap:8px;margin-top:14px;margin-right:10px;background:var(--primary);color:#fff !important;font-weight:800;padding:13px 24px;border-radius:999px;text-decoration:none !important}
+  .cta-btn{display:inline-flex;align-items:center;gap:8px;margin-top:14px;background:var(--whatsapp);color:#fff !important;font-weight:800;padding:13px 24px;border-radius:999px;text-decoration:none !important}
+  .cta-btn.kakao{background:var(--kakao);color:#191919 !important}
   .cta-btn.email{background:var(--email);color:#fff !important}
   .cta-btn:hover{filter:brightness(.95)}
 </style>

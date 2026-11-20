@@ -222,6 +222,13 @@ application, an objection, or a departure order is a lawyer's job.
 
 ## Get it sorted
 
+> **Everything else that is in Korean, though — that we do.** Landlords,
+> building managers, telecoms, delivery disputes, repair bookings, clinics,
+> and the forms that are not immigration forms. Describe the problem in
+> English on [KakaoTalk](https://pf.kakao.com/_RJxhSX/chat) and we will tell
+> you whether it is something we can take. Asking costs nothing, and if it is
+> not ours, we will say so and point you at who it belongs to.
+
 Procedures, menus and screens on government sites change without much notice.
 Everything above describes the site as of **October 2026** — if a page has
 moved, trust the site over this one, and trust 1345 over both.

@@ -183,5 +183,10 @@ that saves money.
 
 ## Get it sorted
 
+Send us the problem — a photo and a line about what is happening. We will
+tell you which trade it is, whether the building office should be doing it
+for free, and what it ought to cost, in English. If it is one of the things
+we arrange, we book it and stay in the chat until it is done.
+
 If it is electrical, or something else outside what we take on, we will say
 so and point you to the people who are registered for it.
